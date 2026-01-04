@@ -1,0 +1,2777 @@
+[
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Hey, did you enjoy yourselves?<br>Since you're all here, I guess it's safe to assume you did."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "That makes me happy, too.<br>You want to keep having fun like this, right?"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "...?<br>Ah, no, no, that's not what I meant."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "I know you'd answer that way<br>when it's about yourself, little hero."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "What if someone else told you \"there's no future for you\"...<br>That's the real question."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Now, we will begin this winter's special<br>Snowland Santa Departure Ceremony!"
+    },
+    {
+      "type": "narrator",
+      "text": "Amidst thunderous applause, Santa School students,<br>now acting as amusement park cast, lined up in the plaza."
+    },
+    {
+      "type": "narrator",
+      "text": "The cheers from the children for the cast of<br>their favorite attractions did not cease."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Everyone, thank you for willingly accepting and cooperating with my proposal,<br>even though I have only been at Santa School for a short time."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "As a magical girl, I can give dreams,<br>and as a member of Santa, I can carry out activities—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Thanks to you, I was able to fulfill both.<br>Thank you so, so much."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Everyone, was this<br>year's Christmas fun—!?"
+    },
+    {
+      "type": "character",
+      "name": "Everyone",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "It was fun—!!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, that makes me so happy.<br>Alright, Santas, it's finally time to begin the departure ceremony!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Make-up Snow Maiden!!<br>Let's go, Santas!"
+    },
+    {
+      "type": "narrator",
+      "text": "With Hastur's spatial leap, their clothes were blown away,<br>and the Santa School students transformed into their formal attire by something like magic."
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "My students, Snegurochka worked so hard for us.<br>Now it's our turn to show them what we can do, isn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Yule",
+      "avatar": "../char/housamo/yule.png",
+      "text": "Yes, Ded-sensei!<br>Santa Clauses, departing!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The Santas, who had transformed into their Santa costumes,<br>rode their sleds and flew into the sky."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Grandpa, everyone, do your best!<br>May many children's faces be filled with smiles!"
+    },
+    {
+      "type": "narrator",
+      "text": "And [Player] and the others also<br>transformed into Santa Claus."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Now, for the climax of the departure ceremony!<br>Are you ready for the all-cast show parade coming your way~?"
+    },
+    {
+      "type": "title",
+      "text": "Battle? Start"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Now, my cute children.<br>The Santa of your paradise is me, Korpokkur!"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "You want this bag full of snacks<br>that the cooking team has prepared, right?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I want them~!!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Korpokkur",
+                "avatar": "../char/housamo/korpokkur.png",
+                "text": "You're a hopeless one, [Player].<br>Well, if there are any leftovers, I'll give them to you."
+              }
+          ]
+        },
+        {
+          "text": "The fluffy Santa outfit is so cute~!!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Korpokkur",
+                "avatar": "../char/housamo/korpokkur.png",
+                "text": "Even if you flatter me, I'm not giving you presents, just so you know?"
+              }
+          ]
+        },
+        {
+          "text": "The Santa outfit suits you.",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Korpokkur",
+                "avatar": "../char/housamo/korpokkur.png",
+                "text": "Even if you flatter me, I'm not giving you presents, just so you know?"
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "I will give you a present.<br>I'm in a very good mood tonight, so you don't need to pay me back~?"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "If you're so bothered by it,<br>a gift exchange is also fine."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I only have snacks, though?",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Hastur",
+                "avatar": "../char/housamo/hastur.png",
+                "text": "You yourself have the most excellent thing right here.<br>Haha, don't pretend you don't know."
+              }
+          ]
+        },
+        {
+          "text": "A gift exchange, that's a great idea!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Hastur",
+                "avatar": "../char/housamo/hastur.png",
+                "text": "I'm a little curious about what you'll offer me.<br>I won't forgive you if it's something tasteless, though?"
+              }
+          ]
+        },
+        {
+          "text": "The suit-like Santa outfit looks so cool!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Hastur",
+                "avatar": "../char/housamo/hastur.png",
+                "text": "Of course!<br>Someone of my caliber can even pull off a crimson outfit."
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I also have a present for you, Master.<br>Hehe, I baked some cookies with the cooking team."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "There are some for everyone, so please take one.<br>I baked them very well."
+    },
+    {
+      "type": "narrator",
+      "text": "When [Player] opened the small package of cookies,<br>they saw cookies with their face and Moritaka's face on them."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Wow, so cute!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Yoshito",
+                "avatar": "../char/housamo/yoshito.png",
+                "text": "Right?<br>Moritaka cookies are a particularly wonderful creation—<br>That wasn't it?<br>Then what do you mean by cute...? Eh?"
+              }
+          ]
+        },
+        {
+          "text": "Just as I expected, a Moritaka...",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Yoshito",
+                "avatar": "../char/housamo/yoshito.png",
+                "text": "Of course, they're cute, aren't they?<br>Please savor each bite as you eat them."
+              }
+          ]
+        },
+        {
+          "text": "Are there no Yoshito cookies?",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Yoshito",
+                "avatar": "../char/housamo/yoshito.png",
+                "text": "Yes, I wanted Master to be very happy—<br>Eh? You need mine, too...? I-I apologize...<br>I'll prepare some."
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "A cookie with my face on it, what is this!?<br>I do not look that unfriendly!"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "No, it suits you perfectly.<br>Or rather, what's with this lecherous, happy face of mine!?"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Hahahahaha, it's funny, isn't it?<br>You're the one it really resembles."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Wow, everyone's cookies are so cute!<br>Since we're here, let's all hold one and take a picture?"
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, everyone took a cookie and a picture.<br>Snegurochka looked at it happily."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Hehehe, I also have a present for you, [Player].<br>It's a pair of sunglasses just like mine, aren't you happy?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I don't need them.",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Tianzun",
+                "avatar": "../char/housamo/tianzun.png",
+                "text": "No way? They're a pair, a pair!<br>Then Yoshito, you get a pair of necklaces like mine—"
+              }
+          ]
+        },
+        {
+          "text": "I'm happy! Do they suit me?",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Tianzun",
+                "avatar": "../char/housamo/tianzun.png",
+                "text": "Perfectly at that!<br>Then Yoshito, you get a pair of necklaces like mine—"
+              }
+          ]
+        },
+        {
+          "text": "The Santa outfit really suits you!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Tianzun",
+                "avatar": "../char/housamo/tianzun.png",
+                "text": "Right, right~?<br>It makes me look 50% more dashing than usual, doesn't it?"
+              },
+              {
+                "type": "character",
+                "name": "Tianzun",
+                "avatar": "../char/housamo/tianzun.png",
+                "text": "Yoshito, would you like this really cool necklace that looks like mine, too?"
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Thank you for thinking of me.<br>B-But I've never really worn things like this before..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Wait, Snegurochka, are you staying behind?"
+        },
+        {
+          "text": "Jack, you are under Frosty, not Santa?"
+        },
+        {
+          "text": "Are you two staying with everyone?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Yes, I am a Santa for the children<br>visiting this amusement park today!"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "That's right, Snegurochka.<br>I'm also... a member of Santa School, in a way."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Alright, everyone, let's go<br>deliver presents to the children!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka, who was about to rush towards the children,<br>stopped and turned back with a shy smile."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Everyone, thank you so much for today.<br>No, not just today, but also for going to the amusement park with me."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Thank you for the wonderful memories.<br>Everyone, I love all of you!"
+    },
+    {
+      "type": "narrator",
+      "text": "The companions looked at each other and smiled softly.<br>Then, they rushed towards Snegurochka."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "No, I have to thank you.<br>I also had a fun time with Master and everyone."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "I... Hmph, I'm not one to say such things casually.<br>...But I don't dislike you all."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you too!"
+        },
+        {
+          "text": "I had a lot of fun too."
+        },
+        {
+          "text": "I love everyone!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka and the others headed happily towards the children.<br>One person silently watched their backs."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "............"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "What's wrong, Korpokkur?<br>You're a child, yet you look so tired."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "It's nothing. Go on, hurry up.<br>You want to make the children happy, right?"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "I want everyone to be happy.<br>Of course, you too."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "I've noticed it.<br>The unhappy aura coming from you, even more than Jack's."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "...You're mistaken.<br>Even if you were right, telling me won't change anything."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "You two, hurry up!<br>I'm going to finish distributing everything myself!"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "I'm coming now!<br>I'm the one who's going to make the most children smile, so watch me!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka and the others made the children<br>of the amusement park smile as Santas."
+    },
+    {
+      "type": "narrator",
+      "text": "And so, Christmas and the Santa Departure Ceremony<br>came to a close in the best possible way—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Eh?"
+        },
+        {
+          "text": "Everything suddenly went dark!?"
+        },
+        {
+          "text": "It's like the video cut off..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "That's all, just like every other time.<br>It was fun so far, wasn't it, [Player]?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Korpokkur, what are you saying?"
+        },
+        {
+          "text": "Did this all happen before...?"
+        },
+        {
+          "text": "Where? How many times has this happened!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "If you weren't so dense,<br>you should have figured it out by now."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Why is she so fixated<br>on this departure ceremony?"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Being able to be both Santa and a reindeer...<br>What does she have to shoulder in exchange for such lawlessness?"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "I'll show you what happened ahead of time.<br>If you're prepared to regret it...!"
+    },
+    {
+      "type": "narrator",
+      "text": "And so, the days passed.<br>The 'bonds' woven at this time continued to grow."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] deepened their bonds with<br>Snegurochka and the others."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Heh~ so this is the first shrine visit of the year!<br>You make wishes, like Santa, right?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "What should I wish for~?<br>Well, it's already decided."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "May all the people<br>I love be happy forever."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Haha, then I'll make<br>that wish for you."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "You're always like that.<br>Sometimes, you should prioritize your own wishes."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Everyone, do you know what day it is today?<br>Geez, don't pretend you don't know, you all know it!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Today is Valentine's Day, Valentine's!<br>So, I made chocolate for everyone I love!"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Happy Valentine's from me too!<br>Of course, I wouldn't miss an event like this, would I?"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "I'm not familiar with the word 'Valentine,' but what a coincidence.<br>I also just happened to prepare chocolates."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, thank you.<br>That means Brother Hastur also loves us, right?"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "D-Don't say such things out loud, you fool!<br>That's not it, I'm an Old One, I'm not familiar with Tokyo's customs..."
+    },
+    {
+      "type": "narrator",
+      "text": "And so the days went by—<br>And the season—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Haa..."
+        },
+        {
+          "text": "I haven't heard from them lately."
+        },
+        {
+          "text": "Are they busy with work?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Moritaka",
+      "avatar": "../char/housamo/moritaka.png",
+      "text": "What's wrong, [Player]-dono? You seem to be lost in thought.<br>If you'd like, you can talk to me."
+    },
+    {
+      "type": "narrator",
+      "text": "Moritaka, looking worried, spoke to [Player],<br>who was daydreaming in the after-school classroom."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "No, I'm just a little lonely."
+        },
+        {
+          "text": "I haven't heard from Snegurochka lately."
+        },
+        {
+          "text": "We used to hang out together so often before."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Moritaka",
+      "avatar": "../char/housamo/moritaka.png",
+      "text": "Hmm, perhaps she's busy with her talent work?<br>You know, the show Snegurochka-dono was in..."
+    },
+    {
+      "type": "narrator",
+      "text": "Just then, as if on cue,<br>[Player]'s phone received a message."
+    },
+    {
+      "type": "narrator",
+      "text": "\"It's been some time. It's Snegurochka. I've been feeling unwell recently.<br>I'm sorry I haven't been able to contact you lately.\""
+    },
+    {
+      "type": "narrator",
+      "text": "\"If you're free, I'd like to go to the amusement<br>park with everyone again. What are you all's plans?\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "\"Of course!\""
+        },
+        {
+          "text": "\"Definitely, let's go!\""
+        },
+        {
+          "text": "If you weren't feeling well, you should have told us~"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Everyone, it's been a while!<br>Sorry for making you all worry."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, this outfit brings back memories.<br>It reminds me of Christmas with everyone."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "............"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Hmph, even though you were bedridden, you could have at least contacted us.<br>I thought something had happened to you..."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Are you alright now?<br>What about your school work?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Yes, I'm completely fine now!<br>So today, let's have the best time ever!!"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "...That's right!<br>I have an attraction I want to ride today!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Then let's go where Uncle wants to go first!<br>I'm so excited to play with everyone again!"
+    },
+    {
+      "type": "narrator",
+      "text": "The place Tianzun wanted to go to was<br>the ice go-kart they raced before."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Hehehe! Actually, since then,<br>I've been coming here often and secretly practicing."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Now, let's find out who's No. 1<br>among us once and for all!"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "You really had the gall to say that in front of Jack and Snegurochka?<br>Well, of course I'll come out on top, right?"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "You can't forget about me, either!<br>If I get serious, I'm pretty good with sleds, you know?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I won't lose either."
+        },
+        {
+          "text": "This is a bad matchup~"
+        },
+        {
+          "text": "Go, Tianzun!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "And so, the battle for the second<br>Ice Sled Grand Prix began."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "The first race of the qualifiers is a must-see<br>Our two favorites, Hastur and Snegurochka, are already clashing!"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Even though it was a draw, there's a chance<br>this will be the de facto final match."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Aren't you too excited...?<br>How much were you looking forward to this?"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "I will show no mercy, for I already knew that you<br>are a formidable opponent for this Hastur, the Lord of the Winds."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I'm ready for it, Brother Hastur!<br>I'll be disappointed if you don't give it your all today!"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Oh my, it looks like we're in for a good fight!<br>Get ready... go!"
+    },
+    {
+      "type": "narrator",
+      "text": "The two racers, full of enthusiasm, started off with great momentum.<br>However, the conclusion was reached surprisingly quickly."
+    },
+    {
+      "type": "narrator",
+      "text": "Hastur gained a significant lead over<br>Snegurochka right from the start and won the race."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Fuhaha! You couldn't show your usual sharpness, could you?<br>It seems I am the winner this time!"
+    },
+    {
+      "type": "narrator",
+      "text": "However, Snegurochka kept her head down,<br>like she was holding back something, and wouldn't look up."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "W-What's wrong, Snegurochka!?<br>Are you... crying?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "No, it's not that. I was just so happy to be playing with<br>everyone again after so long that I teared up..."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "D-Don't make me panic.<br>I thought I made you cry..."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "It's alright, Snegurochka.<br>I'll get revenge for you."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Oh, you're quite the boaster.<br>It seems I need to show you your place once and for all."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Hold on, you two.<br>I'm the one winning this time, alright?"
+    },
+    {
+      "type": "narrator",
+      "text": "The points from the first race were tallied,<br>and the top three advanced to the final round."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Those guys are too strong, aren't they?<br>All my hard-earned practice...!"
+    },
+    {
+      "type": "narrator",
+      "text": "As Tianzun sulked a little,<br>Hastur and Jack were in a heated battle."
+    },
+    {
+      "type": "narrator",
+      "text": "And just before the final corner, like in the race before,<br>Hastur's sled pulled slightly ahead."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Shit... Hastur's still fast, even though<br>he's not from a snowy country. At this rate..."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Brother Jack!<br>Do your best for my sake~!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Jack nodded firmly at Snegurochka's cheer.<br>He leaned forward, putting all his energy into it."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "I thought the match was decided, but you're unexpectedly good.<br>But, I'm not so kind as to hold back now."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I'm going to win for her!<br>Watch me, Snegurochka!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Jack's sled, which was thought to have reached its top speed,<br>accelerated even more, definitely pulling ahead of Hastur's."
+    },
+    {
+      "type": "narrator",
+      "text": "And with that, he crossed the finish line.<br>Jack Frost was the winner."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Phew... this time, Snegurochka,<br>your cheering got me through."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "You did it!<br>As expected of you, Brother Jack!"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Why, Snegurochka, are you cheering for Jack...?<br>Did you not want me to win?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "No, it's because he cheered for me last time,<br>so it was my turn to cheer for him this time, I suppose?"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Wahaha, you two had a great game.<br>I won't lose next time!"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "...Geez, you're taking this amusement park attraction too seriously.<br>You're all like children, starting off too fast."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Alright, I won, so next,<br>won't you accompany me to the attraction I want to ride?"
+    },
+    {
+      "type": "narrator",
+      "text": "The group happily toured various parts of the amusement park.<br>Riding attractions, looking at souvenirs—"
+    },
+    {
+      "type": "narrator",
+      "text": "When they ran into children who remembered the departure ceremony,<br>they all acted like greeting characters and brought smiles to their faces."
+    },
+    {
+      "type": "narrator",
+      "text": "And as they did so,<br>the closing time for the park drew near in the blink of an eye."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...Hey, should we all ride the Ferris wheel one last time?<br>We've never all ridden it together, have we?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Wow, that's a wonderful idea! But the announcement for closing time has already played,<br>and all the attractions are stopped, right?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "What are you talking about? We have the ultimate authority of this<br>amusement park with us, so that shouldn't be a problem, right?"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Geez... well, fine. Just for a little while.<br>The good kids have to go home now."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Reserved after closing time!?"
+        },
+        {
+          "text": "I feel a little nervous."
+        },
+        {
+          "text": "Next time, I want to play with everyone after closing!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Korpokkur",
+              "avatar": "../char/housamo/korpokkur.png",
+              "text": "You always say such outrageous things.<br>You want to make the children's paradise all ours?"
+            },
+            {
+              "type": "character",
+              "name": "Tianzun",
+              "avatar": "../char/housamo/tianzun.png",
+              "text": "That's a great idea, [Player]!<br>That sure~ sounds like a lot of fun, right?<br>Right?"
+            },
+            {
+              "type": "character",
+              "name": "Korpokkur",
+              "avatar": "../char/housamo/korpokkur.png",
+              "text": "Well, I'll think about it.<br>If there's even a next time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Then again, can we all ride it together?<br>It's an enclosed space, so I can wait outside..."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "What are you talking about now, it's fine.<br>It's safe even if six children of a large race ride it."
+    },
+    {
+      "type": "narrator",
+      "text": "Slowly, the Ferris wheel began to rise.<br>A fantastical scene of the starry sky and illuminated amusement park spread out before their eyes."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Look, it's beautiful.<br>It really looks different from the Ferris wheel, doesn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "It feels nostalgic already, [Player].<br>The time when I outwitted the police with you on this Ferris wheel."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I still have my doubts. Hastur, you just wanted to ride the Ferris<br>wheel with Master, so you hid your spatial leap ability."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "That's not it, you fool!<br>I only rode it because Tianzun came up with a brilliant idea!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hahaha, truly,<br>this amusement park is filled with memories of everyone."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "The plaza, right there, is where Brother Jack<br>and the big Moritaka-san had their match."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Yoshito-san's marching band on Christmas day...<br>It was amazing, I can still hear it now."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Hehe, I'm glad I was able to put my skill in<br>manipulating automatons to good use. I never thought I would."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "If there's another opportunity,<br>I'll definitely use it as a foothold to spread the word about Moritaka."
+    },
+    {
+      "type": "narrator",
+      "text": "When the gondola finally reached a height higher than the horizon,<br>snowflakes began to fall outside the window."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Wow, so beautiful!"
+        },
+        {
+          "text": "Snow at this time of year!?"
+        },
+        {
+          "text": "Come to think of it, the temperature has been low for a while..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "And Korpokkur-san's parade idea was amazing, too.<br>A lot of people really helped us for the departure ceremony."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "No, it's not that, Snegurochka.<br>It's all because you worked so hard."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "...Thank you. I want to see Uncle<br>lead the parade and be happy again."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Hehe, is that so?<br>I'll take you there anytime."
+    },
+    {
+      "type": "narrator",
+      "text": "Outside the gondola, the unseasonal snow,<br>an abnormal weather phenomenon, began to fall harder—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "And to you, Korpokkur-san, thank you<br>for bringing me to this amusement park that day."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Thanks to your help,<br>I was able to meet so many people I love!"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "You're welcome, Snegurochka.<br>If you say so... yeah, I'm glad."
+    },
+    {
+      "type": "narrator",
+      "text": "Soon, the gondola was nearing<br>the top of the Ferris wheel."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "And [Player]-san, thanks to you, I've formed many 'bonds'<br>with many people and made many memories."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Every single one of them is irreplaceable to me.<br>Thank you so much, I love you."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hahaha, I'm a little embarrassed."
+        },
+        {
+          "text": "Thank you so much too."
+        },
+        {
+          "text": "I love you too~!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I'm sorry for inviting you so suddenly today.<br>Because, I really, really wanted to come here with everyone again."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Hmm, why? You can come as many times as you want.<br>I thought it was just a children's game, but it seems I can still enjoy myself."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I'm sorry, I can't do that.<br>I came here today to tell everyone something."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I, Snegurochka,<br>will soon be gone from your sight."
+    },
+    {
+      "type": "title",
+      "text": "Chapter 4:<br>Bye-bye, Snegurochka"
+    },
+    {
+      "type": "title",
+      "text": "-------- Part 2 --------"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I, Snegurochka,<br>will soon be gone from your sight."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh...?"
+        },
+        {
+          "text": "That's a lie... right?"
+        },
+        {
+          "text": "(Realize it's not a joke)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I originally planned to leave without telling you the details...<br>Because saying goodbye would be painful."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But, I'm sorry.<br>At the end, I just wanted to be with everyone."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Wait, not all of a sudden...!"
+        },
+        {
+          "text": "We won't just accept it as is!"
+        },
+        {
+          "text": "Why didn't you say something sooner...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "It was decided for me from the very beginning.<br>Because \"Snegurochka\" is just that kind of existence."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "An existence whose power wanes after Christmas Day,<br>and who disappears with the end of winter."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "That's why you haven't been feeling well lately...<br>Why, why...?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Yes, I know it myself.<br>I know I could disappear at any time."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I knew saying goodbye this way<br>would only make everyone sad...!"
+    },
+    {
+      "type": "narrator",
+      "text": "In the show, the magical girl was confronting<br>a formidable enemy in a land filled with cherry blossoms."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "It's alright, I am—<br>A magical girl who makes wishes come true for someone!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka twirled her wand,<br>and sparkling snow crystals began to glow around her."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "To defeat the enemy, I must unleash the strongest magic I have now.<br>Snegurochka, focus all your magic on the wand!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I pray for the eternal ice fields, the blooming snowflakes, the frozen stars in the cold sky—<br>I pray! Zimniye Gryozy!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka's most powerful, wide-area ice and snow magic hit the enemy.<br>Or so it should have been—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Kyaaaaaaah!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "N-No way...<br>My magic, it's not working..."
+    },
+    {
+      "type": "narrator",
+      "text": "Yes, it was spring.<br>Snegurochka's power was so weak it was almost gone—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Everyone, I'm sorry...<br>I, think this is it for me..."
+    },
+    {
+      "type": "narrator",
+      "text": "The magical girl, Snegurochka, fell weakly.<br>The words 'magical girls are not forever' were now becoming a reality."
+    },
+    {
+      "type": "narrator",
+      "text": "And the merciless dagger was about to reap the life of the innocent girl.<br>Next time, Magical Girl ☆ Snegurochka, final episode—"
+    },
+    {
+      "type": "character",
+      "name": "Zhurong",
+      "avatar": "../char/housamo/zhurong.png",
+      "text": "Eh!? Is it the final episode already!?<br>Why, why, it was my weekly fun...!"
+    },
+    {
+      "type": "character",
+      "name": "Quantum",
+      "avatar": "../char/housamo/quantum.png",
+      "text": "Well, there must be some reason.<br>It doesn't seem like it was cancelled... It is quite popular, right?"
+    },
+    {
+      "type": "character",
+      "name": "Quantum",
+      "avatar": "../char/housamo/quantum.png",
+      "text": "That's right... Snegurochka might also have things she's not good at...<br>And things that just can't be helped."
+    },
+    {
+      "type": "character",
+      "name": "Zhurong",
+      "avatar": "../char/housamo/zhurong.png",
+      "text": "No way~<br>I'm so sad..."
+    },
+    {
+      "type": "narrator",
+      "text": "As if a thought struck him,<br>Zhurong took out a pencil case from his bag and started writing something."
+    },
+    {
+      "type": "character",
+      "name": "Quantum",
+      "avatar": "../char/housamo/quantum.png",
+      "text": "Zhurong...?<br>What are you doing?"
+    },
+    {
+      "type": "character",
+      "name": "Zhurong",
+      "avatar": "../char/housamo/zhurong.png",
+      "text": "I'm writing a letter of protest.<br>I'm telling them not to end the show!"
+    },
+    {
+      "type": "character",
+      "name": "Quantum",
+      "avatar": "../char/housamo/quantum.png",
+      "text": "Well, that's not a bad idea.<br>Snegurochka said that feelings become power, right?"
+    },
+    {
+      "type": "character",
+      "name": "Quantum",
+      "avatar": "../char/housamo/quantum.png",
+      "text": "Zhurong, you're a big fan of the show.<br>I hope your feelings reach them."
+    },
+    {
+      "type": "narrator",
+      "text": "Quantum, a little older than Zhurong, chose not to tell him<br>that some things just can't be helped by adult circumstances."
+    },
+    {
+      "type": "narrator",
+      "text": "A morning in the Santa School classroom, a buzz of commotion was heard.<br>The topic of the conversation was Snegurochka."
+    },
+    {
+      "type": "character",
+      "name": "Male Student",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "The show's ending!?<br>Snegurochka-chan... as I thought..."
+    },
+    {
+      "type": "character",
+      "name": "Therian Student",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Hey, Jack-kun, do you know anything?<br>She's been absent from school lately..."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "No, I'm sorry, I don't know anything...<br>I'll let you know if I find out anything."
+    },
+    {
+      "type": "narrator",
+      "text": "Jack, who was close to Snegurochka,<br>was naturally bombarded with questions."
+    },
+    {
+      "type": "narrator",
+      "text": "After somehow getting through it,<br>Jack headed to a certain place after school."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I'm here, Snegurochka.<br>How are you feeling...?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Brother Jack, you've worked hard.<br>Yes, I'm feeling much better today."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "How was school? Everyone, are they doing well?<br>I want you to tell me about it... Hey, are you listening?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Ah, sorry...<br>What was it again...?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Geez, you weren't listening!<br>I said I want you to tell me about school!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Oh, right. You asked me if there was<br>anything I wanted to do, right?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I thought of two things! One is that I want to go to the amusement park with everyone again!<br>And the other is—"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka was trying to be cheerful,<br>but it was clear that she was getting weaker day by day."
+    },
+    {
+      "type": "narrator",
+      "text": "Jack turned his gaze downwards,<br>avoiding having to face that reality."
+    },
+    {
+      "type": "narrator",
+      "text": "That scene, like a video, broke off for a moment<br>and then appeared once again with a change in time and place."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Principal Ded, do you know anything about Snegurochka?<br>She hasn't been coming to school at all lately."
+    },
+    {
+      "type": "narrator",
+      "text": "Jack and [Player] barged into the principal's office,<br>but Ded, more surprised by Jack's words, looked down promptly."
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "I see... Snegurochka,<br>she didn't tell you either."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "You, just how much do you know!?<br>Even though I only met her occasionally, she always seemed unwell...!"
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "You're right, I... I think you should know.<br>So, I'll tell you a little about Snegurochka."
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "I believe I have told you before,<br>that Snegurochka is an existence I created from snow."
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "Yes, that is the reason.<br>The explanation for why Snegurochka's power has been continuously weakening lately."
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "My power also wanes with the end of the Christmas miracle,<br>but for Snegurochka... that tendency is even stronger."
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "I'll get straight to the point, so please listen calmly.<br>...Snegurochka, she will disappear as spring comes."
+    },
+    {
+      "type": "character",
+      "name": "Ded",
+      "avatar": "../char/housamo/ded_white.png",
+      "text": "Her lifespan is simply one winter.<br>In other words, she is designed to be a short-lived being."
+    },
+    {
+      "type": "narrator",
+      "text": "After hearing that,<br>Jack grabbed Ded by the collar."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Why, did you have to keep something so important a secret!?<br>Aren't you like her father figure!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's right, Ded-sensei!"
+        },
+        {
+          "text": "Calm down, Jack."
+        },
+        {
+          "text": "But that's..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "...That's similar to what I have<br>always thought of lesser beings."
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Hastur, who was with [Player] and the others,<br>confessed the feelings he had kept hidden in his chest."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "We, who live for thousands and tens of thousands of years,<br>pity humans who only live for a mere 80 years."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Imagine if you were to connect with a being who only lives for one season.<br>What would become of it?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...Did Snegurochka really accept that?<br>It would have been fine if it were just me, hell, I thought it was just me!"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "That's enough, Jack. I know it myself.<br>I know you're also a 'species that can't survive the winter'."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Tokyo has been hot for you all lately.<br>Even if you can bear it now, you'll reach your limit soon."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "K-Korpokkur...<br>You, what are you doing here?"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "She gave this to me, for you.<br>She told me that, if I transplant it to you, you can be saved."
+    },
+    {
+      "type": "narrator",
+      "text": "It was Snegurochka's Sacred Artifact,<br>preserved in a container made of dark matter."
+    },
+    {
+      "type": "narrator",
+      "text": "For Transients,<br>a Sacred Artifact is like a part of their own body."
+    },
+    {
+      "type": "narrator",
+      "text": "When Jack Frost went to the hospital room where he was told to go,<br>Snegurochka was sitting weakly on the bed."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Snegurochka... you."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Brother Jack...<br>My Sacred Artifact, I'm giving it to you."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Snegurochka, why? Why...?<br>Why can't you live for yourself more!?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Helping those Santas, or the fact that you<br>were a loner, none of that mattered, did it!?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "You had the least amount of time,<br>and most limited at that... So why...?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Brother Jack, don't cry.<br>We were naturally just that kind of creature, weren't we? Besides..."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Instead of using my time for myself,<br>after I was gone... I could only hope to live for someone else's dream."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka gently patted Jack's head,<br>who was sobbing uncontrollably, in an attempt to comfort him."
+    },
+    {
+      "type": "narrator",
+      "text": "Jack's cries did not stop,<br>until his face was swollen from tears."
+    },
+    {
+      "type": "narrator",
+      "text": "When Jack finally calmed down and left<br>the hospital room to wash his face, Korpokkur was waiting for him."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "I'm astonished. Why were you the one being comforted?<br>It should have been the other way around."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...Hey, Korpokkur.<br>You know what to do, right?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Tell me. I don't care what happens to me.<br>I just wanted to save Snegurochka."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "What, you think I haven't done anything so far?<br>Because, if I save her, her own wish dies instead."
+    },
+    {
+      "type": "narrator",
+      "text": "Korpokkur began to explain.<br>The story of what had been happening all this time."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "If Snegurochka's Sacred Artifact is transplanted,<br>Jack Frost will be saved."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Conversely, if Jack Frost's Sacred Artifact<br>is transplanted, Snegurochka will be saved."
+    },
+    {
+      "type": "narrator",
+      "text": "But Snegurochka's heart would die.<br>Because then, she would be sacrificing Jack."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Only one of them can be saved.<br>We've been going round and round in this loop all this time."
+    },
+    {
+      "type": "narrator",
+      "text": "Korpokkur told Jack, who was clutching his fists and wondering what this was all about,<br>with an expression that could be interpreted as both angry and sad."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Don't be so conceited.<br>You alone can't save Snegurochka."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "So... I'll save her.<br>In my own selfish, old-fashioned way."
+    },
+    {
+      "type": "narrator",
+      "text": "Everyone remembered.<br>This was 'a scene that had actually happened in the past'."
+    },
+    {
+      "type": "narrator",
+      "text": "The group was speechless at the overwhelming turn of events.<br>The air was heavy and cold, and they didn't know what to say."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and the others checked their surroundings and their own<br>clothes to confirm the boundary with the 'memories of the past'."
+    },
+    {
+      "type": "narrator",
+      "text": "It was indeed the Magical Snowland. After the Santa Departure Ceremony<br>was over, and the children from the cooperating schools had been sent off—<br>That's what was supposed to have happened."
+    },
+    {
+      "type": "narrator",
+      "text": "Suddenly, a storm of artificial snow, accompanied by an aurora,<br>appeared, completely surrounding Magical Snowland."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Wow, it's amazing... This aurora,<br>is much more beautiful than the one we saw during the parade..."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "No, what is this?<br>This is surely an abnormal weather phenomenon in Tokyo..."
+    },
+    {
+      "type": "narrator",
+      "text": "In the otherworld Penglai, auroras were a sign of bad luck,<br>so Tianzun instinctively braced himself against the light."
+    },
+    {
+      "type": "narrator",
+      "text": "At that moment, Yoshito looked towards the<br>entrance of Magical Snowland, shockingly."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Ah, Master...!<br>Outside... Please take a look outside!"
+    },
+    {
+      "type": "narrator",
+      "text": "The entrance, emergency exits, and all paths leading out of the park were,<br>before their eyes, buried in a massive amount of snow."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Now, it's sealed off by artificial snow.<br>We will make this a new paradise, with an eternal winter."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "It's alright, Snegurochka.<br>In this amusement park, you may live for an eternity."
+    },
+    {
+      "type": "title",
+      "text": "-------- Part 3 --------"
+    },
+    {
+      "type": "narrator",
+      "text": "It was always this way, even back in my hometown.<br>I was the one who was meant to reset civilization."
+    },
+    {
+      "type": "narrator",
+      "text": "When civilization progresses too far, humans end up destroying themselves.<br>So I was the one who was supposed to close it off."
+    },
+    {
+      "type": "narrator",
+      "text": "To keep Kamuy Kotan and human civilization<br>forever as children."
+    },
+    {
+      "type": "narrator",
+      "text": "I was the only one who had to get my hands dirty.<br>It was enough for you all to remain as children and be happy."
+    },
+    {
+      "type": "narrator",
+      "text": "But among them, there was one person who, despite being a child,<br>got their hands dirty for the future of everyone else."
+    },
+    {
+      "type": "narrator",
+      "text": "Ah, Ainurakkur.<br>My adorable human, the small hero of Kamuy Kotan."
+    },
+    {
+      "type": "narrator",
+      "text": "Children are supposed to be happy.<br>But you always deny what I believe in."
+    },
+    {
+      "type": "narrator",
+      "text": "But I do think this. Ainurakkur, frankly speaking, is not<br>a well-behaved hero like those from other worlds."
+    },
+    {
+      "type": "narrator",
+      "text": "His actions are always so childish.<br>And he denies my, this Korpokkur's image of a child."
+    },
+    {
+      "type": "narrator",
+      "text": "But still, I truly... loved that guy<br>who was always acting so childish."
+    },
+    {
+      "type": "narrator",
+      "text": "And now,<br>in Magical Snowland."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "It's alright, Snegurochka.<br>In this amusement park, you may live for an eternity."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "With me as the core, I will turn this place into an otherworld.<br>A world of eternal winter where snow never melts."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "You and [Player],<br>I'll just lock you up in this amusement park and never let you go."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Eh, what did you just say?"
+        },
+        {
+          "text": "Hey, Korpokkur!"
+        },
+        {
+          "text": "You just casually included me!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Of course, [Player].<br>My purpose in the first place for coming to Tokyo was you."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Securing you and saving Snegurochka together.<br>This is my last and greatest plan."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "I tried everything I could think of.<br>So... this is the only way."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "I'll also lock up the others so you don't get bored.<br>Consider it a bonus."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Korpokkur-san, why are you doing this...?<br>No, if things go this way, [Player]-san and the others won't have a spring!"
+    },
+    {
+      "type": "narrator",
+      "text": "For Snegurochka, the world not having spring was unacceptable.<br>She swore on the name of her mother, the spirit of spring, Vesna Krasna."
+    },
+    {
+      "type": "narrator",
+      "text": "This was the value system of the otherworld Kitezh.<br>She couldn't possibly deny the desire for spring."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I don't understand. Korpokkur-san, your amusement park was supposed<br>to be a place making many children smile, wasn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "You don't need to worry about that, Snegurochka.<br>I simply wished for a paradise for as many children as possible."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "However, at that time, I made a sacrifice.<br>That's why— I'm here in Tokyo now."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Even now, I don't think I was wrong, but...<br>If you ask me if I regret it, I'd be lying if I said I didn't."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "So, just give in, Snegurochka.<br>...Jack, you know what to do."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...Alright, Korpokkur.<br>I'll cooperate with you."
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Jack Frost<br>stood on Korpokkur's side."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Brother Jack!?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "You know it yourself, Snegurochka!<br>You, won't you just disappear if this keeps on going?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Are you, saying you're fine to just disappear?<br>I, myself, can't accept that..."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I wouldn't like it either!<br>Brother, if you were to disappear..."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Stop it! Otherwise... I'll really...<br>...Start to hate you."
+    },
+    {
+      "type": "narrator",
+      "text": "Jack's face showed a hint of hurt,<br>but it quickly turned into an angry, sulky expression."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Who really cares, if I'm already the disliked Jack Frost?<br>I was born under one of those stars, so I'm used to being alone."
+    },
+    {
+      "type": "narrator",
+      "text": "A blizzard, as if nature itself was angry, began to blow,<br>and the entire area turned into a whiteout."
+    },
+    {
+      "type": "narrator",
+      "text": "Korpokkur and Jack Frost<br>turned their backs and left."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Wait, Jack!"
+        },
+        {
+          "text": "Korpokkur, don't you run away!"
+        },
+        {
+          "text": "(Ask for everyone's opinion)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "...Well, for the time being,<br>shall we think about it while riding an attraction?"
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Why would we do that!? Dear mister Happy-brained Hermit,<br>don't you understand the situation!?"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "It's too cold outside for an old man like me!<br>...And it's not a crime to talk to Snegurochka for a little while, is it?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Why... Brother Jack,<br>when you've finally managed to make friends at Santa School..."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Having to weight your life and his, and having to make a decision,<br>I feel like... I understand his feelings."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master, I apologize. If I have to be honest,<br>I can understand Jack's feelings so well that it hurts."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "If I were in the same situation with you and Moritaka,<br>I am confident that I would make the same choice without hesitation."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Even if it means getting my hands dirty with someone else's blood...<br>I would wish for someone to live."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "I also know well that loneliness can drive a person mad.<br>If our presence can comfort your loneliness—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Stop it!!"
+    },
+    {
+      "type": "narrator",
+      "text": "At that moment, Snegurochka let out<br>a loud scream that she had never made before."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I appreciate your sentiment.<br>However, this is absolutely wrong!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Even if Korpokkur-san and I are fine,<br>everyone else here will surely—"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Snegurochka, are you really okay with that?<br>You can still wish to stay here."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "If you do, Jack and Korpokkur<br>will surely cooperate with you."
+    },
+    {
+      "type": "narrator",
+      "text": "At Tianzun's words, however,<br>Snegurochka shook her head."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Yes, I'll be alright. Please, everyone.<br>Help me stop Brother Jack and Korpokkur!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "But if we do that..."
+        },
+        {
+          "text": "If we side with Snegurochka..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Just like in the past loop they saw earlier,<br>either Snegurochka or Jack would disappear."
+    },
+    {
+      "type": "narrator",
+      "text": "But if they sided with Korpokkur,<br>[Player] and the others would be trapped in eternal winter."
+    },
+    {
+      "type": "narrator",
+      "text": "Nevertheless, everyone headed towards the Ice Castle,<br>where Korpokkur and Jack had disappeared to."
+    },
+    {
+      "type": "narrator",
+      "text": "The two were waiting in a room made of ice,<br>as if they were the rulers of this world."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "You don't seem to have changed your mind.<br>Why are you doing this, Snegurochka?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Korpokkur-san, Brother Jack...<br>I appreciate your feelings, but this is still wrong."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Even if you think so now, if you keep playing<br>in this amusement park, you'll surely start to have fun."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "No... Please send everyone back.<br>This isn't what I wanted."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka held up her wand.<br>Seeing that, Jack snorted."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Alright, Snegurochka.<br>Let's have a sibling fight, shall we?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "The talent you inherited from Ded-sensei is certainly amazing,<br>but I'll show you that you can't beat me."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Do you think you can win with such a difference in numbers?<br>Even if you have the home advantage, there's only a one in ten thousand chance—"
+    },
+    {
+      "type": "narrator",
+      "text": "Jack shook his spray can,<br>and sprayed it everywhere by pressing the nozzle."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, ice sculptures of Snegurochka, who looked exactly<br>like her, were instantly created on the ground."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "The mischievous trick of the disliked Jack Frost,<br>and the frozen graffiti that he leaves on the world—"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "If I put my all into it, I can even make ice sculptures that move.<br>...This is, my Sacred Artifact."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka looked at her own fake self with a surprised expression,<br>only to smile happily."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Honestly... Thank you for making them look just like me, Brother Jack.<br>And, for watching after me so carefully."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "The level of realism is amazing,<br>it rivals my understanding of Moritaka!"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "We're about to fight,<br>so stop with the embarrassing analysis!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, I'm happy. You're your usual self now,<br>because I would hate it if we have to end things awkwardly."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...I said I won't let this be the end.<br>Korpokkur, I'll provide support with my graffiti."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "Alright, I understand.<br>The true power of a  'World Representative', I'll show it to you."
+    },
+    {
+      "type": "narrator",
+      "text": "Hastur launched a preemptive strike with<br>his tentacles to restrain Korpokkur and Jack, but—"
+    },
+    {
+      "type": "narrator",
+      "text": "He paused when he saw the expressions on<br>the faces of the ice sculptures created by Jack's graffiti."
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Guh!?<br>Oh, y-you think you're so clever...!"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Did you see that, Hastur?<br>The soul I poured into my graffiti is as real as it gets!"
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Isn't that cowardly, Jack?<br>You knew that we would hesitate...!"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Say whatever you want. Snegurochka's life is on the line,<br>so I'll do anything it takes."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "After all, that's the point of defeating me, right?<br>You finally get to choose a future for Snegurochka."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "You wouldn't say you can't attack now, would you?<br>You didn't come here without being prepared, did you!?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Stop it!<br>It's wrong to lock other people's futures away for my sake!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka's words cut deep into the hearts of those who stood against her.<br>Jack's face showed that he couldn't bear the pain."
+    },
+    {
+      "type": "narrator",
+      "text": "And it wasn't just Jack.<br>Hastur, Tianzun, everyone was in pain."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "But everyone else doesn't seem to think that way.<br>In that case, isn't it fine to stay like this?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Hey, we're, friends, right?<br>...So please."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Point your sword at the ice sculptures)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "That's right, I don't wish for everyone to be sacrificed for my sake!"
+            },
+            {
+              "type": "narrator",
+              "text": "Snegurochka scratched her snow-covered pact and transformed into a magical girl."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "I'm sorry, [Player]-san, for having to give you a painful role...<br>But please, just for a little longer, lend me your strength!"
+            }
+          ]
+        },
+        {
+          "text": "(Unable to choose either side)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "No, this is still wrong.<br>I don't want everyone to be sacrificed for my sake!"
+            },
+            {
+              "type": "narrator",
+              "text": "Snegurochka scratched her snow-covered pact and transformed into a magical girl."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "I'm sorry, everyone, for making you make this painful choice.<br>But please, just for a little longer, lend me your strength!"
+            }
+          ]
+        },
+        {
+          "text": "(Accept Jack's opinion)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jack Frost",
+              "avatar": "../char/housamo/jack_frost.png",
+              "text": "Right, [Player]?<br>I thought you would understand."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "No, [Player]-san!<br>I don't want everyone to be sacrificed for my sake!"
+            },
+            {
+              "type": "narrator",
+              "text": "Snegurochka scratched her snow-covered pact and transformed into a magical girl."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "I'm sorry, everyone, for making you make this painful choice.<br>But please, lend me your strength!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Which side should I choose—!?"
+        },
+        {
+          "text": "(Enter a three-way battle)"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Battle Start"
+    },
+    {
+      "type": "narrator",
+      "text": "I, who have the lifespan of a star, love humans.<br>You fleeting beings who can't even live for 100 years."
+    },
+    {
+      "type": "narrator",
+      "text": "I, who rule over fever and plague, thought your fragile lives,<br>which could be blown away with a single breath, were beautiful."
+    },
+    {
+      "type": "narrator",
+      "text": "So when I saw you in this Tokyo, in a human form—<br>At first, I thought it was a hideous nightmare."
+    },
+    {
+      "type": "narrator",
+      "text": "■■■■■■■■■■■.<br>My sibling, with a name that cannot be spoken."
+    },
+    {
+      "type": "narrator",
+      "text": "In my opinion, you are...<br>More tenacious than any of us siblings."
+    },
+    {
+      "type": "narrator",
+      "text": "We all know that when Azathoth's fleeting dream ends,<br>the universe will disappear."
+    },
+    {
+      "type": "narrator",
+      "text": "But you are the only one who would<br>'live beyond the dream'."
+    },
+    {
+      "type": "narrator",
+      "text": "Sure, I'll say it again.<br>I know just how tenacious you can be."
+    },
+    {
+      "type": "narrator",
+      "text": "No matter how many times I kill you or bury you at the bottom of the sea—<br>You will always be resurrected and stand up again."
+    },
+    {
+      "type": "narrator",
+      "text": ""
+    },
+    {
+      "type": "narrator",
+      "text": "Korpokkur knows it himself.<br>This turn of events is, in fact, the second time it has happened."
+    },
+    {
+      "type": "narrator",
+      "text": "That's why his hand hesitated for a moment.<br>Because he knew of the tragedy that would follow."
+    },
+    {
+      "type": "narrator",
+      "text": "He remembered the previous loop.<br>It was after the new year, when spring was approaching."
+    },
+    {
+      "type": "narrator",
+      "text": "They still couldn't find a way to save both of them,<br>and this was the first time they had trapped everyone in Magical Snowland."
+    },
+    {
+      "type": "narrator",
+      "text": "Everyone was struggling to fight against<br>Jack's ice sculptures and were forced into a difficult battle."
+    },
+    {
+      "type": "narrator",
+      "text": "But amidst it all, Snegurochka alone,<br>continued to fight with all her might. And then—"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Damn it... Snegurochka.<br>Why are you doing this...!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I'm so sorry, Brother Jack.<br>The things you did for my sake, thank you very much."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Pray...<br>Zimniye Gryozy!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Her 'Rule' covered the surroundings with a snowy glaze.<br>Ice particles pushed back Jack's ice sculptures."
+    },
+    {
+      "type": "narrator",
+      "text": "Jack, struck by the snowy blizzard, fell to the ground,<br>his face covered by his arm, and he didn't move."
+    },
+    {
+      "type": "narrator",
+      "text": "His shoulders trembled slightly,<br>and quiet sobs could be heard."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Brother... did you know?<br>I was truly happy to have met everyone."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "How's everyone else doing?<br>I hope I've become an important memory for you all too."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "So, I want to say goodbye with a smile at the end.<br>So that the days we spent together won't be sad."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Of course, you might be sad for a while.<br>But I want you all to get through it, because I want you to be smiling."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka held back her tears<br>and showed a crumpled smile."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I can't smile, Snegurochka.<br>Not if you're not here...! Everyone else won't either..."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "No, don't say such spoiled things.<br>This is my last wish for everyone."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Even if I'm not here, I want everyone to welcome the new semester,<br>go cherry blossom viewing, and go to the pool in the summer—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "You have to live my share of life and be happy,<br>otherwise I'll never forgive you!!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Oh, and Brother, promise me one more thing.<br>When you go back to school, I want you to make a work of art for me."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "That way, a lot of people will remember me, right?<br>Like a proof that I was able to be with everyone."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "...Brother, can you promise me?<br>I don't want you to break it, alright?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I refuse! I won't make such a promise!<br>I want to be with you forever—"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Sne... gu... rochka??"
+    },
+    {
+      "type": "character",
+      "name": "Everyone",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Snegurochkaaaaaaah!!"
+    },
+    {
+      "type": "narrator",
+      "text": "That was what happened in the previous loop.<br>A beautiful tragedy that could happen anywhere."
+    },
+    {
+      "type": "narrator",
+      "text": "Believing the same thing would happen again, Korpokkur's hand faltered.<br>And a gap was created."
+    },
+    {
+      "type": "choice",
+      "note": "I know this was supposed to be an emotional moment but I couldn't stop laughing when I saw the options",
+      "options": [
+        {
+          "text": "(Struggle violently like a child)"
+        },
+        {
+          "text": "(Wail intensely and messily)"
+        },
+        {
+          "text": "(Get angry while crying with a runny nose)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At [Player]'s actions,<br>everyone stopped moving."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Stop messing around already!"
+        },
+        {
+          "text": "I don't want anyone to disappear!!"
+        },
+        {
+          "text": "Couldn't you have tried more things, you tenacious coward!?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Breaking the floor made of ice and getting covered in mud,<br>[Player] screamed."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master... guh.<br>A mess, your face is a mess, ahahaha."
+    },
+    {
+      "type": "narrator",
+      "text": "Getting dirtied alongside his master,<br>Yoshito couldn't help but laugh."
+    },
+    {
+      "type": "character",
+      "name": "Tianzun",
+      "avatar": "../char/housamo/tianzun.png",
+      "text": "Wahahahaha! What a tenaciousness,<br>like a villain who refuses to accept defeat!?"
+    },
+    {
+      "type": "narrator",
+      "text": "With an expression like a villain,<br>Tianzun couldn't help but laugh."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "No... I told you earlier.<br>I tried everything I could think of—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You should have asked us sooner!"
+        },
+        {
+          "text": "You could have asked for help from others, right?"
+        },
+        {
+          "text": "Anyway, are you just accepting defeat!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hastur",
+      "avatar": "../char/housamo/hastur.png",
+      "text": "Ku... Kuhaha!?<br>You truly are the worst, my sibling!!"
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "...Don't be so unreasonable.<br>Because I am— the 'World Representative'."
+    },
+    {
+      "type": "narrator",
+      "text": "Among many rival players,<br>Korpokkur's actions were limited to monopolizing [Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "Therefore, he couldn't ask for cooperation.<br>And he couldn't miss the opportunity to get the prize."
+    },
+    {
+      "type": "narrator",
+      "text": "Korpokkur knew.<br>They were perpetually constrained."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "...That's why I admired you.<br>You're truly— the guy who's always like a child."
+    },
+    {
+      "type": "character",
+      "name": "Korpokkur",
+      "avatar": "../char/housamo/korpokkur.png",
+      "text": "I knew you would do this.<br>...I've always known."
+    }
+  ]
+  
+  
+  
+  

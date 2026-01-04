@@ -1,0 +1,1246 @@
+[
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master... no, my God, my Lord, [Player]!<br>Please, allow this Yoshito to handle all of your dirty work."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "And let's revolutionize this Tokyo and build our―<br>A paradise of dreams someday!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Ever since he officially made a transfer contract,<br>he has been, well, pretty much like this."
+    },
+    {
+      "type": "narrator",
+      "text": "One of the Eight Dog Warriors, Inukawa Sosuke Yoshito.<br>In this Tokyo, he is a renowned puppeteer."
+    },
+    {
+      "type": "narrator",
+      "text": "His most remarkable trait is the<br>'Righteousness' shown by the jewel he possesses."
+    },
+    {
+      "type": "narrator",
+      "text": "He can trace the actions of another person.<br>That is why he is always a righteous warrior in someone else's eye."
+    },
+    {
+      "type": "narrator",
+      "text": "And there's nothing he fears more than his<br>precious person to die from dirty tactics."
+    },
+    {
+      "type": "narrator",
+      "text": "Therefore, the sole purpose of all his actions,<br>is to maintain the existence of his object of faith."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master, no, my God! How is your health?<br>Are there any unsettling elements around you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're energetic today, Yoshito..."
+        },
+        {
+          "text": "No, no, there's nothing like that!"
+        },
+        {
+          "text": "The 'World Representative' showed up by my pillow again."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I, in the shadows, will personally exterminate anything<br>that invades the living space of Master, no, my God!"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Please, do not stain your hands.<br>Leave everything to me, won't you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "No, it's really okay."
+        },
+        {
+          "text": "What are you talking about???"
+        },
+        {
+          "text": "I've made a dangerous contract...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Should I stop calling you God in front of the academy?<br>Understood. I'll refrain from doing so as much as possible, Master!!"
+    },
+    {
+      "type": "narrator",
+      "text": "—And then, it was Christmas.<br>The season when the town is filled with colorful decorations and songs."
+    },
+    {
+      "type": "narrator",
+      "text": "Walking casually through the streets of Tokyo,<br>Yoshito noticed a stylish sweets shop."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Should I buy those sweets for Master?<br>Maybe a tea set would be good, too..."
+    },
+    {
+      "type": "narrator",
+      "text": "As Yoshito was about to take the sweets to the cashier,<br>he received a call from his Master."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Eh, to the amusement park, with me?<br>Yes, if Master so wishes, I'd love to...!"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Right now...?<br>I was just thinking of you."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I found some nice sweets to give you as a souvenir,<br>Master, so let's eat them together next time we meet."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Yes... then,<br>I'll be looking forward to next week."
+    },
+    {
+      "type": "narrator",
+      "text": "After hanging up, Yoshito's heart fluttered<br>with excitement about the upcoming date."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "............Hehe.<br>Hehehehehehehehe."
+    },
+    {
+      "type": "narrator",
+      "text": "That's when Yoshito realized,<br>that he was feeling happy."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Am I... smiling?<br>And so naturally at that?"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Lately, I've been so strange.<br>It's like my guard is down or something..."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I can't perform my duties like this!<br>I won't be a perfectly controllable puppet this way!"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "This is bad, if I keep on going like this...<br>I don't even deserve to be this happy."
+    },
+    {
+      "type": "narrator",
+      "text": "What came to Yoshito's mind was<br>his beloved, his righteous adoptive brother."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I have sworn,<br>that I would never betray you again..."
+    },
+    {
+      "type": "narrator",
+      "text": "And then, on the day before<br>the promised date, Yoshito contacted [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I'm sorry, Master.<br>It seems that I cannot go to our date tomorrow."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Are you busy?"
+        },
+        {
+          "text": "Did you receive a mission?"
+        },
+        {
+          "text": "Eh, Yoshito!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "...Yes, I have a mission that I cannot afford to avoid.<br>I sincerely apologize, Master."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Well then...<br>I must be going, Master."
+    },
+    {
+      "type": "narrator",
+      "text": "Before they could talk about rescheduling,<br>Yoshito abruptly ended the call."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Something's not right... Definitely not right..."
+        },
+        {
+          "text": "You would have prioritized our date..."
+        },
+        {
+          "text": "You would be behind me right now, even without me calling you..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "....<br>This is for the best, it has to be for the best..."
+    },
+    {
+      "type": "narrator",
+      "text": "He collapsed onto the table in his room.<br>In his line of sight were two handmade dolls."
+    },
+    {
+      "type": "narrator",
+      "text": "His heart, which never felt pain no matter<br>how cruel his missions were, was now throbbing. "
+    },
+    {
+      "type": "narrator",
+      "text": "Tears threatened to spill and his nose stung, but he<br>suppressed his emotions and acted as if nothing had happened."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I thought I had abandoned my heart and become<br>a puppet, in both body and soul..."
+    },
+    {
+      "type": "narrator",
+      "text": "Looking at the dolls of his Master and himself<br>side by side, emotions welled up inside him once more."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "The past few days have been strange. I've been so happy...<br>If this continues, I'll become useless."
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito picked up the Master's doll and his own,<br>and with a single 'good night'—"
+    },
+    {
+      "type": "narrator",
+      "text": "He dove into his bed,<br>and hugged the dolls tightly."
+    },
+    {
+      "type": "narrator",
+      "text": "The doorbell woke Yoshito up.<br>He wasn't supposed to have any missions today."
+    },
+    {
+      "type": "narrator",
+      "text": "Suspiciously, Yoshito picked up his<br>katana and checked the peephole."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Ah, Master...!?<br>Why are you here!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You seemed a bit off."
+        },
+        {
+          "text": "I was worried you got sick."
+        },
+        {
+          "text": "I came here because I was worried."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master... no, my God!<br>For you to come all this way for someone like me..."
+    },
+    {
+      "type": "narrator",
+      "text": "A silence fell between them,<br>separated only by the door."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hey, aren't you going to open the door...?"
+        },
+        {
+          "text": "Let me in~"
+        },
+        {
+          "text": "Did I bother you by coming so suddenly?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Ah, s-sorry! I understand!<br>Could you wait for just a moment?"
+    },
+    {
+      "type": "narrator",
+      "text": "With that, Yoshito went back into his room,<br>and returned just a few seconds later."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Please, come in, Master.<br>My room is empty and boring, but still..."
+    },
+    {
+      "type": "narrator",
+      "text": "With hardly anything in it, Yoshito's room was clean,<br>and didn't look like much of a place to live in."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You keep your room so clean, that's impressive.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Thank you!<br>But this is a room where I just come home from my missions and sleep, so it's impossible for it to get dirty."
+            }
+          ]
+        },
+        {
+          "text": "Could you help me clean my room sometime?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Of course, if you ask me to, I'll be there whenever you need me.<br>Feel free to use me for any kind of chore."
+            }
+          ]
+        },
+        {
+          "text": "Wow, this is like a minimalist's room!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "My place of residence changes depending on my mission, and I just come here to sleep..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "That's when [Player] noticed another door."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What about that room?"
+        },
+        {
+          "text": "You hid something, didn't you...?"
+        },
+        {
+          "text": "(Gives him a suspicious look)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Ah... You see, Master.<br>In this world, there exists doors to the abyss that should never be opened."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "But if you insist...<br>Then I suppose there's no other choice."
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito opened the door just enough for him to go through,<br>and then he disappeared into the room."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Please understand, Master.<br>Don't look inside until I come out, alright?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "O-Okay..."
+        },
+        {
+          "text": "What on earth is in there...?"
+        },
+        {
+          "text": "This is really close to a fairy tale..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "After rummaging around for a while,<br>Yoshito returned with an album."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Hehe, I'll show you my secret album,<br>especially for you, Master."
+    },
+    {
+      "type": "narrator",
+      "text": "The album contained pictures of a Moritaka<br>doll posing in various famous spots in Tokyo."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "There are some pictures taken at Snowland, too.<br>Look, doesn't it look good in the magical girl outfit?"
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito was talking so happily,<br>but that only made the suspicion grow—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hey Yoshito— What was the mission?"
+        },
+        {
+          "text": "Why did you turn down my invitation to the amusement park?"
+        },
+        {
+          "text": "I saw right through you, now confess!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "...T-that's...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito realized that he had a sorrowful look on his face in front of [Player],<br>and he felt a great deal of remorse."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I'm sorry, Master... I didn't mean to make that face.<br>I just thought someone like me was not fit to be by your side."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I am a shadow, your shadow.<br>And yet, I keep imagining myself standing by your side."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "And I'm very happy... to the point that I could break.<br>I feel like I'm going insane!"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I told you to treat me as a tool, and yet...<br>I'll be unable to return if I continue like this."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "There's nothing more troublesome or difficult to handle than<br>a tool with a mind of its own. Before I become that— Ah!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Calm down, calm down."
+        },
+        {
+          "text": "I still don't understand anything!"
+        },
+        {
+          "text": "I'm relieved that you're the usual Yoshito I know."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I want to go with you, Yoshito.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Thank you, Master.<br>I also... adore you very much."
+            }
+          ]
+        },
+        {
+          "text": "Let's go to the amusement park together.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "...Yes, I really want to go to the amusement park with you!"
+            }
+          ]
+        },
+        {
+          "text": "Should I order you to come?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "...How much easier it would have been if you had.<br>But, that's probably not what you would've wanted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "So let me say it again.<br>Master, please, go to the amusement park with me!"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "...Ah, it's finally happening.<br>But there's a part of me that can't contain my joy."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "This happiness... this happiness is scary.<br>I... I might go insane!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're thinking strange things again, aren't you?"
+        },
+        {
+          "text": "Sorry to keep you waiting, Yoshito."
+        },
+        {
+          "text": "Let's have fun today~!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "You're here, Master!<br>I'm sorry, I'm still a little uneasy..."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "No, I am happy, but it feels like...<br>That this is all just a dream."
+    },
+    {
+      "type": "narrator",
+      "text": "The feeling of guilt, a kind of compulsion that he wasn't supposed<br>to feel happy so easily, was not something that could be easily erased."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "We'll get used to it little by little.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "...Yes, thank you.<br>I will work even harder to be loyal to you!"
+            }
+          ]
+        },
+        {
+          "text": "(Pats Yoshito on the head)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Ahhh... please stop that.<br>I'm going to act like an undignified dog and get all excited."
+            }
+          ]
+        },
+        {
+          "text": "I'll make you even happier.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "...Yes, thank you.<br>I will work even harder to be loyal to you!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito and [Player] decided to go on<br>some light attractions first."
+    },
+    {
+      "type": "narrator",
+      "text": "Whether it was intentional or not, Yoshito didn't<br>have the Moritaka doll he usually carried with him."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "By the way, do you have a doll of me?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I-I would never do such a presumptuous thing, to even make a doll of you, Master..."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "...Are you sure?<br>Are you sure you'll allow me to make a doll of you?"
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Who knows what it'll be used for...<br>It might be hugged and slept with, for example..."
+            },
+            {
+              "type": "narrator",
+              "text": "Saying that, Yoshito took out a doll of [Player] from a bag he was holding."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Ah... no, this is just..."
+            }
+          ]
+        },
+        {
+          "text": "Can you make a doll of me for me?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I-I would never do such a presumptuous thing, to even make a doll of you, Master..."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "...Are you sure?<br>Are you sure you'll allow me to make a doll of you?"
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Who knows what it'll be used for...<br>It might be hugged and slept with, for example..."
+            },
+            {
+              "type": "narrator",
+              "text": "Saying that, Yoshito took out a doll of [Player] from a bag he was holding."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Ah... no, this is just..."
+            }
+          ]
+        },
+        {
+          "text": "You don't have a doll of me, do you?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I-I would never do such a presumptuous thing, to even make a doll of you, Master..."
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito looked away from the bag in his hand.<br>It was obvious what that meant."
+    },
+    {
+      "type": "choice",
+      "note": "[This option will only be available if Option 3 is selected]",
+      "options": [
+        {
+          "text": "That bag...",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Like he had given up, Yoshito took out the doll of [Player] from the bag."
+            }
+          ]
+        },
+        {
+          "text": "Yoshito, you don't mean to tell me—",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Like he had given up, Yoshito took out the doll of [Player] from the bag."
+            }
+          ]
+        },
+        {
+          "text": "Show me what's in there, won't you?",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Like he had given up, Yoshito took out the doll of [Player] from the bag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I'm s-sorry.<br>I just couldn't help myself..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The quality is amazing!"
+        },
+        {
+          "text": "Aren't you a bit over-beautifying me...?"
+        },
+        {
+          "text": "Do I really look like this to you?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "...Thank you. I put a lot of effort into it,<br>recreating all the things I love about you, Master."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "You really don't mind,<br>that I'm enjoying a hobby with a doll of you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm happy, because it means that you like me.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I'm glad you feel that way.<br>I actually have a present for you."
+            }
+          ]
+        },
+        {
+          "text": "I was actually jealous because Moritaka was around all the time.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I would never do anything to make Master jealous...!<br>But I'm happy that you feel that way about me."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I didn't have the confidence to show you, but Master, I actually have a present for you."
+            }
+          ]
+        },
+        {
+          "text": "Don't show it to people, it's really embarrassing.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Of course.<br>Only I should know about you."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I didn't have the confidence to show you, but Master, I actually have a present for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito took out a doll<br>of himself from the bag."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "This... If you don't want it,<br>please feel free to burn it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, I love it.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I'm happy that you're so pleased, I didn't think you'd like it this much."
+            }
+          ]
+        },
+        {
+          "text": "I'll sleep with it.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Yes, I'll sleep with yours too.<br>Hehe, we'll be together even while we're sleeping."
+            }
+          ]
+        },
+        {
+          "text": "Maybe I should start collecting dolls, too.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "That's a great idea.<br>We can exchange pictures, or go on trips together with our dolls..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master, why don't we take<br>a picture with our dolls?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Okay, I'll go get a camera."
+        },
+        {
+          "text": "That's a great idea!"
+        },
+        {
+          "text": "We'll look like a super lovey-dovey couple."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The two of them stood in front of the merry-go-round and had their picture taken.<br>Seeing the picture, Yoshito smiled softly."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Thank you, Master.<br>This is a lifelong treasure from Master to this Yoshito!"
+    },
+    {
+      "type": "narrator",
+      "text": "After that, the two of them<br>moved to a shop nearby."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master, why are we at a shop...?<br>Are you buying a souvenir for a school friend?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm thinking of getting a present for you, Yoshito!"
+        },
+        {
+          "text": "It's in return for the doll."
+        },
+        {
+          "text": "Is there anything you want?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "No, there's no need to give me a present.<br>Your kind thought is already enough for me."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "After all, I'm a bad child who<br>never received a present from Santa..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Stop being negative~"
+        },
+        {
+          "text": "If you don't have a preference, I'll just pick one myself."
+        },
+        {
+          "text": "I want to give a present to the person I love!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito was still timid about<br>having someone pick a present for him."
+    },
+    {
+      "type": "narrator",
+      "text": "As they walked around the shop,<br>[Player] found something nice."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Pick a hairband)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "This... for me? You think it suits me...?<br>Please stop, don't call me cute."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "...Thank you.<br>I'm very happy to receive a gift from you, Master."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I'll treasure this hairband and wear it every day."
+            }
+          ]
+        },
+        {
+          "text": "(Pick matching accessories)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I'm so happy... Thank you.<br>I'm very happy to receive a gift chosen by you, Master."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I'll have to build a dedicated altar for it at home!<br>I'll pray to it three times a day, without fail!"
+            }
+          ]
+        },
+        {
+          "text": "(Pick something memorable)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I'm so happy... Thank you.<br>I'm very happy to receive a gift chosen by you, Master."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "I'll have to build a dedicated altar for it at home!<br>I'll pray to it three times a day, without fail!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As they left the shop,<br>[Player] handed the gift to Yoshito."
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito looked at the carefully<br>ribbon-wrapped gift as if it were a treasure to him."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Thank you so much, Master.<br>I'm so happy to have received a present that I'm at a loss for words."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/char/housamo/yoshito.png",
+      "text": "Um, just one more thing.<br>Will you grant my request?"
+    },
+    {
+      "type": "narrator",
+      "text": "Yoshito had never said what he wanted before.<br>A change was definitely happening within him."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Next time, I will be the one to ask you out.<br>Will you go out with me again?"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "It can be as Master and servant,<br>but if you allow it, I hope it can be like today—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course, I'd love to!"
+        },
+        {
+          "text": "It'd be my pleasure!"
+        },
+        {
+          "text": "Let's go on another date."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master, if you have any commands for me, please don't hesitate.<br>I will gladly do anything for you, Master."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "This applies not only to Master-servant commands,<br>but also... other requests."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Let's hold hands on the way home.",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "To a request that he would have refused in a second before, Yoshito now hesitantly held out his hand, looking embarrassed."
+            }
+          ]
+        },
+        {
+          "text": "(Ask Yoshito to close his eyes)",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Yoshito closed his eyes as he was told, and a few seconds later, a soft sensation landed on him."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Ah, Master...!?<br>Are you in your right mind right now!?"
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "No, if you're okay with it, I'll offer anything...<br>But still."
+            }
+          ]
+        },
+        {
+          "text": "(Ask Yoshito to kiss you)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "Ah, Master...!?<br>Are you serious!?"
+            },
+            {
+              "type": "narrator",
+              "text": "Seeing [Player] nod, Yoshito steeled his resolve."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "E-Excuse me...!<br>If you feel like I'm being disrespectful, you can slice me down."
+            },
+            {
+              "type": "narrator",
+              "text": "With a hand hesitantly placed on [Player]'s cheek, Yoshito moved closer."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "After all, I'm a samurai too.<br>I can get it done when I have to."
+            },
+            {
+              "type": "character",
+              "name": "Yoshito",
+              "avatar": "../char/housamo/yoshito.png",
+              "text": "If you keep saying things like that to me, this worthless puppet of yours might not be able to wait anymore."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "...Master, even with all my flaws, I truly,<br>from the bottom of my heart, believe in you."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "With you, even someone like me<br>might be able to reach a paradise of dreams."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I, Yoshito is not someone who will blindly serve just anyone...<br>Though I understand why you'd find it hard to believe."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "............<br>............"
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "Master... Will you come to my home again?<br>I still have those sweets we talked about the other day."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "I also have many things I want to talk about,<br>the past and the future."
+    },
+    {
+      "type": "character",
+      "name": "Yoshito",
+      "avatar": "../char/housamo/yoshito.png",
+      "text": "...That's right, Master, no, my God!<br>The construction plan for the [Player] & Moritaka Land!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Yoshito stood behind [Player]...<br>Then reconsidered and stood beside them."
+    },
+    {
+      "type": "narrator",
+      "text": "Bathed in the songs of the Holy Night,<br>Inukawa Sosuke Yoshito... smiled like a child."
+    }
+  ]
+  

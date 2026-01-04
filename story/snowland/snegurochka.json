@@ -1,0 +1,1110 @@
+[
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "...........<br>.........."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka looked at Santa School with a clear expression.<br>The many memories from the special winter filled her heart."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Well done on the shoot."
+        },
+        {
+          "text": "It's off-season for Santa School now, huh?"
+        },
+        {
+          "text": "I had a lot of fun too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Santas work so hard for the next Christmas...<br>I have to do my best too!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But you know, just as Brother Jack said,<br>I want to challenge myself with various things!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "The show is continuing, and I've been invited to be a weather caster and a guest on talk shows.<br>I feel like I can make even more people smile."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Do your best, I'm cheering for you."
+        },
+        {
+          "text": "I'm looking forward to it."
+        },
+        {
+          "text": "I'll watch the weather forecast every day!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "[Player]-san, thank you!<br>And about that... you know."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka, which was rare for her,<br>fidgeted with her fingers and spoke hesitantly."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "As a celebration for officially becoming a Transient<br>and a magical girl in a contract with you, um—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "[Player]-san, would you like to<br>go to Snowland together after school?"
+    },
+    {
+      "type": "narrator",
+      "text": "Now that Snegurochka had avoided the fate of disappearing<br>with the end of winter, many wishes were sprouting within her."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "The gentle warmth of spring, flowers I've never seen, unfamiliar roads home...<br>I wonder if we can all go to the beach in the summer?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I want to wear a yukata, go to a fireworks festival and eat shaved ice.<br>I also want to try eating nagashi somen."
+    },
+    {
+      "type": "narrator",
+      "text": "And so, the feelings she had unconsciously given up on<br>because she couldn't welcome spring began to sprout."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka looked into her compact mirror<br>and twirled the ends of her hair."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "If I can spend spring and beyond,<br>maybe I can become a wonderful lady myself."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I wonder if I can experience a romance<br>that sets my heart ablaze, like of that in romantic dramas."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "That's why, [Player]-san, I will try<br>to grow up a little and become an adult."
+    },
+    {
+      "type": "narrator",
+      "text": "Because, a magical girl's story always involves a bittersweet<br>feeling towards the mysterious senior who saves them."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Ah, [Player]-san, over here!<br>Ehehe, I was so excited I couldn't sleep last night!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Because of that, I was sleepy in class and kept dozing off,<br>and everyone mistook it for me having an early morning recording."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You do seem to be pretty excited.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Of course!<br>I've decided to have the best time ever today!"
+            }
+          ]
+        },
+        {
+          "text": "Let's have a lot of fun today.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Yes! It's already fun even though we haven't done anything yet!<br>It's definitely going to be the best day ever!"
+            }
+          ]
+        },
+        {
+          "text": "You look stylish today.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Really!?<br>Ehehe, that makes me very happy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Ah, that's right, let's take a picture together!<br>As a keepsake of our memories together!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka took out her phone, and she and<br>[Player] made a peace sign to fit into the frame."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, everyone will be so jealous.<br>They'll know I have [Player]-san all to myself."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hey, by the way, [Player]-san, where are you from?<br>Who gave birth to you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I have no memories of those, actually."
+        },
+        {
+          "text": "I don't even know where I'm from."
+        },
+        {
+          "text": "I don't think I have a creator?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Eh, amnesia!?<br>I'm sorry, I've asked you something inappropriate..."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But that's not necessarily a bad thing.<br>You see, I have memories of being born to help Santa, right?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "So I've lived my life that way, but if you<br>don't have that, it means you have all kinds of possibilities!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I'm finally starting to understand<br>a little bit of what Grandpa used to say."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "'Don't worry about us, Snegurochka.<br>You're free to do whatever you want'."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "How was my impression of him?<br>I think I did a pretty good job, right?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I think Grandpa felt guilty for<br>creating me that way."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But as for me, I'm just very grateful<br>that he created me in the first place."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I want to repay that gratitude, but Grandpa wants me to<br>use my limited time for myself... I guess we were always at odds."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "That's why I'm trying to figure out what my own wishes are,<br>in order to grant his wish."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's a wonderful thing."
+        },
+        {
+          "text": "If there's anything I can do, I'll help.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Yay!<br>You're so dependable, I might ask you for a lot of things."
+            }
+          ]
+        },
+        {
+          "text": "So could today's invitation have been to―",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "...Yes, you're right.<br>It was the first thing that came to my mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "So, [Player]-san, it means you don't<br>have a close person like that just yet, right?"
+    },
+    {
+      "type": "narrator",
+      "text": "Unbeknownst to [Player], Snegurochka was pumping<br>her fist close to her heart."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I don't really have a close person that comes to mind."
+        },
+        {
+          "text": "When you say close, I do have a self-proclaimed older sister."
+        },
+        {
+          "text": "There are many self-proclaimed brothers, and then a self-proclaimed son too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Oh, yes, a close person, like family...<br>Wait, self-proclaimed...? What do you mean by that!?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Is it like Brother Jack to me?<br>But Brother didn't self-proclaim it..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's a good thing to rely on someone like that."
+        },
+        {
+          "text": "To be honest, it's a bit of a shameless act."
+        },
+        {
+          "text": "Would you be happy if I called you 'little sister'?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But... [Player]-san.<br>I don't want to be a little sister, so—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But I know I'm not a grown-up yet,<br>so I have to... I've decided!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I, Snegurochka, hereby declare<br>that I will become your future lover!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Isn't that great?<br>[Player]-san!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "...Was that too sudden?<br>Oh no, my face is turning red."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm happy, Snegurochka."
+        },
+        {
+          "text": "If you don't change your mind in five years, that is."
+        },
+        {
+          "text": "(Smile with a half-troubled expression)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, it was my secret mission for today.<br>To declare my feelings to you, [Player]-san."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "The only thing left is my main mission!<br>To have the best time ever today!"
+    },
+    {
+      "type": "narrator",
+      "text": "Though her voice still carried a hint of shyness,<br>Snegurochka had a look of accomplishment on her face."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I think I finally figured out<br>why I was so interested in you, [Player]-san."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Maybe it's because we're similar in a way, even if our circumstances are different.<br>The way we live, in the present."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I had no future,<br>and [Player]-san had no past."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But of course, that was just the beginning, wasn't it?<br>I just found out about your amnesia, too..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I see, that makes a lot of sense."
+        },
+        {
+          "text": "We have no choice but to live in the present, huh?"
+        },
+        {
+          "text": "But now, there's a future... right?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Right now, I have a future that<br>everyone and Brother Jack have given to me."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "So I'm going to cherish it,<br>and live my life to the fullest!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "So, first things first... [Player]-san!<br>I want to meet the people who call themselves your family."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Because they are also like family to me, right?<br>I have to introduce myself to them."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "And I have to determine if they are<br>worthy of calling themselves your family, [Player]-san."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "As your future lover and magical girl,<br>I'll protect your dream from anything that might harm it."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka smiled and pulled [Player]<br>towards the attractions."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But, we'll do that later!<br>Right now, you're all mine, [Player]-san."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "To make the most of this time,<br>let's have a lot of fun!"
+    },
+    {
+      "type": "narrator",
+      "text": "The two of them continued to visit<br>attractions as long as time permitted."
+    },
+    {
+      "type": "narrator",
+      "text": "After a while of playing at full throttle,<br>the two of them sat down on a bench to rest."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Here's your Frosty ice cream."
+        },
+        {
+          "text": "Isn't ice cream too cold...? Oh, never mind."
+        },
+        {
+          "text": "Sorry, I took a while to get it."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Thank you!<br>Frosty's ice cream is the best in this amusement park."
+    },
+    {
+      "type": "narrator",
+      "text": "The popular mascot 'Frosty' is known throughout Tokyo.<br>The ice cream was shaped just like his face."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Do you want a bite, [Player]-san?<br>I'll give you the most delicious part, the nose."
+    },
+    {
+      "type": "choice",
+      "note": "so the ice cream is shaped as his face<br>I see, I see",
+      "options": [
+        {
+          "text": "Aah!"
+        },
+        {
+          "text": "Should we take a picture and send it to Jack?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "That's a great idea!<br>Wait a moment..."
+            },
+            {
+              "type": "narrator",
+              "text": "The two of them leaned in and opened their mouths wide,<br>as if they planned take a bite at Jack, and took a picture."
+            }
+          ]
+        },
+        {
+          "text": "I'll feed you instead."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, I did it!<br>I've fulfilled another dream that I couldn't before!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka, a snow fairy, finished<br>her ice cream at an incredible speed."
+    },
+    {
+      "type": "narrator",
+      "text": "And then, she gently rested her<br>head on [Player]'s shoulder."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What's wrong, Snegurochka?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "I don't know, my heart is pounding so much.<br>I keep thinking that I really... haven't disappeared yet."
+            }
+          ]
+        },
+        {
+          "text": "You're acting like a spoiled child~","dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "I wonder how we look right now.<br>Maybe not now, but someday, we'll look like lovers."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Right now, my heart is pounding so much.<br>I keep thinking, that I really... haven't disappeared yet."
+            }
+          ]
+        },
+        {
+          "text": "(Adjust your position so it's not painful)","dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "I wonder how we look right now.<br>Maybe not now, but someday, we'll look like lovers."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Right now, my heart is pounding so much.<br>I keep thinking, that I really... haven't disappeared yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Humans disappear in about 80 years,<br>but I was supposed to disappear in one winter."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But, is this really okay?<br>Did I do something I shouldn't have?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Or maybe, this anxiety is just for a moment,<br>and I'll forget it when I become an adult?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "My end was supposed to be given, but now,<br>I feel even more anxious when it's no longer there."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I guess it's the fear of the unknown.<br>Sometimes, when I'm alone at night, I wonder how long this will last."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Snegurochka, you're strong."
+        },
+        {
+          "text": "I know, I think about it sometimes too.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Is that so... I'm not alone, am I?<br>That makes me feel a little relieved... Ehehe."
+            }
+          ]
+        },
+        {
+          "text": "Isn't that what everyone feels as well?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Is that so... I'm not alone, am I?<br>That makes me feel a little relieved... Ehehe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "A long silence fell between<br>[Player] and Snegurochka."
+    },
+    {
+      "type": "narrator",
+      "text": "It was not [Player] or Snegurochka who broke the silence—<br>It was the snow reindeer next to Snegurochka."
+    },
+    {
+      "type": "narrator",
+      "text": "The snow reindeer, Roo-chan, who was next to Snegurochka,<br>climbed onto [Player]'s shoulder and started playing."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Whoa, that's weird.<br>Roo-chan usually only gets attached to other snow fairies."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I've always wondered, what is a snow reindeer?"
+        },
+        {
+          "text": "What is Roo-chan?"
+        },
+        {
+          "text": "It may be a mysterious creature, but it's cute."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Roo-chan is Roo-chan!<br>I think it's an existence I created, just like Grandpa did with me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You think...?"
+        },
+        {
+          "text": "Snegurochka, even you don't know yourself!?"
+        },
+        {
+          "text": "The mystery just deepens..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "...Well, yes, it's definitely a part of me.<br>I thought I could only spend time with other snow fairies."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "But it's strange that it became so cute.<br>My art and crafts skills are truly terrible."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Or maybe there's something inside me that I don't know about,<br>and it took a form? Anyway—"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "It seems Roo-chan can feel my feelings<br>and acts on its own, and vice versa."
+    },
+    {
+      "type": "narrator",
+      "text": "As they were talking, Roo-chan pressed<br>its mouth against [Player]'s cheek."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "H-Hey, Roo-chan!?<br>What are you doing—!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka screamed and quickly<br>picked up Roo-chan onto her arms."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ahaha, that's cute~"
+        },
+        {
+          "text": "I'm so popular, it's embarrassing."
+        },
+        {
+          "text": "You don't have to panic, I'm alright."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "(I-I was holding myself back, too,<br>because I thought it was too soon...)"
+    },
+    {
+      "type": "narrator",
+      "text": "In Snegurochka's arms,<br>Roo-chan snorted proudly."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hey, wait a minute...?"
+        },
+        {
+          "text": "Roo-chan understands your feelings, right?"
+        },
+        {
+          "text": "(Show a face of realization)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "N-No, that's not it!<br>It's just a greeting from Roo-chan to a person it's fond of..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Oh, I see, that's what it was!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "That's right, that's right!<br>Ahahahaha, you're so silly, [Player]-san!"
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "(Oh, that was close...<br>I was just about to start a new future...!)"
+            }
+          ]
+        },
+        {
+          "text": "Snegurochka, it's okay if you'd do the same thing.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "...Really? [Player]-san.<br<Then... please close your eyes, it's embarrassing."
+            },
+            {
+              "type": "narrator",
+              "text": "As [Player] closed their eyes, as instructed, a cold sensation was felt on their cheek."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "This is your fault, [Player]-san, not mine!<br>I was just about to start a new future...!"
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "If you're going to be like that, I won't hold back either!"
+            },
+            {
+              "type": "narrator",
+              "text": "The snow reindeer, who had returned to its original position, was clapping its hands happily."
+            }
+          ]
+        },
+        {
+          "text": "(Kiss Snegurochka on her cheek)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "...!<br>You fool, [Player]-san!"
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "I was just about to start a new future, but you ruined it!<br>You have no idea what I'm feeling..."
+            },
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "If you're going to be like that, I won't hold back either!"
+            },
+            {
+              "type": "narrator",
+              "text": "Snegurochka's face was flushed red, and her cold hands held [Player]'s face close."
+            },
+            {
+              "type": "narrator",
+              "text": "Then, a soft and cold sensation was felt on [Player]'s cheeks."
+            },
+            {
+              "type": "narrator",
+              "text": "The snow reindeer, who had returned to its original position, was clapping its hands happily."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Ahhh, my face is so red.<br>This wasn't supposed to happen today..."
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Snegurochka took out<br>a gift box from her bag."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "This is for you, [Player]-san.<br>I want you to open it here."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] untied the ribbon on the beautifully wrapped box,<br>and a snow globe appeared from inside."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hehe, it's a custom-made snow globe.<br>Not a commercial magical girl one, but the real me as a magical girl!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I thought it might be a little embarrassing to give<br>you a snow globe of myself, but I really wanted you to display it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, I'm very happy."
+        },
+        {
+          "text": "It's so cute!!"
+        },
+        {
+          "text": "The quality is amazing!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I'm glad you liked it!<br>If you press this button on the side, snow will flutter inside!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "The magic circle at my feet will light up,<br>and it'll look like I'm using magic, isn't that amazing!?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Please think of it as me<br>and cherish it, [Player]-san."
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka smiled shyly.<br>Just then, the announcement for the end of their dream-like time began to play."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "...It's already over, huh?<br>But I'm not lonely, because there's always a next time!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Hey, [Player]-san.<br>Will you come play with me again?"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Not just at the amusement park, but in other places too.<br>It's fun with everyone, but sometimes, just the two of us, like today."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course, I'd love to!"
+        },
+        {
+          "text": "I'll come again."
+        },
+        {
+          "text": "Can't refuse my little sister's request, can I?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Yes, it's a promise!<br>[Player]-san!"
+    },
+    {
+      "type": "narrator",
+      "text": "As [Player] stood up to leave, Snegurochka,<br>who was still sitting, held out her hand."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "I want to hold hands and go home together.<br>Please, [Player]-san!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Or maybe...<br>Are my hands too cold for you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That sure sounds like something I can't refuse.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Snegurochka",
+              "avatar": "../char/housamo/snegurochka.png",
+              "text": "Hehe, that's right.<br>You can't look down on me just because I'm your little sister!"
+            }
+          ]
+        },
+        {
+          "text": "I'm glad that you asked.",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "At [Player]'s words, Snegurochka smiled happily."
+            }
+          ]
+        },
+        {
+          "text": "It's alright, Snegurochka.",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "At [Player]'s words, Snegurochka smiled happily."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The two of them left the amusement park.<br>Were they like close siblings, or—"
+    },
+    {
+      "type": "narrator",
+      "text": "Could they really become future lovers?<br>No one could possibly know the outcome—"
+    },
+    {
+      "type": "narrator",
+      "text": "That magical girl is back, powered up!?<br>Magical Girl ☆ Snegurochka, Season 2!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "It's almost spring, and a new semester!<br>I wonder if I'll be in the same class as everyone and that person~?"
+    },
+    {
+      "type": "narrator",
+      "text": "Snegurochka, who was supposed to have disappeared,<br>had returned to everyone!"
+    },
+    {
+      "type": "narrator",
+      "text": "Amidst the fluttering cherry blossom petals,<br>a new transfer student who would make her heart flutter arrived."
+    },
+    {
+      "type": "narrator",
+      "text": "Next time, Magical Girl ☆ Snegurochka Season 2,<br>Episode 1 Special, 'Spring Has Come to Snegurochka'."
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Everyone, I'm sure we'll meet again in this place!<br>The magic of our promise, Kira-Kira Pappah, Piraporepah!!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "To your heart, right in front of the screen—<br>Make-up Snow Maiden!!"
+    }
+  ]
+  
