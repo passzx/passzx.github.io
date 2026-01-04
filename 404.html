@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 - Zone Not Found</title>
@@ -12,46 +12,90 @@
     <link rel="manifest" href="../../icon/site.webmanifest">
     <link rel="shortcut icon" href="../../icon/favicon.ico">
     <script>
-        (function() {
-            var currentPath = window.location.pathname;
-            if (currentPath.indexOf('/tl_project') !== -1) {
-                var newPath = currentPath.replace('/tl_project', '');
-                window.location.replace(newPath + window.location.search + window.location.hash);
-            }
-            else {
-                document.documentElement.classList.add('ready');
-            }
-        })();
+      (function() {
+        var currentPath = window.location.pathname;
+        if (currentPath.indexOf('/tl_project') !== -1) {
+          var newPath = currentPath.replace('/tl_project', '');
+          window.location.replace(newPath + window.location.search + window.location.hash);
+        } else {
+          document.documentElement.classList.add('ready');
+        }
+      })();
     </script>
-</head>
-<body>
+  </head>
+  <body>
     <header class="main-header" id="mainHeader">
-        <nav class="main-nav">
-          <div class="nav-left">
-            <button class="hamburger-menu" aria-label="Open menu" id="hamburgerMenu">
-              <div class="bar"></div>
-              <div class="bar"></div>
-              <div class="bar"></div>
-            </button>
+      <nav class="main-nav">
+        <div class="nav-left"></div>
+        <div class="nav-right header-buttons-group">
+          <button id="homeButton" aria-label="Home">❌</button>
+          <button id="renamePlayerButton" aria-label="Rename Player">❌</button>
+          <button id="darkModeToggle" aria-label="Dark Mode">❌</button>
+        </div>
+      </nav>
+    </header>
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+    <main class="main-content event-page-content container" id="eventPageContent">
+      <div class="bg-scroll-trigger" data-bg-image="story/bg/darkweb.png"></div>
+      <div class="dialogue-box">
+        <p style="font-size: 1.5em; text-align: center;">System Alert <br>404_NOT_FOUND_EXCEPTION </p>
+      </div>
+      <div class="dialogue-box character-dialogue-box" data-character-name="Terminal" data-character-avatar="story/char/placeholder.png" style="display: flex;">
+        <div class="character-avatar">
+          <img src="story/char/placeholder.png" alt="Terminal">
+        </div>
+        <div class="dialogue-content">
+          <p class="character-name">Terminal</p>
+          <p class="dialogue-text">The timeline coordinates you specified do not exist within the archive. <br>It is possible the record was deleted, or the path has been altered. </p>
+        </div>
+      </div>
+      <div class="dialogue-box character-dialogue-box" data-character-name="Terminal" data-character-avatar="story/char/placeholder.png" style="display: flex;">
+        <div class="character-avatar">
+          <img src="story/char/placeholder.png" alt="Terminal">
+        </div>
+        <div class="dialogue-content">
+          <p class="character-name">Terminal</p>
+          <p class="dialogue-text">The records in the system indicated that there <br>were traces of a modification to the structure. <br>Please try again later, or until our representative is assigned to you. </p>
+        </div>
+      </div>
+      <div class="dialogue-box character-dialogue-box" data-character-name="?????" data-character-avatar="story/char/broker_b.png" style="display: flex;">
+        <div class="character-avatar">
+          <img src="story/char/broker_b.png" alt="?????">
+        </div>
+        <div class="dialogue-content">
+          <p class="character-name">?????</p>
+          <p class="dialogue-text">What seems to be the <br>problem around here— </p>
+        </div>
+      </div>
+      <div class="dialogue-box character-dialogue-box" data-character-name="?????" data-character-avatar="story/char/broker_b.png" style="display: flex;">
+        <div class="character-avatar">
+          <img src="story/char/broker_b.png" alt="?????">
+        </div>
+        <div class="dialogue-content">
+          <p class="character-name">?????</p>
+          <p class="dialogue-text">Oh, PzTJ. <br>You aren't supposed to be here. </p>
+        </div>
+      </div>
+      <div class="dialogue-box character-dialogue-box" data-character-name="?????" data-character-avatar="story/char/broker_b.png" style="display: flex;">
+        <div class="character-avatar">
+          <img src="story/char/broker_b.png" alt="?????">
+        </div>
+        <div class="dialogue-content">
+          <p class="character-name">?????</p>
+          <p class="dialogue-text">May it be your misfortune, I will help you make your way out. <br>Or, you can stay. That much is up to you to choose. </p>
+        </div>
+      </div>
+      <div class="dialogue-box choice-display-box">
+        <div class="choice-outcomes">
+          <div class="choice-branch">
+            <div class="choice-option-display">
+              <a href="/" ,="" style="color:var(--background-light);">Return to Home</a>
+            </div>
           </div>
-          <div class="nav-right header-buttons-group">
-            <button id="homeButton" aria-label="Home">🏠</button>
-            <button id="renamePlayerButton" aria-label="Rename Player">✏️</button>
-            <button id="darkModeToggle" aria-label="Dark Mode">🌙</button>
-          </div>
-        </nav>
-      </header>
-      <aside class="sidebar" id="sidebar">
-        <nav class="sidebar-nav">
-            <h3><a href="index.html">About Event</a></h3>
-            <ul class="chapter-list" id="dynamicChapterList">
-                </ul>
-        </nav>
-      </aside>
-      <div class="sidebar-overlay" id="sidebarOverlay"></div>
-      <main class="main-content event-page-content container" id="eventPageContent">
+        </div>
+      </div>
     </main>
-    <script src="/story/mobile.js"></script>
-    <script src="/story/story.js"></script>
-</body>
+    <script>
+    </script>
+  </body>
 </html>
