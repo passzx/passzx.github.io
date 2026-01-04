@@ -1,0 +1,1940 @@
+[
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Whoa...<br>What's going on, monsters<br>are suddenly appearing in droves!"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "I don't know! Anyway,<br>we have to do something<br>to get the customers to safety!"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Even as apprentices, we're heroes!<br>It's time to show some guts here!"
+    },
+    {
+      "type": "narrator",
+      "text": "While Rokusei and the others were attracting<br>the giant monster, heroes were also fighting<br>in the sea area."
+    },
+    {
+      "type": "narrator",
+      "text": "The apprentices form a circle around the visitors<br>and intercept the approaching monsters."
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "But how do we get them out!?<br>The path to the coast is destroyed, and<br>the sea is full of tentacles, so we can't launch a boat!"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Stop complaining, we're in front of the customers!<br>Anyway, even if it's little by little,<br>we have to reduce the number of monsters-"
+    },
+    {
+      "type": "character",
+      "name": "Apprentices",
+      "avatar": "../char/placeholder.png",
+      "text": "A huge one appeared~!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The apprentices confront the swarm of monsters,<br>half in a panic."
+    },
+    {
+      "type": "narrator",
+      "text": "Because, heroes cannot<br>turn their backs on the encroaching threat<br>in front of the people they must protect."
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Damn it, if that's the case-?<br>Whoa, what's that!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Above the apprentice hero, who is preparing for<br>a desperate charge, and even further beyond<br>the large monster."
+    },
+    {
+      "type": "narrator",
+      "text": "Several steel pipes fly towards the monster,<br>which is raising its arm to attack,<br>and pierce it one after another."
+    },
+    {
+      "type": "character",
+      "name": "Monster",
+      "avatar": "../char/placeholder.png",
+      "text": "Guh, gyaa...<br>Gyaooooonnn!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Its core is crushed by irregularly growing lumps of iron<br>from the pierced spots, and the monster disappears."
+    },
+    {
+      "type": "narrator",
+      "text": "Genji picks up his Parallel Weapon,<br>which clattered to the floor,<br>and checks his surroundings."
+    },
+    {
+      "type": "character",
+      "name": "Apprentices",
+      "avatar": "../char/placeholder.png",
+      "text": "Help has arrived~!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Genji pays no attention to the excited apprentices<br>and scratches the floor with the Parallel Weapon<br>in his hand."
+    },
+    {
+      "type": "narrator",
+      "text": "Just like when he crushed the monster,<br>lumps of iron grow randomly from the scratched spot."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "This should serve as a barricade.<br>...You held out well, apprentices."
+    },
+    {
+      "type": "narrator",
+      "text": "Genji looks towards the platform he created in the air.<br>Two figures are rushing towards them-<br>Goro and Pubraseer arrived."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Move aside, it's dangerous-<br>\"Construction\",<br>High-End Construct!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Goro deploys his toolbox-shaped Parallel Weapon,<br>jumps from the platform, and lands<br>on the floor of the sea area."
+    },
+    {
+      "type": "narrator",
+      "text": "The next moment, construction materials spring up<br>on their own, forming an evacuation shelter<br>that surrounds the visitors."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Leave the civilian protection to me!<br>Let's quickly defeat the monster<br>and protect Orient City!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "I will support you all-<br>\"Shine\"!<br>Pénte Anamniseis!!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer's Parallel Weapon deploys,<br>and a wind blows towards the flag as if urging it on.<br>It heals his companions' wounds and encourages them."
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Whoaaaaaah!?<br>As expected of our seniors,<br>we immediately got organized!"
+    },
+    {
+      "type": "narrator",
+      "text": "The apprentices are inspired by the arrival<br>of veteran heroes, who are also figures of admiration<br>active on the front lines."
+    },
+    {
+      "type": "narrator",
+      "text": "To restore the evacuation route,<br>and first to suppress this area,<br>they confronted the monster."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Labor's Site, we arrived at the sea area.<br>Rescue operation for stranded citizens are underway.<br>No problems here, but still, in the sea-"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "-The big one in the sea is being<br>dealt with by me and my companions.<br>Don't worry, just prioritize rescue!"
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "...Ah!?"
+    },
+    {
+      "type": "narrator",
+      "text": "A person who shouldn't be there-<br>the man who was \"supposed to be\" evacuating the boys,<br>reported the situation through the device."
+    },
+    {
+      "type": "narrator",
+      "text": "Goro and Pubraseer are surprised, and<br>Genji glares at the coast with a furious expression.<br>Everyone knew who the voice belonged to."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Leave this to us and go.<br>While you're at it, please repair<br>the destroyed path, Genji!"
+    },
+    {
+      "type": "narrator",
+      "text": "Genji smashes a nearby monster,<br>taking out his frustration,<br>then turns his back on the scene and runs."
+    },
+    {
+      "type": "narrator",
+      "text": "Whether Rokusei is challenging alone,<br>or if he's involved Sterio,<br>either way, for them to transform-"
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "...Well, I kind of knew it, but<br>you \"too\" are the type to observe<br>from the front lines, [Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "Just as Rokusei wanted to get the boys to safety,<br>Genji didn't want the Observer to be in danger."
+    },
+    {
+      "type": "narrator",
+      "text": "However, he himself understands<br>that it is merely his own ego."
+    },
+    {
+      "type": "narrator",
+      "text": "Feeling the strong will of [Player] and the others<br>expressed implicitly, the veteran hero<br>resolves to protect their backs."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "It's well said that others are one's mirror.<br>Only disobedient people gather around me."
+    },
+    {
+      "type": "narrator",
+      "text": "The monster swings its arm down with force.<br>The moment he received it, he quickly<br>twisted the steel pipe and slams it into the monster's body."
+    },
+    {
+      "type": "narrator",
+      "text": "Immediately, he moves his hand like sliding<br>on an axis and changes his stance,<br>then smashes the core from close range."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "Well, being stubborn might be<br>necessary for a hero in some ways...<br>I'll gladly witness your pride."
+    },
+    {
+      "type": "narrator",
+      "text": "Genji laughs fearlessly, raises his Parallel Weapon,<br>shaped like a long staff, in front of him,<br>and invites the monster's next attack to himself."
+    },
+    {
+      "type": "title",
+      "text": "Chapter 7:<br> Resolute Action Scares Even Gods"
+    },
+    {
+      "type": "narrator",
+      "text": "Meanwhile, at sea,<br>the tide of battle is changing dramatically<br>with the participation of new heroes."
+    },
+    {
+      "type": "narrator",
+      "text": "Thanks to the foothold that formed<br>like a lid on the sea surface,<br>surprise attacks from directly below by tentacles were prevented."
+    },
+    {
+      "type": "character",
+      "name": "Octopus Monster",
+      "avatar": "../char/placeholder.png",
+      "text": "-Gyaoooohhh!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Canes' thrown mechanical arm Parallel Weapon<br>intercepts the tentacles that the giant monster<br>swung down at Rokusei."
+    },
+    {
+      "type": "narrator",
+      "text": "It follows its companions as if it has a will,<br>sometimes acting as a shield, sometimes as a spear,<br>supporting the battle."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "Canes-kun, your Parallel Weapon<br>was really convenient!<br>What kind of mechanism is it?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I don't know, but for now,<br>it's enough if I can use it!"
+    },
+    {
+      "type": "narrator",
+      "text": "He discards all thoughts other than those necessary for the current battle,<br>sends one arm to assist his comrade,<br>and uses the other arm to intercept the monster."
+    },
+    {
+      "type": "narrator",
+      "text": "Seeing his sibling confronting it recklessly,<br>Sterio's voltage rises even further."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Woah-oon!<br>Don't run away!"
+    },
+    {
+      "type": "narrator",
+      "text": "Having received the heroes' fierce attacks, the giant monster tries to dive into the sea."
+    },
+    {
+      "type": "narrator",
+      "text": "But Sterio, with the storm he created,<br>pulls in the surrounding currents<br>so it can't escape."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes continues to observe the enemy and his allies<br>to seize the perfect opportunity<br>to finish off the target."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "...It's strange. It's my first battle,<br>and I just transformed, but<br>my body moves as I intend."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "What is a Parallel Weapon...?<br>It feels like I'm \"wearing myself\",<br>without any sense of discomfort..."
+    },
+    {
+      "type": "narrator",
+      "text": "His observation extended to himself.<br>In the past, when he first participated in a hunt,<br>he couldn't accomplish anything-"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-No, nothing has changed since then.<br>It's still the same as that time when I was lost,<br>but I resolved to never give up and definitely return with my sibling."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "That's right, I'll definitely overcome this situation.<br>Working together with Sterio,<br>Rokusei-san, and [Player]-san!"
+    },
+    {
+      "type": "narrator",
+      "text": "Trust in his sibling and companions<br>outweighs anxiety and fear,<br>and the boy gains certainty of victory."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-Now, [Player]-san!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Understood, Canes-kun!"
+        },
+        {
+          "text": "Rokusei-san!",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Rokusei understands everything and changes his tactics just by the tone of [Player]'s voice calling him."
+            }
+          ]
+        },
+        {
+          "text": "Sterio-kun- I'm counting on you!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Leave it to me, [Player]!<br>Awooooh~!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Canes recalls the Parallel Weapon<br>he had sent to assist his comrade,<br>crouches, and prepares to punch."
+    },
+    {
+      "type": "narrator",
+      "text": "In time with Sterio's horn, Rokusei<br>quickly distances himself from the giant monster<br>and throws all his Parallel Weapons."
+    },
+    {
+      "type": "narrator",
+      "text": "The water mass returns to its original spot,<br>sucked into the tornado that has risen,<br>and then the sound of the horn echoes again."
+    },
+    {
+      "type": "narrator",
+      "text": "The even larger tornado sucks in even the giant<br>monster, and twists its body<br>with a powerful vortex of wind."
+    },
+    {
+      "type": "narrator",
+      "text": "While his companions corner the monster,<br>Canes continues to increase the output<br>of his two Parallel Weapons."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Not yet, not yet, don't rush-<br>Everyone will surely create the chance<br>to unleash a powerful blow...!"
+    },
+    {
+      "type": "narrator",
+      "text": "The accumulated energy creates fire,<br>and then crackles and<br>releases electricity into the surroundings."
+    },
+    {
+      "type": "character",
+      "name": "Octopus Monster",
+      "avatar": "../char/placeholder.png",
+      "text": "-Gyaoooohhh!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The giant monster emits a sound that is neither a scream nor a threat,<br>and tries to escape<br>into the sea-"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "You won't escape-<br>\"Pursuit Howl\"!<br>Storm of Shifting Seasons!!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "\"Secret Arts\",<br>Water Element Three-Way Fusion!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The third booming horn further amplifies the tornado.<br>It twists and tears off all tentacles,<br>and lifts the monster's massive body into the air."
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei immediately detonates the lifted<br>Parallel Weapons,<br>destroying the monster's outer shell."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-Now!<br>Whoa, whoa, whoa, whoa, whoa!!"
+    },
+    {
+      "type": "narrator",
+      "text": "He focuses his strength as if<br>he was drawing a bow, aiming a hunting rifle,<br>targeting the vital point and not taking his eyes off it."
+    },
+    {
+      "type": "narrator",
+      "text": "Even if he's an apprentice,<br>the inherited techniques and Canes' own strength,<br>and the bonds he formed on Earth-"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-I will seize victory!<br>\"Capture,\" Winter's..."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "...Thunder Hammer!!"
+    },
+    {
+      "type": "narrator",
+      "text": "A flash. With the sound of air being torn apart,<br>he is carried by the wind created by his sibling,<br>and pierces through without even a moment's delay."
+    },
+    {
+      "type": "narrator",
+      "text": "A heavy, sharp hammer-shaped fist utterly shatters<br>what lies deep within the breached outer shell."
+    },
+    {
+      "type": "character",
+      "name": "Octopus Monster",
+      "avatar": "../char/placeholder.png",
+      "text": "Gyaooo!?<br>Gyaoooooonnn!!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Haa, haa...!<br>It's over, right?"
+    },
+    {
+      "type": "narrator",
+      "text": "The remnants of the destroyed monster<br>turn into particles of light<br>and dissolve into the sky."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "...Whoa-o-o-o-o-oh!!<br>We did it~!<br>We defeated the monster!!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "Good work, you two.<br>It was a trial by fire, but<br>the rookie trio's teamwork worked well!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's thanks to Sterio-kun's support.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Hehehe...<br>It's my job to help everyone, and I'm super happy to have fulfilled my role!"
+            },
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "I think it's all thanks to you fighting with me, [Player].<br>Thank you, thank you!"
+            }
+          ]
+        },
+        {
+          "text": "Rokusei-san connected everyone.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "Hahaha. Even though I'm a rookie, somehow, I understood the plan you were thinking of~"
+            },
+            {
+              "type": "narrator",
+              "text": "Rokusei smiles, recalling his previous experience of operating and fighting alongside him, but doesn't speak of it."
+            }
+          ]
+        },
+        {
+          "text": "Canes-kun's final blow was amazing.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "It's thanks to Rokusei-san and Sterio cornering the monster. And-<br>Because you observed me."
+            },
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "Thank you... hahaha.<br>I'm so happy.<br>I finally feel like I could be useful to someone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "A voice calls \"Hey!\" from afar.<br>When [Player] turns around,<br>they see Goro and Pubraseer."
+    },
+    {
+      "type": "narrator",
+      "text": "They rush towards each other and confirm their safety.<br>When everyone steps onto the beach,<br>the foothold on the sea surface quietly disappears."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "You're both so reckless.<br>You two are exactly like your<br>father and mother in that regard."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Rokusei, I was surprised when I<br>heard your voice on the comms, but...<br>Thanks for protecting these guys."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "Haha, I just spoke impulsively.<br>I'm sorry for causing unnecessary worry<br>during the rescue operation."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Hehe... At that time,<br>I wish I could have shown you<br>Genji glaring in your direction with such intensity."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "S-so that's how it was!?<br>If he was close, I might have been punched,<br>I'm glad I was fighting on the sea..."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "You went to a place like that<br>while responsible for the lives of the guests,<br>so a single punch would be a good outcome."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "Whoa, that scared me!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Genji approaches Rokusei from behind<br>and speaks into his ear<br>with a menacing voice."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Hahahaha! Well, it's fine.<br>All's well that ends well...<br>Speaking of which, we still have business to attend to."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "We'll escort the rescued visitors from the sea area<br>to the evacuation shelter.<br>You all should rest first."
+    },
+    {
+      "type": "narrator",
+      "text": "Saying \"See you later,\" Goro<br>leaves the spot with Pubraseer."
+    },
+    {
+      "type": "narrator",
+      "text": "In the distance, the apprentices<br>could be seen waving<br>with the visitors."
+    },
+    {
+      "type": "narrator",
+      "text": "The venue's broadcast can be heard.<br>It's an announcement to the visitors that the monster threat<br>has passed and about safety confirmation."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "…………….<br>That's good, safe and sound-"
+    },
+    {
+      "type": "narrator",
+      "text": "The feeling that the battle was over, and the sense of relief<br>from hearing the kind voices of those he trusted,<br>snapped his tension."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes' body, having been untransformed,<br>collapses at the knees<br>and falls onto the sandy beach-"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Canes-kun!?"
+        },
+        {
+          "text": "Whoa, watch out!",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "[Player] and Sterio<br>support Canes' body simultaneously from both sides."
+            }
+          ]
+        },
+        {
+          "text": "(Tries to support Canes)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Canes, are you okay!?<br>Does it hurt anywhere, are you injured?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "No, I just let my guard down a bit.<br>...Thank you, I'm fine now."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "You're not fine!<br>If you don't tell me the truth,<br>I won't forgive you... Humph!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Whoa, stop it, Sterio!<br>I can stand on my own, everyone's watching,<br>it's embarrassing, isn't it!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio easily lifts and carries<br>the clearly exhausted Canes on his back,<br>refusing to let go."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "No one here would be ashamed to see you two.<br>Just let your sibling pamper you for now, kid."
+    },
+    {
+      "type": "narrator",
+      "text": "Hearing Genji's words, which held kindness<br>within their rough tone, Canes meekly gives in."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Sorry, Sterio...<br>Then I'll rest for a bit, thank you."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Oh, did he fall asleep?<br>He really was at his limit, wasn't he?<br>Well, it can't be helped."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Then let's all go to the infirmary.<br>Sterio-kun, you should also get yourself<br>checked once to see if you're injured."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "That's your job.<br>I'm heading to the next site.<br>See ya... rest well, kids."
+    },
+    {
+      "type": "narrator",
+      "text": "Genji turns his back to everyone<br>and leaves, along with his farewell words."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "He's quite a difficult person, isn't he?<br>...No, perhaps he's just shy<br>about being with young people?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Well, deepening our friendship can wait for another time,<br>for now, let's take care of ourselves.<br>Come on, Sterio-kun."
+    },
+    {
+      "type": "narrator",
+      "text": "Seeing Canes and Sterio off to the infirmary,<br>Rokusei and [Player]<br>move to the food area."
+    },
+    {
+      "type": "narrator",
+      "text": "There were no customers yet as safety checks were still ongoing,<br>but the members of Parallel Flight Company<br>had finished their respective missions and returned."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "[Player]!!<br>You're not hurt anywhere, are you?<br>I saw the battle broadcast in the sea area."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "The president told me that<br>the rookie you were with had no problem<br>with his abilities, but..."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Oh, it seems the president<br>trusts me quite a bit.<br>That's good!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "I'm sorry it's so soon after the situation was resolved,<br>but shall we report what happened to us,<br>[Player]?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Explains calmly, step by step)"
+        },
+        {
+          "text": "Where should I start explaining..."
+        },
+        {
+          "text": "Bang! And a monster appeared-",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Akashi",
+              "avatar": "../char/akashi.png",
+              "text": "Wait, wait!<br>Rokusei-san, please, could you tell the story instead?<br>This person's explanation is super intuitive!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "Hoh~ a newly awakened person<br>defeated a giant monster... That's amazing.<br>Wait, no, it must have been tough for them."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "Hearing stories like this,<br>I can't help but remember<br>when I became a hero."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Yeah, yeah... I see,<br>Canes-kun also safely became<br>a hero. That's good."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Hero activities often involve life-threatening risks.<br>We've been through a lot, and<br>we're aware of that, but-"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "I think it's a harsh industry<br>for kids in their teens to enter.<br>Can they really make it?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Hmm, I think there's nothing to worry about?<br>As far as I've seen in just a few days of interacting<br>with them... but that's just my opinion."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I think so too.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "They straight up accepted the words of the active heroes they met at Hero Festa."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "So I'm sure they'll grow up to be wonderful heroes of the next generation that everyone will admire."
+            }
+          ]
+        },
+        {
+          "text": "That's up to them, I guess...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Oh, that's surprisingly cautious, isn't it?<br>...Indeed, [Player]-kun is right, though."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Situations much harsher than this incident can often occur..."
+            }
+          ]
+        },
+        {
+          "text": "What do you think, President?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I-if they were still the way they were<br>when I first met them, I would have<br>stopped them from becoming heroes."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "They're not like Mokdai-kun. It's very dangerous<br>to aim to be a hero just out of admiration<br>without knowing the threat of monster."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Moreover, we deal not only with monster,<br>but also with villains-<br>even other humans."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "It's good that our companions are increasing,<br>but I can't welcome it unconditionally.<br>It's very difficult."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "What Huckle says is true, but<br>I want to believe in their potential!<br>At least, from what I've heard in the report so far!"
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "I feel that they already have a sense of justice!<br>Then surely, they will overcome any obstacle!!!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Even though he showed some understanding<br>of his partner's words, Huckle's expression<br>remained stern."
+    },
+    {
+      "type": "narrator",
+      "text": "Then Rokusei makes a proposal<br>to the veteran hero."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "-President Huckle.<br>How about you talk to them directly?"
+    },
+    {
+      "type": "narrator",
+      "text": "The next day, Canes and Sterio,<br>who had slept until noon, are informed<br>by the hotelier that they have visitors."
+    },
+    {
+      "type": "narrator",
+      "text": "After getting ready and heading to the lobby,<br>Rokusei and [Player] were waiting there."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Good morning, you two."
+        },
+        {
+          "text": "You're late sleepers~",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "Sorry... Sterio and I couldn't wake up at all, so we just woke up and finished breakfast."
+            }
+          ]
+        },
+        {
+          "text": "Ahhh... good morning."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Good morning, everyone.<br>We were planning to greet you, but we overslept..."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "But Rokusei-san, Player-san,<br>why did you two come to see us?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "That's obvious, isn't it?<br>The meritorious ones<br>should naturally be rewarded, right?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Reward!?<br>What, what kind of reward will you give us?<br>Something we can share?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Don't be so greedy, Sterio!<br>What if you pounce on Rokusei-san<br>again and crush him!?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Ahahahaha! You're so young,<br>it looks like you two are<br>completely fine, health-wise, huh?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Then it looks like it's okay<br>to take you out of the hotel.<br>Are you two ready to go out?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Going out...?<br>It's still Hero Festa period, right?<br>Are we going somewhere else today?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's different, in a way, but-"
+        },
+        {
+          "text": "Our destination is indeed Hero Festa."
+        },
+        {
+          "text": "Well, you can look forward to it."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Canes & Sterio",
+      "avatar": "../char/placeholder.png",
+      "text": "……………<br>……………?"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and Rokusei<br>take the boys out and<br>head towards-"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "The stadium!<br>Come to think of it, today is the<br>O-1 Grand Prix finals, isn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Are we going to watch the match now?<br>But, but, Canes and I didn't buy tickets!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "It's okay. [Player]-kun and I<br>have already made arrangements,<br>so you two can enter too."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Amazing~!<br>Thank you very much!!"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] takes the happy two<br>and enters the stadium through<br>the staff-only entrance."
+    },
+    {
+      "type": "narrator",
+      "text": "However, the path leads in the opposite direction<br>from the spectator seating indicated on the walls and floor,<br>and Rokusei, who is accompanying them, shows no sign of pointing it out."
+    },
+    {
+      "type": "narrator",
+      "text": "Just as their anticipation began to turn into unease,<br>wondering where they were being taken,<br>the footsteps of those ahead stopped."
+    },
+    {
+      "type": "narrator",
+      "text": "In front of them is a single door.<br>Urged to open it,<br>Canes knocks on the door."
+    },
+    {
+      "type": "character",
+      "name": "????",
+      "avatar": "../char/placeholder.png",
+      "text": "-Come in!<br>It's open!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The person on the other side answers<br>with a volume that makes the door tremble.<br>There's no mistaking that voice-"
+    },
+    {
+      "type": "character",
+      "name": "Two People",
+      "avatar": "../char/Two People.png",
+      "text": "-It's Justice!!"
+    },
+    {
+      "type": "character",
+      "name": "Justice",
+      "avatar": "../char/ryekie.png",
+      "text": "Hahah! That's right!!<br>Welcome to our dressing room,<br>rookies!!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Opening the door with gusto,<br>the person exactly as the boys imagined<br>greets them with full force."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Hey, [Player]-kun...<br>Did he really wait for us like that<br>in his transformed state and flexing all that time?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's not impossible, so maybe?"
+        },
+        {
+          "text": "Well, he's Justice, so..."
+        },
+        {
+          "text": "Heroes are always at full power!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Real, real!?<br>Whoa~ so amazing!<br>I can brag to Papa and Mama~!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Eh, but why?<br>Justice, you aren't participating in<br>this O-1 Grand Prix, right?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Oh, you know quite a lot.<br>Then perhaps you can figure<br>out why we're here?"
+    },
+    {
+      "type": "narrator",
+      "text": "The man who smiles and asks questions,<br>seeing the surprised and joyful boys,<br>is someone the boys also know-"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Huckle-san!?<br>This is the players' waiting room, right?<br>Then it means you're going to participate in the match..."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Ah! It's an exhibition battle!<br>Come to think of it, they said this time,<br>the winning team and special guests would fight, right?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So this is the request from the Grand Prix."
+        },
+        {
+          "text": "Special guests... I see."
+        },
+        {
+          "text": "(He knows the entire program...)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle nods, confirming that's correct.<br>He continues speaking."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "However, another hero show<br>has suddenly been added."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "There was the monsters commotion yesterday, right?<br>The stadium was unharmed, but<br>all the visitors had a scary experience."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "So, they wanted to add<br>one more hero show that would give<br>everyone hope for the future."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes and Sterio's eyes sparkle,<br>listening intently to Huckle's words."
+    },
+    {
+      "type": "narrator",
+      "text": "They were convinced that Rokusei's reward<br>was the right to watch the heroes' match<br>up close. However-"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "-How about it, rookies.<br>Would you like to try fighting<br>me and Justice?"
+    },
+    {
+      "type": "character",
+      "name": "Canes & Sterio",
+      "avatar": "../char/placeholder.png",
+      "text": "……………<br>...Eh?"
+    },
+    {
+      "type": "character",
+      "name": "Canes & Sterio",
+      "avatar": "../char/placeholder.png",
+      "text": "Whaaaaaat!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Canes and Sterio are flustered<br>by Huckle's outrageous proposal."
+    },
+    {
+      "type": "narrator",
+      "text": "They have seen him fight directly in broadcasts,<br>and in Huckle's case, with their own eyes."
+    },
+    {
+      "type": "narrator",
+      "text": "They shouldn't be able to find any chance of victory<br>against a veteran hero who easily defeated<br>many apprentices by himself."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "No way...<br>We, who only experienced combat yesterday,<br>can't possibly win against Huckle-san and Justice!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Canes-kun-<br>Can you say those words the same way<br>in front of the people you're supposed to protect?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "If we were villains who<br>kidnapped your precious family,<br>would you give up like that?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Canes chokes on his words<br>at Huckle's point."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "If you're going to be active as heroes from now on,<br>you'll face many difficult<br>and sudden situations like this."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "You can run, or you can face it.<br>The important thing is, for whom<br>you make that choice."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Now, I'll ask again.<br>Rookies, are you willing to<br>fight against us?"
+    },
+    {
+      "type": "narrator",
+      "text": "Canes hesitates. Even if he puts<br>his whole being into it, he probably can't<br>match the veteran heroes' skill."
+    },
+    {
+      "type": "narrator",
+      "text": "But if this wasn't a hero show,<br>but a real fight to the death-<br>he couldn't think of any other option than to fight."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'll observe you.",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "He is startled by [Player]'s words.<br>He was again thinking only within himself and trying to reach a conclusion."
+            },
+            {
+              "type": "narrator",
+              "text": "Canes looks at his sibling, who is also being questioned by Huckle whether to fight or not."
+            }
+          ]
+        },
+        {
+          "text": "What do you want, Sterio-kun?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Of course I'll fight!<br>I'm a hunting dog, to run away just because the opponent is strong?<br>I've never thought of such a thing!"
+            },
+            {
+              "type": "narrator",
+              "text": "He realizes it from Sterio's words.<br>Again, he was thinking only within himself, and didn't even try to consult his partner."
+            },
+            {
+              "type": "narrator",
+              "text": "Canes looks up and looks at his sibling, who chose to fight without hesitation."
+            }
+          ]
+        },
+        {
+          "text": "(Watches Canes' choice)",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "While holding his head, Canes realized.<br>He is the one making the choice, but this problem is also being asked of his sibling-"
+            },
+            {
+              "type": "narrator",
+              "text": "He decides to first listen to his partner's opinion and looks at Sterio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "It's okay. Canes is strong.<br>I'm strong too, we're the children of the strongest<br>hunters, Papa and Mama. So we won't lose!"
+    },
+    {
+      "type": "narrator",
+      "text": "Without any basis,<br>but also without bluffing,<br>Sterio proudly proclaims with confidence."
+    },
+    {
+      "type": "narrator",
+      "text": "His sibling's words, simply believing<br>in the strength of his family,<br>were incredibly reassuring to Canes at that moment."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "...Surely, the old me would have<br>been exasperated or angry, saying<br>\"Don't be so reckless.\""
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "But now, I understand Sterio's words.<br>If we combine our strengths, even impossible things<br>can be overturned."
+    },
+    {
+      "type": "narrator",
+      "text": "Encouraged by his sibling's powerful assertion,<br>Canes' expression changes."
+    },
+    {
+      "type": "narrator",
+      "text": "He understands that aiming for victory in the hero show<br>is not for himself. It is for the citizens<br>who wish for peace and entrust their hope to heroes."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-Yes, please!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Canes bows deeply to Huckle, Ryekie,<br>and [Player], and Sterio follows suit."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Well, well, that's an amazing decision, isn't it?<br>It's a rare opportunity, but to fight against veterans...<br>Is that youth, perhaps?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hmm? What are you saying<br>as if you're not involved, \"Rokusei-kun\"?<br>You're also one of the rookies, aren't you?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "The calls I've been making aren't just for<br>Sterio-kun and Canes-kun.<br>They're for \"all three rookies\"."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Seriously!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei, who had been watching their exchange<br>as if it were someone else's problem,<br>involuntarily shouts at the sudden turn of events."
+    },
+    {
+      "type": "narrator",
+      "text": "He had assumed that Huckle, who knew his true identity,<br>must have been referring to the two boys as \"rookies.\""
+    },
+    {
+      "type": "narrator",
+      "text": "Furthermore, it was Rokusei himself who proposed<br>this hero show, and he never even considered<br>participating himself."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "No, no, I'm a rookie, but<br>I'm also an old man, and in terms of position,<br>it's a bit awkward to join between the two fresh ones..."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Right, Rokusei-san is a rookie too!<br>It would be reassuring if you fought with us!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Rokusei, ever since we met,<br>you've been doing all sorts of amazing things,<br>you're incredibly reliable!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Right, Rokusei-san!<br>Just like when we defeated that giant monster,<br>let's fight together!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Ah, the dazzling gaze of youth is piercing me!<br>Come to think of it, haven't I been<br>at your mercy ever since I met you!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's okay, right, Rokusei-san?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "[Player]-kun, why are you so enthusiastic!?<br>Were you always so fond of battles?"
+            }
+          ]
+        },
+        {
+          "text": "Coercion isn't good~",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "You say good things, [Player]-kun!<br>Well, it doesn't change the awkward situation at all, but..."
+            }
+          ]
+        },
+        {
+          "text": "(...He probably can't refuse.)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The boys, unaware that Rokusei<br>is actually a defense agency intelligence officer,<br>look at him with innocent anticipation."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "(This will surely leave a record, won't it?<br>How should I report this to my superiors?<br>...Well, I'll just have to think about it later!)"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Alright, alright!<br>It seems I have no choice but to brace myself...<br>I'll do my best."
+    },
+    {
+      "type": "character",
+      "name": "Canes & Sterio",
+      "avatar": "../char/placeholder.png",
+      "text": "Yay~!<br>Thank you very much!!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "It's decided, then. There's still<br>time before the main event. Get ready<br>in the next dressing room."
+    },
+    {
+      "type": "character",
+      "name": "Justice",
+      "avatar": "../char/ryekie.png",
+      "text": "I'm looking forward to it! Let's compete with each other<br>and make it a good battle that gives hope<br>to all citizens!! Hahahahaha!!!"
+    },
+    {
+      "type": "narrator",
+      "text": "With the consent of their opponents,<br>the stadium's operating committee officially<br>announces it to the audience."
+    },
+    {
+      "type": "character",
+      "name": "Audience",
+      "avatar": "../char/placeholder.png",
+      "text": "Hey, look at the screen.<br>\"Special Hero Show to be held\"<br>...Soon!?"
+    },
+    {
+      "type": "character",
+      "name": "Audience",
+      "avatar": "../char/placeholder.png",
+      "text": "The participating heroes will be<br>a secret until the match begins, huh, that sounds interesting.<br>I'll go buy more drinks now!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "Well... it's finally showtime.<br>Everyone, are you mentally prepared?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I'm ready~!<br>I'm super excited to fight strong heroes.<br>Hurry, hurry, let's start the battle!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Yeah... that's right...<br>Fighting in front of so many people,<br>I have to do it well..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Relax, relax!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "Y-yes!<br>I'm going to run a bit to loosen up!"
+            },
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Woof!?<br>Canes, wait, wait, the battle is about to begin, isn't it?"
+            }
+          ]
+        },
+        {
+          "text": "They're truly contrasting siblings.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "Well, it's probably not funny for him, but it's interesting how they're polar opposites, isn't it?"
+            }
+          ]
+        },
+        {
+          "text": "Rokusei-san, are you ready?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "Of course, I'm ready.<br>There's nothing I trust more than your operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "Come on, let's go.<br>At this point, whatever happens, happens.<br>Let's enjoy ourselves to the fullest, borrowing the veterans' strength!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "O-1 Grand Prix,<br>Special Hero Show!!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "In this stadium where hero agency<br>representatives vie for supremacy,<br>new heroes are making a surprise entrance!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "Everyone, you remember yesterday's events, right?<br>The incident where monsters appeared<br>all over the Hero Festa venue!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "Many heroes protected everyone,<br>but do you know there were rookies<br>who just debuted among them?"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "Oh, it seems there are people in the audience<br>who have realized what's about to happen, huh?"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "Alright, let's start right away!<br>Special Hero Show, first,<br>I'll introduce the fighters-!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "The meritorious person who suppressed the monster the other day,<br>a promising rookie full of youth appears!<br>Seize victory with your giant fists-"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "<strong>Rookie Hero, Canes!!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "One was also very active yesterday!<br>Overwhelming presence, or perhaps surprisingly healing?<br>Create a whirlwind in the stadium-"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "<strong>Rookie Hero, Sterio!!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "Unknown background, undisclosed agency,<br>why and what are you doing here!?<br>The truth is shrouded in mist-"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "<strong>Mysterious Veteran Rookie, Rokusei!!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "The rookies who defeated the giant monster<br>that rampaged in the sea area with the three of them,<br>are now appearing in this stadium-!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "What kind of heroes will they face-<br>Now introducing their opponents!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "That legend has returned!<br>The former S-rank hero's kicking techniques are still alive!<br>A traveler who traverses the world and even space-"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "<strong>Hopper the Face!!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "No introduction needed!<br>Roar to the heavens, echo through the earth, the roar of justice<br>of the S-rank hero who continues to reign supreme-"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "<strong>Zap the Justice!!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "Orient City's proudest veteran hero duo<br>will face the rookies' reckless challenge!"
+    },
+    {
+      "type": "character",
+      "name": "MC",
+      "avatar": "../char/placeholder.png",
+      "text": "From here on, you can't miss a single second!<br>Special Hero Show<br>-Match, start!!"
+    },
+    {
+      "type": "title",
+      "text": "Battle Start"
+    },
+    {
+      "type": "choice",
+      "note": "The following text is displayed right inside the battle,<br>so for the best experience, I'd recommend opening the game right beside it!",
+      "options": []
+    },
+      {
+        "type": "character",
+        "name": "Justice",
+        "avatar": "../char/ryekie.png",
+        "text": "Hah-hah! It's finally begun!!<br>Rookie heroes!!! Please, by all means,<br>show us your full power!!!!"
+      },
+      {
+        "type": "character",
+        "name": "Hopper",
+        "avatar": "../char/huckle.png",
+        "text": "Their ability to defeat giant monsters,<br>feel free to test how well it works<br>against humans."
+      },
+      {
+        "type": "character",
+        "name": "Rokusei (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "Geez, is this what veterans' composure are like?<br>Canes-kun, Sterio-kun,<br>you two say something back!"
+      },
+      {
+        "type": "character",
+        "name": "Canes",
+        "avatar": "../char/canes.png",
+        "text": "...Eh!? Yes, sir.<br>Nice to meet you!"
+      },
+      {
+        "type": "character",
+        "name": "Sterio",
+        "avatar": "../char/sterio.png",
+        "text": "I'll do my best too~!"
+      },
+      {
+        "type": "character",
+        "name": "Rokusei (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "So serious!?"
+      },
+      {
+        "type": "narrator",
+        "text": "Trigger condition: End of Turn 1"
+      },
+      {
+        "type": "character",
+        "name": "Justice",
+        "avatar": "../char/ryekie.png",
+        "text": "Indeed! They have good potential!!<br>But, attacks of that level<br>won't work against us at all!!!"
+      },
+      {
+        "type": "character",
+        "name": "Hopper",
+        "avatar": "../char/huckle.png",
+        "text": "Their teamwork isn't bad either. They understand<br>each other's roles. However—<br>that alone won't let you surpass us."
+      },
+      {
+        "type": "character",
+        "name": "Sterio",
+        "avatar": "../char/sterio.png",
+        "text": "I'm surprised, these two<br>are tough and fast, super strong!<br>This is getting fun!"
+      },
+      {
+        "type": "character",
+        "name": "Canes",
+        "avatar": "../char/canes.png",
+        "text": "We won't lose either—<br>But how should we attack?<br>I can't find any openings at all!"
+      },
+      {
+        "type": "character",
+        "name": "Rokusei (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "Oh dear~ those two fell for the seniors'<br>obvious provocation.<br>[Player]-kun, can you hear me?"
+      },
+      {
+        "type": "narrator",
+        "text": "Trigger condition: End of Turn 2"
+      },
+      {
+        "type": "character",
+        "name": "Rokusei (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "Stop!! Canes-kun, Sterio-kun,<br>just calm down a little, relax~!<br>You're not the only ones fighting!"
+      },
+      {
+        "type": "character",
+        "name": "Canes",
+        "avatar": "../char/canes.png",
+        "text": "Oh...! Sorry, Rokusei-san,<br>[Player]-san.<br>We just moved on our own."
+      },
+      {
+        "type": "character",
+        "name": "Sterio",
+        "avatar": "../char/sterio.png",
+        "text": "Whine... Sorry."
+      },
+      {
+        "type": "character",
+        "name": "Rokusei (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "Feeling alright, you two?<br>When fighting as heroes,<br>listen carefully to the operation and maneuver."
+      },
+      {
+        "type": "character",
+        "name": "Rokusei (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "If \"all of us fight together\" in this battle,<br>we can surely win. As for where to attack from—<br>[Player]-kun, I'm counting on your instructions!"
+      },
+      {
+        "type": "character",
+        "name": "Canes",
+        "avatar": "../char/canes.png",
+        "text": "That's right... understood.<br>[Player]-san,<br>I'm counting on you again!"
+      },
+      {
+        "type": "choice",
+        "note": "The following dialogue will change depending on who you reduce to 50% HP first.<br>Interestingly, none of them will trigger if you get both of them at the same time.",
+        "options": [
+          {
+            "text": "Zap the Justice (Ryekie)",
+            "dialogue_after_selection": [
+              {
+                "type": "character",
+                "name": "Justice",
+                "avatar": "../char/ryekie.png",
+                "text": "Whoa!? You're quite good!!<br>As expected of those who defeated a giant monster with just three people!!!"
+              },
+              {
+                "type": "character",
+                "name": "Hopper",
+                "avatar": "../char/huckle.png",
+                "text": "I see, so you're trying to take down Justice first.<br>It seems bold, but it's not a bad judgment."
+              }
+            ]
+          },
+          {
+            "text": "Hopper the Face (Huckle)",
+            "dialogue_after_selection": [
+              {
+                "type": "character",
+                "name": "Hopper",
+                "avatar": "../char/huckle.png",
+                "text": "Guh...! You're surprisingly good.<br>A variety of combinations that leverage individual strengths, that's your forte, isn't it?"
+              },
+              {
+                "type": "character",
+                "name": "Justice",
+                "avatar": "../char/ryekie.png",
+                "text": "Oh-hoh, so you intend to combine forces and defeat Hopper first!<br>That's a solid way to fight!! Good job!!!"
+              }
+            ]
+          }
+        ] 
+      },
+      {
+        "type": "choice",
+        "note": "The following dialogue will change depending on who you defeat first.<br>Un-interestingly, unlike the above condition, you cannot defeat both of them at the same time,<br>as any AOE attack (Rokusei's S3) will only reduce their HP to 1 at most.",
+        "options": [
+          {
+            "text": "Zap the Justice (Ryekie)",
+            "dialogue_after_selection": [
+              {
+                "type": "character",
+                "name": "Hopper",
+                "avatar": "../char/huckle.png",
+                "text": "Oh...!<br>You made Justice kneel, huh?<br>Is this the result of your true resolve?"
+              },
+              {
+                "type": "character",
+                "name": "Hopper",
+                "avatar": "../char/huckle.png",
+                "text": "But, can you keep fighting like that until the end?<br>I think it's about time I shift gears up another notch!"
+              },
+              {
+                "type": "character",
+                "name": "Rokusei (Rookies)",
+                "avatar": "../char/event_tsuneaki.png",
+                "text": "Whoa, whoa, whoa!?<br>That's unfair, President~!<br>You're not saying you're out of practice, are you!?"
+              },
+              {
+                "type": "character",
+                "name": "Sterio",
+                "avatar": "../char/sterio.png",
+                "text": "Whoa!?<br>Justice fell, and ViewPower increased a lot.<br>Is this our chance, or not?"
+              },
+              {
+                "type": "character",
+                "name": "Canes",
+                "avatar": "../char/canes.png",
+                "text": "You can't get discouraged at this point...!<br>Please, [Player]-san.<br>Let's finish this in one go!!"
+              }
+            ]
+          },
+          {
+            "text": "Hopper the Face (Huckle)",
+            "dialogue_after_selection": [
+              {
+                "type": "character",
+                "name": "Justice",
+                "avatar": "../char/ryekie.png",
+                "text": "Hopper!?<br>...You're good to defeat my partner!<br>As expected of a promising veteran rookie!! Hah-hah!!!"
+              },
+              {
+                "type": "character",
+                "name": "Justice",
+                "avatar": "../char/ryekie.png",
+                "text": "Alright!<br>In deference to you all, I'll also give it my all!!<br>Whoa-o-o-o-o-oh!!!!!!!!!!!"
+              },
+              {
+                "type": "character",
+                "name": "Rokusei (Rookies)",
+                "avatar": "../char/event_tsuneaki.png",
+                "text": "Gah!<br>Justice wasn't even serious yet!?<br>How strong are S-rank heroes anyway!?"
+              },
+              {
+                "type": "character",
+                "name": "Canes",
+                "avatar": "../char/canes.png",
+                "text": "...!<br>ViewPower rapidly gathered with this development.<br>Is this a chance for us...?"
+              },
+              {
+                "type": "character",
+                "name": "Sterio",
+                "avatar": "../char/sterio.png",
+                "text": "No turning back now!<br>[Player], let's finish this in one go~!!"
+              }
+            ]
+          }
+        ] 
+      },
+      {
+        "type": "narrator",
+        "text": "Trigger condition: Both Justice and Hopper is defeated"
+      },
+      {
+        "type": "character",
+        "name": "Justice",
+        "avatar": "../char/ryekie.png",
+        "text": "Whoa!? Brilliant, rookies!!<br>I see... your operation<br>drew out their full power!!!"
+      },
+      {
+        "type": "character",
+        "name": "Hopper",
+        "avatar": "../char/huckle.png",
+        "text": "You did well, [Player]-kun.<br>Even as your opponent, as your superior,<br>I can't help but be happy about your growth...!"
+      }
+  ]
+  

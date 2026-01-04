@@ -1,0 +1,513 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/lah/ikebukuro_sunshinest_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Although the incident was resolved,<br>the scars of the damage still remained<br>at the ceremony hall of Archimedes Colony."
+  },
+  {
+    "type": "narrator",
+    "text": "Rapid restoration work was being carried out,<br>primarily by the heroes themselves,<br>and the solemn atmosphere was gradually being restored."
+  },
+  {
+    "type": "narrator",
+    "text": "Having finished the day's work and disbanded,<br>[Player] was called over by a certain person."
+  },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Now, what should I do?"
+        },
+        {
+          "text": "I probably can't go too far."
+        },
+        {
+          "text": "Somewhere to kill time, let's see..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The boulevard, full of smiles and vitality.<br>[Player] looked around again. Then, there was—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "............<br>............"
+    },
+    {
+      "type": "narrator",
+      "text": "There was Gaisei,<br>wrapping himself in an aura so tragic,<br>it cut him off from his surroundings."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Ah, [Player]-dono.<br>What a coincidence, but please, command a battle immediately.<br>I have just found a suitable opponent..."
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei, seeing [Player] in his sight,<br>immediately smiled and walked straight up to them.<br>And then..."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "............<br>...Ah, it seems I've reached my limit."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh, eh!?"
+        },
+        {
+          "text": "G-Gaisei!?"
+        },
+        {
+          "text": "S-Suddenly!?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "He then lost his balance and leaned on [Player],<br>embracing them, muttering his words weakly."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "............<br>...I'm hungry."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Hah!?"
+        },
+        {
+          "text": "G-Gaisei!? Get a hold of yourself!"
+        },
+        {
+          "text": "H-Heavy..."
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/pfyatai_back.png"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...You saved me.<br>You have my thanks, [Player]-dono."
+    },
+    {
+      "type": "narrator",
+      "text": "Supported by [Player], he staggered along,<br>finally reaching a park that caught his eye—"
+    },
+    {
+      "type": "narrator",
+      "text": "After devouring a large amount of food<br>he'd bought from a nearby food stall,<br>Gaisei finally regained his composure."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "No, it's no big deal, but..."
+        },
+        {
+          "text": "How did you end up in that situation?"
+        },
+        {
+          "text": "What kind of favor should I ask for in return?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Gaisei",
+              "avatar": "../char/gaisei.png",
+              "text": "I have no intention of leaving the debt unpaid.<br>If there's anything I can do, please feel free to use this body as you wish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "So, why was I there, you ask?<br>It's a trivial reason, not worth speaking of—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "No, if I recall your words correctly,<br>conversation also leads to strength, doesn't it?"
+    },
+    {
+      "type": "narrator",
+      "text": "As if remembering the incident with the pillar of light,<br>Gaisei slowly opened his mouth, looking into [Player]'s eyes."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I no longer have a reason to stay on the moon.<br>I was supposed to return with the Observer, but...<br>it seems there's still some research left."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I was told to wait without battling anyone.<br>It's unpleasant, but to secure our return trip,<br>I had no choice but to—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I was waiting, but then I realized I had no money on me.<br>So I was walking around, wondering what to do."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So you walked around until you were in that state!?"
+        },
+        {
+          "text": "Anyway, that means..."
+        },
+        {
+          "text": "Couldn't you just contact Yotaro-kun?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...!!<br>I see, that's an option I hadn't thought of."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I rarely contacted anyone,<br>so it didn't occur to me at all."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...To converse, yes.<br>This is probably where one should start, I suppose."
+    },
+    {
+      "type": "narrator",
+      "text": "Having said that, Gaisei quietly lowered his face<br>and gazed intently at his own hands."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I am unskilled with words.<br>In the first place, I do not feel the necessity<br>of accomplishing anything using words."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Once, the director of the orphanage<br>where I grew up repeatedly said:<br>\"Be strong and kind\"."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "The director I knew always approached<br>any opponent with dialogue first.<br>...He said it was best if power didn't need to be shown."
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei clenched his gazed-upon hands tightly,<br>and strong emotions surfaced on his face."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "However, dialogue almost<br>never went well on my planet."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "—Negotiation, reconciliation, promises.<br>Such things that use words collapse<br>easily before overwhelming power!"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Therefore, I seek power.<br>Until my power surpasses all others, and I can<br>demonstrate that power, to me, that is the supreme value."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "........."
+        },
+        {
+          "text": "Gaisei, that's..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...Yet, [Player], you have<br>effortlessly shattered my premise."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "For me personally,<br>it's like a bolt from the blue.<br>To gain further power—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I must use words, which I am not good at...<br>And even master something as<br>fragile as relationships."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "My gratitudes, [Player]-dono.<br>I shall aim for even greater<br>heights and refine my own power."
+    },
+    {
+      "type": "narrator",
+      "text": "Having said that,<br>Gaisei held [Player]'s hand and smiled broadly,<br>just like if they were on a battlefield."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Um, you're welcome?"
+        },
+        {
+          "text": "I did say that, but..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Instruct me, [Player]-dono.<br>What do I have to do, and<br>how does one train a relationship?"
+    },
+    {
+      "type": "narrator",
+      "text": "Still holding hands tightly,<br>Gaisei shuffled closer to [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "T-Too close!",
+          "dialogue_after_selection": [{
+            "type": "character",
+            "name": "Gaisei",
+            "avatar": "../char/gaisei.png",
+            "text": "...Understood.<br>However, I myself am not very patient.<br>Please tell me in detail here."
+          }]
+        },
+        {
+          "text": "Calm down a little!",
+          "dialogue_after_selection": [{
+            "type": "character",
+            "name": "Gaisei",
+            "avatar": "../char/gaisei.png",
+            "text": "...Understood.<br>However, I myself am not very patient.<br>Please tell me in detail here."
+          }]
+        },
+        {
+          "text": "Um, first, get to know the other person..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "First, get to know the other person, you say.<br>I believe I have already said that about myself."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...Then that's not enough.<br>However, there isn't much that I can say."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Since I left the planet where my orphanage was,<br>refining my power has been my everything."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Battle, training, and then battle once more...<br>In this life of mine, everything else is trivial."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're thorough..."
+        },
+        {
+          "text": "What do you do besides battling and training?"
+        },
+        {
+          "text": "Any other hobbies...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Battle and training, and time outside of that, you ask?<br>...I don't do anything in particular."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "For me, it is meaningless time that<br>would pass without me realizing it."
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei spoke about himself in bits and pieces.<br>His face gradually clouded over, changing into one of displeasure."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "[Player]-dono,<br>would this truly lead to strength?<br>I am getting bored."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "As I have said earlier,<br>I'm not very good with words.<br>Is there no other method?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You get bored so fast!?"
+        },
+        {
+          "text": "Another method, huh..."
+        },
+        {
+          "text": "Um, like skinship?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I see, skinship.<br>...In that case, I have some recollection.<br>Indeed, the orphanage director used to do this..."
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Gaisei gently,<br>quietly clasped [Player]'s hand."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...I cannot feel much of a difference.<br>Other than that, indeed..."
+    },
+    {
+      "type": "narrator",
+      "text": "Pulling the clasped hand closer,<br>Gaisei gently embraced [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh, wait a minute!?"
+        },
+        {
+          "text": "G-Gaisei!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "This is... nice.<br>It's an unknown sensation,<br>different from the exhilaration of battle."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "As expected of you, [Player]-dono.<br>You would always show me<br>precise answers to my desires."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "If I continue this,<br>my power will reach even greater heights.<br>[Player]-dono, please transform once..."
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei, who had been<br>embracing [Player], loosened his grip.<br>The distance between them widened—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": ".........<br>........."
+    },
+    {
+      "type": "narrator",
+      "text": "Pulling his hand away,<br>Gaisei embraced [Player] even more strongly than before."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "What does this mean, [Player]-dono?<br>The moment I separated from you—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "An unbearable discomfort proceeded<br>to run through my body.<br>...I do not know of this sensation."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "However, the moment I touched you<br>again like this, that discomfort vanished.<br>I do not know the cause, but—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Please allow me to stay like this for a while longer.<br>...Even though it's not a battle, I can feel<br>a sense of exhilaration as if I'm receiving your command."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I just want to engrave this excitement,<br>this joy that's different from battle, into my body."
+    },
+    {
+      "type": "narrator",
+      "text": "Two shadows overlapped in the park enveloped in darkness.<br>The Earth, floating overhead, gently illuminated those shadows."
+    }
+  ]

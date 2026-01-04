@@ -1,0 +1,156 @@
+[
+    {
+    "type": "narrator",
+    "text": "—The sound of birds chirping from somewhere.<br>The sound of rustling leaves reaching the ears.<br>In a forest enveloped in silence."
+    },
+    {
+    "type": "narrator",
+    "text": "In that forest, stood a solitary log house.<br>[Player] stood at the swept and clean entrance, and rang the doorbell."
+    },
+    {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "—!<br>W-wait!!<br>Coming right out!!"
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "W-Waited long!!<br>It's g-good to see you, you...<br>Oh, voice person!!!!"
+  },
+  {
+    "type": "narrator",
+    "text": "—The sound of startled birds flapping their wings and flying away echoed in [Player]'s ears."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "Munu... haa...<br>Finally, I'm a little calmer..."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "...Still, I can't stay calm when I meet you...<br>No, I'm slowly calming down..."
+  },
+  {
+    "type": "narrator",
+    "text": "Leaving the flustered Astar,<br>[Player] checked the room they were invited into."
+  },
+  {
+    "type": "narrator",
+    "text": "Though few in number,<br>the sparkling clean furniture and swept floor<br>indicated a welcoming intent for visitors."
+  },
+  {
+    "type": "narrator",
+    "text": "On the furniture shelf were woodworking tools and<br>the stuffed animal they had observed at that time."
+  },
+  {
+    "type": "narrator",
+    "text": "—And,<br>there was a slightly worn letter<br>that must have been read many times over."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "However, what is it that you said<br>you wanted to hand to me directly?<br>I will always answer your call..."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "Oh, a gift!? From you!?<br>...Such a thing, are you sure?<br>I, I've already received enough from you, you know..."
+  },
+  {
+    "type": "narrator",
+    "text": "Astar held the wrapped item with his large hands.<br>His hands were trembling slightly."
+  },
+  {
+    "type": "narrator",
+    "text": "—Astar continued to hold the wrapped item with his large hands,<br>and his eyes continued to sparkle."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "—Hmm, what?<br>\"Open it quickly\"?<br>...If it's your wish, then I have no choice."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "...Chocolate? I'm happy, but why...?<br>\"Valentine's\"?<br>That's a culture I don't know, could you tell me about it?"
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "Hmm, \"a day to give chocolate\".<br>The recipient is... someone important<br>to that person..."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "An important person!?"
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "W-Wait!!<br>If you say that, it's like, I...!<br>To you...!!"
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "Such, such a thing can't be true!?<br>Because, I was able to meet you again...<br>And anything more than that is..."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "—No, that's not it.<br>What you taught me was...<br>\"the truth beyond preconceived notions\""
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "Niko also said...<br>...Feelings can easily go astray,<br>so express them with words and actions as much as possible."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "...Thank you, voice person.<br>You are also very... very important to me."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "Thank you for the chocolate.<br>...I also want to return something in kind to you.<br>To give you my utmost effort."
+  },
+  {
+    "type": "narrator",
+    "text": "Having said that, Astar hesitantly placed his hand over [Player]'s."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "...I want to convey my feelings to you.<br>How much I care for you...<br>To express that in words and in form."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "So... voice person.<br>\"Observer\"-san.<br>—My important person."
+  },
+  {
+    "type": "character",
+    "name": "Astar",
+    "avatar": "../char/astar.png",
+    "text": "Using \"my everything\".<br>I... want to prove my feelings for you."
+  }
+]

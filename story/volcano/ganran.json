@@ -1,0 +1,452 @@
+[
+    {
+      "type": "narrator",
+      "text": "—In gratitude to the heroes who defeated the monster,<br>a village-wide banquet is held."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and the others were at the center, receiving much hospitality."
+    },
+    {
+      "type": "narrator",
+      "text": "As the banquet began to settle down.<br>While [Player] was resting alone, a certain person called out to them."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "—[Player].<br>With the festival ongoing, are you enjoying it?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yes, I'm having a lot of fun!"
+        },
+        {
+          "text": "I'm being given a lot of treats."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Gahahaha!<br>If you're happy, then that's what matters most!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Despite all the dangers we faced,<br>I'm glad we can celebrate the village's safety like this!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "But still, I'm tired...!<br>Tonight, I think I'll go into a hot sauna,<br>and relax a bit."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "How about you?<br>Of course, I won't force you, but<br>would you like to go freshen up together later?"
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran sat next to [Player] and struggled to match their eye level."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course, if it's with Ganran-san!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Ganran",
+              "avatar": "../char/ganran.png",
+              "text": "Ohoho, you finally said something good!<br>Join me in this endurance contest!"
+            }
+          ]
+        },
+        {
+          "text": "I'm a little worried if I can keep up my stamina...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Ganran",
+              "avatar": "../char/ganran.png",
+              "text": "Of course, it doesn't have to be tonight,<br>you can always come anytime!<br>Join me in this endurance contest!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Well, when I'm with you all,<br>I just can't help but have fun and invite you, but<br>it's only fun if both of us are enjoying it, right!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Iron Rule, number one!<br>'Don't force anything on anyone who doesn't want it!'"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Oh, an Iron Rule, it appeared!"
+        },
+        {
+          "text": "The rules really suit a craftsman, don't they?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Smiling broadly, Ganran crossed his arms."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Ah, rules are important in everything!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "'If you're going to do it, do it with all your might'<br>'He who does not work, neither shall he eat'<br>'Always prioritize safety'—"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "'Live with hope at all times'<br>'Trust your companions and look forward'......"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Everyone follows these rules, so<br>we can play happily and<br>stay safe, right?"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "That's why I call the rules that must absolutely be followed,<br>\"Iron Rules\"!<br>So that everyone can be happy!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "...'Peace' and joy are what matter most!"
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Ganran put the drink he was holding to his lips."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "...I'm still inexperienced, but<br>my race is a bit longer-lived<br>than yours, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "I'm only just barely a full-fledged adult, but<br>I've seen a lot, you know."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Rather than seeing a country, a village—<br>someone's livelihood disappear before my eyes,<br>I prefer to see everyone laughing peacefully."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "That's why I create rules that are useful in such times.<br>At least so I don't get lost myself!"
+    },
+    {
+      "type": "narrator",
+      "text": "From the emotions glimpsed in Ganran's words,<br>[Player] remembered the story of Ganran's disciple."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Barte-san, I'm worried about her."
+        },
+        {
+          "text": "I'm praying she comes back soon."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Ah, thank you, [Player].<br>If you say that,<br>that sword-idiot will be happy."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "...That's right, since you're here,<br>I might as well tell you.<br>...The continuation of my old story."
+    },
+    {
+      "type": "narrator",
+      "text": "Taking another sip of his drink, Ganran murmured nostalgically."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "...My connection with that kid's parents was a strange one.<br>It all started when they came to the workshop and asked me to forge an axe."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "From then on, we gradually became friends.<br>Before I knew it, we were like family, doing everything together."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Barte was born, and<br>just when we were truly happy...<br>We suffered a monster attack."
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran placed his empty mug on the table and sighed softly."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "...Barte's parents, from way back, dreamed of lasting \"peace\",<br>and worked hard for it."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "I wanted to help them achieve that.<br>...That's why I'm happy that we were able to defeat the monster this time!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "I'm sure Barte, and her parents...<br>They would want this future too!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...I feel the same way."
+        },
+        {
+          "text": "We can't just leave the monster alone."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At [Player]'s words, Ganran nodded."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Barte is still a novice, but<br>she still has room to grow—<br>She's a good disciple."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Until she returns,<br>I, as her master, must keep the furnace lit and<br>continue to train myself."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "And I have to train my body and endurance,<br>or Barte will make fun of me when she comes back!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "I can't quit being a blacksmith until I forge the legendary axe,<br>and pass on that skill to my disciple!"
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran let out a hearty laugh, then tightened his arms."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "As expected of a craftsman!"
+        },
+        {
+          "text": "I really look up to you...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At those words, Ganran put his arm around [Player]'s shoulder and grinned."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Gahahaha!<br>What, are you interested too?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm curious, but..."
+        },
+        {
+          "text": "I'd like to become an apprentice too!"
+        },
+        {
+          "text": "I think blacksmithing looks interesting."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "I've seen enough of your guts!<br>You're suited for blacksmithing too."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "After that, you need a bit of strength too...<br>How are your muscles?<br>Come on, let me see!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Gahahaha, not bad!<br>Want to feel the results of my training too?"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "It's okay to do it hard!<br>Rather, do it harder...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran spread his chest, inviting [Player] to touch."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "These are a blacksmith's muscles!"
+        },
+        {
+          "text": "You're incredibly trained...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Gahahaha! Is that right?<br>...Oops, I got off topic!<br>Talking with you is so fun, I just get carried away!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "But, when it comes to work,<br>I can't compromise!<br>Especially when forging steel!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "If you're serious about becoming an apprentice,<br>then I'll have to seriously consider it,<br>Gahahaha!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Oh, that's right!<br>I have something to give you!"
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran, in high spirits, laughed and rummaged through his bag."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "In Earth, you give chocolate filled with feelings to the other person, right?"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "As the guide for ChocoFull,<br>I wanted to try that myself!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "The legendary chocolate, we'll make it together<br>with the hunters from now on—"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "This is my feeling!<br>Please accept it!"
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran took out a small package from his bag and handed it to [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Is it okay for me to have this?"
+        },
+        {
+          "text": "Ganran-san, I'm so happy!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "I don't know if Garunderra-style chocolate<br>will suit your taste, but..."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "...It's the first time in my life!<br>Please try it!!<br>Come on, open it!"
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran watched happily as [Player] opened the package."
+    },
+    {
+      "type": "narrator",
+      "text": "—The banquet reached its finale,<br>and a large firework brightly bloomed,<br>beyond their joyful voices."
+    }
+  ]

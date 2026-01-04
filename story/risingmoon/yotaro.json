@@ -1,0 +1,468 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/lah/ikebukuro_sunshinest_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Although the incident was resolved,<br>the scars of the damage still remained<br>at the ceremony hall of Archimedes Colony."
+  },
+  {
+    "type": "narrator",
+    "text": "Rapid restoration work was being carried out,<br>primarily by the heroes themselves,<br>and the solemn atmosphere was gradually being restored."
+  },
+  {
+    "type": "narrator",
+    "text": "Having finished the day's work and disbanded,<br>[Player] was called over by a certain person."
+  },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Now, what should I do?"
+        },
+        {
+          "text": "I probably can't go too far."
+        },
+        {
+          "text": "Somewhere to kill time, let's see..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The boulevard, full of smiles and vitality.<br>[Player] looked around again. Then, there was—"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": ".........<br>........."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Eh, wait.<br>[Player], what are you doing here!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's my line..."
+        },
+        {
+          "text": "I thought you had already left the moon!?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Hearing [Player]'s words,<br>Yotaro looked away awkwardly."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Um, well...<br>I was planning to return after doing<br>some shopping and gathering information, so..."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...By the way,<br>aren't you with the heroes today?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm on my own today.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yotaro",
+              "avatar": "../char/yotaro.png",
+              "text": "I see, considering the recent incident, I can't help but feel it's a bit careless..."
+            }
+          ]
+        },
+        {
+          "text": "I was with them until a moment ago.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yotaro",
+              "avatar": "../char/yotaro.png",
+              "text": "I see, considering the recent incident, I can't help but feel it's a bit careless..."
+            }
+          ]
+        },
+        {
+          "text": "How's Gaisei doing?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yotaro",
+              "avatar": "../char/yotaro.png",
+              "text": "I told Gaisei-kun not to get into a fight with anyone, and currently he's on standby in a different location."
+            },
+            {
+              "type": "character",
+              "name": "Yotaro",
+              "avatar": "../char/yotaro.png",
+              "text": "Even for minor errands, if we act together, it often results in a battle, so..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Well, that's fine in its own way.<br>...[Player], if you don't mind,<br>would you give me a bit of your time?"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "I had wanted to talk with you a bit more.<br>...It got quite chaotic the other day, after all."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Do you know a place where we can sit and talk?<br>If not, I'll just look for one."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Oh, in that case, I know a good place!"
+        },
+        {
+          "text": "It's a shop a colleague told me about."
+        },
+        {
+          "text": "Yotaro-kun, do you like sweets?"
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/trainlounge_party.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Led by [Player],<br>Yotaro stepped into a certain cafe."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...W-Wait a minute. [Player], this shop...<br>Isn't it a high-class establishment?"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "The menu looks quite expensive too—<br>...Eek."
+    },
+    {
+      "type": "narrator",
+      "text": "He glanced at the menu, and at the prices,<br>Yotaro let out a small shriek."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm the one paying, so don't worry about it."
+        },
+        {
+          "text": "I-It's more than I expected, but it's fine either way..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "When [Player] indicated their intention to pay,<br>Yotaro lowered his gaze awkwardly."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...S-Sorry.<br>The repair costs from the other day just<br>wiped out a large sum of money again."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Sorry, I'm the one who invited you,<br>but today I'm taking you up on your offer instead..."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro reached for a fork,<br>looking at the cake and tea set that was brought."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Delicious.<br>The taste really takes you back.<br>[Player], please have some too."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro placed a bite-sized piece of cake<br>on his fork and offered it to [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...That's a bit embarrassing.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yotaro",
+              "avatar": "../char/yotaro.png",
+              "text": "Ah, s-sorry.<br>I wasn't thinking at all..."
+            },
+            {
+              "type": "character",
+              "name": "Yotaro",
+              "avatar": "../char/yotaro.png",
+              "text": "It was an expensive cake, so I thought it would be wrong for me to eat it alone...!"
+            },
+            {
+              "type": "narrator",
+              "text": "Yotaro offered the entire plate of cake and gazed at [Player]."
+            }
+          ]
+        },
+        {
+          "text": "Yeah, it's very delicious!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...I had always wanted to<br>meet and talk to you."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "I wondered what kind of person you were,<br>that Gaisei-kun would be so obsessed."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "So, I intended to observe you during this ceremony.<br>It's like they say, 'seeing is believing'."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "But, after seeing you directly and fighting alongside you,<br>I had no choice but to be convinced."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...You're not just strong.<br>You have a mysterious scent that attracts people."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You observe with taste and smell, right?"
+        },
+        {
+          "text": "What's that like?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Um... well.<br>It's like knowing the taste of<br>something just by looking at it, I suppose."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "For example, when you see a cake,<br>you instinctively think it's sweet,<br>or if it's a lemon, it's sour, right?"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "I think it's close to that.<br>I can tell who someone is, or what state<br>they're in, by their taste and smell."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...What kind of taste and from where,<br>that is a bit too embarrassing to say..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "E-Embarrassing...?"
+        },
+        {
+          "text": "That's a sense I don't understand..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "It's fine if you don't understand.<br>After all, I can't understand your senses either, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "I shared it a little during the battle,<br>but it was a strange feeling."
+    },
+    {
+      "type": "narrator",
+      "text": "Having said that much,<br>Yotaro let out a small sigh."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...As I said before,<br>I don't dislike you."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "As fellow \"Observers\",<br>I think there are things<br>we can understand about each other."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "However...<br>I do think you're a bit unfair.<br>You're too blessed with luck."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro took another bite of cake,<br>a little sulkily."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...So, if you had been a bad person,<br>I thought I'd antagonize you, before even meeting you."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Yet... You were the kind of person,<br>who would choose to fight alongside<br>both me and Gaisei-kun."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "You treat others without discrimination,<br>and you even accept to cooperate<br>on operating with me..."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro looked up and<br>gazed directly at [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...If I had met you a little earlier,<br>I wonder if I could have chosen a<br>different path as an \"Observer\"."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "—Such a fantasy, now that I'm thinking about it,<br>perhaps that's just how much I'm interested in you."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro put down his fork.<br>His plate was empty."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "—Ah, that's right, [Player].<br>Please lend me your hand."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro took out his bag and<br>placed his hand over [Player]'s hand."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Since I'm a villain,<br>I can't leave you any information."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "However, I will definitely<br>repay you for the cake today.<br>I don't like being in debt myself."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "I want to be your equal.<br>...Until then, please hold onto this."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "It's my favorite,<br>so please don't lose it."
+    },
+    {
+      "type": "narrator",
+      "text": "He opened his hand,<br>and there was a small puppy keychain."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, Yotaro-kun."
+        },
+        {
+          "text": "I'll keep it safe."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Today, we met by chance again,<br>and just for a little while...<br>I'm happy enough to feel that way—"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "The more I think of you,<br>the more I think I like you."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...[Player], the cake was delicious.<br>Next time, it's my turn to treat you."
+    },
+    {
+      "type": "narrator",
+      "text": "From the cafe window,<br>looking down at Earth floating in the sky,<br>the two quietly laughed to each other."
+    }
+  ]

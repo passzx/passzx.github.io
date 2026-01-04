@@ -1,0 +1,38 @@
+[
+    {
+      "category": "Event Quests",
+      "items": [
+        { "id": "chapter-1", "title": "Chapter 1" },
+        { "id": "chapter-2", "title": "Chapter 2" },
+        { "id": "chapter-3", "title": "Chapter 3" },
+        { "id": "chapter-4", "title": "Chapter 4" },
+        { "id": "chapter-5", "title": "Chapter 5" },
+        { "id": "chapter-6", "title": "Chapter 6" },
+        { "id": "chapter-7", "title": "Chapter 7" },
+        { "id": "finale", "title": "Finale" }
+      ]
+    },
+    {
+      "category": "Epilogue Quests",
+      "items": [
+        { "id": "event_reXer", "title": "\"Burning Oath\" reXer" },
+        { "id": "ryusei", "title": "Ryusei" },
+        { "id": "ganran", "title": "Ganran" },
+        { "id": "giansar", "title": "Giansar" },
+        { "id": "tsuneaki", "title": "Tsuneaki" },
+        { "id": "tabit", "title": "Tabit" },
+        { "id": "esperdica", "title": "Esperdica" },
+        { "id": "raizi", "title": "Raizi" },
+        { "id": "obsidius", "title": "Obsidius" },
+        { "id": "theoreol", "title": "Theoreol" },
+        { "id": "danzo", "title": "Danzo" },
+        { "id": "galvo", "title": "Galvo" },
+        { "id": "grigory", "title": "Grigory" },
+        { "id": "zaniah", "title": "Zaniah" },
+        { "id": "yuhang", "title": "Yuhang" },
+        { "id": "astosis", "title": "Astosis" },
+        { "id": "yohack", "title": "Yohack" },
+        { "id": "astar", "title": "Astar" }
+      ]
+    }
+  ]

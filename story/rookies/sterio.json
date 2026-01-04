@@ -1,0 +1,536 @@
+[
+    {
+      "type": "narrator",
+      "text": "The final day of Orient City's big summer event,<br>\"Hero City Summer Festa\"-"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Awooo~!<br>This waterslide is<br>so much fun~!!"
+    },
+    {
+      "type": "narrator",
+      "text": "In a corner of the beach area,<br>a beastman alien boy<br>was playing innocently at an attraction."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Is it okay for you to have your clothes on?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "It's fine, fine, I can swim just fine in these clothes!<br>I properly put away my valuables!"
+            }
+          ]
+        },
+        {
+          "text": "Glad I brought my swimsuit..."
+        },
+        {
+          "text": "Yahooo!!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "[Player], thank you, thank you<br>for playing with me today!<br>I'm so happy!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I wanted to visit all the places<br>I haven't been to yet<br>before Hero Festa ends~"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So you only got to play around on the first day?"
+        },
+        {
+          "text": "Come to think of it, it was like a field trip, wasn't it?"
+        },
+        {
+          "text": "Various incidents also happened..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "That's right!<br>Work and study are important, but<br>after they're over, you need a break too!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "[Player], you've been working super hard,<br>so today, let's play to our heart's content with me!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Alright, let's play!"
+        },
+        {
+          "text": "Can't be helped, I'll go along with it."
+        },
+        {
+          "text": "Actually, I can't swim...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Really!?<br>Then you can ride on my back.<br>I'm good at swimming, so it's fine!"
+            },
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "If you don't like the sea, we can go to the beach or another place to play!<br>For example-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Attractions at the beach area~<br>food stalls~ tell me if there's any place<br>you want to go! Alright, let's go~!"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] is invited by Sterio<br>and explores various areas<br>of Hero Festa."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Watermelon smashing!?<br>Papa told me about that,<br>I want to try it!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Hum hum? Blindfolded~<br>spinning around~<br>......"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Ugh~ I'm dizzy and<br>can't walk straight~"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "More to the right, right!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Sniff sniff...<br>The sweet smell is getting closer, is it here?<br>Hyaah-"
+            },
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Whoa~ I successfully split the watermelon in half!<br>[Player], let's eat together!"
+            }
+          ]
+        },
+        {
+          "text": "Smash it with all your might!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Alright, I'm gonna do it~!<br>Awooo~!!"
+            },
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Whoa!? I put too much strength into it, and the watermelon got all smashed~!<br>How do we eat this now?"
+            }
+          ]
+        },
+        {
+          "text": "Be careful!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Whoa~!<br>I'm running on the sea like Rokusei's Parallel Weapon,<br>that's amazing~!!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Swimming is fun too,<br>but this towing tube is fast,<br>and the wind feels really good!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's thrilling and fun~!"
+        },
+        {
+          "text": "Ahhhhhhhhhhh, a little too fast, maybe!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "[Player], if you're scared, hold on to me tighter!<br>I'll support you so you don't fall!"
+            }
+          ]
+        },
+        {
+          "text": "(Too scared to speak)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Munch munch munch munch...<br>Fried noodles, grilled squids, fried pancakes,<br>all delicious and I'm so happy~!"
+    },
+    {
+        "type": "choice",
+        "note": "(*) 焼きそば (yakisoba), イカ焼き (ikayaki), (お好み焼き) okonomiyaki respectively.<br>Though I do have to admit turning the 3rd one into<br>\"fried pancakes\" does sound kinda weird...",
+        "options": []
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "What should I eat next...? Hmm?<br>Look, look, [Player], over there<br>they're eating live fish!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's not food!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Is that so?<br>Ornamental fish?<br>They're certainly pretty colors, and I never get tired of watching them!"
+            }
+          ]
+        },
+        {
+          "text": "I see, he doesn't know about goldfish scooping.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Stall Owner",
+              "avatar": "../char/Stall Owner.png",
+              "text": "This is no time to be admiring, you there!<br>...This is a goldfish scooping stall, I'll explain it to you, so won't you come play?"
+            }
+          ]
+        },
+        {
+          "text": "Hmm, that's wild."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Having thoroughly enjoyed all the attractions in the venue,<br>[Player] and Sterio returned to the beach area."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Phew~.<br>I played so much,<br>I'm very satisfied~!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "How about you, [Player]?<br>Did you have fun?<br>Did you get to relax?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I had fun!"
+        },
+        {
+          "text": "I feel refreshed, thank you."
+        },
+        {
+          "text": "I played too much and I'm tired...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "I know~!<br>Sometimes after playing a lot, I get exhausted and just fall asleep~!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "With an innocent smile towards [Player],<br>Sterio wags his big tail excitedly."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I like the sea of Muirauka IV,<br>but I've come to like Earth<br>just as much because it's so much fun."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Tomorrow is the day we go home, but<br>I still haven't played enough,<br>and I want to come to Earth again someday."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "By the way, [Player],<br>have you ever been to<br>anywhere in Muirauka I through VI?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I've been to III and IV!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Really!?<br>Did you go for hero work?<br>I want to take on that kind of work too!"
+            }
+          ]
+        },
+        {
+          "text": "I think I went to some of them."
+        },
+        {
+          "text": "Not yet."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "If [Player] ever comes to<br>anywhere in Muirauka, tell me!<br>If I know the place, I'll guide you!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I want to play with you again on any planet.<br>I'm super happy when I'm with you, [Player]!"
+    },
+    {
+      "type": "narrator",
+      "text": "With an innocent smile,<br>Sterio proposes to [Player]<br>what he had just thought of."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Oh! That's right, I thought of something good.<br>[Player], next time, come to my house,<br>and I'll introduce you to Papa and Mama~!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "[Player], you helped Canes and me transform,<br>and helped us so much at Hero Festa,<br>you're our benefactor!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Giving proper thanks to people you're indebted to<br>is very important as an adult.<br>I know that!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, I'll plan it next time.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Whoa~ I did it~!<br>Oh, but no rush at all,<br>hero work seems busy!"
+            }
+          ]
+        },
+        {
+          "text": "Is it still a bit too early?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Whoa~!?<br>Then, then, when would be a good time?<br>After I start hero work, maybe?"
+            }
+          ]
+        },
+        {
+          "text": "Come pick me up someday.",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Sterio",
+                "avatar": "../char/sterio.png",
+                "text": "Okay~!? Understood~!<br>I'll work hard at both hunting and hero work<br>and earn money for the trip~!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I'll be looking forward to the day<br>I can see [Player] again, always!<br>Promise, promise."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I talked to various people at this Hero Festa,<br>and I'm a little less scared<br>of being separated from Canes."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Even if we part, there's the joy of meeting again next time.<br>Even if we can't meet, we have memories.<br>It's the same whether I have a role or not."
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio, who had mostly only focused on his family,<br>experienced several days that were-<br>stimulating, shocking, fascinating, and irreplaceable."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I won't forget everyone.<br>President, Justice, and also,<br>Mighty Knuckle and Naruhito and-"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Hero teachers, Pirate Captain,<br>Goro, Gen-jiji, Pubraseer.<br>Loren, Rakta-sensei... everyone, everyone."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Everyone I met with Canes, Rokusei, and you, [Player].<br>All of them are my precious memories."
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio looks up at the sky,<br>recalling the people he met on a distant planet.<br>Numerous unfamiliar stars floated in the night sky."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "It's beautiful~!<br>It's completely different from the sky on Muirauka I,<br>but it's sparkling just the same!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "......<br>Hey, [Player]. Can you<br>see Muirauka I from Earth?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You can't see it from here."
+        },
+        {
+          "text": "I wonder if you can see it through a telescope...?"
+        },
+        {
+          "text": "Hmm, I don't know."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio hears [Player]'s<br>reply and understands intuitively."
+    },
+    {
+      "type": "narrator",
+      "text": "That Earth and his homeland were<br>so, so far apart.<br>-Even if it were easy to travel by spaceship."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "......<br>...I see."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Shall we go home soon?"
+        },
+        {
+          "text": "I'll walk you to your inn."
+        },
+        {
+          "text": "The wind's gotten cold, hasn't it?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Sterio gently holds<br>[Player]'s hand, who is about to head<br>towards the Hero Festa exit, and stops them."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "[Player]... please.<br>Just a little more, I want to stay together."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Tomorrow, I'm going back to Muirauka I.<br>I know that-<br>but I want to stay in \"today\" a little longer..."
+    },
+    {
+      "type": "narrator",
+      "text": "Even knowing it would be even harder later,<br>Sterio imprints the warmth of the person<br>he feels now into his memory."
+    },
+    {
+      "type": "narrator",
+      "text": "So that he can remember his precious Earth companions,<br>no matter how far away<br>the chance to meet again might be."
+    },
+    {
+      "type": "narrator",
+      "text": "He wraps [Player] in his thick fur.<br>To ensure they never feel he coldness of the<br>lonely wind blowing on the sandy beach-"
+    }
+  ]
+  

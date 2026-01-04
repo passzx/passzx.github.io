@@ -1,0 +1,562 @@
+[
+    {
+      "type": "narrator",
+      "text": "The final day of Orient City's big summer event,<br>\"Hero City Summer Festa\"-"
+    },
+    {
+      "type": "narrator",
+      "text": "Tsuneaki, having finished his mission early,<br>reclines on a deck chair,<br>gazing at the visitors in the beach area."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Sorry to keep you waiting!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Not at all!<br>This old man can wait for you indefinitely, so don't worry, [Player]-kun."
+            }
+          ]
+        },
+        {
+          "text": "Aren't you early?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Is that so?<br>It's much better than arriving at the last minute and making you wait outdoors in the summer, [Player]-kun."
+            }
+          ]
+        },
+        {
+          "text": "So you were completely off-duty...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "-Hi there, [Player]-kun.<br>I'm enjoying my vacation in<br>Orient City ahead of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "We've both finally been released from work,<br>so let's spend today relaxing by the sea, shall we?<br>Right, doesn't that sound good?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course!"
+        },
+        {
+          "text": "Let's play today~"
+        },
+        {
+          "text": "I'm worried about the remaining work...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Alright, alright, don't worry about that!<br>Leave the rest to your seniors or your future self, and let's just think about having fun with me today, okay?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Alright, it's settled.<br>Today, you and this old man will enjoy<br>the beach area's events and activities to the fullest!"
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Oh~ an idol concert on the beach, huh?<br>As expected, NeoTalents are outstanding<br>when it comes to captivating the audience."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The monster commotion before, too-",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "-Yes, that's right.<br>Thanks to the efforts of Kouki-kun and the heroes from that agency, the customers' hearts must have been greatly soothed."
+            }
+          ]
+        },
+        {
+          "text": "Did you work with them?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Several times for public work.<br>Most of the recordings were in Kyoto, but all the talents were wonderful!"
+            }
+          ]
+        },
+        {
+          "text": "(Cheers for the idol)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Eh, you like idols that much-<br>Y-you even brought your own penlight!?<br>But it's daytime now, so you can't use it, can you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Oh, this is delicious!<br>Honestly, I didn't expect much, but<br>you can't underestimate the food at the beach house, can you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's a city-wide festival!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Oh?<br>[Player]-kun, are you actually in love with Orient City?<br>That line sounds like me introducing Shinraku."
+            }
+          ]
+        },
+        {
+          "text": "You probably don't usually eat this kind of food.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Do you think I only go to fancy and expensive restaurants?<br>That's not true!<br>This old man's daily life is quite simple."
+            }
+          ]
+        },
+        {
+          "text": "(Eats fried noodles silently)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Ahaha, [Player]-kun, you must have been hungry?<br>Look, you've got sauce on your cheek."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "After a break, let's move a little.<br>Oh, I don't mean swimming. There are many<br>other ways to enjoy the sea, aren't there?"
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "That's right, move the paddle like that-<br>You're good~!<br>Have you ever done SUP boarding before?"
+    },
+    {
+      "type": "choice",
+      "note": "SUP stands for Stand Up Paddleboard.<br>Think of it like a traditional surfboard,<br>but you also hold a paddle along with it.",
+      "options": [
+        {
+          "text": "This is my first time."
+        },
+        {
+          "text": "Tsuneaki-san, you are a good teacher.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Hehe, [Player]-kun, you say such nice things.<br>This old man might get carried away~?"
+            }
+          ]
+        },
+        {
+          "text": "Don't talk to me... I'm about to fall into the sea.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Whoa!? Calm down, it's okay.<br>I'm supporting you, so let's slowly regain your balance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Hey [Player]-kun. How about we go to<br>that floating attraction in the sea<br>after this?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Sounds fun, let's go!"
+        },
+        {
+          "text": "I feel like that's for kids...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "There are families and couples there, you know?<br>It seems adults can enjoy it too.<br>Let's return to our childlike innocence!"
+            }
+          ]
+        },
+        {
+          "text": "Should I \"accidentally\" drop you into the sea?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "That would cease to be an accident if I say it now, wouldn't it!?<br>Oh, I see, you're expecting this old man to say the classic \"Don't push me!\" line, right?"
+            },
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "If you play around and fall into the sea in places like this, you'll get severely scolded.<br>This old man is too old for that, so I'd rather not!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "...Still, spending time with someone else<br>like this isn't bad at all.<br>It's different from a vacation spent alone."
+    },
+    {
+      "type": "narrator", 
+      "text": "Having thoroughly enjoyed marine leisure,<br>[Player] and Tsuneaki walked side by side on the beach area's sand."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Oh, I really enjoyed myself.<br>It's been a while since I could spend<br>my vacation with such a calm heart."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "When I first came to Hero Festa,<br>I was worried about what would happen...<br>But in the end, it turned out pretty well."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "And the Mr. Bureaucrat agreed to cover for me,<br>so for now, I can probably return to my original work<br>without much worry."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I see, when this is over-",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "I'll return to the \"agency\" once this is over, but I'll probably head to another \"business trip location\" when the time is right."
+            }
+          ]
+        },
+        {
+          "text": "You still seem busy, Tsuneaki-san.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "What are you talking about!<br>Your job isn't easy either, is it?<br>We're both in the same boat."
+            }
+          ]
+        },
+        {
+          "text": "(Looks at him with a sad face)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Now, don't give me that face.<br>This was a coincidence, but the day<br>we meet again will surely come."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki",
+      "avatar": "../char/tsuneaki.png",
+      "text": "...That's right, [Player]-kun.<br>Could you please transform me<br>into that form again?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I don't mind, but-"
+        },
+        {
+          "text": "(Operates the device)"
+        },
+        {
+          "text": "I already returned that device.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki",
+              "avatar": "../char/tsuneaki.png",
+              "text": "No, not that one!<br>It's the form that you<br>properly observed, alright!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As [Player] operates the device,<br>Tsuneaki's body is enveloped in red light<br>and changes into the form of a \"rookie hero\"."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "...Thank you. This form that only you show me,<br>though it is certainly my potential,<br>it is just like a temporary dream or illusion."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "However, even if it is fleeting,<br>it is a memory I want to cherish.<br>Just as much as the dream-like days I spent with you."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's not a dream, Tsuneaki-san."
+        },
+        {
+          "text": "I'll always \"watch\" your dreams."
+        },
+        {
+          "text": "Let's go to the sea together again."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "...You say such things so casually.<br>Don't you know how heavily your words<br>resonate in my heart?"
+    },
+    {
+      "type": "narrator",
+      "text": "Tsuneaki takes a big step forward,<br>closing the distance with [Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "He takes off his hero suit jacket,<br>and even removes the mask he usually wears,<br>confessing his true feelings that he had kept hidden."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "How happy I was to reunite with you by chance.<br>How enjoyable and irreplaceable it was<br>to do hero activities with you."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "I don't want these summer days to end.<br>[Player]... if possible,<br>I want to take you away right now."
+    },
+    {
+      "type": "narrator",
+      "text": "It was far from flirtatious, sweet-sounding words;<br>it was a direct and unadorned voice from the heart."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "But, for now-",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "-I know, this isn't the time for that.<br>At least not until I achieve my own objective."
+            }
+          ]
+        },
+        {
+          "text": "Even so, I don't mind.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "Haa... it's not good.<br>Even if you're fine, I'm not.<br>I can't do such a thing halfway through my goal."
+            }
+          ]
+        },
+        {
+          "text": "(Looks at Tsuneaki's face silently)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "...You, how much do you intend to see through me?<br>Sometimes, looking into your eyes frightens me."
+            },
+            {
+              "type": "character",
+              "name": "Tsuneaki (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "Ah, that's right, it's not the time to welcome you.<br>At least not until I achieve my own objective."
+            }
+          ]
+        }
+      ]
+    },
+      {
+        "type": "character",
+        "name": "Tsuneaki (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "You in Kyoto,<br>made me remember<br>the kindness of others."
+      },
+      {
+        "type": "character",
+        "name": "Tsuneaki (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "And in this sea,<br>you let me play an active role<br>as a proper hero."
+      },
+      {
+        "type": "character",
+        "name": "Tsuneaki (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "You illuminate and show me the path<br>I couldn't find alone.<br>That is who you are to me, [Player]."
+      },
+      {
+        "type": "character",
+        "name": "Tsuneaki (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "To fulfill that person's wish,<br>my strength alone isn't enough.<br>You compensate for that."
+      },
+      {
+        "type": "character",
+        "name": "Tsuneaki (Rookies)",
+        "avatar": "../char/event_tsuneaki.png",
+        "text": "Yet, to try and take away such a precious person<br>due to my own temporary sentimentality...<br>I'm sorry. I lost myself."
+      },
+      {
+        "type": "text",
+        "text": "The distance remains closed, but his voice<br>returns to a soft and calm tone."
+      },
+      {
+        "type": "text",
+        "text": "Tsuneaki recalls his own position.<br>No matter what the person in front of him says, he must tell himself<br>that these summer days were a dream."
+      },
+      {
+        "type": "text",
+        "text": "Even for the current Tsuneaki, who understands<br>that human connections can become strength, not weakness."
+      },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "I'll continue to watch over you<br>from afar, as always.<br>So, please don't be reckless from now on too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You too, Tsuneaki-san.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "...Truly, thank you, [Player]."
+            }
+          ]
+        },
+        {
+          "text": "I wish you well too.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "Pledging to meet again, huh... haha.<br>It's a small thing, but sharing a dream with someone is a good feeling."
+            }
+          ]
+        },
+        {
+          "text": "Let's definitely meet again.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tsuneaki (Rookies)",
+              "avatar": "../char/event_tsuneaki.png",
+              "text": "That's right-<br>Ah, I'm thinking of the same thing too."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "This form that you observed<br>gives me courage."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "That I can be anything,<br>that I can face any difficulty."
+    },
+    {
+      "type": "character",
+      "name": "Tsuneaki (Rookies)",
+      "avatar": "../char/event_tsuneaki.png",
+      "text": "[Player].<br>I will never forget the<br>potential you observed of me, ever."
+    },
+    {
+      "type": "narrator",
+      "text": "The long silhouette cast on the sandy beach<br>of the beach area, dyed in the sunset,<br>overlaps into one. Leaving behind an unforgettable memory-"
+    }
+  ]
+  

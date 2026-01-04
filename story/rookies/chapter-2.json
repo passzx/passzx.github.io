@@ -1,0 +1,2021 @@
+[
+    {
+      "type": "narrator",
+      "text": "[Player] and the others<br>passed through a nearby passageway<br>and moved to an empty warehouse."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Why are you at Summer Festa?"
+        },
+        {
+          "text": "In what 'position' are you here?"
+        },
+        {
+          "text": "Is that a specially designed hero suit?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The man who called himself Rokusei<br>took off his sunglasses and, in a carefree manner,<br>answered the questions."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Now, now, don't rush. I'll<br>explain everything in order.<br>That's right, I once-"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Rokusei-san, please be brief.<br>Don't forget that we have a mission<br>at Hero Festa."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "-No, no.<br>It's just a joke, just a joke!<br>Um, where should I start...?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Let's start after [Player] finished<br>their business trip to Kyoto.<br>Until then, it's already shared within the company, right?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Business trip to Kyoto-<br>I see, so you were the person [Player]<br>was indebted to at that time."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Oh, it's so easy to talk to someone who understands quickly,<br>this old man is so happy!<br>Though I'm the one who was indebted to them."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Yes, after that \"incident\" in Kyoto,<br>I returned to \"the organization I was staying at\"-<br>and it was terrible."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Of all things, they defiled the area<br>they consider sacred.<br>It was a huge mess with accountability and sanctions."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "That triggered various skirmishes<br>between large and small factions, and<br>even nearly caused an internal conflict."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "That organization is desperate to quell<br>the internal strife, so they are currently<br>in no condition to engage in external activities."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "It's convenient because it doesn't harm the public,<br>but, there were also some troublesome aspects."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Because all surveillance shifted inwards,<br>my original objective... espionage,<br>has become much more difficult than before."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "So, for now, to show my obedience as an organization member,<br>I came here under the guise of<br>investigating the heroes' movements."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "I knew beforehand that \"special hero suits\"<br>would be introduced-"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "So I thought it would be perfect for<br>moving around while hiding my true form,<br>and that's why I'm pretending to be a rookie."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Sounds tough as ever.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "That's right!<br>I have reasons why I can't walk around the venue in my usual hero suit."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "After all, this Summer Festa is hosted by a big company called Raidark, isn't it?"
+            }
+          ]
+        },
+        {
+          "text": "Is your usual suit that inconvenient?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Of course.<br>This Summer Festa is hosted by Raidark Co., right?"
+            }
+          ]
+        },
+        {
+          "text": "(What are they talking about...?)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "…………….<br>Huckle-san, um, [Player], are you okay?"
+            },
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Is there any problem?<br>I'll explain it clearly later on my end."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Oh, that's how it is...<br>President, you must be busy, too?<br>Um, I'll continue the story."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "I had circumstances that prevented me from wanting to walk around Summer Festa in my original hero suit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "It's hard to interfere with records<br>of events hosted by private companies,<br>not just battle live archives."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Besides, [Player]'s<br>senior... Mokdai-kun, is a passionate<br>fan who knows my hero form."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "I wanted to avoid the commotion of<br>\"Rare Hero Appearance!\",<br>so I took this approach."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "The people in \"the organization\"<br>don't recognize me as anything<br>more than \"labor.\" "
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "I want to take advantage of their lack of interest<br>and keep my hero identity a secret."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "So, during this event,<br>could you please treat me as a rookie hero?<br>I'm counting on you!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course, Rokusei-san.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "That would help me so much~ thank you!<br>I always feel indebted to you, I really do, trust me?"
+            }
+          ]
+        },
+        {
+          "text": "President Huckle... is this okay?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Come on, [Player].<br>Push a little harder?<br>Like, \"It's okay, right?\"<br>Say it together, one, two, three!"
+            }
+          ]
+        },
+        {
+          "text": "Go get coffee, rookie.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Senior delinquent operator!?<br>Hey, hey, are you okay with your subordinate saying such power-harassment things?"
+            },
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Hahaha, [Player].<br>You shouldn't \"pamper\" rookie heroes too much."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "President Huckle, you're the type who can joke around too?<br>What a fun workplace~!"
+            },
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Oh, my apologies.<br>I was almost swayed by your playful demeanor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...Rokusei-san, may I ask you<br>one thing first?"
+    },
+    {
+      "type": "narrator",
+      "text": "After confirming that the person he was asking<br>nodded, Huckle continued speaking."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Regarding this Summer Festa,<br>is \"either\" of your affiliated<br>organizations involved?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "...No, neither is involved.<br>Though my answer has to be<br>\"at least as far as I know.\""
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "As I explained earlier, one side cannot act,<br>so the other side has no reason to move...<br>That's the situation."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Should I, by any chance, spot<br>a member of either organization within this venue,<br>I will immediately contact you, President."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Thank you. For now, I can only hope<br>that no unforeseen accidents occur<br>during the Festa."
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle concludes that it's probably safe<br>to assume the festival will proceed<br>as usual this year."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, he extended his dominant hand forward,<br>intentionally changed his tone,<br>and showed his willingness to cooperate with Rokusei."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "-Was it Rokusei-kun, the rookie?<br>Please take good care of our [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "President Huckle... thank you!<br>You know, no matter how serious I act,<br>I always get suspected."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "It's extremely helpful to have connections<br>with someone who has<br>immense social credit, you know!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You could have just said 'nice to meet you'...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "It's perfectly fine, no worries!<br>This is truly a chance encounter, and I'm not planning anything at all."
+            }
+          ]
+        },
+        {
+          "text": "That's a desperate way to rejoice.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Of course!<br>To navigate the world successfully, it's important to be trusted by others."
+            }
+          ]
+        },
+        {
+          "text": "So that's why you are like that.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "W-w-what do you mean by that!?<br>Are you saying I talk too much?<br>Wow, I hear that a lot..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hahaha, anyway, I'm glad<br>you're relying on us that much."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Including the Kyoto incident, it looks like<br>our company has \"lent you a favor twice\",<br>right?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "W-wow... Smiling and casually<br>putting pressure on me,<br>you really are a shrewd president."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "This old man will try to<br>not get too carried away,<br>hahaha..."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hehe, well, I'm just half-joking.<br>But it's probably not a bad idea for<br>the both of us to stay sharp."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Now... it's about time we head back to the site.<br>The citizens are probably eagerly awaiting<br>our encounter, aren't they, Rokusei-kun?"
+    },
+    {
+      "type": "narrator",
+      "text": "While [Player] and Huckle were<br>listening to Rokusei's circumstances,<br>the venue was already bustling with many visitors."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Whoa... it's huge!<br>This is the Hero Festa venue.<br>What's that building, it's enormous~!!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I wonder if Muirauka I will look<br>like this once development progresses.<br>How long will it take?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Earth's ground is different.<br>There are parts that aren't dirt, what's this?<br>Stone floor? It's pretty with all the colors!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Urban roads, they say, are paved like this<br>to make them easy to walk on in any environment,<br>whether it rains or dries."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Even on our planet, the residential areas<br>have reasonably well-maintained roads.<br>This is like a much grander version of that."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Sniff sniff... smells delicious.<br>Are there lots of food over there?<br>Canes, let's go, full speed!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Listen to my explanation for a bit!<br>And you just ate, didn't you?<br>Let's look around the venue first."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes opens the guide map he received<br>at the venue entrance on his device,<br>checking his current location and surrounding buildings."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Um, that's the stadium-<br>Hey, look, Sterio! That person over there,<br>isn't that a real hero!?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Where, where... It's really him~!<br>I've seen him in live streams!<br>Canes, should we go closer? Get an autograph?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Let's just go closer for now.<br>I didn't expect to meet a hero<br>so soon-"
+    },
+    {
+      "type": "narrator",
+      "text": "The two rush towards the hero.<br>The surrounding visitors also gather<br>one after another in front of the stadium."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Ugh... there are too many people.<br>I can't see anything at my height.<br>Sterio, what's going on up front?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Customers are surrounding the hero,<br>and customers are surrounding them, and around them...<br>Awooo!? Someone fell down!"
+    },
+    {
+      "type": "narrator",
+      "text": "Despite how crowded it was,<br>people dispersed like ripples<br>around the fallen visitor."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Are you okay!?<br>Maybe the heat got to them... Sterio,<br>let's carry this person to the shade!"
+    },
+    {
+      "type": "character",
+      "name": "Loren",
+      "avatar": "../char/loren.png",
+      "text": "-Wait, don't move them!<br>I'll examine that person. You two,<br>go call a nearby staff member!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Roger that!<br>Staff-san, where are youuu!?"
+    },
+    {
+      "type": "narrator",
+      "text": "The person at the center of the crowd was,<br>by chance, Loren, who belongs to the hero agency<br>M.A.H.A, which consists of medical professionals."
+    },
+    {
+      "type": "character",
+      "name": "Loren",
+      "avatar": "../char/loren.png",
+      "text": "...For now, this should be fine.<br>But I'm not a doctor,<br>so let's have them checked properly."
+    },
+    {
+      "type": "character",
+      "name": "Loren",
+      "avatar": "../char/loren.png",
+      "text": "Staff-san, please escort<br>them to the infirmary."
+    },
+    {
+      "type": "character",
+      "name": "Venue Staff",
+      "avatar": "../char/placeholder.png",
+      "text": "Understood!<br>Please wait a moment!"
+    },
+    {
+      "type": "narrator",
+      "text": "Loren exhales and relaxes,<br>then thanks the boys."
+    },
+    {
+      "type": "character",
+      "name": "Loren",
+      "avatar": "../char/loren.png",
+      "text": "Thank you for your help!<br>You rushed to the fallen person<br>just like heroes!"
+    },
+    {
+      "type": "character",
+      "name": "Loren",
+      "avatar": "../char/loren.png",
+      "text": "Thanks to you, I was able to treat them smoothly.<br>I'll tell that customer about your good work<br>when they feel better."
+    },
+    {
+      "type": "character",
+      "name": "Loren",
+      "avatar": "../char/loren.png",
+      "text": "Well, I need to head to the infirmary too.<br>I'll leave the rest to you,<br>please enjoy Hero Festa!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Ah... yes,<br>thank you very much.<br>Please tell them to take care!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Hehehe~<br>they said we were<br>like heroes~!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "...But I couldn't do anything special.<br>The hero treated them, and Sterio<br>brought the staff member."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I wish I could have asked that person<br>a lot of questions... but that's impossible, I guess.<br>Sterio, let's look for another hero."
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio pushes through the crowd.<br>Canes, curiously observing the excited people around him,<br>follows behind his brother."
+    },
+    {
+      "type": "narrator",
+      "text": "Leaving the stadium and walking further into the<br>Hero Festa venue,<br>crowds and lines can be seen everywhere."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Haaah~... it's amazing.<br>This is the most people I've seen<br>since going to Estebolta with Dad."
+    },
+    {
+      "type": "narrator",
+      "text": "Even if they found other heroes,<br>customers would always flock around them,<br>making it impossible for them to get close."
+    },
+    {
+      "type": "narrator",
+      "text": "As they stopped, wondering what to do,<br>a staff member called out to them."
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Hello there!<br>Welcome to Hero Festa,<br>is there anything you need help with?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Ah, um... hello.<br>I want to talk to a hero,<br>how can I do that?"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "You mean greetings!<br>For those with set times,<br>you'll need to line up."
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Otherwise, you can directly approach<br>heroes walking around the venue!<br>Like me, for example!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Eh, you're a hero too?<br>Sorry, I didn't realize it..."
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "No, no, it's natural not to know.<br>I'm not transformed right now,<br>and I'm still an apprentice."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes nods in agreement with the staff member's<br>words, saying \"Is that so?\". At that moment,<br>his brother's voice comes from above his head."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Hey, hey, Canes. Does this person<br>know how to become a hero?<br>Let's ask them."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "...You're right.<br>Excuse me, it's sudden, but<br>how can I become a hero?"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Oh, in that case, you can obtain a hero license<br>and belong to an agency to become a hero. Also-"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Whoa, a call from headquarters!<br>Sorry, I have to go even though we're in the middle of talking.<br>Please excuse me."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Get a license and belong to an agency, huh?<br>Becoming a hero is surprisingly easy-<br>No, that's not true."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "License, I don't know that.<br>Canes, do you know what it means?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "It's a permit, a license.<br>It's like proof that this person<br>is a hero."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Ah, I'm sure there's a really difficult test<br>to get a license, or<br>the conditions are strict."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Then, then, should we ask<br>how to get a license?<br>Let's look for other heroes!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Yeah, let's do that.<br>I hope we can meet a hero<br>who can tell us in detail."
+    },
+    {
+        "type": "title",
+        "text": "Chapter 2:<br> A Chance Encounter, Another Life's Connection"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and the others, who had finished<br>their conversation with Tsuneaki- now Rokusei-<br>returned to the venue through the passageway."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Will I get recognized during greetings?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "I think it'll be fine.<br>As long as I don't encounter customers with as much knowledge as your senior, that is."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Even if I did, my appearance is different, so they'll probably just recognize me as an unknown rookie."
+            }
+          ]
+        },
+        {
+          "text": "Alright, let's get to work.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "That's right, as a rookie hero, maybe I should proactively appeal to the customers?"
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "This old man is used to dealing with fans in public, so this is nothing new."
+            }
+          ]
+        },
+        {
+          "text": "I'm not good with customer service...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "It's okay, [Player].<br>Leave dealing with customers entirely to this old man."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Well, even so, there probably aren't many<br>customers who would jump<br>at an unknown hero, huh? Hahaha!"
+    },
+    {
+      "type": "narrator",
+      "text": "The moment Rokusei laughed brightly,<br>a huge shadow leapt in like a bullet<br>with great force."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Awoo~!<br>I caught a hero!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "You did it, Sterio!<br>Hey, mister,<br>this is a hero, right?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Eh, ah, yes?<br>This Rokusei-kun is a hero.<br>...You two are very energetic, aren't you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Let's calm down first~"
+        },
+        {
+          "text": "That mister over there is a hero too...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "...[Player].<br>How about we focus on the rookie hero first?"
+            }
+          ]
+        },
+        {
+          "text": "Do you know who this person is!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Stop it, how embarrassing...!<br>It's not surprising if you don't know me, as I've been out of commission for quite a while."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Guh... y-you, could you release me first?<br>My body feels like it's going to break in half..."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Whoa!? Sorry, we were looking for heroes<br>and we've been walking around for a long time,<br>so we didn't want to let you go..."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Sorry for suddenly rushing you,<br>as my brother said, we've been walking<br>around the venue for a while, but-"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Every hero was surrounded by so many people,<br>it seemed like there was no time<br>for them to listen to us."
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei, now freed,<br>rubs his back and says, \"I see\",<br>showing understanding for the boys' situation."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "What do you want to ask?<br>From your demeanor, it doesn't seem like<br>you're just looking for my autograph."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "If it's something a rookie like me knows,<br>I'll answer as much as I can."
+    },
+    {
+      "type": "narrator",
+      "text": "Hearing Rokusei's words,<br>Canes's expression brightened instantly."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Thank you very much!<br>You did it, Sterio, it's all thanks to you<br>catching Rokusei-san!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I'm a hunting dog, so I'm happy<br>to be useful to you even when<br>it's not hunting-related, Canes~!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hunting dog...?"
+        },
+        {
+          "text": "The smiles of the youth are blinding!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "What are you talking about?<br>From my perspective, [Player], you still seem pretty young, you know?"
+            }
+          ]
+        },
+        {
+          "text": "(Introduce yourself)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Oh, I'm sorry!<br>Come to think of it, we<br>haven't even introduced ourselves yet."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I'm Canes, and this is<br>my brother Sterio.<br>We came all the way from Muirauka I."
+    },
+    {
+      "type": "narrator",
+      "text": "The \"brothers\",<br>a human-type alien and a beast-type alien,<br>bow politely side by side."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Muirauka I... that was a planet currently<br>under development in that star system, wasn't it?<br>You've come all this way to Earth."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "You're smart!<br>We Space Hunters are responsible for protecting everyone<br>from dangerous creatures on developing planets."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "H-hey! That's rude, Sterio.<br>I'm so sorry for his impolite language.<br>But you really are knowledgeable, um-"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I'm Huckle. And next to me is<br>my subordinate, [Player].<br>We're currently observing heroes."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Nice to meet you both."
+        },
+        {
+          "text": "Canes-kun, you're so serious and cute~",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "You can just call me Canes.<br>And please don't call me cute.<br>I'm not a small child."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Saying things like that, you're just trying to act grown up, child-<br>Never mind, sorry, don't glare at me!"
+            }
+          ]
+        },
+        {
+          "text": "Sterio-kun... so big...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "It's okay to call me by my name.<br>[Player], are you scared of big things?<br>I'm gentle, no worries!"
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Siblings of different races, huh...<br>They seem so close, that's nice.<br>This old man is envious!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "By the way, Huckle-san.<br>What does \"observing heroes\" mean?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Heroes can transform into their usual<br>hero suit appearance when an \"Observer\"<br>\"approves\" them."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "And to maintain that appearance,<br>the \"Observer\" needs to keep<br>observing the hero."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Is that so? So that means,<br>[Player], are you the \"Observer\"!?<br>……………."
+    },
+    {
+      "type": "character",
+      "name": "Both",
+      "avatar": "../char/placeholder.png",
+      "text": "-Awesome~!!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Actually, we came to this Hero Festa<br>because we wanted to know<br>how to become heroes!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "\"Observer\", how can you<br>make heroes transform?<br>Can we transform too?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Rokusei-san, how did you<br>become a hero?<br>When did you first transform!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Those are difficult questions to answer..."
+        },
+        {
+          "text": "They're really persistent!"
+        },
+        {
+          "text": "You want to be a hero that much?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Stoop! Canes-kun, Sterio-kun,<br>I understand very well that you want to be heroes,<br>so let's calm down."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes apologizes bashfully.<br>After a breather, Rokusei<br>answers the boys' questions."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "About how to become a hero,<br>well, putting aside the procedures and<br>all the troublesome stuff-"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "First, you have to transform into a hero's form,<br>but that's, well, hard to explain."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Simply put, it's about an \"Observer\"<br>connecting a \"path\" to a hero's strong dreams<br>and wishes, or something like that."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Strong dreams and wishes?<br>……………."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I want to be a hero.<br>Is that a wish?<br>Can the \"Observer\" make it happen?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Not now, I guess."
+        },
+        {
+          "text": "Wish stronger!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Uuuuuugh...<br>I want to be a hero, I want to be a hero, I want to be a hero...<br>How about now?<br>Still no transformation?"
+            }
+          ]
+        },
+        {
+          "text": "(Checks comms device)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] looks at the screen of the device<br>attached to their arm."
+    },
+    {
+      "type": "narrator",
+      "text": "However, no message indicating<br>a new path has appeared."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Is that so...?<br>As I thought, it's not that easy<br>to become a hero."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes muttered disappointedly.<br>Seeing the two's dejection,<br>Huckle spoke up."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Besides the greeting staff,<br>heroes from various agencies are participating<br>in Hero Festa."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "How about asking them about their experiences?<br>They might even tell you hints<br>that we don't know."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "……………!<br>I see, that's a good idea.<br>I'll ask a lot of people!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Ask heroes, understood!<br>Canes, who are we catching next?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Whoa, wait, wait!<br>You shouldn't pounce on them<br>like you did on me earlier!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Hmm... alright.<br>This old man will escort you<br>and introduce you to other heroes."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Really!?<br>Yay, thank you!"
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei stops Sterio, who is about to bolt,<br>and offers to guide them himself."
+    },
+    {
+      "type": "narrator",
+      "text": "Without the boys, who are delighted<br>by the unexpected turn of events noticing,<br>[Player] quietly spoke to the proposer."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So I'll be going with them too...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Sorry, I decided it on my own.<br>But I thought you would agree, [Player]."
+            }
+          ]
+        },
+        {
+          "text": "Is it okay to make such a casual promise?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "It's fine!<br>This old man, though he may not look like it,<br>he's actually really serious about his work.<br>I've thoroughly scouted the venue too."
+            }
+          ]
+        },
+        {
+          "text": "Are you interested in these two?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "...Oh, you figured it out?<br>I can't keep any secrets from you anymore, [Player]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "A human-type and a beast-type alien,<br>recognizing each other as \"brothers\"<br>and dreaming of the same future together-"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "For me, their existence<br>is incredibly interesting.<br>I'd like to observe them a little more."
+    },
+    {
+      "type": "narrator",
+      "text": "Recalling his own youth and the region<br>where he grew up, Rokusei speaks."
+    },
+    {
+      "type": "narrator",
+      "text": "A relationship where different races cooperate.<br>A connection that was utterly unthinkable<br>at that time, in that place-"
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei's interest was drawn to the boys,<br>who were naturally realizing<br>that relationship."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Canes-kun, Sterio-kun.<br>Nice to meet you again.<br>If there's any hero you want to meet-"
+    },
+    {
+      "type": "narrator",
+      "text": "Just as Rokusei was about to say that, several<br>people in hero suits appeared and<br>surrounded [Player] and the others."
+    },
+    {
+      "type": "character",
+      "name": "Heroes",
+      "avatar": "../char/placeholder.png",
+      "text": "Surprise Hero Show!"
+    },
+    {
+      "type": "character",
+      "name": "All",
+      "avatar": "../char/placeholder.png",
+      "text": "Surprise Hero Show!?"
+    },
+    {
+      "type": "character",
+      "name": "Venue Broadcast",
+      "avatar": "../char/placeholder.png",
+      "text": "Everyone who came to the venue,<br>are you enjoying Hero Festa?"
+    },
+    {
+      "type": "character",
+      "name": "Venue Broadcast",
+      "avatar": "../char/placeholder.png",
+      "text": "Suddenly, the apprentice heroes<br>who will be running around the venue<br>will challenge active heroes to a battle!"
+    },
+    {
+      "type": "character",
+      "name": "Venue Broadcast",
+      "avatar": "../char/placeholder.png",
+      "text": "Now, find out where the battle begins<br>by searching inside the venue!<br>Alright, start!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So this is why an \"Observer\" was needed...",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "[Player] stands behind Rokusei<br>for the operation. However-"
+            }
+          ]
+        },
+        {
+          "text": "Rokusei-san, are you ready?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "So this is the battle the organizers explained beforehand... I see.<br>I'm ready anytime-"
+            }
+          ]
+        },
+        {
+          "text": "President, are you also joining...?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "No, I'm not the hero in charge of greetings, so please treat me as if I'm not here-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "-Wait, Rokusei-kun.<br>Can you still use your usual<br>Parallel Weapon with that suit?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "I don't intend to show it publicly, you know?<br>If I show \"that\",<br>my identity might be revealed."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Just watch, President.<br>I'll show you another fighting style<br>I was trained in at my agency!"
+    },
+    {
+      "type": "narrator",
+      "text": "After answering, Rokusei<br>clenches his fist and assumes a martial arts stance."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Eh, what's this?<br>Are they doing a hero show here!?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Will we be on the live stream?<br>Papa, Mama, look~!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Canes-kun, Sterio-kun.<br>Let's move together.<br>Let's get away from the heroes."
+    },
+    {
+      "type": "narrator",
+      "text": "The two visitors, appealing to the flying<br>drone cameras, follow Huckle's lead."
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Hey... have you ever<br>seen a hero like that in a broadcast?"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "He's probably an apprentice like us,<br>or a rookie who just debuted this year.<br>That's just perfect, isn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Sorry to them, but<br>it's time to show off our teamwork<br>and appeal our abilities-!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Perhaps due to overconfidence in being multiple against one,<br>the apprentices exchange whispered conversations<br>during the battle."
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei instantly rushes towards<br>one of them, who has a particularly large opening,<br>and strikes with a palm heel strike."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Can he fight bare-handed too!?"
+        },
+        {
+          "text": "That old man is cool!"
+        },
+        {
+          "text": "(As expected of Defense Bureau's affiliates...)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The attacked apprentice<br>couldn't guard in time and<br>was blown back forcefully."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "How about that!<br>This is my physical ability,<br>trained at the agency-"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "-Whoa!?"
+    },
+    {
+      "type": "narrator",
+      "text": "With a sound like something bursting,<br>the hero suit of the \"attacker\"<br>is severely damaged."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What are you doing, mister!?"
+        },
+        {
+          "text": "The suit flew off from the recoil?"
+        },
+        {
+          "text": "I see, physical ability."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "What is this hero suit,<br>what's going on!?"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Eh... what was that, scary...<br>My suit broke on its own,<br>is that a kind of fan service?"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "I don't know, but it's our chance!<br>Now's the time to show off<br>our true abilities!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Whoa, wait, I can't battle like this, can I?<br>If I move any more, I won't be able to<br>stand in front of the customers like this!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Rokusei, in a pinch?<br>He just knocked down one hero,<br>so why?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Was that part of the show?<br>Like in wrestling, adding entertainment<br>in the middle of a serious match?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Oh dear...<br>You two wait here.<br>I'm going to \"help out\" a bit."
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle calls out to Canes and Sterio, who are watching,<br>and waves his hands at the apprentices<br>to temporarily halt the battle."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...I'm sure the organizers will understand<br>if I say it's a response to an accident.<br>Now-"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "-Rokusei-kun, I'll take over<br>the rest of the show.<br>[Player], I'm counting on you."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yes, President!"
+        },
+        {
+          "text": "Transform!"
+        },
+        {
+          "text": "(Operates the device)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hopper",
+      "avatar": "../char/huckle.png",
+      "text": "Embraced by the sky, riding the wind!<br>A traveler who roams the wide world!<br>Hopper the Face, here I come!!"
+    },
+    {
+      "type": "character",
+      "name": "All",
+      "avatar": "../char/placeholder.png",
+      "text": "-Whoa~!!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "That old man was Hopper!?<br>I've seen him in broadcasts so many times.<br>Awesome... he's a real veteran hero!"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "What, no way, it's really Hopper?<br>The former S-rank hero?<br>Justice's partner!?"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Hero",
+      "avatar": "../char/placeholder.png",
+      "text": "Wait, wait, I can't believe this,<br>it was my dream to work on the same site<br>as that person!"
+    },
+    {
+      "type": "narrator",
+      "text": "At the unexpected appearance of the veteran,<br>everyone present shouts with joy."
+    },
+    {
+      "type": "character",
+      "name": "Hopper",
+      "avatar": "../char/huckle.png",
+      "text": "Sorry for the wait.<br>Now-it's time for a player change,<br>come at me from anywhere!"
+    },
+    {
+      "type": "title",
+      "text": "Battle Start"
+    },
+    {
+      "type": "character",
+      "name": "Apprentice Heroes",
+      "avatar": "../char/placeholder.png",
+      "text": "It was a pleasure knowing you!"
+    },
+    {
+      "type": "character",
+      "name": "Venue Broadcast",
+      "avatar": "../char/placeholder.png",
+      "text": "Surprise Hero Live has ended!<br>Thank you for watching and cheering!"
+    },
+    {
+      "type": "character",
+      "name": "Venue Broadcast",
+      "avatar": "../char/placeholder.png",
+      "text": "After this, the O-1 Grand Prix matches<br>will begin at the Hero Stadium.<br>Please come and join us!"
+    },
+    {
+      "type": "narrator",
+      "text": "When the battle ended, a large crowd<br>of visitors rushed over and applauded<br>the heroes with thunderous applause."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "President, do fan service!",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Although [Player]'s call was not heard, Huckle was already waving to the surrounding visitors with a smile."
+            }
+          ]
+        },
+        {
+          "text": "Our President is strong, right?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "President!?<br>Oh no, I think we were really rude to someone important...<br>Sterio, you too!"
+            },
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "Canes, should we apologize later?<br>I'll apologize with you."
+            }
+          ]
+        },
+        {
+          "text": "I hope Rokusei-san is okay...",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "[Player] uses the gathered ViewPower to repair Rokusei's hero suit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The observing visitors gradually disperse,<br>and the opposing apprentices one after another<br>ask Huckle for handshakes and autographs."
+    },
+    {
+      "type": "narrator",
+      "text": "After they're done, they gather around [Player]<br>along with Rokusei, who has been completely<br>left out."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Whoa~... they completely<br>stole my thunder!?<br>And what was that accident?"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "That was definitely planned,<br>but if so, they could have<br>explained it beforehand."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Rookie heroes have to do things like that too...<br>Rokusei-san, that must be tough."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "It's okay, cheer up!<br>Rokusei's first hit<br>was super powerful!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Thank you both...<br>But being pitied and encouraged by customers,<br>I feel like I'm losing my status as a hero!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hero Festa is just beginning.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Yes, that's right!<br>As expected of [Player], you say good things!"
+            }
+          ]
+        },
+        {
+          "text": "Well, there are different ways to be active.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "I'd rather avoid standing out like this...<br>But if the customers are happy, then it's fine."
+            }
+          ]
+        },
+        {
+          "text": "It was the best in terms of attention.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "I'd rather avoid standing out like this...<br>But if the customers are happy, then it's fine."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Besides, performing brilliantly in battle<br>isn't the only job of a hero."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I sort of understand that.<br>Our \"family\" business also has<br>other things to do besides hunting."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Tool maintenance, setting traps,<br>and also, effective use of hunted creatures...<br>There are many other things."
+    },
+    {
+      "type": "narrator",
+      "text": "The boys try to understand Rokusei's words<br>by imagining them in terms of familiar things<br>and their own experiences."
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle, having untransformed,<br>watches them and speaks with deep emotion."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "You two perceive heroes<br>as just one of many professions,<br>don't you?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Well, since heroes have been everywhere<br>since you were born,<br>it's natural to think that way."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "No offense, I'm not trying to act like a veteran.<br>But I feel that times have changed, and<br>your way of thinking is different from when I was young."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Is that...<br>so?"
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle speaks, looking back at what he was doing<br>when he was the same age as the boys<br>he's now talking to."
+    },
+    {
+      "type": "narrator",
+      "text": "The adults were speaking with fondness for the past<br>and warmly watching over the young people living in the present,<br>but-"
+    },
+    {
+      "type": "narrator",
+      "text": "Canes, who was listening intently,<br>lowered his eyebrows worriedly and<br>hesitantly asked Huckle."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Um, Huckle-san.<br>Truthfully, do we not have the<br>qualifications to transform into heroes?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Given what Rokusei-san just taught us about<br>\"strong dreams and wishes\"-"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I thought it might not be something you can become<br>just by having the desire to \"become one.\"<br>The device isn't working either..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's too early to give up.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Yes, I agree with [Player]'s opinion, Canes-kun, Sterio-kun."
+            }
+          ]
+        },
+        {
+          "text": "Honestly, I can't say for sure.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "Ah... sorry, I used strange language with someone older than me."
+            },
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Hahaha, it's fine.<br>[Player], don't tease the customers too much, okay?"
+            }
+          ]
+        },
+        {
+          "text": "(Struggles to find words)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "It's too early to draw conclusions based solely on what happened today.<br>You should observe a little longer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "By the way, you two,<br>should I assume you're planning to<br>stay for the  Hero Festa for the entire duration?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "That's the plan!<br>We just arrived on Earth today.<br>We'll stay until the end of the Festa!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "I see. Well then, first,<br>enjoy this Hero Festa<br>as a festival!"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "And if you like, let's meet again tomorrow.<br>As I said earlier, I'll introduce<br>you to other heroes."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hmm... in that case, I'll<br>inform my staff today."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "We have a food stall in the food area,<br>so if you're interested, come visit.<br>You can try some delicious Earth food."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Really!?<br>Thank you very much, Rokusei-san,<br>Huckle-san, [Player]!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "By the way, we suddenly intruded<br>and talked for so long,<br>we're sorry... Come on, Sterio too!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Sorry~!<br>Thank you everyone for being<br>kind to Canes!"
+    },
+    {
+      "type": "narrator",
+      "text": "Canes and Sterio<br>bow deeply again to the adults<br>who listened to their consultation."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's okay, it's also part of the job."
+        },
+        {
+          "text": "What polite children."
+        },
+        {
+          "text": "Let's talk a lot tomorrow too."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei sighs lightly<br>as he watches the two walk<br>towards another area of the venue."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Goodness, right from the start,<br>I met some intense<br>customers."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "My apologies, [Player],<br>President Huckle. I unilaterally<br>decided the arrangements."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "No, I apologize too.<br>Although we can cooperate, their escort<br>will probably be entirely up to you."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "That's an easy task.<br>This old man is used to<br>working with boys."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Leave the observation and support to me.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Thank you, [Player].<br>I'll take you up on your offer and rely on you."
+            }
+          ]
+        },
+        {
+          "text": "I'm curious about those two too...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Oh, really?<br>Well, they are a rare pair, aren't they?<br>And their family business is Space Hunter, too."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "...Canes-kun, was it?<br>He seems a bit too serious and reckless sometimes."
+            }
+          ]
+        },
+        {
+          "text": "Tomorrow's lunch is Justice Curry!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Hahaha, if you like it that much, Ryekie will be happy too."
+            },
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Including the customers' portions, you can expense tomorrow's lunch.<br>Of course, within reason."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "Oh~ food on a business trip is good, isn't it?<br>Last time, it was out of my own pocket, so I'm even more grateful!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Now... I'm going to<br>the Hero Festa management office."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I have to explain<br>how I suddenly participated in the<br>hero live show earlier."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Well then, please continue your duties after this.<br>If I can, I'll also drop by<br>our food stall tomorrow."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Good work!"
+        },
+        {
+          "text": "President, have a good trip."
+        },
+        {
+          "text": "(Bows to see him off)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "After parting with Huckle,<br>[Player] and Rokusei<br>slowly move around the venue."
+    },
+    {
+      "type": "narrator",
+      "text": "They wave back to children occasionally,<br>and escort lost visitors<br>to their desired locations."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "……………<br>……………."
+    },
+    {
+      "type": "narrator",
+      "text": "Suddenly, looking towards the coast,<br>they see Canes and Sterio,<br>whom they had just parted with."
+    },
+    {
+      "type": "narrator",
+      "text": "The two, despite their vastly different physiques,<br>walk naturally side-by-side,<br>neither adjusting to the other."
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei watches their heartwarming scene<br>with a somewhat lonely expression,<br>then walks away from the coast."
+    }
+  ]
+  

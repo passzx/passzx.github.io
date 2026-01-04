@@ -1,0 +1,2033 @@
+[
+    {
+        "type": "narrator",
+        "text": "—Sauna. It's a world where you enjoy endurance and liberation."
+    },
+    {
+        "type": "narrator",
+        "text": "The sensation of being exposed to steam and heat, rising to a peak.<br>The refreshing coolness that fills your body when you step outside.<br>And the relaxing effect of exposure to the open air..."
+    },
+    {
+        "type": "narrator",
+        "text": "However, the depth of sauna goes beyond that.<br>The time spent enduring the heat is also a time to face yourself—"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Should I film...?"
+            },
+            {
+                "text": "Shouldn't I film...?"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...[Player], what are you mumbling about?"
+    },
+    {
+        "type": "narrator",
+        "text": "In the natural sauna, where [Player] was brought by Ganran,<br>along with Ryusei and reXer, [Player] looked up."
+    },
+    {
+        "type": "narrator",
+        "text": "There, the three heroes were<br>enjoying the sauna's heat, dripping with sweat."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Filming or not filming...<br>Are you alright...?<br>Did the heat get to you?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Ah, perhaps it's about whether<br>to film this scene for ChocoFull?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Oh, I see.<br>That drone would probably<br>withstand high temperatures, but..."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Today's filming is over,<br>so why don't we consider this off-duty?<br>You need to relax too, right?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "That's right. If we're going to film,<br>it'd be better if Hitomi-chan was with us too!<br>Besides, it feels so good—!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha!<br>How is it, isn't it a good heat?<br>It really clears your head!"
+    },
+    {
+        "type": "narrator",
+        "text": "Dripping with sweat,<br>Ganran grinned broadly."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Yeah, my muscles are relaxing themselves,<br>and my whole body is warming up!<br>We exercised a lot today—!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Even so, this sauna...<br>I'm surprised it's similar in style to Earth's."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Ah, I thought so too.<br>I heard that Garunderra has many<br>cultures and customs different from Earth."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha!<br>The interior changed a while ago!<br>It's probably the owner's hobby!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Since you all were coming,<br>they probably adjusted the room temperature<br>to be comfortable for Earthlings!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Oh, really!<br>I'm happy that they incorporated<br>Earth's style and that we can enjoy it—!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "ChocoFull's influence even here..."
+            },
+            {
+                "text": "It's a comfortable heat even for us to enjoy."
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "There's a Garunderra style too,<br>of course? Want to try it?<br>It's even hotter than this, though!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Oh, that sounds good—!<br>I feel like I'd sweat a lot,<br>and I'm a little interested—!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "You'll feel the power of the volcano!<br>How about it, let's have an endurance contest!<br>Of course, only to the extent you can handle!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Hahaha, alright—!<br>reXer-kun, [Player]-san,<br>how about you two, want to give it a try?"
+    },
+    {
+        "type": "narrator",
+        "text": "Ryusei, wiping away sweat,<br>called out to reXer and [Player]."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...Ah, no, this heat is just right for me, so I'll pass.<br>Thank you, Ryusei, Ganran."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Since we're here, you two go ahead.<br>What about you, [Player]?"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "I think I'll stay here too."
+            },
+            {
+                "text": "I'm curious, but I can't stand it if it's too hot..."
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Okay, got it. Don't overdo it.<br>You should drink a lot of water!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Yeah, everyone enjoys saunas differently!<br>Take your time and relax!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Alright, let's go, Ryusei!<br>You'll compete in endurance, right!?<br>I can't wait!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Before entering the Garunderra style,<br>let us go into the cold bath too!<br>We can have an endurance contest here too!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Hahaha, Ganran-san really loves enduring things—!<br>Okay, I won't lose—!"
+    },
+    {
+        "type": "narrator",
+        "text": "The two stood up and exited the sauna."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Hahah, those two are having fun.<br>Was it okay for you, [Player]?<br>Not going with Ryusei and Ganran, I mean."
+    },
+    {
+        "type": "narrator",
+        "text": "[Player] shook their head in response to reXer's question."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "...I was worried about you, reXer."
+            },
+            {
+                "text": "Are you troubled by something?"
+            },
+            {
+                "text": "I won't ask if it's hard to talk about..."
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "reXer's hand, which was wiping away<br>sweat with a towel, stopped abruptly."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...Amazing. I was trying to hide it."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "It's nothing big.<br>...Just, there's something I've been thinking about lately."
+    },
+    {
+        "type": "narrator",
+        "text": "reXer looked up at the ceiling<br>and sighed as he spoke."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...Hey, [Player].<br>What do you think it means to become an adult?"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Becoming an adult, huh..."
+            },
+            {
+                "text": "That's a difficult question."
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...It's a bit pathetic, but even working like this,<br>I still feel like I haven't become a full-fledged adult."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I want to become a respectable adult like my father.<br>I've always thought that since I was little."
+    },
+    {
+        "type": "narrator",
+        "text": "reXer continued, gazing at his palms."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Fighting monsters and villains in the cyber world with [Player],<br>made me feel like I was able to become a true hero."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Since then, I officially acquired my license,<br>and I thought I had finally taken a step towards standing alongside my father."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...I don't want people to forget my father, \"reXer\"."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "So, while spreading the name \"reXer\"<br>that my father built up to the world again..."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I was able to have the dream of someday becoming a hero who can surpass my father.<br>That hasn't changed, of course, even now."
+    },
+    {
+        "type": "narrator",
+        "text": "Having said that much, reXer looked up and gazed into the distance.<br>The tip of his tail lightly tapped the floor."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...But the main work of the agency is entertainment activities.<br>Recently, the number of real-life engagements has increased."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Until now, I had them suspend activities,<br>but now that I've inherited \"reXer,\"<br>I have to handle them well."
+    },
+    {
+        "type": "narrator",
+        "text": "Clasping his hands tightly,<br>reXer faced [Player] with a serious gaze."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "This ChocoFull is also like that.<br>I think I've been able to handle it little by little..."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...But being a talent is difficult.<br>I keep making mistakes, and I feel like I have to do better."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer_b.png",
+        "text": "Alright, then, to make the phantom chocolate by hand,<br>first, we need to find the ingredients...<br>Is that right?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Yeah, that's right.<br>But first, let's show the viewers the scenery of this planet!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer_b.png",
+        "text": "Eh, ah, yeah, that's right!<br>...Surprisingly, there are plants growing too!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer_b.png",
+        "text": "...No, then I have to complete this mission quickly, right?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer_b.png",
+        "text": "If necessary, I'll go scout the village first—"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Heheh, it's alright, reXer-san!<br>The show's directors haven't really abandoned us, you know."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "I think they want to trouble us a little and get some interesting shots.<br>It's unique to NeoTalents' planning."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer_b.png",
+        "text": "I-Is that how it works...?<br>........."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer_b.png",
+        "text": "...Ah, I finally found it!<br>Now, let's immediately go meet the village's best blacksmith!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Ah, reXer-kun.<br>The camera's over here."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer_b.png",
+        "text": "Eh, ah...!<br>Th-this drone!?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Heheh, it's about making progress<br>towards becoming an adult, I guess."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "...So that's what you were worried about."
+            },
+            {
+                "text": "You're doing well, aren't you?"
+            },
+            {
+                "text": "I think that's a good quality of reXer too."
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "Closing his eyes at [Player]'s words,<br>he slowly shook his head."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...Hitomi is younger than me,<br>but she's doing a great job as an idol,<br>and Ryusei is also active as a model."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Maybe it's not something to compare with others,<br>but I think that's how it is for \"visible jobs\" in both<br>the entertainment world and the gaming world."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...I tried to be like my father,<br>to imitate what he did—"
+    },
+    {
+        "type": "narrator",
+        "text": "reXer's sweat dripped from the ends of his matted hair.<br>His serious voice echoed through the quiet sauna."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Showmanship, talking skills, navigating as a celebrity...<br>I'm still lacking in all of them."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "At this rate, I won't be able to catch up.<br>And even if I do, I won't be able to surpass \"reXer\"."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...I know there's no point in rushing.<br>So, I'm trying to take it one step at a time, but still."
+    },
+    {
+        "type": "narrator",
+        "text": "Gazing directly at the powerless reXer, [Player] smiled."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "It wasn't just failures, was it?"
+            },
+            {
+                "text": "You noticed the blacksmith's hint, didn't you?"
+            },
+            {
+                "text": "You were entrusted with the job because you were the right person!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...[Player]. Ah, thank you."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "But... my father would have surely done better.<br>I have to surpass my father."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...I'm cunning, aren't I?<br>If I say it like this, [Player] will say—"
+    },
+    {
+        "type": "narrator",
+        "text": "Shaking their head to interrupt reXer, [Player] continued."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "reXer is reXer."
+            },
+            {
+                "text": "You're not your father."
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—[Player].<br>........."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "It's fine to be yourself!"
+            },
+            {
+                "text": "Why don't you relax a little?"
+            },
+            {
+                "text": "It's okay to be natural, I'm sure!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...Me, as myself, huh.<br>........."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...That's right.<br>Even in games, I make mistakes.<br>But there was no stage I couldn't clear."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Thank you, [Player].<br>I'll think about it a little.<br>I don't have an answer yet, but—"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I was vaguely frustrated.<br>Wondering what I should do when<br>I couldn't stay like this..."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "My father—<br>what would \"I\" do if I were \"him\"...<br>There might not be a right answer, though."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Even so, I'll try a little harder to become an adult in my own way.<br>Of course, one that my father can be proud of!"
+    },
+    {
+        "type": "narrator",
+        "text": "reXer stood up vigorously,<br>clenching his fist as if to pump himself up."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "You really love your father, don't you?"
+            },
+            {
+                "text": "I'm sure reXer can do it!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, my head feels refreshed.<br>Maybe it's thanks to [Player]'s words and the sauna!"
+    },
+    {
+        "type": "narrator",
+        "text": "As if sparkling sweat was bursting,<br>reXer showed a brighter smile than before."
+    },
+    {
+        "type": "narrator",
+        "text": "At that moment,<br>a faint light overflowed from the device."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "This light...!"
+            },
+            {
+                "text": "Could it be!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—Hm?<br>What's wrong, [Player]?"
+    },
+    {
+        "type": "narrator",
+        "text": "[Player] smiled back at reXer,<br>who was peering in."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "That was a good expression just now!"
+            },
+            {
+                "text": "I wondered if I should have filmed it!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—Hahaha, what's that about!<br>You're a proper cameraman,<br>that's just so like you, [Player]."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Alright, let's head outside for a bit.<br>Ryusei and the others should be back soon...<br>Huh? An earthquake... Whoa!?"
+    },
+    {
+        "type": "narrator",
+        "text": "At that moment, a sudden,<br>large tremor struck the two."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "This feeling is..."
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "Continuing, a strange chill ran down their spine,<br>accompanied by a sense of unease.<br>[Player] shivered slightly."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...That was quite a shake.<br>Are you alright, [Player]?"
+    },
+    {
+        "type": "narrator",
+        "text": "reXer offered a hand to [Player], who was hunched over.<br>At the same time, the sauna door opened."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—Hey, are you two alright!?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "That was quite a big shake.<br>I was surprised...<br>Are you two unharmed?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, yeah... We're fine.<br>You two seem alright too."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Yeah, an earthquake happened again.<br>It's shaking a lot today.<br>Well, as long as nothing happened, that's what matters!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "We just finished refreshing ourselves,<br>so shall we head back to the hotel soon?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Ah, that's right.<br>It was a good match, too...<br>A bit disappointing."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Hahaha, let's do it again, Ganran-san!<br>It'd be great if reXer-kun and Hitomi-chan could join us next time!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, that's right.<br>...What's wrong, [Player]?"
+    },
+    {
+        "type": "narrator",
+        "text": "reXer asked [Player], looking concerned."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "...I just have a bad feeling."
+            },
+            {
+                "text": "I've felt that unpleasant tremor before..."
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Are you alright, [Player]?<br>Maybe you stayed in the sauna too long.<br>Here, rest over here."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Right, I'll go get some water!<br>[Player]-san, wait here for a moment!"
+    },
+    {
+        "type": "narrator",
+        "text": "[Player] returned words of thanks.<br>But a strange sense of unease still lingered deep in their chest."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "........."
+            }
+        ]
+    },
+    {
+        "type": "title",
+        "text": "Chapter 4:<br> Many Things to Worry About, But..."
+    },
+    {
+        "type": "narrator",
+        "text": "—The next day.<br>The group gathered in front of Ganran's workshop."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Good morning, everyone!<br>It's another beautiful day!<br>I feel refreshed thanks to yesterday's sauna—!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, I feel like my fatigue has flown away!<br>Let's do our best searching for rock cacao today too!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yes, that's right!<br>Please tell me about the sauna too!<br>But before that..."
+    },
+    {
+        "type": "narrator",
+        "text": "Hitomi bowed her head towards Ganran."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Ganran-san, I'm sorry for breaking<br>the pickaxe you lent me yesterday!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Nah, don't worry about it! I have other spares, but...<br>Since you're here, I'll customize one just for you, Hito-chan!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "I'll reforge it to be stronger than the previous one,<br>and harder to break, so could you wait a bit?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Thank you so much...!<br>I'll help you!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Oh, that helps!<br>Then, could you bring those tools over there?<br>Please come inside the workshop!"
+    },
+    {
+        "type": "narrator",
+        "text": "Ganran beckoned, and the group stepped inside the workshop."
+    },
+    {
+        "type": "narrator",
+        "text": "Inside, various tools and equipment for blacksmithing were lined up,<br>and many finished products were displayed on a shelf near the entrance."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Excuse me for intruding!"
+            },
+            {
+                "text": "There are so many different tools!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Oh, amazing!<br>You make a lot of farming tools and household items too!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Did Ganran forge all<br>these swords and axes too?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha! Yeah, that's right! Not bad, right?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Oh yeah, your Parallel Weapon was also a sword and an axe, wasn't it!<br>It had a mechanism to switch forms."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, that's something I inherited from my father."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "The weapons here are amazing too.<br>Can I see some others?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Yeah, of course!<br>It'll take a bit of time,<br>so feel free to look around!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Ganran-san, I'll put the tools here."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Oh. This axe is different from the others;<br>it's still unfinished."
+    },
+    {
+        "type": "narrator",
+        "text": "Hitomi pointed to several unfinished axes,<br>likely prototypes, covered in dust."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Ah, those are my apprentice's creations.<br>As you can see, they're incomplete."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Her skill is still developing, but...<br>well, it's not bad.<br>There's quite a bit of potential, don't you think?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "You have an apprentice!?<br>Ganran-san really feels like a master, doesn't he—!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "I'm curious about your apprentice's story!"
+            },
+            {
+                "text": "What kind of person are they?"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "I'm curious too!<br>How does one become an apprentice blacksmith?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Indeed, I'm curious too.<br>She doesn't seem to be here right now, so where is she?"
+    },
+    {
+        "type": "narrator",
+        "text": "At the four's words,<br>Ganran stopped what he was preparing."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "My apprentice is a bit special, you could say...<br>I don't think it'll be much reference for you."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Besides, she's gone to a somewhat distant place right now.<br>She's not here."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "It's not a particularly interesting story...<br>But it's not something to hide either.<br>Want to listen to it to pass the time?"
+    },
+    {
+        "type": "narrator",
+        "text": "As Ganran spoke, he skillfully prepared for the<br>pickaxe's modification and activated the forge."
+    },
+    {
+        "type": "narrator",
+        "text": "Ganran's face was lit red.<br>Gazing at the fire, Ganran quietly began to speak."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—On a certain planet,<br>I received a request to forge a \"treasured axe that brings peace\"<br>that was in the country's legends."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "They wanted it to be a symbol of a country where everyone could live in peace.<br>It wasn't an easy job, but—"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...In the middle of that job, a giant monster appeared.<br>The country collapsed, and it was a terrible sight."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "That's where I met my apprentice, Barte.<br>She was entrusted to me by her parents.<br>We returned to Garunderra together."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Since then, I've been raising Barte like her parent figure...<br>But, I don't know who she takes after, she's mischievous."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "It's a good thing she grew up energetic, but...<br>She used to sneak into the workshop all the time."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "She's a full-grown adult now, but...<br>She's always said she wanted to \"try forging too\"."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—Phew, that's enough for today.<br>Barte, what are you doing in the workshop again?"
+    },
+    {
+        "type": "narrator",
+        "text": "Barte exhaled as she looked at the<br>polished blade of the axe Ganran had forged."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "...It's beautiful. Hey, Ganran.<br>How do you forge iron like this?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "What, are you interested in my technique?<br>You only like the tip of the blade, don't you?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Don't carelessly touch things in the workshop.<br>One wrong move, and blades can cause irreversible injuries."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "I know!<br>...But it's so beautiful.<br>I'll be careful not to get hurt!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Hah. Listen, don't touch the blade."
+    },
+    {
+        "type": "narrator",
+        "text": "Barte carefully held the axe handed to him by Ganran,<br>narrowing her eyes at its tip."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "...\"Beautiful\" is the word for<br>things like this, huh."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": ".........<br>........."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "Hey, Ganran!<br>Let me forge an axe!<br>Be my master!"
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "I want to forge one too!<br>A beautiful blade with my own hands!<br>Please, can I?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—No matter how many times you ask, the answer is no.<br>I told you it's dangerous.<br>Geez, you get carried away so easily."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "If I were to let you get hurt,<br>I wouldn't be able to face your parents."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Besides, I don't take apprentices.<br>I still haven't forged what I want to create."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "What, you stingy old man!<br>Come on, your skill is amazing,<br>and I'll definitely be careful not to get hurt!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "No means no.<br>...Even so, why do you want to forge an axe?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "If you need something, I'll forge it for you.<br>You don't need to do blacksmithing work yourself."
+    },
+    {
+        "type": "narrator",
+        "text": "Barte, who was questioned by Ganran,<br>looked straight back at him and answered immediately with a full smile."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "—Because the axe Ganran forges is so shiny and<br>beautiful that I want to forge it myself!"
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "It must be because<br>Ganran's heart is beautiful—!<br>It's amazing, right—!"
+    },
+    {
+        "type": "character",
+        "name": "???",
+        "avatar": "../char/placeholder.png",
+        "text": "\"—Because I thought the axe you forged was very beautiful.<br>No one else could forge that axe.\""
+    },
+    {
+        "type": "character",
+        "name": "???",
+        "avatar": "../char/placeholder.png",
+        "text": "\"Moreover, I realized it after coming here many times.<br>It's because your heart is beautiful that you can forge that axe—\""
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—You.<br>........."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "Hey, Ganran!<br>...No, \"Master\"!<br>Please, teach me!"
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "I won't move from here until you become my master!<br>I won't even eat dinner!!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Hah. That stubbornness,<br>I wonder who you take after..."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Come a little early tomorrow.<br>We'll go buy the necessary tools."
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "Ganran—no, Master!!<br>Alright—!!<br>I can forge, right!!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Don't get too carried away.<br>Iron Rule, number one!<br>'Always prioritize safety'!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Listen, if you do anything dangerous that could cause injury,<br>I'll disown you without question!"
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "Yeah, I know!<br>But what I've always wanted is finally coming true,<br>so it's okay to be happy, right?"
+    },
+    {
+        "type": "character",
+        "name": "Barte",
+        "avatar": "../char/barte.png",
+        "text": "Alright, it starts tomorrow!<br>I'll do my best!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—Well, that's how I took Barte as my apprentice,<br>but after a while, there was a monster incident on this planet too."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "At that time, she went missing.<br>...He was swallowed by a giant path where the monster appeared."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "M-missing!?"
+            },
+            {
+                "text": "That means..."
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "The rest of [Player]'s words were drowned out<br>by the sound of Ganran striking his hammer."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Iron Rule, number one!<br>'Always live with hope'!<br>I'm sure she's still alive."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "That blade-obsessed idiot is quite thick-skinned.<br>She'll just pop back up eventually."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "She's kept me waiting for a long time, but...<br>well, for my race, it's still a short time!"
+    },
+    {
+        "type": "narrator",
+        "text": "Ganran picked up the pickaxe he had<br>been forging and meticulously inspected it.<br>He had the eyes of a craftsman."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "When Barte returns, I'll have to welcome her back as his master again.<br>I can't neglect my training as a blacksmith either."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "She's far away now, but she must be living well somewhere.<br>When she eventually comes back, please treat her well too."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Alright, that's enough of my old stories.<br>Now, if I put it in the cooling machine,<br>it'll be finished by the time we climb the mountain!"
+    },
+    {
+        "type": "narrator",
+        "text": "Ganran performed a final check on the reforged pickaxe,<br>then set it into a portable-sized machine."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...You don't have to make that face, I'm fine!<br>Maybe I talked a bit too long."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "No, even though it was difficult to talk about,<br>thank you for telling us about your apprentice."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, at least I understand well<br>that Ganran is a respectable master."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...I also had someone like a game master.<br>So, I understand how it feels a little.<br>It reminded me of when I was training."
+    },
+    {
+        "type": "narrator",
+        "text": "Ganran nodded in response to reXer's quiet reply.<br>Then, without further words, he opened the workshop door."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...When we're heroes,<br>these kinds of stories tend to pile up,<br>I suppose."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Alright, enough with the gloomy talk."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "If we don't go further than yesterday,<br>we won't find the rock cacao!<br>Let's climb the Choco Volcano!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "That's right, let's depart right away.<br>We have to get our share of rock cacao today, don't we!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Yeah, let's go with enthusiasm for ChocoFull too!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...On the second day,<br>I've gotten a little used to this heat."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Maybe the sauna trained you?"
+            },
+            {
+                "text": "It's still hot, though..."
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "The Choco Hunters, having left the workshop,<br>were once again proceeding along the mountain path of Choco Volcano."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "It's a different path from yesterday!<br>I hope we find some today too—!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, that's right.<br>Walking on a volcanic path like this<br>reminds me of the game world."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Volcano stages are often difficult, aren't they?<br>I play games sometimes, but I can never clear them."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Usually, if you fall into magma,<br>it's game over, right?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, that's probably why they're common in the later stages<br>with higher difficulty, but good items often drop there too!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "The game I used to play often was like that too.<br>My father was the developer—"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I was excited watching him create the highest difficulty volcano stages.<br>I always thought I'd clear it someday."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Sounds interesting—!"
+            },
+            {
+                "text": "What's the name of the game?"
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "[Player] and the others continued the recording amicably<br>as they proceeded along the mountain path."
+    },
+    {
+        "type": "narrator",
+        "text": "And the topic shifted from games to chocolate."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—This time, the staff brought various Earth chocolates,<br>and they were delicious!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Speaking of which,<br>do you all eat a lot of chocolate?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "I thought talents had dietary<br>restrictions or something like that."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "I sometimes eat chocolate with a high cacao content.<br>It helps muscle growth and provides carbohydrates!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Also, a lot of the protein powder<br>I drink every day is chocolate-flavored!<br>How about you, Hitomi-chan?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "I love chocolate too!<br>Recently, it's become so easy to eat<br>chocolates from various planets!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "...But, I'm afraid of eating too much,<br>so I try to only have it when I want to give myself a reward!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha!<br>That's good, a reward after enduring!<br>It tastes even better that way!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I also often eat it during games.<br>Sweets are perfect for energy replenishment,<br>and most of all, I like the taste!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I often get them as gifts, but for some reason,<br>there's a lot of chocolate mint flavor...?<br>I like it, so I'm happy, though."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Chocolate mint is good!<br>I like that unique scent and taste too!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Ah, talking about chocolate makes me hungry—!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Right! Shall we take a break soon?<br>...Hm, what's this smell?"
+    },
+    {
+        "type": "narrator",
+        "text": "Ganran stopped and sniffed around.<br>Then, he twitched his nose."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Th-this scent...!"
+            },
+            {
+                "text": "...Gulp."
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "An impressive spiciness, with sourness and sweetness.<br>An ethnic aroma, as if stimulating various spices—"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "It smells really good and appetizing...!<br>—Wh-Who's there!?"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "...Hehehe.<br>You've noticed this scent, Choco Hunters!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "You can't climb a mountain on an empty stomach.<br>You want to replenish your energy to move your body, don't you?"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "So! We've brought the #1, the most popular dish<br>from the NeoTalents staff cafeteria,<br>with chocolate as a secret ingredient."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Everyone's favorite, special curry!<br>What's more, we got the recipe from the chefs of Gourmet Fighters."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Well, how is it?<br>Doesn't this scent make you even hungrier?"
+    },
+    {
+        "type": "narrator",
+        "text": "There were NeoTalents staff members cooking curry."
+    },
+    {
+        "type": "narrator",
+        "text": "Melt-in-your-mouth vegetables,<br>and soft-looking chunks of meat rolling around—"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Targeting our hunger is sneaky...!"
+            },
+            {
+                "text": "This curry looks like something Ryekie-san would love!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "I can't resist this scent...!<br>I'm getting hungry too!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Could it be that this<br>curry is a gift from the show?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "...No, reXer-kun.<br>A ChocoFull shoot isn't that sweet!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "We've been pranked so many times.<br>I'm sure this time too...!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "W-What!? So this is a trap...!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Hehehe, of course you are ChocoFull's \"hunters\".<br>You'll have to hunt for the prey you desire yourselves!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "However, if you fail the hunt...<br>you'll have to eat it with plenty of super-spicy seasoning,<br>a specialty of Garunderra."
+    },
+    {
+        "type": "narrator",
+        "text": "After saying that, the host staff snapped his fingers.<br>In response, the cooking staff stopped the fire and stood up."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha!<br>I see, so it's a battle!<br>That's easy to understand, isn't it!?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Super spicy...<br>I'm a little interested,<br>but I can't hold back in any battle!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yes, [Player]-san!<br>Please transform us!"
+    },
+    {
+        "type": "narrator",
+        "text": "Nodding at Hitomi's words,<br>[Player] operated the device."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Transformation it is!"
+            },
+            {
+                "text": "Leave it to me!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Iron Rule, number one!<br>'He who does not work, neither shall he eat!'<br>I'll do my part as well!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I'll make sure to get proper nutrition<br>before I run out of stamina from the heat!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "I'll also get a delicious lunch<br>with a dazzling battle!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "It smells really good...!<br>Let's get started right away!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Now, will the hunters' lunch become a volcano-style meal!?<br>The battle everyone's waiting for begins!"
+    },
+    {
+        "type": "title",
+        "text": "Battle Start"
+    },
+    {
+        "type": "narrator",
+        "text": "—After the battle,<br>steaming hot curry was laid out before the heroes."
+    },
+    {
+        "type": "character",
+        "name": "All",
+        "avatar": "../char/placeholder.png",
+        "text": "Let's eat—!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "...Mmm, it's delicious!<br>It's a simple curry, but the aroma is so good, it's the best!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "This has a rich flavor, delicious!<br>The secret ingredient, chocolate, is really effective!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Food eaten outdoors always tastes better, doesn't it—!<br>Maybe it's because the atmosphere is also appetizing—!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "It's after a good workout from mountain climbing and battling, after all.<br>...Hey, can I try a bite of that super-spicy one too?"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "It's the color of magma, but..."
+            },
+            {
+                "text": "A-Are you really sure...!?"
+            },
+            {
+                "text": "Oh, I have a feeling this will make a good shot!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I quite like spicy food.<br>I've never seen anything this color before, though...<br>Since it's here, I can't resist trying it, right?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "reXer-kun, you're brave—!<br>But don't overdo it and get an upset stomach, okay?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Oh, then me too!<br>Let's have a spicy endurance contest!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, alright!<br>Then it's a match, Ganran!<br>—Let's eat."
+    },
+    {
+        "type": "character",
+        "name": "All",
+        "avatar": "../char/placeholder.png",
+        "text": ".........<br>........."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—!? So hot—!!<br>It-it hurts, w-water, water...!!!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gwo...oh...!<br>Is this hot, spicy, or painful...?<br>My, my senses are fading...!!"
+    },
+    {
+        "type": "narrator",
+        "text": "Hitomi hurriedly handed water to reXer,<br>who jumped up, his entire body's fur standing on end."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "H-here!<br>reXer-san, are you alright...!?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "It's a good thing we won that battle earlier...<br>Just thinking about losing gives me chills."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "They said that it was a super spicy seasoning originating from Garunderra...<br>Ganran-san, can you eat this level of spiciness?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...It's, spicy, but...!<br>If you get used to it, you can feel the umami...!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Sweat is gushing from your whole body!<br>Ganran-san, please drink some water without pushing yourself...!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Ah, sorry, Hitomi-chan...!<br>Gah... I've never eaten anything this spicy even in Garunderra...!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—Hah, phew...<br>This is too much...<br>It's still tingling..."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Oh, Ryusei-san, here you go!"
+            },
+            {
+                "text": "The staff member gave this to me."
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Oh, what's this, [Player]-san?<br>Do I just read this? ...Um."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "\"The special curry from NeoTalents Production<br>& Gourmet Fighters that the hunters just ate!\""
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "\"If you want to try it for yourself,<br>the regular and volcano versions are both available<br>for order from the limited website!\", it says!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "I tried it too,<br>and it's really delicious with a rich flavor,<br>so I highly recommend it—!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "The secret ingredient, chocolate, seems to be the key to its deliciousness!<br>Everyone watching, please check it out!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "C-Challengers who want to try the super-spicy version,<br>please prepare plenty of water before you attempt it...!<br>It's important to prepare your equipment before battle...!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Yes, thank you!"
+            },
+            {
+                "text": "That was a commercial from the show—!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Hahaha, so there's a commercial too!<br>They're thorough, aren't they."
+    },
+    {
+        "type": "narrator",
+        "text": "Saying that, Ryusei tried to put away the cue card he was handed.<br>However, reXer saw something and called out to him."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...Hm? Ryusei, that paper.<br>Is there some writing on the back...?<br>No, isn't there a picture drawn on it?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "The back...?<br>Ah, you're right, what's this?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Oh, what's this picture?<br>It looks familiar...<br>Oh, it's a map of Choco Volcano, isn't it?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Indeed, it looks exactly like the volcano seen from afar.<br>So, this red X-mark..."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Could it be a treasure map?<br>Maybe rock cacao is buried there!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha!<br>Your agency probably did their homework thoroughly!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "I don't know the exact location of the vein,<br>but with a map, I can find the spot!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "We can get rock cacao!?"
+            },
+            {
+                "text": "Then, let's head there right away!"
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "If it's something the NeoTalents staff gave us,<br>it might be a trap again..."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "But, we can't not go, right!<br>Our stomachs are full, so Ganran, can you guide us?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Alright, leave it to me!<br>I have to do my job as a guide properly too!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Exercise after a meal!<br>My hamstrings are perfectly ready too!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "After eating a lot, it's time to burn some calories!<br>I hope we get the rock cacao!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "The location on this map might have rough terrain.<br>Everyone, please be careful and follow me!"
+    },
+    {
+        "type": "narrator",
+        "text": "At Ganran's words,<br>the group nodded and proceeded forward."
+    },
+    {
+        "type": "narrator",
+        "text": "At the very end of the line, [Player],<br>who was operating the drone, suddenly looked up."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "...!?"
+            },
+            {
+                "text": "That presence just now...!"
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "[Player] focused their attention again,<br>sensing their surroundings."
+    },
+    {
+        "type": "narrator",
+        "text": "However, looking around,<br>they felt no abnormality."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "...Just my imagination, perhaps."
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—Hey, [Player]!<br>Let's move forward with the camera, please!"
+    },
+    {
+        "type": "narrator",
+        "text": "[Player] paid attention to their surroundings again,<br>but there was no change from before."
+    },
+    {
+        "type": "narrator",
+        "text": "Confirming there was no presence,<br>they trotted towards reXer's call."
+    }
+]

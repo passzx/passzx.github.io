@@ -1,0 +1,2438 @@
+[
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—Good morning, [Player].<br>How was your sleep?"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Good morning, reXer.",
+                "dialogue_after_selection": [
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "This hotel's beds were really soft and comfortable, weren't they?"
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "Even though it's a location shoot, it's nice to travel sometimes. This planet has clean air, and it seeps into my head when I wake up—"
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "...Ah, I feel so relaxed when the camera isn't rolling.<br>...Alright, let's do our best with the filming today too!"
+                    }
+                ]
+            },
+            {
+                "text": "I slept perfectly!",
+                "dialogue_after_selection": [
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "This hotel's beds were really soft and comfortable, weren't they?"
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "Even though it's a location shoot, it's nice to travel sometimes. This planet has clean air, and it seeps into my head when I wake up—"
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "...Ah, I feel so relaxed when the camera isn't rolling.<br>...Alright, let's do our best with the filming today too!"
+                    }
+                ]
+            },
+            {
+                "text": "Hmm, I couldn't sleep much...",
+                "dialogue_after_selection": [
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "Hmm... I see, are you alright?<br>We're starting the mountain climbing shoot today, so don't overdo it."
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "If you can't sleep, come to my room next time.<br>Let's play games together until you get sleepy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "As the two, who met in the hotel lobby, exchanged words,<br>Ryusei and Hitomi also appeared from the hallway beyond."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Oh, good morning!<br>reXer-san, [Player]-san!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Hey, good morning, you two.<br>It's a pleasant morning!<br>It makes me want to go for a run!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, good morning. Ryusei, Hitomi.<br>But first, why don't we talk?<br>How should we proceed with today's filming?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Right, we can't have this conversation<br>once the camera starts rolling.<br>What should we do?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Ganran-san will probably arrive soon, so once we meet up,<br>should we head straight for the volcano?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "That's a good idea, but<br>why don't we report on the village's situation first?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yesterday, we had a mission,<br>so we didn't get to look around the village much."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I agree with Hitomi.<br>That way, the viewers will enjoy it more!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Hahah, reXer-kun, you're really motivated—!<br>Yeah, I have no problem with that either!<br>There were a lot of festival stalls too."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Let's explore a bit, then suggest to<br>Ganran-san that we head to the volcano.<br>I'm looking forward to it—!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yay! Actually, there were so many shops I was curious about!<br>Is that okay with [Player]-san too?"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "OK, understood!",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "I'll get some good shots today too!",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "Having decided on their plans, the four went outside."
+    },
+    {
+        "type": "narrator",
+        "text": "Just then, Ganran, walking from the opposite street, noticed them and waved."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—Oh, you're early!<br>How was it, was it a good hotel?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yes! The Choco Volcano view from the room was also magnificent!<br>I took so many pictures!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "I was able to relax too—!<br>I should definitely feature it in ChocoFull too!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Good morning, Ganran.<br>Um, it's sudden, but..."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "...Oh?<br>What is it?"
+    },
+    {
+        "type": "narrator",
+        "text": "reXer relayed the results of<br>their previous discussion to Ganran."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha, so that's it.<br>Ah, of course it's fine!<br>I was planning to guide you around the village anyway!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "If there's anything you want to see,<br>just tell me, I'm your guide!<br>Just say anything you want!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I see, that helps!<br>...Alright, today, for sure."
+    },
+    {
+        "type": "narrator",
+        "text": "reXer clenched his fist slightly at Ganran,<br>who responded with a laugh."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": ".........<br>...Hmm?"
+    },
+    {
+        "type": "narrator",
+        "text": "Ryusei, who was watching from a little distance,<br>placed a hand on his chin."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "What's wrong, Ryusei-san?",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "Are you thinking about something?",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Oh, no, it's nothing big.<br>...I'm just a little concerned about reXer-kun."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Somehow, today he's more enthusiastic than usual...<br>or rather, he looks desperate."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "I wondered if something happened, just a little, you know.<br>Well, I might be overthinking it, though!"
+    },
+    {
+        "type": "narrator",
+        "text": "With a gentle smile, Ryusei joined<br>Ganran and the others in their conversation."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Alright, then let's go report right away!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yes, [Player]-san,<br>please get the camera ready!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Okay, I'll start it!",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "Filming... start!",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "At [Player]'s signal, the hunters turned their gaze to the drone,<br>switching to their streamer expressions."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "—Alright, it's day two!<br>Let's go with enthusiasm!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Yeah, that's right!<br>Today, first, we'll report on the village's situation,<br>and then head straight to the volcano to look for rock cacao!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "First, let's look at the festival!<br>Ganran-san, thank you again today!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Yeah, leave it to me!<br>The whole village is prepared for the Choco Hunters!"
+    },
+    {
+        "type": "narrator",
+        "text": "Guided by Ganran's cheerful lead,<br>they headed towards the street lined with stalls,<br>where a sweet aroma welcomed the group."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "So cool!<br>There are so many sweets I've never seen before!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Is this fruit?<br>The sauce on top looks like chocolate, though..."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Ah, it's made by grinding the fruit and then adding sweetness,<br>so the way it's made might be similar to Earth's chocolate."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "We bury the fruit in the ground and dry it with the volcano's geothermal heat.<br>Here, try it out, as they say, 'nothing ventured, nothing gained'!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "You dry it with ground heat?<br>That's a unique way of making it in Garunderra.<br>Alright, I'll have some!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "...So sweet!<br>But it's very delicious!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "The sourness of the fruit goes well with it!<br>And this food stall..."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Oh, it's a meat dish using the same sauce!<br>That sweetness goes well with meat!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "O-Oh, you put it on meat too!?<br>It's such a sweet sauce, I wonder if it really goes well...?"
+    },
+    {
+        "type": "narrator",
+        "text": "The hunters commented wholeheartedly,<br>with lively expressions."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "...Yeah, reXer's smiling too!",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "I wonder if he's relaxed now.",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "[Player] observed reXer,<br>reminding themselves of Ryusei's words."
+    },
+    {
+        "type": "narrator",
+        "text": "However, reXer and the others continued<br>their report without any particular problems."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Phew, I'm full!<br>We ate a lot from the morning—!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Heheh, today's a cheat day!<br>But we'll be climbing the mountain properly afterwards,<br>so we'll get our exercise in!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...Alright!<br>Next, let's go check out that shop—"
+    },
+    {
+        "type": "narrator",
+        "text": "It was when reXer was about to turn the corner of the street."
+    },
+    {
+        "type": "character",
+        "name": "???",
+        "avatar": "../char/placeholder.png",
+        "text": "—Ouch!"
+    },
+    {
+        "type": "narrator",
+        "text": "A boy appeared from around the corner,<br>bumped into reXer, and fell to the ground."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, s-sorry!<br>Are you alright...?"
+    },
+    {
+        "type": "narrator",
+        "text": "reXer hurriedly took the boy's hand<br>and slowly helped him up."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "Yeah, I'm fine. Sorry for suddenly bumping into you.<br>...Oh, you're the brothers who were looking for rock cacao yesterday!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "You're the one who told us about rock cacao, right!<br>Thank you for yesterday!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Thanks to you, we were able to clear the mission!"
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...Hehehe.<br>Same here!"
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...Hey, brothers.<br>Are you going to go collect rock cacao now?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Yeah, that's right—.<br>We're going to make the phantom chocolate by hand!"
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...I see.<br>Oh, um, can I come with you?"
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "I want to find it too.<br>Rock cacao!<br>I've been looking for it forever..."
+    },
+    {
+        "type": "narrator",
+        "text": "The boy looked up and gazed at Ryusei and the others."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "...Hmm, we're in the middle of filming, so<br>it might be a little difficult to go together?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "But why do you want rock cacao?<br>Do you want to eat the phantom chocolate too?"
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "Um... it's not that I want to eat it... but...<br>...Rock cacao chocolate, it's, um, it connects... so."
+    },
+    {
+        "type": "narrator",
+        "text": "The boy, fidgeting, expressed that much,<br>then looked at Ryusei and the others."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Connects...?",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "Oh, that was a topic on Earth!",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "It seems to be that story!<br>Making chocolate by hand with rock cacao,<br>and giving it to someone will connect you... that's it!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "I see, so that story is<br>also being told in Garunderra."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "Yeah, I've heard it since I was little...<br>...It's a fairy tale."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "You'll laugh at me if I say<br>I believe such a story, won't you?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "That's not true!<br>I think it's a very wonderful story!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Yeah, we wouldn't laugh.<br>What kind of story is it?<br>Could you tell us in detail?"
+    },
+    {
+        "type": "narrator",
+        "text": "At Ryusei's words, the boy let out<br>a small breath and began to speak."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...Rock cacao chocolate, when made together,<br>binds you with an unbreakable \"solid bond\"."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "Rock cacao is super hard, so making chocolate is really difficult...<br>It's important to overcome the difficulties together."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "Hey, on Earth, when you give chocolate, you...<br>...say 'I love you,' don't you?<br>I learned that yesterday."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...I, too, um...<br>There's a girl I want to make it with, and I like her, so...<br>That's why... I was looking..."
+    },
+    {
+        "type": "narrator",
+        "text": "The boy muttered softly,<br>his voice almost fading away."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "—Sorry, boy.<br>That's a request I can't grant."
+    },
+    {
+        "type": "narrator",
+        "text": "Ganran opened his mouth towards the boy.<br>He continued in a very gentle, persuasive tone."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Iron Rule, number one.<br>If you want to climb the volcano, prepare first, alright?<br>Even if it hasn't erupted recently, it's still a volcano."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "The path is steep in many places,<br>and it might be a bit dangerous.<br>I can't let you get hurt."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Besides, there's a show being recorded for the<br>people who came all the way from Earth.<br>Can't you understand, too?"
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...You're right.<br>No, I'm sorry."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "There will be another chance.<br>You'll surely find the rock cacao too."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...Yeah, thank you.<br>But, still... it's fine.<br>...That earlier one was just a \"fairy tale,\" after all."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "I... even if I make chocolate,<br>I might not be able to say I like them.<br>Honestly, I'm not confident..."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "Even if I tell them, it might not work.<br>What's the point, someone like me...<br>They won't even bother."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": ".........<br>........."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "\"I can't do it\"<br>\"Someone as boring and gloomy as me\"<br>\"What's the point\", \"someone like me\"..."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "...Um, you know.<br>........."
+    },
+    {
+        "type": "narrator",
+        "text": "Ryusei tried to say something, but no words followed.<br>The boy shook his head lightly and smiled."
+    },
+    {
+        "type": "character",
+        "name": "Boy",
+        "avatar": "../char/placeholder.png",
+        "text": "...People from Earth are amazing, aren't they?<br>They give chocolate and can actually say they like someone.<br>Good luck, brothers."
+    },
+    {
+        "type": "narrator",
+        "text": "After saying that, the boy ran off at a trot."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "...Hmm, it's a shame, but<br>let's do our best for that child's sake too.<br>Right, Ryusei-san?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "...Eh, ah, yeah, that's right!<br>We've reported on the village's situation, so<br>should we head to the volcano soon?"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah... that's right!<br>Let's go find that rock cacao!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Understood, let's get going, everyone!",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "Time for mountain climbing!",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Yeah, then let's head out!<br>As I told the boy,<br>there are some rough paths along the way."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Just don't get hurt!<br>Well, I'm sure the heroes will be fine, though!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "[Player], you also gotta be very careful.<br>Alright, then, let's go!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yes!<br>Let's head out!"
+    },
+    {
+        "type": "narrator",
+        "text": "With Ganran and Hitomi leading, [Player] followed,<br>and the group left the village and proceeded."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": ".........<br>...Alright!"
+    },
+    {
+        "type": "narrator",
+        "text": "Behind them, Ryusei began to walk as if he had made a decision.<br>And even further behind—"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "It was going so well, but...<br>Bumping into a civilian doesn't leave a good impression, does it..."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Not yet, I need to be better...<br>\"If it were my dad\"—"
+    },
+    {
+        "type": "title",
+        "text": "Chapter 3:<br> About Future and Dreams"
+    },
+    {
+        "type": "narrator",
+        "text": "The group, having arrived at the foot of the volcano from the village,<br>searched for a rock cacao vein and proceeded with Ganran's guidance."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "The mountain path is getting pretty serious,<br>but if you start feeling tired,<br>just tell me right away."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, thank you, Ganran.<br>But we're also heroes of NeoTalents!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Yeah, this kind of path is no problem,<br>I could walk it forever!<br>Leave it to these muscles!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha, that's a good spirit!<br>With that much enthusiasm, there'll be no problem!<br>How about you, Hito-chan, are you alright?"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Yes, I also train daily with dance and singing!<br>Being an idol is also a test of stamina!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Besides, I'm quite confident in my strength!<br>But—"
+    },
+    {
+        "type": "narrator",
+        "text": "Hitomi narrowed her eyes and<br>fanned herself with her hand."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "It's so hot here..."
+    },
+    {
+        "type": "narrator",
+        "text": "After entering the volcano path, the temperature suddenly rose,<br>and a heat like midsummer assaulted the group."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "The mountain path aside,<br>this area is hot enough to make you sweat."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, there's geothermal heat from the volcano.<br>It's like a bedrock bath..."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Ganran-san, are you alright carrying<br>so much luggage in this heat?<br>I'll help you!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "Ah, that large luggage you're carrying is for mining, right?<br>We'll help carry it too."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Ohoho, thank you, reXer, Hito-chan.<br>But, I'm fine!<br>I usually train like this, you see!"
+    },
+    {
+        "type": "narrator",
+        "text": "Saying that with a grin,<br>Ganran waved his hand at Hitomi and the others."
+    },
+    {
+        "type": "narrator",
+        "text": "On his back, bundled together,<br>were mining tools, probably enough for everyone."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "The weight of the luggage and the heat of the volcano...<br>Ah, it's unbearable...!<br>It's just right for enduring!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Unbearable...?",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "It just sounds painful...",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "You like enduring things?",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "That's right, if I can endure today what<br>I couldn't yesterday, then that's growth, isn't it?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "To feel that strength in my own body is what I like!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "In short, it's an endurance contest with myself!<br>How about it, isn't it unbearable?<br>Gahahaha!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "An endurance contest, huh...<br>My field is in gaming, but I can understand a similar feeling."
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "When I defeat a stage I couldn't clear, or a boss I couldn't beat,<br>I really feel like I've grown, and it's refreshing."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "I feel the same way when<br>I push myself during muscle training—!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "It's called 'all-out' in the<br>sense of surpassing your limits."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Thinking of that word,<br>I train myself to do one more rep, just one more!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "All-out, huh, that's a good word!<br>Maybe I should do some muscle training to strengthen my endurance—<br>Oh?"
+    },
+    {
+        "type": "narrator",
+        "text": "As the group proceeded along the mountain path,<br>two diverging paths and two suspicious-looking boards appeared before them."
+    },
+    {
+        "type": "narrator",
+        "text": "Large boards were placed to block the path.<br>At the fork, one person stood."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "...Whoa, suspicious.",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "Oh, what's this, what's this—?",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "...H-hey, everyone.<br>That \"person\"..."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Hmm...<br>Looks suspicious.<br>Definitely one of the organizers, let's be careful!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Whoa—!<br>Is it some kind of recreation?<br>I'm looking forward to what happens!"
+    },
+    {
+        "type": "narrator",
+        "text": "As the person who seemed to be the organizer displayed three different reactions,<br>they recognized the hunters and approached them."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "—Choco Hunters.<br>Welcome to Choco Volcano.<br>Ehm... ahem."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Show us the power of the hunters' bond!<br>NeoTalents Presents!<br>It's time for 'Hot! Hero Quiz'!"
+    },
+    {
+        "type": "character",
+        "name": "All Three",
+        "avatar": "../char/placeholder.png",
+        "text": "H-Hot...<br>Hero, Quiz!?"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha!<br>A trial for the hunters!"
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Well then, I'll step back,<br>and enjoy watching!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "I'll film it well!",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "It's starting to feel like a real show!",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "From this point on, a quiz will be given to deepen your bond,<br>which cannot be answered unless you know each other well."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Answerers, please jump towards the<br>board that has the correct answer."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "You can proceed if you answer correctly,<br>but if, by any chance, you make a mistake—"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": ".........<br>...Wh-What happens if we make a mistake?"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Beyond the incorrect board is<br>a very hot natural hot spring.<br>Please make a grand dive if you do."
+    },
+    {
+        "type": "character",
+        "name": "All Three",
+        "avatar": "../char/placeholder.png",
+        "text": "W-What!?"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Also, for this program, we have specially<br>rented out the entire volcano's hot spring."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Diving into the hot spring would be a nuisance to those around,<br>so viewers, especially good children, please do not imitate."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "W-Wait a minute!<br>If I dive into the hot spring,<br>my bangs might get messed up...!!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Please consider that part of the charm.<br>Even if you get wet,<br>the geothermal heat here should dry you quickly."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Now then, let's begin right away.<br>Everyone watching,<br>please think along with us."
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "—Question 1!<br>Let's have fun first!<br>reXer-san, who is active as a cyber hero!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "What is the professional gamer team he belongs to?<br>Hitomi-san, please!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "Eh, m-me...!?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Hahaha, go for it, Hito-chan!<br>I'm cheering for you—!"
+    },
+    {
+        "type": "character",
+        "name": "reXer",
+        "avatar": "../char/reXer.png",
+        "text": "It's about my affiliation.<br>That's easy, my game case is—"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Oops.<br>Everyone from NeoTalents,<br>no hints, please!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "W-What should I do...!<br>Then, is it okay if I get a hint from [Player]-san?"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "...Hmm.<br>Well, that's fine!<br>Please, assist them."
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "M-me!?",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "Leave it to me, Hito-chan!",
+                "dialogue_after_selection": []
+            },
+            {
+                "text": "I'm not very confident, but...",
+                "dialogue_after_selection": []
+            }
+        ]
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "With [Player]-san, I'm sure it'll be fine!<br>Please help me!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "I'll run towards the panel<br>that [Player]-san indicates!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "Have you finished discussing?<br>Then, Hitomi-san,<br>please give your answer!"
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "O-Okay...!<br>[Player]-san, here I go!<br>The answer is—"
+    },
+    {
+        "type": "narrator",
+        "text": "Hitomi, as if making a decision,<br>looked up and ran towards the board [Player] indicated."
+    },
+    {
+        "type": "character",
+        "name": "Hitomi",
+        "avatar": "../char/hitomi.png",
+        "text": "...Eek!!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "μ-Hyperions",
+                "dialogue_after_selection": [
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "Th-That was good—!<br>I didn't get wet...!<br>Heheh, that's correct!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "[Player]-san, thank you!<br>You saved me!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "Ah, that's correct, Hitomi!<br>I belong to μ-Hyperions."
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "It means \"one who masters the micro and goes to great heights\".<br>Heheh, how about it, isn't that cool?"
+                    }
+                ]
+            },
+            {
+                "text": "We are the Strongest Gamers",
+                "dialogue_after_selection": [
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "...Kyaa—!?<br>Oh no, I'm soaking wet...<br>I failed..."
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "Ah, but it's a bit hot, but<br>the temperature is just right!<br>If only it wasn't this situation..."
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "[Player]-san, please don't worry!<br>Let's do our best next time!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "A-Are you alright, Hitomi!<br>My affiliation is μ-Hyperions."
+                    },
+                    {
+                        "type": "character",
+                        "name": "Ryusei",
+                        "avatar": "../char/ryusei.png",
+                        "text": "Hito-chan, here's a towel! The other path was the correct one. Let's go that way."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "narrator",
+        "text": "Proceeding down the correct path,<br>they found two more boards similar to the previous ones."
+    },
+    {
+        "type": "character",
+        "name": "Ganran",
+        "avatar": "../char/ganran.png",
+        "text": "Gahahaha!<br>There are boards, so it's another quiz!<br>This time, who is it about?"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "—Second question!<br>Ayauta Hitomi-san, also known as Hito-chan,<br>who is active as an idol!"
+    },
+    {
+        "type": "character",
+        "name": "Stuntman",
+        "avatar": "../char/stuntman.png",
+        "text": "What is her favorite food?<br>Ryusei-san, please!"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "Oh, it's my turn now, is it?<br>Hito-chan's favorite thing...<br>[Player]-san, do you know?"
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "If you don't mind, I'd be happy if you could lend me your strength!<br>Tell me which panel it is!"
+    },
+    {
+        "type": "narrator",
+        "text": "Saying that, Ryusei lightly ran forward and<br>jumped towards the board [Player] indicated."
+    },
+    {
+        "type": "character",
+        "name": "Ryusei",
+        "avatar": "../char/ryusei.png",
+        "text": "—The answer is this way!"
+    },
+    {
+        "type": "choice",
+        "options": [
+            {
+                "text": "Strawberry shortcake",
+                "dialogue_after_selection": [
+                    {
+                        "type": "character",
+                        "name": "Ryusei",
+                        "avatar": "../char/ryusei.png",
+                        "text": "Alright, that's correct!<br>Hito-chan did happily talk about having a sweets report shoot!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Ryusei",
+                        "avatar": "../char/ryusei.png",
+                        "text": "[Player]-san, thank you too.<br>Thanks to you, I didn't get wet—!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "Yes, it's sweet and delicious, of course, but it's also cute, and the cream and sponge are so fluffy, I love it!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "...I love beef jerky too."
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "...Hm?<br>Hitomi, did you say something?"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "No, I didn't say anything!<br>Come on, let's move on!"
+                    }
+                ]
+            },
+            {
+                "text": "Beef jerky",
+                "dialogue_after_selection": [
+                    {
+                        "type": "character",
+                        "name": "Ryusei",
+                        "avatar": "../char/ryusei.png",
+                        "text": "...Whoa!?<br>Hahaha, I got soaking wet!<br>I thought it was correct—!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Ryusei",
+                        "avatar": "../char/ryusei.png",
+                        "text": "I thought it was this way too, so<br>[Player]-san, don't worry about it!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "Heheh, idols like cute things!<br>Also, Ryusei-san, reXer-san, could you lend me your ears for a moment?"
+                    },
+                    {
+                        "type": "narrator",
+                        "text": "While mindful of the microphone, Hitomi whispered quickly into their ears."
+                    },
+                    {
+                        "type": "character",
+                        "name": "Hitomi",
+                        "avatar": "../char/hitomi.png",
+                        "text": "I really, really love beef jerky, but cake is cuter, isn't it... Please keep this a secret from everyone!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "Ryusei",
+                        "avatar": "../char/ryusei.png",
+                        "text": "Hahaha, so that's what it was.<br>Yeah, I get it!"
+                    },
+                    {
+                        "type": "character",
+                        "name": "reXer",
+                        "avatar": "../char/reXer.png",
+                        "text": "I-is that something to worry about so much...?<br>But if Hitomi thinks so, I'll keep quiet.<br>Here, Ryusei, use this towel."
+                    },
+                    {
+                        "type": "character",
+                        "name": "Ryusei",
+                        "avatar": "../char/ryusei.png",
+                        "text": "Heheh, thank you!<br>That was a good hot bath—!<br>Alright, let's go the other way!"
+                    }
+                ]
+            }
+        ]
+        },
+            {
+                "type": "narrator",
+                "text": "The group proceeded down the correct path.<br>Of course, another set of identical boards appeared ahead."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "They've appeared again.<br>Which means the next quiz is..."
+            },
+            {
+                "type": "narrator",
+                "text": "As the hunters nodded to each other,<br>the staff member began to read the question."
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "—Third question!<br>Ryusei-san, also known as Ryusei,<br>who is active as a fitness model!"
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "What is his proudest possession?<br>This one's a bit difficult, but...<br>reXer-san, please!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "It's my turn.<br>Ryusei's proudest possession, huh..."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Come on, [Player]!<br>My life is in your hands too!<br>...Alright, I'm going!"
+            },
+            {
+                "type": "narrator",
+                "text": "reXer dashed straight ahead and jumped<br>without hesitation towards the board [Player] indicated."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "—The answer is this one!"
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "High-end training equipment",
+                        "dialogue_after_selection": [
+                            {
+                                "type": "character",
+                                "name": "reXer",
+                                "avatar": "../char/reXer.png",
+                                "text": "...Whoa!?<br>N-No way!?<br>Ugh, I'm soaking wet..."
+                            },
+                            {
+                                "type": "character",
+                                "name": "reXer",
+                                "avatar": "../char/reXer.png",
+                                "text": "[Player], let's use this frustration to our advantage next time!<br>Don't worry about it!"
+                            },
+                            {
+                                "type": "character",
+                                "name": "Ryusei",
+                                "avatar": "../char/ryusei.png",
+                                "text": "Hahaha, the physique competition I'm in requires wearing surf shorts during the competition."
+                            },
+                            {
+                                "type": "character",
+                                "name": "Ryusei",
+                                "avatar": "../char/ryusei.png",
+                                "text": "I started collecting them because it was fun to look at—!<br>When new ones come out, I just can't help but buy them!"
+                            },
+                            {
+                                "type": "character",
+                                "name": "Hitomi",
+                                "avatar": "../char/hitomi.png",
+                                "text": "My costumes also change depending on the song, so I totally understand that feeling!<br>I sometimes buy too much, though!"
+                            },
+                            {
+                                "type": "character",
+                                "name": "Hitomi",
+                                "avatar": "../char/hitomi.png",
+                                "text": "reXer-san, let's go shopping together next time!<br>Here, please use this towel!"
+                            },
+                            {
+                                "type": "character",
+                                "name": "reXer",
+                                "avatar": "../char/reXer.png",
+                                "text": "Ah, thank you.<br>It's a good hot spring, but I'd like to soak in it slowly...<br>Alright, let's go the other way."
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Surf shorts collection",
+                        "dialogue_after_selection": [
+                            {
+                                "type": "character",
+                                "name": "reXer",
+                                "avatar": "../char/reXer.png",
+                                "text": "Alright, that's correct!<br>It's thanks to [Player]!<br>Thank you for the advice!"
+                            },
+                            {
+                                "type": "character",
+                                "name": "reXer",
+                                "avatar": "../char/reXer.png",
+                                "text": "Ryusei does physique, so it's something he wears during that, right?"
+                            },
+                            {
+                                "type": "character",
+                                "name": "Ryusei",
+                                "avatar": "../char/ryusei.png",
+                                "text": "Yeah, that's right—!<br>In physique competitions, the impression of your surf shorts is very important!"
+                            },
+                            {
+                                "type": "character",
+                                "name": "Ryusei",
+                                "avatar": "../char/ryusei.png",
+                                "text": "I started having fun researching them, and now<br>I've filled up one whole room—!<br>When new ones come out, I just can't help but buy them—!"
+                            },
+                            {
+                                "type": "character",
+                                "name": "Hitomi",
+                                "avatar": "../char/hitomi.png",
+                                "text": "A whole room of surf shorts!?<br>Heheh, that's \"love\" right there!"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "narrator",
+                "text": "After the hunters passed through the correct path,<br>Ganran's boisterous voice could be heard."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha!<br>All four of you, good work!<br>It seems this is the end!"
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "Phew, that was tense...",
+                        "dialogue_after_selection": []
+                    },
+                    {
+                        "text": "The quiz is already over—!",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "narrator",
+                "text": "As they reunited and talked,<br>the staff member from before approached them."
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "—Congratulations!<br>You have finally conquered all the quizzes!"
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "This should have deepened your bond with each other!<br>...Now then, please look ahead."
+            },
+            {
+                "type": "narrator",
+                "text": "On the ground indicated by the staff member,<br>a part of what appeared to be glittering, jewel-like ore was visible."
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "Just now, another staff member<br>has discovered a vein of rock cacao!"
+            },
+            {
+                "type": "character",
+                "name": "All Three",
+                "avatar": "../char/placeholder.png",
+                "text": "R-Rock cacao!?"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "H-hey!<br>Is that the real thing...!?<br>It might be a trap..."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Hmm, it's mostly buried in the ground so I can't tell, but<br>it seems to be just like they said in the story..."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Ah, no doubt about it!<br>That's definitely genuine rock cacao!"
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "However, we staff members have also proceeded<br>with excavation, ahead of the hunters!"
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "Now, at this rate, the buried<br>rock cacao will be taken by them!<br>Now is the time to show the power of your deepened bonds!"
+            },
+            {
+                "type": "narrator",
+                "text": "At those words, the staff members who were<br>excavating stopped and turned to face the hunters."
+            },
+            {
+                "type": "narrator",
+                "text": "And, while still poised,<br>they slowly closed the distance."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "...It seems they're serious.<br>[Player]!<br>Let's fight back!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "That's right, sorry for having you find it,<br>but we'll be taking that rock cacao!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Yes, we can't hand over the rock cacao!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha, it's a battle!<br>Then I'll help too!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Seeing passionate people always makes me excited!<br>Let's transform together!"
+            },
+            {
+                "type": "narrator",
+                "text": "Seeing the three prepare, Ganran also grinned and waved to [Player] as a signal."
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "...Eh, the guide is fighting too?<br>Well, whatever...<br>It looks fun, so it's OK!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha, it's not bad, is it?<br>Leave it to me!"
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "Understood, let's go, everyone!",
+                        "dialogue_after_selection": []
+                    },
+                    {
+                        "text": "Hunters, transform!",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "narrator",
+                "text": "[Player] switched the filming drone to auto-follow and entered operation mode."
+            },
+            {
+                "type": "narrator",
+                "text": "And, they transformed the heroes all at once."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Alright—!<br>Time to get the first rock cacao—!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "I'll do my best too!<br>Everyone watching,<br>please cheer us on—!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "I'm fired up and boiling over!<br>I'll enjoy myself too!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "I'll definitely make this work and get the rock cacao!<br>...Alright, quest start!"
+            },
+            {
+                "type": "title",
+                "text": "Battle Start"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Heheh, I'll sing my song for you—!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Here I go!<br>—\"Love Song\"!<br>LOVE ME☆HITO-MI~!"
+            },
+            {
+                "type": "narrator",
+                "text": "Hitomi's singing voice echoed through the sky of Choco Volcano."
+            },
+            {
+                "type": "narrator",
+                "text": "Her voice, amplified through her Parallel Weapon,<br>resonated as if to encourage the surrounding heroes."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha!<br>So this is Hito-chan's song!<br>I feel power surging through me!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "I'll show them I'm a fighting guide!<br>—Take that!"
+            },
+            {
+                "type": "narrator",
+                "text": "Not missing the moment the staff flinched from Ganran's attack, Ryusei and reXer leaped simultaneously."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Hito-chan, Ganran-san, thank you!<br>Alright, reXer-kun,<br>let's finish this together—!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Alright, leave it to me, Ryusei!<br>This quest is ours—!"
+            },
+            {
+                "type": "character",
+                "name": "Stuntman",
+                "avatar": "../char/stuntman.png",
+                "text": "...Ugh, whoa!"
+            },
+            {
+                "type": "narrator",
+                "text": "When the two attacked simultaneously, the staff members<br>lost their balance and staggered back in retreat."
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "Alright, victory!",
+                        "dialogue_after_selection": []
+                    },
+                    {
+                        "text": "Everyone, good work!",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "narrator",
+                "text": "[Player] de-transformed the heroes who<br>had finished the battle, and handed them towels."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Thank you, [Player].<br>That was a nice game, everyone!<br>Now we can get the rock cacao!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Phew, that was good exercise!<br>Fighting in such a hot place, I'm drenched in sweat—!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Ah...<br>It's really hitting my latissimus dorsi...!<br>I think my muscles are going to become even more beautiful!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha!<br>Oh yeah, Ryusei, you said something like that during our battle too!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "It's a good thing to be able to acknowledge yourself!<br>Your body is beautiful, you know!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Thank you, Ganran-san!<br>I want to become even more beautiful!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "I understand how Ryusei-san feels!<br>I think it's wonderful!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Speaking of which, Hitomi-chan,<br>you fought in this volcanic path, yet<br>there's not a speck of dust on you."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ah, it was quite an intense battle in this heat, I think...<br>And your hair isn't even messed up."
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Heheh, no matter what happens,<br>an idol's bangs are never allowed to get messed up!"
+            },
+            {
+                "type": "narrator",
+                "text": "Hitomi struck a small pose and smiled at the camera."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Hito-chan always uses a lot of hairspray<br>before her battle live performances—"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Kyaa—!?<br>No, Ryusei-san—!!<br>Don't expose an idol's secrets—!!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "...Eh, ah, s-sorry!<br>I guess that was something I shouldn't have said."
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Secrets are part of being an idol!<br>Please cut that out in editing—!!<br>Now, instead of my story, let's talk about the rock cacao!"
+            },
+            {
+                "type": "narrator",
+                "text": "Hitomi, desperately protesting,<br>pointed to the ore at her feet."
+            },
+            {
+                "type": "narrator",
+                "text": "There, a part of the rock cacao was exposed,<br>but most of it was still buried in the ground."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "That's right, let's harvest this before we forget!<br>...Here, let's use this pickaxe!"
+            },
+            {
+                "type": "narrator",
+                "text": "Ganran took out a pickaxe from the large luggage<br>he had been carrying on his back and handed it to the hunters."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Iron Rule, number one!<br>'He who does not work, neither shall he eat!'<br>You'll have to dig it up yourselves!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Rock cacao is extremely hard, so<br>it won't get damaged even if you hit it a bit, but<br>you need to be careful when digging it out!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ah, leave it to me!<br>Then, first, let's dig it up by clearing<br>the surrounding soil so as not to hit it!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Alright—!<br>It's time for my trapezius muscles to shine!"
+            },
+            {
+                "type": "narrator",
+                "text": "reXer and Ryusei swung the pickaxes<br>they received from Ganran towards the ground."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Tch... the ground layer is quite hard, isn't it.<br>Even though I'm putting in effort,<br>it's not scraping off easily..."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha!<br>You can't dig it out that easily!<br>That's why it's called \"rock cacao\"!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "He who does not work, neither shall he eat, right!<br>Alright, can I try too?"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Yeah, it requires quite a bit of strength—!<br>Could Hito-chan please take this side?"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Yes, leave it to me!<br>Here I go—!<br>...Aiyah—!!"
+            },
+            {
+                "type": "narrator",
+                "text": "The pickaxe Hitomi swung down literally \"gouged\" the ground near the rock cacao."
+            },
+            {
+                "type": "narrator",
+                "text": "And, unable to withstand the applied force, the metal part of the pickaxe deformed and burst into pieces."
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "As expected of Hito-chan, that's great!",
+                        "dialogue_after_selection": [
+                            {
+                                "type": "character",
+                                "name": "reXer",
+                                "avatar": "../char/reXer.png",
+                                "text": "[Player], that reaction, you are used to this!?"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Looks like we're almost able to dig it up!",
+                        "dialogue_after_selection": [
+                            {
+                                "type": "character",
+                                "name": "reXer",
+                                "avatar": "../char/reXer.png",
+                                "text": "[Player], that reaction, you are used to this!?"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Th-the pickaxe...",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "...I-I'm so sorry!<br>I broke the tool you so kindly lent me...!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Ganran-san made it, didn't he...<br>I'll return it right away...!<br>I'm truly sorry!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "...Eh? Ah, ah!<br>I can reforge that, so it's fine!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "You don't have to force yourself to put it back together,<br>just hand it to me, okay?<br>You might get hurt, you know!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "I'll fix this tomorrow, but...<br>Here, look at the ground, Hito-chan.<br>Once you've come this far, the rest is easy!"
+            },
+            {
+                "type": "narrator",
+                "text": "Collecting the broken pickaxe,<br>Ganran pointed to the rock cacao."
+            },
+            {
+                "type": "narrator",
+                "text": "There, nearly half of the rock cacao was already exposed,<br>shining brilliantly as it caught the light."
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "It's sparkling...!",
+                        "dialogue_after_selection": []
+                    },
+                    {
+                        "text": "It's beautiful enough to be rumored about!",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "—So beautiful, so pure...!<br>This is rock cacao...!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "It really looks like a jewel—!<br>I still can't believe this is food—!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ah, it really sparkles and reflects light like this, doesn't it.<br>As expected of a rare item!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha, right?<br>Be careful not to damage it<br>until the very end when you excavate it!"
+            },
+            {
+                "type": "narrator",
+                "text": "The hunters sighed, gazing at the rock cacao and its beauty.<br>Among them, Ryusei—"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": ".........<br>...Hey, everyone!<br>I have a favor to ask!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "—Hey—!<br>Kid, wait a minute—!"
+            },
+            {
+                "type": "narrator",
+                "text": "The group, who had brought the rock cacao back to the village,<br>was looking for a certain person."
+            },
+            {
+                "type": "character",
+                "name": "Boy",
+                "avatar": "../char/placeholder.png",
+                "text": "...Eh, me?<br>What's wrong, big brothers...?"
+            },
+            {
+                "type": "narrator",
+                "text": "That person was the boy from the village<br>they had met earlier in the day."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Good—!<br>I finally found you—!<br>I was looking for you!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "...Here, this.<br>You've been looking for it, haven't you?"
+            },
+            {
+                "type": "narrator",
+                "text": "Ryusei carefully handed the rock cacao<br>he had been holding to the boy's palm."
+            },
+            {
+                "type": "character",
+                "name": "Boy",
+                "avatar": "../char/placeholder.png",
+                "text": "...Th-this is rock cacao!?<br>Why—!? Is it really okay?<br>It's not something you'd find...!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ryusei said he really wanted to give it to you.<br>We agree too!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Yes, we, the \"ChocoFull\" members,<br>came from Earth to spread the culture of love and feelings."
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/ryusei.png",
+                "text": "With this rock cacao,<br>please make chocolate filled with your feelings,<br>and give it to your important person!"
+            },
+            {
+                "type": "narrator",
+                "text": "The hunters also happily followed Ryusei.<br>Ganran patted the bewildered boy's shoulder and grinned."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "You did it!<br>Now you can make the phantom chocolate yourself!"
+            },
+            {
+                "type": "character",
+                "name": "Boy",
+                "avatar": "../char/placeholder.png",
+                "text": "B-but...!<br>You worked so hard to find it, didn't you...?"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "...Earlier today, you said it, didn't you?<br>\"What's the point?\""
+            },
+            {
+                "type": "narrator",
+                "text": "Ryusei met the boy's gaze and looked at the rock cacao<br>shining in the setting sun in the boy's arms."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "...I, too, used to have no confidence in myself.<br>Those words... used to be my catchphrase."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "I had a gloomy personality, no stamina,<br>hated even looking in the mirror...<br>I thought I had no good qualities at all."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "But, that's why I understand your feelings a little.<br>It's scary, isn't it, to take courage."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ryusei..."
+            },
+            {
+                "type": "narrator",
+                "text": "At Ryusei's words, reXer let out a small gasp of surprise<br>and clutched his chest as if thinking of something."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "...I was scared too. But,<br>because I had the courage to take a step forward<br>and decide to change, the me now exists."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "How about it, the me now, isn't bad, right?<br>I love the me I am now, who I became through effort!"
+            },
+            {
+                "type": "narrator",
+                "text": "Ryusei smiled broadly and squeezed the boy's hand."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "I think you can also find that courage."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "So, this rock cacao is just the beginning.<br>You still have to make a lot of effort from now on."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "I hope you make delicious chocolate with this cacao, with that person!<br>Do your best to convey your feelings—!"
+            },
+            {
+                "type": "narrator",
+                "text": "The boy squeezed Ryusei's hand back tightly.<br>He looked back at Ryusei directly with eyes still showing surprise."
+            },
+            {
+                "type": "character",
+                "name": "Boy",
+                "avatar": "../char/placeholder.png",
+                "text": "Th-thank you... very much.<br>...I'll do my best!"
+            },
+            {
+                "type": "character",
+                "name": "Boy",
+                "avatar": "../char/placeholder.png",
+                "text": "...So I can tell you all,<br>that I did my best!"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Heheh, thank you for your wonderful reply!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ah, I'm looking forward to hearing those words!"
+            },
+            {
+                "type": "narrator",
+                "text": "The hunters said goodbye to the boy,<br>who was happily waving his hands,<br>and began to walk away."
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "...Sorry, both of you,<br>I know we finally got it, but<br>you indulged my selfishness."
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "That's not true!<br>Our mission is to spread the culture of love.<br>With this, we were able to give back some \"love\", weren't we!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ah, I wanted to give something back<br>to the villagers for welcoming us too!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "\"Returning love,\" huh...<br>Yeah, that's right!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "I talked a lot with that kid, but<br>I myself feel like I can become even more wonderful—!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Thank you, both of you!<br>And [Player]-san and Ganran-san too!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Gahahaha!<br>We can just go get more rock cacao tomorrow!"
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "No, thank \"you\"!",
+                        "dialogue_after_selection": []
+                    },
+                    {
+                        "text": "We got a wonderful scene!",
+                        "dialogue_after_selection": []
+                    },
+                    {
+                        "text": "Ending today's filming now.",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "narrator",
+                "text": "[Player] stopped the drone camera<br>and changed it to charging mode."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Alright, it's time to break up for today.<br>Good work today, Hunters!<br>...Oh?"
+            },
+            {
+                "type": "narrator",
+                "text": "Just then, the ground suddenly shook,<br>and the group cried out in surprise."
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "E-earthquake!?<br>Ah—, that surprised me..."
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "It seems to have stopped now.<br>It wasn't that big, but<br>is everyone okay?"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Yeah, I'm fine.<br>[Player]-san too...<br>Good, you seem okay."
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Well, earthquakes happen often on Garunderra, so you'll get used to them soon!<br>No need to worry about it!"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Now, I'm going to stop by the sauna after this,<br>and try to shake off some of this fatigue.<br>How about you all?"
+            },
+            {
+                "type": "character",
+                "name": "Ganran",
+                "avatar": "../char/ganran.png",
+                "text": "Garunderra has plenty of volcanoes, you know!<br>This area in particular is famous for its natural saunas!"
+            },
+            {
+                "type": "character",
+                "name": "Ryusei",
+                "avatar": "../char/ryusei.png",
+                "text": "Oh, a natural sauna, huh—!<br>It sounds like it'd warm your body and make you feel refreshed!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "Ah, we were filming on a mountain path, after all.<br>To be able to do our best tomorrow too,<br>should we go before returning to the hotel?"
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "Ugh... It's really unfortunate, but<br>I have a personal live stream after this,<br>so I have to return to the hotel first."
+            },
+            {
+                "type": "character",
+                "name": "Hitomi",
+                "avatar": "../char/hitomi.png",
+                "text": "So, I'm sorry, but<br>please enjoy yourselves.<br>Tell me all about it later!"
+            },
+            {
+                "type": "character",
+                "name": "reXer",
+                "avatar": "../char/reXer.png",
+                "text": "I see, understood.<br>[Player], how about you?<br>Would you like to join us?"
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "...Eh!?",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "Together...",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "options": [
+                    {
+                        "text": "Sauna!?",
+                        "dialogue_after_selection": []
+                    }
+                ]
+            }
+        ]

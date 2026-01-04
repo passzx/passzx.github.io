@@ -1,0 +1,444 @@
+[
+    {
+      "type": "narrator",
+      "text": "—In gratitude to the heroes who defeated the monster,<br>a village-wide banquet is held."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and the others were at the center, receiving much hospitality."
+    },
+    {
+      "type": "narrator",
+      "text": "As the banquet began to settle down.<br>[Player] stood up, called over by a certain person leaving their seat."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "—[Player].<br>Sorry for calling you out."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "I get a little tired thinking the camera's always rolling.<br>Why don't we chat for a bit?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You must be tired, Alex."
+        },
+        {
+          "text": "A lot happened today, didn't it?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "It feels like a grand adventure, even though it was only a few days.<br>And filming continues after this, you know."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "But rest assured.<br>After listening to everyone's stories,<br>I've started to grasp a few tricks."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "I might not be good at it yet, but<br>I intend to grow little by little,<br>in my own way."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] sat down next to Alex, who was smiling."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I have a question, is that okay?"
+        },
+        {
+          "text": "Are you going to be active as Alex from now on?"
+        },
+        {
+          "text": "...I was wondering if reXer would quit."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "Ah, about that,<br>I told Obsidius too,<br>both are important names to me."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "...Hey, [Player].<br>Would you transform me back<br>into my volcanic form again?"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] nodded, and transformed Alex."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "—Thank you.<br>When I'm in this form, I'd be happy<br>if you called me Alex."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "My... my own<br>Parallel Weapon and Hero Suit.<br>This time, I've truly become a hero."
+    },
+    {
+      "type": "narrator",
+      "text": "Alex re-examined his suit and quietly murmured."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...It was a long time ago,<br>but when my dad disappeared and I realized that I was the only one who remembered,<br>I initially thought I was an \"Observer\"."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...At that time, I couldn't talk to anyone.<br>I didn't think I could become a hero until [Player] transformed me."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "I could fight in the game world,<br>and I thought I could manage as an electronic hero—"
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "But reality wasn't that simple.<br>I was only managing because I was supported<br>by the people at NeoTalents' agency."
+    },
+    {
+      "type": "narrator",
+      "text": "Alex looked up and gazed straight at [Player]."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "So this is my graduation ceremony.<br>A ritual, you could say, to overcome the me<br>who was dependent on my father... on reXer."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "I wanted everyone to know that.<br>That's why I gave my real name."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "This time, I will truly<br>carry reXer in my own way."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "I'm not borrowing reXer's power.<br>I will live on, embodying reXer,<br>carrying on his will."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "So, I intend to continue being reXer<br>for the sake of the people who support me too!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I think that's cool!"
+        },
+        {
+          "text": "I'm cheering for you too."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At [Player]'s words, Alex rubbed the tip of his nose happily."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "Ah, thank you, [Player]!<br>I'll do my best!<br>Please keep watching me."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "First, the ChocoFull shoot.<br>I think we can get some rock cacao, but<br>there's still a lot to do."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "To make the show exciting,<br>I have to keep working hard."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're making the legendary chocolate by hand!"
+        },
+        {
+          "text": "We'll film it well!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "Ah, the purpose of ChocoFull is<br>to introduce Earth's culture, but—"
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "Giving chocolate filled with feelings, huh..."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "Have you ever given a gift to someone, [Player]?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yes, I have.",
+          "dialogue_after_selection": [
+            {
+            "type": "character",
+            "name": "reXer (Volcano)",
+            "avatar": "../char/event_reXer.png",
+            "text": "...I see.<br>That kind of thing is different for everyone, isn't it?<br>Thank you for telling me."
+            }
+          ]
+        },
+        {
+          "text": "I haven't, actually...",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "reXer (Volcano)",
+                "avatar": "../char/event_reXer.png",
+                "text": "...I see.<br>That kind of thing is different for everyone, isn't it?<br>Thank you for telling me."
+            }
+          ]
+        },
+        {
+          "text": "Hehehe, it's a secret!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "reXer (Volcano)",
+                "avatar": "../char/event_reXer.png",
+                "text": "Hahaha, what is it—!?<br>Well, it's not something I should force out of you.<br>In that case, would you mind listening to my story?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Alex looked up at the sky and continued as if searching for words."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...It was quite a while ago.<br>There's a time when you and your classmates get excited discussing \"who you like\", right?"
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "At that time, I told everyone it was \"my dad\".<br>...Because he was the person I admired and loved."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...But that seemed to be wrong.<br>They meant \"among friends\", \"in class.\""
+    },
+    {
+      "type": "narrator",
+      "text": "Alex gave a wry smile and looked at [Player]."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "They said family and parents are important, but it's not the same as 'liking' someone.<br>At that time, I didn't know what to do when my way of thinking differed from others—"
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "I couldn't convey it well and we got into a fight.<br>But now, I can proudly say that I love my dad, that what I like is what I like."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...Inheriting my dad's name, reXer, for me,<br>irreplaceable and precious."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "—And now.<br>I feel like I understand a little bit of what my classmates were saying."
+    },
+    {
+      "type": "narrator",
+      "text": "Alex took out a small box he had hidden behind him."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Could this be...?"
+        },
+        {
+          "text": "...Is it okay for me to receive this?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Alex nodded at [Player]'s words."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...Actually, I brought it from Earth,<br>and I originally intended to give it to you<br>after the shoot was over."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "I even prepared an excuse, saying it was thanks for cooperating with the filming...<br>But I thought that wasn't the right way to give it."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "I still don't know if my feelings for my dad<br>and my feelings for [Player] are the same or different."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...But, I can only confront things head-on.<br>Will you accept my feelings?"
+    },
+    {
+      "type": "narrator",
+      "text": "Alex quietly took a breath, and offered the box of chocolates."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, Alex."
+        },
+        {
+          "text": "Those feelings make me very happy!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "R-really!?<br>Ah, thank you!<br>[Player]...!"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] received the small box, and took out another small box from their bag."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Actually, I prepared something too."
+        },
+        {
+          "text": "I was hoping you'd receive it, Alex..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As [Player] offered the box to Alex, a large flower bloomed in the sky."
+    },
+    {
+      "type": "narrator",
+      "text": "Cheers of surprise and joy rose from the people enjoying the banquet at the table lined with various chocolates."
+    },
+    {
+      "type": "narrator",
+      "text": "The brilliant light of the fireworks illuminated Alex's profile."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "—[Player].<br>More than any chocolate,<br>I want you right now."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "Come to my room tonight.<br>There are things we can't do here,<br>that I want to do with you."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "I may not be a proper adult yet.<br>But—"
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...If I say I'm not a child anymore,<br>you'll understand, right?"
+    },
+    {
+      "type": "narrator",
+      "text": "Alex, with his hand stretched straight out towards [Player], grabbed the small box."
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "—[Player].<br>I don't want to let go of your hand.<br>I will obtain your love!"
+    },
+    {
+      "type": "character",
+      "name": "reXer (Volcano)",
+      "avatar": "../char/event_reXer.png",
+      "text": "...So, stay by my side.<br>Forever—"
+    }
+  ]

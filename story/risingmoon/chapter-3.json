@@ -1,0 +1,2634 @@
+[
+    {
+      "type": "bg",
+      "bg": "../bg/lah/ikebukuro_sunshinest_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "—Archimedes Colony, ceremony venue,<br>the area around the \"Pillar of Light\"<br>away from the examination zone."
+    },
+    {
+      "type": "narrator",
+      "text": "From a certain coffee shop,<br>a satisfied-looking group of four<br>emerged, conversing."
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "—Whew, I ate so much!<br>The food from outside stores<br>really tastes different, doesn't it!"
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Hehe. Yoshiori-oniichan,<br>you had quite the appetite, didn't you?<br>I wonder how many pancakes you had."
+    },
+    {
+      "type": "character",
+      "name": "Monomasa",
+      "avatar": "../char/monomasa.png",
+      "text": "...I wish you'd consider my position,<br>having to order on your behalf.<br>They must have thought I had an extreme sweet tooth."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "It's fine, it doesn't matter what anyone thinks.<br>The coffee was to my liking too.<br>It truly lives up to Yoshiori-kun's recommendation."
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "Hehe, if Exio-san is happy,<br>then I'm...!"
+    },
+    {
+      "type": "character",
+      "name": "Monomasa",
+      "avatar": "../char/monomasa.png",
+      "text": "...Honestly.<br>What a complaisant fellow."
+    },
+    {
+      "type": "narrator",
+      "text": "The four walked down the street,<br>laughing to themselves."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Hey, Exio-sama.<br>What should we do next?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Ah, that's right.<br>Since we're here, why don't we<br>look around the shops in this area?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "It seems to be quite lively for the ceremony,<br>and there might be things you two would like,<br>don't you think?"
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "Then, to the \"Pillar of Light\"—<br>...Hm?<br>Hey, watch your step, Melide."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Eh...?<br>...Kya!?"
+    },
+    {
+      "type": "narrator",
+      "text": "As Melide stumbled on something,<br>Monomasa's arm caught her before she fell."
+    },
+    {
+      "type": "character",
+      "name": "Monomasa",
+      "avatar": "../char/monomasa.png",
+      "text": "Are you alright, Melide?<br>Are you perhaps getting carried away?<br>Be careful not to get hurt."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Yes. Thank you, Monomasa.<br>But, this... What is it?"
+    },
+    {
+      "type": "narrator",
+      "text": "Melide picked up the object<br>that almost made her fall."
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "What is that...? Is it a part of something?<br>For junk discarded on the street,<br>it's quite well-made."
+    },
+    {
+      "type": "character",
+      "name": "Monomasa",
+      "avatar": "../char/monomasa.png",
+      "text": "It's made of quite a sturdy material.<br>I can't tell what it's used for, but..."
+    },
+    {
+      "type": "narrator",
+      "text": "Melide took the part in her hand<br>and gazed at it intently."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "I wonder if someone lost it.<br>...It has some scratches, but it feels<br>like it was cherished very much."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "...Umm, Exio-sama.<br>May I take this to the police's box later?<br>The person who lost it might be troubled."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Ah, of course.<br>We have time, so let's take it<br>there while we sightsee around."
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "...Heh. Even though there's no need to do that,<br>you still prioritize doing good deeds.<br>That's just like a hero."
+    },
+    {
+      "type": "character",
+      "name": "Monomasa",
+      "avatar": "../char/monomasa.png",
+      "text": "...We should also change ourselves accordingly.<br>After all, we are the members of a hero agency."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/hotellounge_open.png"
+    },
+    {
+      "type": "narrator",
+      "text": "—At the same time.<br>Examination venue, observation seats."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "—Yes, understood.<br>I will inform the agency members myself."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "No, I'll make sure we can move<br>immediately in case of an emergency.<br>...Well then, please excuse me."
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle, who had been on a call with someone<br>in the corner of the room,<br>ended the communication with a serious expression."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, he walked towards the members<br>who were watching the holographic projection<br>of the public examination."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Welcome back, President.<br>Were you in a call?<br>...Ah, look, something exciting's about to happen!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Ah, I received a sudden call<br>from the Operations Headquarters."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I apologize for interrupting your viewing,<br>but could everyone gather around?<br>There's something urgent I need to share."
+    },
+    {
+      "type": "narrator",
+      "text": "At Huckle's call,<br>the Parallel Flight Inc. members nearby gathered."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "What's the urgent matter, President?<br>The way you're bringing it up now,<br>makes me have a bad feeling about this..."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Ah, it's not very good news.<br>The only ones left are<br>Crowne and [Player]-kun..."
+    },
+    {
+      "type": "narrator",
+      "text": "Just then, Crowne appeared from the back hallway,<br>carrying a tray."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Oh, everyone's gathered. Just in time.<br>I brought a variety of drinks!"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Let's relax a bit and enjoy ourselves, shall we?<br>...Huh, what's wrong?"
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "Ah, Huckle seems to have<br>something urgent to share.<br>Crowne, you come over here too!"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "...Hey, Crowne-san.<br>Have you seen [Player]?<br>They also went to get drinks."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Eh, no, I haven't seen them.<br>I haven't seen them on my way to and back,<br>so maybe they went to the restroom?"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "[Player]-san, you're certainly late.<br>Are you okay...? I hope you haven't gotten<br>involved in something strange again."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "They just went to get drinks, right?<br>No way... No, it's not impossible.<br>Should I send them a message...?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...Hmm. I'll contact [Player]-kun<br>separately later myself."
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle refocused his gaze on the members and<br>began speaking with a serious expression."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "The Operations Headquarters will likely make a general<br>announcement soon, but we've received word that an<br>anomaly has been confirmed in the colony's ceiling section."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "The detailed situation is currently under confirmation,<br>but it seems that a suspicious, ultra-small spaceship<br>was confirmed to have collided with the ceiling."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "A spaceship collided with the colony's ceiling!?<br>W-What does that even mean...?"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "W-Wait, Huckle!<br>Does that mean there was a spaceship launch<br>outside of the spaceport?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...Yes, a shock was detected in the ceiling section,<br>and the alarm system seems to have activated."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Although it's an ultra-small one, only about the size of one person,<br>it's an unauthorized suspicious spaceship...<br>And today is the day of a major ceremony."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Just in case of future incidents, the Operations Headquarters<br>will strengthen security around the \"Pillar of Light\"."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "I see.<br>So, that's why they're calling out<br>to the heroes gathered for the ceremony."
+    },
+    {
+      "type": "narrator",
+      "text": "At Ryekie's words, Huckle replied<br>while checking his own terminal."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Each hero agency is sequentially<br>switching to standby and alert status.<br>Our company will also follow suit."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "The details are still under investigation, and many points are unclear,<br>but we cannot say for certain that there is no possibility<br>of terrorism or an incident."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "In case of emergency, a dispatch request will come.<br>Please keep that in mind, everyone."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I intend to inform Monomasa-kun and<br>the others outside the venue as well.<br>Please cooperate with them as needed."
+    },
+    {
+      "type": "narrator",
+      "text": "The members of Parallel Flight Inc.<br>quietly nodded at their president's words.<br>Just then, they were called out to from behind."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "—Excuse me for interrupting your conversation.<br>Just in case, has anyone seen a child in a spacesuit?"
+    },
+    {
+      "type": "narrator",
+      "text": "The people around them turned their gaze.<br>Flamier and Andrew, who appeared,<br>seemed a little out of breath."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "Flamier-san, Andrew-san?<br>What's wrong, has something happened...?"
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "Sui-sama, and everyone from Parallel Flight Inc.<br>Please forgive us for not greeting you."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "Our friend's whereabouts have been unknown for a while now...<br>Does anyone know where he might be?"
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "We're looking for this child.<br>Could someone tell us if they've seen him?"
+    },
+    {
+      "type": "narrator",
+      "text": "Andrew displayed a holographic image<br>of a person in a spacesuit on his palm."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "...No, I haven't seen him.<br>I'm sorry, both of you."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Hmm, I haven't seen him either.<br>I've been here watching the<br>public exam the whole time..."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "If I had passed by him, that outfit<br>would have left an impression...<br>What about the others?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Crowne's words,<br>Akashi and Huckle also shook their heads."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "I see, thank you very much.<br>...It seems no one has<br>seen him around here."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "Orbiter-san, where could<br>you have gone to...?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Since you're having trouble,<br>we'll contact you immediately if we see him.<br>It's Orbiter-san, correct?"
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "Yes, thank you, everyone!<br>That helps a lot!"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "Ah, hey.<br>Have you two seen [Player]?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Akashi's words,<br>Flamier and Andrew exchanged glances."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "[Player]-sama?<br>No, I haven't seen them ever since I moved from<br>the ceremony venue to the observation seats."
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "I haven't seen them either.<br>Did [Player]-san also suddenly disappear?"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "Ah, no, they just went to get drinks,<br>but they are taking a while to come back..."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "I just thought I'd ask if you knew anything.<br>I'll try contacting [Player] myself as well."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "Yes, understood.<br>Then, if we see them,<br>we'll call out to them."
+    },
+    {
+      "type": "narrator",
+      "text": "Having said that, Flamier and Andrew bowed to the<br>Parallel Flight Inc. group and left the area."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Both of them seemed very worried.<br>Are they okay...?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "There are also sightings of a suspicious spaceship.<br>I hope there's no connection..."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Even if it's something trivial.<br>If we have any information about Orbiter-san,<br>we'll contact them immediately."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...We also need to<br>contact [Player]-kun first."
+    },
+    {
+      "type": "narrator",
+      "text": "Andrew and Flamier looked around the observation seats,<br>attempting to contact Orbiter."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "...How is it, Andrew?<br>Have you received any contact from Orbiter-san?"
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "No, he's not answering at all.<br>I've sent several messages, but there's no response."
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "—No, wait.<br>My Lady, one timed message<br>has arrived, I'll read it aloud!"
+    },
+    {
+      "type": "narrator",
+      "text": "Andrew read the message aloud<br>to a surprised Flamier."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter_b.png",
+      "text": "『Flamier, Andrew.<br>I'm sorry for disappearing without a word.<br>But, I have to go.』"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter_b.png",
+      "text": "『I received so much help,<br>and I can't properly express my gratitude,<br>but I'm very thankful to both of you.』"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter_b.png",
+      "text": "『Thank you.<br>See you again, both of you!<br>—Orbiter』"
+    },
+    {
+      "type": "narrator",
+      "text": "The message ended there,<br>and Andrew quietly clenched his fist."
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "...I'm sorry, My Lady.<br>Even though I'm his guarantor,<br>I took my eyes off him."
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "...This is my responsibility.<br>I should have paid more attention<br>to his actions."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "No, that's not true.<br>It was so sudden,<br>even I didn't notice."
+    },
+    {
+      "type": "narrator",
+      "text": "The two exchanged<br>worried glances."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "Since Orbiter-san's condition was said to be fine,<br>I believe his body is alright, but..."
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "...Yes, I also wouldn't agree to let him go outside<br>alone in his current state."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "...Still, he might not<br>have gone far just yet.<br>Let's search a little more."
+    },
+    {
+      "type": "character",
+      "name": "Andrew",
+      "avatar": "../char/andrew.png",
+      "text": "Understood, My Lady.<br>I'll expand the search sensor's range."
+    },
+    {
+      "type": "narrator",
+      "text": "At those words,<br>Flamier nodded with a serious expression."
+    },
+    {
+      "type": "character",
+      "name": "Flamier",
+      "avatar": "../char/flamier.png",
+      "text": "—Yes.<br>Surely, Orbiter-san will be safe.<br>Andrew, let's go."
+    },
+    {
+      "type": "title",
+      "text": "Chapter 3:<br> Searching for the Radiance"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/ikebukuro_sunshinest_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "—Within the examination area,<br>a corner of the model city area."
+    },
+    {
+      "type": "narrator",
+      "text": "There, the clashing sounds of Parallel Weapons<br>rang out in a fierce battle."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "...Whoa!<br>T-This examinee is strong...!<br>Hey, teach, are you okay!?"
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "../char/subaru.png",
+      "text": "Y-Yes, I was planning to go easy since it's an exam,<br>but that thought vanished in five seconds..."
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "../char/subaru.png",
+      "text": "For some reason, even though [Player]-san and<br>Pubraseer-san are on the enemy side,<br>their skill is sufficient..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "W-Wait, Gaisei!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Gaisei",
+                "avatar": "../char/gaisei.png",
+                "text": "...Ah!<br>New techniques are being etched into my body.<br>More... Show me more!"
+              },
+              {
+                "type": "character",
+                "name": "Gaisei",
+                "avatar": "../char/gaisei.png",
+                "text": "Come now, the feast has just begun.<br>I shall enjoy myself to the fullest!"
+              }
+          ]
+        },
+        {
+          "text": "You did it, Pubraseer-san!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Pubraseer",
+                "avatar": "../char/pubraseer.png",
+                "text": "Ah, if they're real villains, now would be the perfect chance."
+              },
+              {
+                "type": "character",
+                "name": "Pubraseer",
+                "avatar": "../char/pubraseer.png",
+                "text": "...But, [Player].<br>Look at Subaru and the others.<br>The scenario seems to be progressing."
+              }
+          ]
+        },
+        {
+          "text": "Yotaro-kun, now's your chance!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Yotaro",
+                "avatar": "../char/yotaro.png",
+                "text": "That's right.<br>The moment the opponent seems to be flinching, it's a \"golden opportunity.\""
+              },
+              {
+                "type": "character",
+                "name": "Yotaro",
+                "avatar": "../char/yotaro.png",
+                "text": "...But, [Player].<br>They don't seem to want to fight anymore, do they?"
+              }
+          ]
+        }
+        ]
+    },
+    {
+      "type": "narrator",
+      "text": "Observing their reactions,<br>Subaru and Hydoor kept their distance.<br>And then..."
+    },
+    {
+      "type": "narrator",
+      "text": "The two released their transformations<br>and wore malicious smiles."
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "../char/subaru.png",
+      "text": "...You're quite capable.<br>I'll acknowledge that you have<br>enough skill to be boastful."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Hmph, listen, you!<br>I've properly memorized that face of yours!"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "............<br>...What are you talking about?"
+    },
+    {
+      "type": "narrator",
+      "text": "Against the two who suddenly lost their will to fight,<br>Gaisei muttered with a straight face."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor & Subaru",
+      "avatar": "../char/placeholder.png",
+      "text": "............<br>............"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "If you are a villain,<br>shouldn't you show your pride until the end?<br>—Come, I can still fight!"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Shut up, when I say it's over, it's over!<br>Besides, me being a villain<br>is a thing of the past!"
+    },
+    {
+      "type": "narrator",
+      "text": "At Hydoor's words,<br>Yotaro reacted slightly,<br>observing him intently."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "............<br>...I see. He's also a hero who<br>used to be a villain, huh?"
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "../char/subaru.png",
+      "text": "...Hydoor-san.<br>You are a villain 'now',<br>so please don't forget your role."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "I-I know, teach!<br>Tch, you're throwing me off...<br>Seriously, let's start this over from the top!"
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "../char/subaru.png",
+      "text": "Indeed, I never expected<br>an encore battle from the examinee's side..."
+    },
+    {
+      "type": "narrator",
+      "text": "Clearing their throats, Subaru and<br>Hydoor once again put on villainous expressions<br>and intentionally raised their voices."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "...Ah, ahem.<br>Don't get cocky, you punks!<br>Next time, I won't go easy on you!"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "At that time, I'll beat the rules<br>of this 'territory' into your very being!!"
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "../char/subaru.png",
+      "text": "You seem to have some 'manners',<br>so for today, I'll let you off with this."
+    },
+    {
+      "type": "character",
+      "name": "Subaru",
+      "avatar": "../char/subaru.png",
+      "text": "Be sure to wash your neck<br>and wait for us.<br>...Until then."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor & Subaru",
+      "avatar": "../char/placeholder.png",
+      "text": "<p2 style=\"font-size: 150%\">—Remember our words!!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "『...No sooner had they uttered their parting words,<br>the two villains vanished like the wind, running off.』"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "............<br>Their performance<br>is over now."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "For now, I'll say good work, [Player].<br>...Even though, the misunderstanding<br>wasn't resolved in the end."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So this is part of the exam, huh?"
+        },
+        {
+          "text": "Who wrote this script...?",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Pubraseer",
+                "avatar": "../char/pubraseer.png",
+                "text": "Ah, that was something Hydoor brought in.<br>Subaru was quite upset because he had to make some last-minute corrections to it."
+              }
+          ]
+        },
+        {
+          "text": "What was that really all about...?"
+        }
+      ]
+    },
+    {
+        "type": "choice",
+        "note": "[This choice will only be available if you picked Option 2]",
+        "options": [
+          {
+            "text": "Those two are surprisingly close, huh...?"
+          }
+        ]
+    },
+    {
+      "type": "narrator",
+      "text": "Muttering that, the two once again<br>turned to face the 'real' villains."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...It's utterly disappointing.<br>The blissful moment that could have<br>been ended in such a way."
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei, with an expression that clearly showed<br>he wasn't amused, snorted."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "This is an exam, you see.<br>It doesn't merely measure<br>the pure strength of battle."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Although there's a scenario,<br>it tests how examinees deal with it.<br>The process itself is important."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...How very humbling.<br>Such a noble idea is<br>beyond my comprehension."
+    },
+    {
+      "type": "narrator",
+      "text": "Behind Gaisei, who was muttering to himself,<br>Yotaro also sighed."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Haa.<br>At least there seems to be<br>no damage anywhere, so that's good."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Even though it's a model city, if you destroy everything,<br>I can't even imagine how much the repair costs would be..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "You, on the other hand, are worried about repair costs...?<br>Somehow, your perspective on things is rather unique..."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Well, when I usually act with Gaisei-kun,<br>a lot of things around us get destroyed."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...Let me tell you one thing,<br>I do not prefer destructive activities.<br>I just slice things when they get in the way."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Yup, the person usually who slices<br>everything around him is saying that, alright..."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Sometimes the repair costs even exceed<br>the earnings from being a bodyguard.<br>That's what you call \"putting the cart before the horse\"."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "No, that's not what I was pointing out...<br>By the way, Gaisei is a bodyguard, is he?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's the hidden side of villains, huh?"
+        },
+        {
+          "text": "Before, he abandoned his employer, but..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "While conversing, Yotaro looked at his own terminal,<br>observing his surroundings."
+    },
+    {
+      "type": "narrator",
+      "text": "On it, the latest news from the Earth Sphere,<br>before it was even widely reported,<br>was scrolled by at an incredible speed."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "(...Hmm.<br>It seems we're not being talked about yet.)"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "(And judging by the examiner's reaction earlier,<br>it seems Gaisei-kun will get a decent score.)"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "(However, this hero in front of me<br>seems to be an examiner as well...<br>And [Player] is also here.)"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "(If things go wrong, it'll really be 'over'.<br>Are we in a pinch already...?<br>Well, there's no other choice but to handle it well.)"
+    },
+    {
+      "type": "narrator",
+      "text": "Closing his terminal,<br>Yotaro sighed once more and<br>called out to Pubraseer."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Anyway, I apologize for earlier.<br>We are indeed villains,<br>but we're participating in this exam."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Besides, examinees who don't have licenses<br>from other planets are treated the same<br>as us villains in the Earth Sphere, right?"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "So in other words...<br>I suppose they say that this is \"being direct\",<br>but could you please overlook this?"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "We plan to behave during the exam,<br>so please consider our request."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro bowed his head.<br>At his unguarded posture, Pubraseer<br>and [Player] exchanged glances."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Are you plotting something?"
+        },
+        {
+          "text": "Gaisei, behaving...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...\"Observer\".<br>What arbitrary things<br>could you be saying?"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "I have not yet had<br>a satisfying battle.<br>What did I come here for?"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Gaisei-kun.<br>As we discussed earlier,<br>we're here to take the exam."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...Well then, the warm-up is over,<br>so let's get to the main event."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "[Player]-dono, this time,<br>you will show me your command."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Gaisei-kun, wait!<br>You just don't understand our<br>current situation, do you!?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Hey, [Player].<br>Could I have a moment?"
+    },
+    {
+      "type": "narrator",
+      "text": "Ignoring the two who had started arguing,<br>Pubraseer secretly lowered his voice and spoke to [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Pubraseer-san, what's wrong?"
+        },
+        {
+          "text": "What should we do about them...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Hmm.<br>I don't know what they're<br>arguing about either..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "They say they're villains, and we need to consider<br>on how to deal with them, but they don't seem to be<br>lying that they came to take the exam."
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer opened his terminal<br>and displayed the list of examinees.<br>Gaisei's name was on it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh, he's really an examinee...!?"
+        },
+        {
+          "text": "What kind of back channel did he use to apply?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "From what you've told me,<br>they don't seem to have reformed,<br>but they did come to take the exam..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "However, they seem to have some goal,<br>but they don't appear to be plotting any evil<br>that would cause chaos in this place."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "If that's the case, I'd like to prioritize<br>resolving your problem first.<br>What do you think?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Is that really alright for you...?"
+        },
+        {
+          "text": "I'm really grateful to you."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer nodded at<br>[Player]'s words."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "If you are in danger, then that's another matter,<br>but it would be best to request assistance<br>from the Operations Headquarters regarding them."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Could you leave this to me, [Player]?<br>...I have an idea."
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer let out a strong laugh and<br>turned back to the two villains."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah... Gaisei.<br>I believe I understand your wish.<br>You want to fight us, right?"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "—Yes, that's right!<br>Pubraseer-dono, I am filled with<br>admiration for your wisdom."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Geez, Gaisei-kun!<br>I'm trying to settle things peacefully,<br>so why are you making a fuss?"
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer cleared his throat and<br>caught the attention of the two."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...You two want to battle<br>to train your skills, is that it?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Although it was unintentional, by fighting together,<br>I believe I've come to understand that a little."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...However, it seems<br>that after the previous battle,<br>I've accumulated some fatigue."
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer let out an<br>intentionally loud sigh."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Both I and [Player],<br>if we were to battle you two,<br>then we would want to face you in perfect condition..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Gaisei, what do you say?<br>Could you wait a bit for us to recover?<br>That way, I can show you even better techniques."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...Is that what you mean?<br>That techniques should be honed<br>only when both are at their best."
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei grinned, looked at [Player] and the others,<br>and released his transformation."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...That's fine then."
+        },
+        {
+          "text": "G-Gaisei is listening to reason."
+        },
+        {
+          "text": "That's certainly some acting you've got there...?",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Pubraseer",
+                "avatar": "../char/pubraseer.png",
+                "text": "...Uh, please don't say that so loudly.<br>They might hear you.<br>...And, it's a little embarrassing."
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "For me, there is meaning in<br>crossing swords in perfect condition,<br>and defeating that strength."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...From you, the fighting<br>spirit has not vanished.<br>Even I can feel that much."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "If you do not turn your back,<br>then it is only natural to wait for that."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Gaisei-kun, I'm grateful,<br>but you're actually being talked into something.<br>Are you really sure about this?"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "It is fine.<br>I felt Pubraseer-dono's strength<br>right next to me just now."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "If it is possible... to engrave<br>that strength into this body of mine,<br>then there is joy in waiting."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Previously, [Player]-dono taught me that<br>a little patience makes the feast more exciting...!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah, that's right.<br>They say that pleasant times<br>feel like they pass quickly!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Are you sure about this...?"
+        },
+        {
+          "text": "You're getting them all fired up to fight, but..."
+        },
+        {
+          "text": "...Let's focus on my own problem first."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Just as [Player] sighed softly,<br>at that moment-"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Hm...?<br>What's that sound?<br>N-No way...!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "P-Pubraseer-san...!"
+        },
+        {
+          "text": "This sound, it's a sign that I'm about to be warped!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] hurriedly checked their terminal,<br>the source of the sound."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "This is the alert you mentioned, isn't it?<br>Could you show it to me?<br>There's a possibility the terminal is damaged."
+    },
+    {
+      "type": "narrator",
+      "text": "With [Player]'s nodding in response, Pubraseer took<br>their arm and leaned in to look at the terminal."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...What is this sound?<br>It's troublesome if you don't recover<br>as quickly as possible."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "With such a grating sound ringing,<br>it's impossible to relax."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Something seems strange, doesn't it?<br>The intervals are getting shorter and shorter..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "U-Uhm...<br>Nothing seems to be broken, though..."
+    },
+    {
+      "type": "narrator",
+      "text": "As the two villains with puzzled<br>expressions gazed at [Player],<br>the sound reached a familiar speed."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ah, it's almost time...!"
+        },
+        {
+          "text": "Everyone, see you later then."
+        },
+        {
+          "text": "Just when I finally met people I know—!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...W-What is this light!?<br>Wait—"
+    },
+    {
+      "type": "narrator",
+      "text": "Along with the words of [Player] and Pubraseer,<br>a momentary blue light enveloped the surroundings dazzlingly."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...W-What was that!?<br>............<br>The two of them, disappeared...?"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "............<br>............"
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "G-Gaisei-kun...?<br>What's wrong?"
+    },
+    {
+      "type": "narrator",
+      "text": "Gaisei quietly stepped towards the spot where [Player]<br>had been standing just moments before."
+    },
+    {
+      "type": "narrator",
+      "text": "There, a single unfamiliar processed item,<br>seemingly made of reinforced plastic,<br>lay rolling."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Is this... a part of something?<br>Did [Player] drop it, or is it<br>related to them disappearing just now...?"
+    },
+    {
+      "type": "narrator",
+      "text": "As if uninterested, Gaisei silently turned on his heel,<br>and started walking off somewhere."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "W-Wait up, Gaisei-kun!<br>Where are you going!?"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...I have no intention of<br>missing a blissful moment.<br>I shall search for [Player]-dono."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Haa, you seem to really like them, don't you?<br>Certainly, their operational skill was amazing, but..."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "It was good enough that we weren't caught,<br>but to go looking for them ourselves,<br>that's like \"a moth flying into a flame\"."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "...While the strength of the heroes who<br>battled and fled earlier was considerable,<br>[Player]-dono is exceptional—"
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "They possess a talent for combat<br>command that surpasses my imagination.<br>...And, true strength at that."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "Do you think I would miss such an<br>opportunity to know such strength?"
+    },
+    {
+      "type": "narrator",
+      "text": "After saying that, Gaisei averted his gaze<br>from Yotaro and continued walking again."
+    },
+    {
+      "type": "narrator",
+      "text": "To his back, Yotaro quietly muttered in<br>a voice so low no one could hear."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...[Player].<br>It's unfair that you can make<br>Gaisei-kun say such things."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "While being an \"Observer\",<br>and to stand on the public stage with a hero<br>and serve as an Operator..."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "But...<br>If [Player] is an \"Observer\",<br>then surely they too..."
+    },
+    {
+      "type": "narrator",
+      "text": "Yotaro shook his head slightly,<br>shaking off the thoughts that bubbled up in his mind.<br>Then, he followed Gaisei's retreating back."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...Well, it's natural, in a way,<br>that you'd make a fuss about [Player], Gaisei-kun."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "Haa, it can't be helped.<br>Once you're like this, you absolutely won't listen to me.<br>Understood, I'll go too."
+    },
+    {
+      "type": "character",
+      "name": "Gaisei",
+      "avatar": "../char/gaisei.png",
+      "text": "\"Observer\", good judgment.<br>Surely, [Player]-dono<br>is testing my strength."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "...No, I definitely think that's not the case.<br>Well, if it's just you, I'll never be able to<br>guess what you might break, Gaisei-kun."
+    },
+    {
+      "type": "character",
+      "name": "Yotaro",
+      "avatar": "../char/yotaro.png",
+      "text": "If you're going to search, that's fine,<br>but once it's over, you'll still take the exam properly, alright?"
+    },
+    {
+      "type": "narrator",
+      "text": "—Immediately after the two left,<br>a certain person appeared there."
+    },
+    {
+      "type": "character",
+      "name": "Denebola",
+      "avatar": "../char/denebola.png",
+      "text": "...Not here either.<br>Where did it go, my exam ticket...!?"
+    },
+    {
+      "type": "character",
+      "name": "Denebola",
+      "avatar": "../char/denebola.png",
+      "text": "Damn it, the remaining time<br>for the exam is dwindling rapidly...!<br>...Hm?"
+    },
+    {
+      "type": "narrator",
+      "text": "Denebola found a part<br>rolling on the ground."
+    },
+    {
+      "type": "character",
+      "name": "Denebola",
+      "avatar": "../char/denebola.png",
+      "text": "Is this, the spaceship part<br>Orbiter was talking about...?"
+    },
+    {
+      "type": "narrator",
+      "text": "What he picked up was light and hard,<br>matching the description he had heard from Orbiter."
+    },
+    {
+      "type": "character",
+      "name": "Denebola",
+      "avatar": "../char/denebola.png",
+      "text": "If this is what [Player]<br>took from Orbiter—"
+    },
+    {
+      "type": "character",
+      "name": "Denebola",
+      "avatar": "../char/denebola.png",
+      "text": "There's a possibility<br>that [Player] is nearby...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Denebola vigorously activated his terminal,<br>displayed the contact screen for Orbiter,<br>and began typing characters."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, after sending a confirmation message,<br>he carefully observed his surroundings,<br>searching for any sign of a person."
+    },
+    {
+      "type": "character",
+      "name": "Denebola",
+      "avatar": "../char/denebola.png",
+      "text": "—Where are you, [Player]!?<br>I'll find you right away...!!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/rinkaikoen.png"
+    },
+    {
+      "type": "narrator",
+      "text": "—Within the examination area, the model city.<br>A certain corner of it."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...W-Where is this?<br>Right, [Player]!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I-I'm fine...!"
+        },
+        {
+          "text": "This time you are with me, Pubraseer-san!"
+        },
+        {
+          "text": "See, it's just as I said, isn't it...?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer and [Player], blinded by the light,<br>closed their eyes for a moment, and then were warped<br>to yet another unfamiliar place."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...U-Uhm. Now that I've experienced it myself,<br>I realize you've been feeling this sudden anxiety<br>and fear all this time."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Even so, it's still a strange phenomenon...<br>It's fortunate that you haven't been injured so far."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Also, I was able to warp with you,<br>but I don't see Gaisei and Yotaro nearby..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Just in case,<br>I'll report them to the Operations Headquarters.<br>Leaving them be might cause problems."
+    },
+    {
+      "type": "narrator",
+      "text": "Once he released his transformation,<br>Pubraseer sent a message on his terminal."
+    },
+    {
+      "type": "narrator",
+      "text": "Meanwhile, [Player] looked around to<br>confirm the current situation."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It feels the same as before..."
+        },
+        {
+          "text": "There doesn't seem to be any regularity so far..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Hmm.<br>But this time, I warped with you.<br>Is the reason the distance...?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Because I was closest to you, perhaps?<br>I can't say for sure since I don't know<br>the warping principle in detail, but—"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "At the very least,<br>when the previous warning sound starts again,<br>I'll hold your hand in the same way."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "That way, you won't be<br>sent off somewhere alone...<br>Hopefully."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] nodded at Pubraseer's words."
+    },
+    {
+      "type": "narrator",
+      "text": "Just then, from deep within a nearby bush,<br>the sound of someone running heavily approaching was heard."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Hm?<br>Is someone coming this way?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "—[Player]!!<br>I finally found you—!<br>I was looking for you—!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "O-Orbiter!?"
+        },
+        {
+          "text": "I can't believe we'd meet again!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter ran towards [Player],<br>innocently jumping at them."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "You suddenly disappeared!<br>I was so surprised...<br>I was looking everywhere for you!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Ah, is the person next to you<br>this time your friend, [Player]?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah, I am Pubraseer.<br>I've known [Player] for a while now."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "I've heard about you, Orbiter.<br>It seems you've wandered into<br>this examination venue."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "U-Uhm, yeah, that's right....<br>I want to get out of here,<br>so I'm looking for parts of my broken spaceship—"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Oh, right, [Player]!<br>You took my part, didn't you!?<br>I'm in trouble without it...!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "R-Right, that happened..."
+        },
+        {
+          "text": "Too many unexpected things happened."
+        },
+        {
+          "text": "Was it the one you showed me earlier?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Pressed by Orbiter,<br>[Player] checked their belongings.<br>However—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Huh, it's gone?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "...Wh-!?<br>Y-You lost it!?<br>N-No way...!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Perhaps it was during<br>the battle earlier."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "The villains were there too,<br>and we were moving around intensely..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Sorry, Orbiter..."
+        },
+        {
+          "text": "Let's go look for it together."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "...Uhm, [Player] also suddenly disappeared,<br>there's a reason for that, right?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "You were in trouble, and I got you<br>involved further, so I'm really sorry..."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "—Oh, right!<br>I have to contact Denebola!<br>To tell him I met you, [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Denebola woke up?"
+        },
+        {
+          "text": "Perhaps, he's on the search for me too?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Yeah, he woke up right<br>after you disappeared, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Then, he said we should<br>search for you separately, [Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter nodded in response<br>to [Player]'s words."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Denebola said he was<br>looking for his exam ticket.<br>[Player], do you have it?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Earlier, when I checked my belongings,<br>a card that looked like an exam ticket was mixed in.<br>That must be Denebola's."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...You're right, I have it."
+        },
+        {
+          "text": "Indeed, I'm holding onto it..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] took out the card<br>with the name \"Denebola\" written on it."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Good, then I'll tell Denebola that.<br>He'll probably come right away, don't you think?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Then, you gotta help me<br>collect my parts, [Player]!"
+    },
+    {
+      "type": "note",
+      "text": "collect my pages"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter sent a message to Denebola<br>on his terminal."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Speaking of which, [Player].<br>It would be good to contact your<br>agency members one more time now."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "It's been so hectic lately, there hasn't been<br>time to for you to contact them in peace..."
+    },
+    {
+      "type": "narrator",
+      "text": "At Pubraseer's words,<br>[Player] checked their terminal."
+    },
+    {
+      "type": "narrator",
+      "text": "It displayed notifications that Huckle<br>and Akashi had called several times."
+    },
+    {
+      "type": "narrator",
+      "text": "They quickly called back,<br>and received an immediate response."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Akashi, sorry for making you worry."
+        },
+        {
+          "text": "President, sorry for the late contact...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "—[Player]!<br>President, everyone!<br>[Player] finally replied back!"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "You, just where have you gotten yoursel...<br>Wait, P-Pubraseer-san...?<br>Why are you with them?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "[Player]-kun, it seems you tried to contact us earlier.<br>I have something to tell you too, but—"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...Are you caught up in an emergency?<br>First, tell me your situation."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "U-Understood..."
+        },
+        {
+          "text": "I'm safe for now!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] explained the events<br>that had occurred so far, step by step,<br>to the members of Parallel Flight Inc."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "...Suddenly repeating warps, huh.<br>This is quite an inexplicable story."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "But, I'm glad [Player]-san was found.<br>We had just checked all the restrooms<br>in the vicinity..."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "You were taking so long, so everyone was<br>worried you might have collapsed somewhere."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "Ah, I never imagined you'd<br>be inside the examination area...<br>No wonder we couldn't find you."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Pubraseer-san, I apologize,<br>but could I please ask you to<br>take care of [Player]-kun?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah, of course.<br>I intend to accompany them<br>until the problem is resolved."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "I'm also concerned about the villains' movements.<br>Of course, I'll guarantee [Player]'s safety."
+    },
+    {
+      "type": "narrator",
+      "text": "Huckle bowed his head<br>to Pubraseer."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Alright then, I'll look into the warp problem in a bit.<br>I'll also confirm with the control room."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "[Player], could you send me your<br>terminal's operation history<br>logs for investigation?"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "If I find anything,<br>I'll contact you back immediately."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Understood, I'll send it right away."
+        },
+        {
+          "text": "Got it, Crowne-san."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...Ah, and one more thing.<br>I received a call from the Operations Headquarters—"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "It seems there was an incident<br>where a suspicious small spaceship<br>collided with the colony's ceiling."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Due to the risk of terrorism,<br>we are to be careful.<br>[Player]-kun, please be careful too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "T-The colony's ceiling..."
+        },
+        {
+          "text": "...I see?"
+        },
+        {
+          "text": "Understood, I'm fine."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] replied to Huckle and the others,<br>then ended the call."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Hmm, the possibility of terrorists, huh...<br>We even have villains here,<br>what should we do...?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "[Player], Pubraseer.<br>Are you done talking now?"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter, perhaps having finished sending the message<br>to Denebola, poked his head out from behind a tree."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Orbiter, I need to talk to you."
+        },
+        {
+          "text": "It might be hard to keep it a secret..."
+        },
+        {
+          "text": "You might be in big trouble, you know?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "...Huh?<br>W-What's wrong?<br>Did I do something...?"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "—But, that's good, isn't it?<br>You got in contact with [Player]!"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "...Y-Yeah, that's right.<br>............"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "What's wrong, Akashi-san?<br>You were so worried earlier."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "U-Ugh, shut up!<br>Of course I'd be worried!<br>...No, that's not it!"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "Just before the call ended,<br>I thought I saw someone<br>I'd seen somewhere before—"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "It might have been my<br>imagination, but could that have<br>been a 'spacesuit' just now?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "—I-I'm being thought of<br>as a terrorist...!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Probably, I think so..."
+        },
+        {
+          "text": "It's rare for someone to hit the ceiling."
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah, that message<br>also reached me..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "I didn't tell you two to avoid making you anxious...<br>But I never thought such a misunderstanding would arise."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Hm? Does that mean the flying<br>object I saw in the locker room<br>was you, Orbiter?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "U-Uhm...<br>I've caused trouble for<br>so many people... Right?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "I'm so sorry, [Player].<br>I never thought it would<br>turn out like this..."
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer spoke to a dejected<br>and crestfallen Orbiter."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Everyone makes mistakes at first.<br>Especially with space flight."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "You didn't even know there was a<br>ceiling in the moon colony, did you?<br>That itself can't be helped."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...However, what's important is to think<br>about how it could have been avoided,<br>and then how to apply that to the next time."
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer took Orbiter's hand and continued speaking.<br>A glimpse of kindness could be seen there."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Orbiter, you have a very important heart<br>that honestly admits and accepts your mistakes."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "So, let's go apologize properly.<br>If you convey it straightforwardly,<br>it will surely get through."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "...Yeah.<br>Okay, I think so too.<br>I'll apologize properly."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "We have to clear up the misunderstanding, right?"
+        },
+        {
+          "text": "Don't worry, Orbiter."
+        },
+        {
+          "text": "I'll go with you too."
+        }
+      ]
+    },
+    {
+        "type": "note",
+        "text": "It's very much unrelated to the current circumstances,<br>but I find it very funny that Google Translate would translate<br>Option 2 (安心して、オービター) to \"Rest in peace, Orbiter.\""
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "...Thank you, [Player].<br>From now on, I'll think a lot more<br>before I act."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Hahaha, with that spirit, you'll be fine!<br>Even I made nothing but mistakes<br>when I was a new astronaut."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "...Eh, Pubraseer,<br>you were an astronaut!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Orbiter jumped up, his eyes sparkling,<br>and gazed at Pubraseer."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah, that's right.<br>Though I may look like this,<br>I used to be a spaceship captain."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "A long time ago...<br>Though for you, it might be more<br>accurate to say 'ancient'."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Whoa, that's amazing, amazing!<br>A captain!?<br>That's so cool!!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Hey, hey, Captain!<br>What kind of things do captains do?<br>What planets have you been to?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Hehe. Oh, Orbiter, are you<br>interested in being an astronaut?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Yeah!<br>I'm going to be an astronaut in the future!<br>A super cool astronaut!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hehehe, how heartwarming."
+        },
+        {
+          "text": "Ah, what a healing atmosphere..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Ah—! [Player]!<br>You don't believe me, do you!?<br>My feelings are real!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "—Oh, right!<br>Hey, [Player].<br>Can you transform me too!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "[Player], you are an Operator,<br>so you can transform me too, right?"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Then, could you show me<br>what I would look like as an astronaut!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Eh, you can transform!?"
+        },
+        {
+          "text": "Orbiter, you were a hero!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Hero... I'm not<br>very sure about that,<br>but I can transform!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "The doctor told me to keep<br>it a secret from others, but..."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "With [Player] and Captain,<br>I'm sure it'll be fine!<br>Come on, hurry, hurry!"
+    },
+    {
+      "type": "narrator",
+      "text": "Like responding to his words, [Player]'s terminal emitted a faint light.<br>It was a sign that a suitable individual was nearby."
+    },
+    {
+      "type": "character",
+      "name": "Mobile Device",
+      "avatar": "../char/placeholder.png",
+      "text": "Parallel universe path detected.<br>Hero name: Unregistered.<br>Target: Orbiter."
+    },
+    {
+      "type": "character",
+      "name": "Mobile Device",
+      "avatar": "../char/placeholder.png",
+      "text": "—Connect path?<br>If you wish to begin operation,<br>please tap \"OK.\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The terminal is certainly reacting..."
+        },
+        {
+          "text": "Will this be alright?"
+        },
+        {
+          "text": "(Approve transformation)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] approved it.<br>Then, Orbiter, enveloped in light,<br>appeared in his transformed state."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "He really transformed...!"
+        },
+        {
+          "text": "He's a cool astronaut!"
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Eheheh, how is it, good, right!?<br>Even I can fight to protect my spaceship!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...The dream of an astronaut, huh.<br>Ah, how nostalgic.<br>It reminds me of old times..."
+    },
+    {
+      "type": "narrator",
+      "text": "Seeing his transformed figure,<br>Pubraseer narrowed his eyes, looking dazzled."
+    },
+    {
+      "type": "narrator",
+      "text": "A peaceful atmosphere<br>settled among the three.<br>But just then—"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "...Uwah!?<br>K-Kaibutsu!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Pubraseer-san, transform...!"
+        },
+        {
+          "text": "Be careful, both of you!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "—No, wait, [Player].<br>These are small robots for the exam."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "They are endlessly roaming<br>within the examination area.<br>Examinees get points for defeating them."
+    },
+    {
+      "type": "narrator",
+      "text": "The appearing robot Kaibutsu<br>hopped around in the nearby grass,<br>showing no signs of attacking."
+    },
+    {
+      "type": "narrator",
+      "text": "And, after looking around,<br>similar robots were everywhere."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Oh, right, the exam is still ongoing..."
+        },
+        {
+          "text": "I was worried for nothing."
+        },
+        {
+          "text": "They look just like the real thing, don't they...?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] relaxed their<br>shoulders and sighed in relief.<br>And then—"
+    },
+    {
+      "type": "narrator",
+      "text": "A chilling, unpleasant sensation<br>crawled up [Player]'s spine."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "—A real Kaibutsu is mixed in there!"
+        },
+        {
+          "text": "No, there was a Kaibutsu after all!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] hurriedly transformed Pubraseer,<br>then turned their gaze to the surrounding Kaibutsu."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "W-What!?<br>Which one is the real one...?<br>[Player], can you tell?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Even if they are robotic,<br>if we attack them,<br>they will retaliate."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "It's better to ignore the robots<br>than to attack them aimlessly."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Even so, there are so many...!"
+        },
+        {
+          "text": "P-Probably that one... No, that one over there?"
+        }
+      ],
+      "dialogue_after_selection": []
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] tried to trace the Kaibutsu's presence,<br>but perhaps because the presence was faint,<br>they couldn't pinpoint its location."
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Hey, [Player].<br>I'll fight with Captain too!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "With this many of them,<br>it'll be faster if we're together, right?<br>Leave it to me!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Orbiter, can you fight?"
+        },
+        {
+          "text": "But it's dangerous...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "It's okay!<br>Danger is part of a great<br>space adventure!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "I want to show you two that<br>I can fight properly too!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "...Uhm.<br>If we don't know the exact location of the enemy,<br>it might not be good to isolate ourselves foolishly."
+    },
+    {
+      "type": "narrator",
+      "text": "Pubraseer confirmed the<br>positions of Orbiter and [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "It can't be helped, we have to reduce their numbers somehow.<br>[Player], I'm counting on you for our operation!"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Let's fight together, Orbiter.<br>When it's over, let's have a long, good conversation.<br>Now, follow me!"
+    },
+    {
+      "type": "character",
+      "name": "Orbiter",
+      "avatar": "../char/orbiter.png",
+      "text": "Yeah!<br>Alright, I'll do my best!"
+    },
+    {
+        "type": "title",
+        "text": "Battle Start"
+    }
+  ]

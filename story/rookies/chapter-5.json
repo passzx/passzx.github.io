@@ -1,0 +1,1131 @@
+[
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "I love my family.<br>Papa and Mama, my sibling Canes.<br>Everyone is precious, I want to be with them forever."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "-And when I told that to our neighbors,<br>they asked me why I loved them so much."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "A little while ago...<br>When I was about the same size as Canes,<br>they told me about how I came to be."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "A different planet from Muirauka I,<br>I forgot where...<br>Apparently, I was abandoned there."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "Then, I was about to be eaten<br>by other creatures, but<br>they saved me-"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "Papa and Mama just happened to want<br>someone to be a \"hunting dog.\"<br>So they made me their son."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "But, when they told me that story,<br>Papa also said,<br>\"You can choose what you want to do\"."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "I really should have been wiped<br>off the face of the earth by now, but Papa and Mama<br>gave me a place to live, and a family."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "So I said I'd be a \"hunting dog\".<br>I thought it would be incredibly happy<br>to even be given a role."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "After that, Canes and I<br>studied every day,<br>ate meals, and went for walks-"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "A little while ago, as an apprentice,<br>I was taken to my first real hunt."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "But, I messed up a little bit<br>along the way and got separated<br>from the group with Canes..."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "I'm strong and fast.<br>My nose and ears are the best in the family.<br>But I don't understand difficult things well."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "When I didn't know what to do,<br>Canes thought of various things for me<br>and somehow made it work~!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "He's amazing.<br>Smart, strong, and kind.<br>My proud sibling whom I respect!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "So, from now on, I'll always, always<br>stay by Canes' side and protect<br>our family and everyone on Muirauka I!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "...That's why I'm a little worried now.<br>Canes has been listless lately.<br>When I ask him why, he says he's \"fine\"."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "And, he suddenly told Papa and Mama<br>that he \"wants to be a hero\",<br>which surprised me a lot."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "My role is to protect everyone.<br>I'm always by my sibling's side.<br>My family knows that too."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio_b.png",
+      "text": "So I thought that if I became a hero<br>with Canes, they would surely<br>be happy."
+    },
+    {
+      "type": "narrator",
+      "text": "But he's still down in the dumps.<br>I don't know the cause at all.<br>What should I do...?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Hello, Rokusei-san, [Player]-san.<br>Please take care of us today too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You too!"
+        },
+        {
+          "text": "You look a bit down, are you okay?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "Eh, is that so?<br>I don't feel any different from yesterday, or rather, this is my usual level of energy."
+            }
+          ]
+        },
+        {
+          "text": "You didn't ambush us today.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "Haha, as expected, Sterio and I learned our lessons.<br>It's bad to surprise Rokusei-san every time."
+            },
+            {
+              "type": "character",
+              "name": "Rokusei",
+              "avatar": "../char/tsuneaki.png",
+              "text": "You're so kind, you worried about this old man?<br>But don't worry too much, you can be as playful as you want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "......<br>......"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Now, today I want to introduce you<br>to the heroes from an agency<br>called Labor's Site."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "After yesterday's villain commotion, before we disbanded,<br>Canes-kun, you asked me a question,<br>do you remember?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I think it was about affiliations?"
+        },
+        {
+          "text": "It was about what happens after awakening."
+        },
+        {
+          "text": "(Waits for Canes's answer)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "Yes, the question was whether Sterio, who has awakened, can already call himself a hero..."
+            },
+            {
+              "type": "character",
+              "name": "Canes",
+              "avatar": "../char/canes.png",
+              "text": "I think when I asked the venue staff how to become a hero, they said something about joining an agency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "That's right, the power of a hero<br>must be exercised<br>after formal procedures."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "For that purpose, in the Earth Sphere,<br>it's necessary to obtain a license and<br>belong to a hero agency, but-"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Well, to put it simply, you're free to choose<br>where to belong. But in most cases,<br>people choose an agency that suits their main profession."
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei walks alongside [Player]<br>towards their destination, but<br>stops again a little further on."
+    },
+    {
+      "type": "narrator",
+      "text": "He had intended to explain while moving, but<br>he recalls that he had never quite<br>matched paces with the boys during their previous travels."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Actually, agencies specializing in heroes,<br>like Parallel Flight where [Player] belongs to,<br>are rare."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Others mostly form agencies<br>in similar industries such as service,<Br>civil servants, athletes, and so on."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "So, Sterio-kun and Canes-kun, if you<br>want to work as heroes in the future,<br>where should you belong to-"
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "I called out to a hero from an agency<br>that seems to fit your profession.<br>Let's go meet them right away."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Yes, sir!<br>...Hmm? I smell something<br>delicious nearby."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Hey, where are you going, Sterio?<br>Over here... Everyone is waiting...<br>Ah, just listen to me!"
+    },
+    {
+      "type": "narrator",
+      "text": "The moment Rokusei gave the command and<br>Sterio took a step forward, he swayed<br>and started walking towards a nearby food stall."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes stands in front of his sibling<br>and puts his entire weight to stop him,<br>but he is pushed back and carried away."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Should we have stopped<br>to eat something first<br>, after all...?"
+    },
+    {
+      "type": "narrator",
+      "text": "Rokusei grumbles,<br>looking towards the beach area,<br>which is their destination for today."
+    },
+    {
+      "type": "narrator",
+      "text": "Meanwhile, at the actual location, a greeting<br>was being held by heroes who had participated<br>from outside Orient City."
+    },
+    {
+      "type": "narrator",
+      "text": "Two heroes were on duty at this time,<br>each exchanging greetings with visitors<br>and taking commemorative photos upon request."
+    },
+    {
+      "type": "narrator",
+      "text": "They were wearing event suits as usual,<br>but the hero show did not seem to be<br>underway yet."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Thanks for coming to see an old man like me.<br>Please go enjoy the other areas too."
+    },
+    {
+      "type": "narrator",
+      "text": "After waving to the last visitor,<br>Goro looks at the other hero."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Oh, it looks like you've also<br>finished a section.<br>You seem to be quite popular, Pubraseer~?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "I never thought so many people<br>would call out to me.<br>The surprise is greater than the joy."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "If the venue staff hadn't cut the line,<br>I wouldn't have had a moment to rest...<br>I feel bad for the visitors, but it helped."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "It's tough to be popular, isn't it?<br>Come on, let's take a short break now.<br>Hey, you come here too!"
+    },
+    {
+      "type": "narrator",
+      "text": "At the place Goro beckoned,<br>there was a middle-aged man<br>standing like a guardian deity in his usual hero suit."
+    },
+    {
+      "type": "narrator",
+      "text": "As if giving in to the voice repeatedly calling him,<br>he reluctantly moves his feet and<br>approaches Goro."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Geez... Genji,<br>don't make that difficult face<br>even at such a festive event."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "Shut up, I've always had this face.<br>I told you I wouldn't participate in festivals,<br>but you brought me a strange request..."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Even so, you didn't refuse for the<br>sake of the citizens' enjoyment, did you?<br>You're dutiful, Genji."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "...I'm just some work, some preparation for emergencies.<br>Just consider me like a fire extinguisher or evacuation supplies.<br>I'm not something as grand as a hero."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "I'm just waiting for them to appear<br>at the edge of a frivolous place like this.<br>Like yesterday."
+    },
+    {
+      "type": "narrator",
+      "text": "Genji opens the cooler box<br>placed at the standby area, takes out<br>water bottles for everyone, and throws them to each."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Oh, when the monsters appeared the other day,<br>it's good that the situation was resolved<br>without much damage to people or buildings."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Planets with a lot of land are nice,<br>monsters are easy to find, and<br>we can move around easily."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "On Muirauka IV, at times like this,<br>a huge one usually comes out of the sea<br>and causes trouble, you know?"
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "Earth has a sea too.<br>And even if monster appear on land,<br>if they attack from the shadows, it's all over for us."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "That's why I'm here now.<br>You guys can just keep messing around<br>and take care of the customers."
+    },
+    {
+      "type": "narrator",
+      "text": "Genji speaks with a grimace.<br>However, he shows no sign<br>of leaving the place at all."
+    },
+    {
+      "type": "narrator",
+      "text": "Noticing this, Pubraseer<br>recalls his earlier statements and<br>mutters, confirming to himself."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah... Genji thinks that<br>we accepted the request instead of him<br>because he's bad at events and sales."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "So he's trying to take the initiative<br>to at least handle the venue's security...<br>Is that it?"
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "......<br>......."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "That's amazing, Pubraseer...<br>You've become so good at understanding<br>his twisted way of speaking!?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "I once spent time on a ship with a subordinate<br>who was not good at communication.<br>He wasn't as rough as them, though."
+    },
+    {
+      "type": "narrator",
+      "text": "Caught off guard and with nothing to say,<br>Genji pouts and looks away, chugging his water."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Speaking of which,<br>a hero who has business with us<br>is apparently coming with a customer."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Ah, I also received a message from the agency.<br>It seems an \"Observer\" is<br>accompanying them."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Just as they say, they're here.<br>Look over there, speak of the devil...<br>Hey, those guys are-"
+    },
+    {
+      "type": "narrator",
+      "text": "Everyone looks at where Goro pointed.<br>They confirmed that the people who had been told<br>to them by the agency were approaching."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you for your help!"
+        },
+        {
+          "text": "It's everyone from Labor's Site!"
+        },
+        {
+          "text": "(Bows and greets)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "[Player], it was you after all.<br>When I heard \"Observer\" accompanying a hero,<br>your face was the first to come to mind."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "I see, next to you is<br>the hero you're observing,<br>and those two are the customers."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Welcome to Hero Festa.<br>I am Pubraseer, affiliated with<br>Labor's Site."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "Thank you for taking your time today<br>and for the polite greeting!<br>I'm Rokusei, a rookie hero."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "These are Canes-kun and Sterio-kun.<br>They came all the way from outside the Earth Sphere...<br>Huh, what's wrong, you two?"
+    },
+    {
+      "type": "character",
+      "name": "Canes & Sterio",
+      "avatar": "../char/placeholder.png",
+      "text": "...Eh!?<br>You were heroes!?"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Hey, hey, if it isn't<br>the rookie hunters from Muirauka I.<br>Still looking energetic, huh?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What an unexpected acquaintance."
+        },
+        {
+          "text": "Well, they're from the same star system, I guess."
+        },
+        {
+          "text": "A family acquaintance?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "You've got the gist. It started when<br>I built their family's house<br>in the developing settlement."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Nowadays, some regions<br>build dwellings with architectural<br>3D printers, but-"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "That's a developing territory, isn't it? There's a lot of dust,<br>and drone construction methods aren't really suitable.<br>So that's where I come in."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Goro is a very good person.<br>When we go to Estebolta as a family,<br>he always plays with us!"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Sometimes we have errands in Estebolta for shopping,<br>and when we do, we always<br>go to greet Goro-san."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "But when we tried to head to Hero Festa<br>via Estebolta, he seemed to be out for something,<br>so we couldn't see him."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Hahahaha, that's right.<br>Because I went to Earth<br>before you guys, you know?"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Genji, Pubraseer.<br>These guys are well-behaved,<br>so treat them kindly too."
+    },
+    {
+      "type": "narrator",
+      "text": "After being introduced by Goro, Genji<br>responds with only \"Ouh\" and a bow,<br>while Pubraseer shakes hands with the boys."
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": "...So that means<br>you're the \"Observer.\""
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm [Player].",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Genji",
+              "avatar": "../char/genji.png",
+              "text": "...I'm Genji.<br>I hope I don't have to rely on you."
+            },
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "You know...<br>At times like this, honestly you should just say \"I hope nothing happens\", right?"
+            }
+          ]
+        },
+        {
+          "text": "Thank you for your help today.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Genji",
+              "avatar": "../char/genji.png",
+              "text": "...I'm Genji.<br>I hope I don't have to rely on you."
+            },
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "You know...<br>At times like this, honestly you should just say \"I hope nothing happens\", right?"
+            }
+          ]
+        },
+        {
+          "text": "This kind of cool person is good too...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Genji",
+              "avatar": "../char/genji.png",
+              "text": "Say that to someone else.<br>I'm not the kind of person who should be admired by a youngster like you."
+            },
+            {
+              "type": "character",
+              "name": "Pubraseer",
+              "avatar": "../char/pubraseer.png",
+              "text": "He probably meant, \"It's an honor to be liked by a youngster like you, even though I don't deserve it\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "I'm really sorry,<br>Genji is a very clumsy guy.<br>He's a good person at heart, so don't mind him."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "He especially overthinks things<br>with \"Observers\" and civilians,<br>which makes him blunter than usual..."
+    },
+    {
+      "type": "character",
+      "name": "Rokusei",
+      "avatar": "../char/tsuneaki.png",
+      "text": "T-this is quite...<br>He seems like a tough person<br>when he takes on jobs alone, doesn't he?"
+    },
+    {
+      "type": "character",
+      "name": "Genji",
+      "avatar": "../char/genji.png",
+      "text": ".......<br>Goro, Pubraseer.<br>I'll shut up now. You two handle the rest."
+    },
+    {
+      "type": "narrator",
+      "text": "Genji, unable to bear it, pouts and looks away,<br>receiving both criticism and support from his companions."
+    },
+    {
+      "type": "narrator",
+      "text": "As if such exchanges were commonplace,<br>Goro ignores him as he leaves the conversation circle<br>and turns to the boys."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "So, what are you two doing<br>all the way out here?<br>What about your father and mother?"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "You guys always travel with your family even to Estebolta,<br>so a trip just the two of you is unusual, isn't it..."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "...Huh!<br>Did you two have a family quarrel!?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "We wouldn't come all this way<br>just because we had a fight!<br>It's true that a trip with just the two of us is unusual, but..."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Canes and I came to Hero Festa<br>because we wanted to learn<br>how to become heroes."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "How to become a hero, you say?<br>Aren't you going to inherit the hunter business?<br>Tell me more in detail."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "...I'm surprised.<br>I can't believe Sterio<br>transformed!"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "And that's why I... or rather,<br>you wanted to meet the guys<br>from Labor's Site, huh?"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Indeed, just being able to transform<br>doesn't mean you've \"become a hero\"<br>publicly, does it?"
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "At the very least, in planets and countries<br>where hero is a profession, it is necessary to obtain a license<br>and belong to an agency."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "Regarding hero licenses,<br>it's better to inquire with a specialized<br>organization for detailed information."
+    },
+    {
+      "type": "character",
+      "name": "Pubraseer",
+      "avatar": "../char/pubraseer.png",
+      "text": "As for agencies, it would be better to belong<br>to one rather than establishing your own...<br>Especially in the case of rookies like Sterio-kun."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Labor's Site is an agency<br>where people who work in agriculture, forestry,<br>fisheries, and industry are affiliated."
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "The agency is on Muirauka III,<br>so it's convenient for you<br>who live in the same star system, isn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "So there was a hero agency<br>in the Muirauka star system.<br>I didn't know that."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-That's good, Sterio.<br>Now you can be both a hunter and a hero,<br>just like Mama said."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "If you belong to Labor's Site,<br>where Goro-san also belongs,<br>you can work with peace of mind, can't you?"
+    },
+    {
+      "type": "narrator",
+      "text": "When Canes smiled at him,<br>he would unconditionally feel happy too.<br>-Until now, that's how it had been."
+    },
+    {
+      "type": "narrator",
+      "text": "His sibling's face he just saw,<br>and the words he heard from him at the same time,<br>made Sterio feel as if he was being pushed away."
+    },
+    {
+      "type": "narrator",
+      "text": "While denying that it could be true,<br>to dispel the lingering anxiety,<br>he asks the other person what's bothering him."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Yeah, I'm happy that I can do both,<br>just like Mama said.<br>But... what about you, Canes?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Canes, I'll wait until you can<br>transform to do hero work.<br>I said we'd do it together."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "You don't have to wait for that.<br>It's a waste of your time.<br>I probably... won't be able to awaken."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "That's not true! My wish came true,<br>so you, Canes, who wants to be a hero even more-"
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio stops speaking mid-sentence.<br>Because he saw his sibling<br>stubbornly trying to reject him."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Even if, by some miracle, I could awaken...<br>I don't want to make you wait that long."
+    },
+    {
+      "type": "narrator",
+      "text": "\"I wanted my wish to come true too\",<br>the boy's eyes, expressing regret and<br>resignation, pleaded."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I've had it in my mind all along,<br>but I can't even hold a candle to you.<br>My body is small, and my abilities can't catch up."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "And yet, Sterio, you \"have no choice\"<br>but to assist me as a hunting dog.<br>Isn't that stifling?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "So, you should be free.<br>Just because we're \"siblings\",<br>you don't have to take care of me forever."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "You would do well with any skilled hunter.<br>I'm sure it's the same with hero work too."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "...While supporting your activities,<br>I'll try to find a path that suits me.<br>So, do your best, Sterio."
+    },
+    {
+      "type": "narrator",
+      "text": "Canes smiles sadly and<br>sends encouragement to his splendid sibling.<br>Wishing him success from the bottom of his heart-"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "H-hey... Canes.<br>Are you really okay with that?"
+    },
+    {
+      "type": "character",
+      "name": "Goro",
+      "avatar": "../char/goro.png",
+      "text": "Indeed, becoming a hero<br>isn't something that can be achieved<br>solely through one's own efforts, but..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Wait, Canes-kun-",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "No one, including [Player], would silently watch a boy give up on his future."
+            }
+          ]
+        },
+        {
+          "text": "If that's what you decided...",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "[Player] thinks that they can't irresponsibly tell him not to give up, and tries to sympathize with the boy's words."
+            }
+          ]
+        },
+        {
+          "text": "......",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Encouragement, comfort, reprimand, or something else-<br>[Player] cannot find the right words to convey to the boy at the moment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Suddenly, he notices that everyone's gaze<br>is directed at Sterio. He was trembling,<br>trying to endure something."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "......<br>...No.<br>I don't want that."
+    },
+    {
+      "type": "narrator",
+      "text": "As he voices his feelings,<br>tears that had gathered in Sterio's<br>eyes fall profusely."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I never thought it was stifling.<br>So Canes, why would you say such things?"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "I'll always stick to my sibling.<br>If I lose the role I was given,<br>I don't want freedom..."
+    },
+    {
+      "type": "narrator",
+      "text": "Everyone is surprised at the sight of Sterio,<br>who usually acts cheerfully and energetically<br>whenever they meet him."
+    },
+    {
+      "type": "narrator",
+      "text": "More than anyone, Canes<br>was greatly bewildered<br>by his sibling's sadness."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "Why... why do you<br>make that face, Sterio?<br>Even though I'm the one who wants to cry!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "Canes, your wish, I want to cherish it.<br>But, but, I absolutely don't want to be<br>separated from you, Canes..."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I don't want this either,<br>but what else can I do?<br>You and I live in different places!"
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "No, no, we do not live in different places!<br>Without question, my place is always<br>where Papa, Mama, and you are, Canes!"
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio had always obeyed his words without question.<br>Even when he asked for clarification,<br>he never refused."
+    },
+    {
+      "type": "narrator",
+      "text": "But this time, Sterio, like a disobedient child,<br>just kept saying no, over and over again."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "I'm not being selfish and saying this to you.<br>This choice is also for your good, Sterio."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "If the time allows for it, I would also want to<br>stand on the hunting ground with you,<br>and become a hero and be active!"
+    },
+    {
+      "type": "narrator",
+      "text": "As he speaks, his own inadequacy is exposed,<br>and though he is frustrated by that,<br>Canes tries to persuade Sterio."
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "But if that really came true,<br>how long do you think it would take?<br>By then, Sterio, you-"
+    },
+    {
+      "type": "narrator",
+      "text": "Desperate, he stops the words<br>that were about to escape his lips just in time."
+    },
+    {
+      "type": "narrator",
+      "text": "Sterio looks worriedly at Canes,<br>who has a troubled expression and tries<br>to suppress his emotions."
+    },
+    {
+      "type": "character",
+      "name": "Sterio",
+      "avatar": "../char/sterio.png",
+      "text": "......<br>...Canes?"
+    },
+    {
+      "type": "character",
+      "name": "Canes",
+      "avatar": "../char/canes.png",
+      "text": "-Everyone, I'm sorry,<br>I'll excuse myself first.<br>Please take care of Sterio."
+    },
+    {
+      "type": "narrator",
+      "text": "He looks down, avoiding eye contact with anyone,<br>and runs away, escaping the scene."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Rokusei-san, I'm counting on you.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "I'm going too, [Player].<br>Pubraseer, Rokusei.<br>I'll leave Sterio to you for a bit."
+            }
+          ]
+        },
+        {
+          "text": "Sterio-kun... are you okay?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "...[Player].<br>Why did Canes say such things?<br>I don't understand at all."
+            },
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "[Player], Rokusei, Pubraseer.<br>I'm leaving him to you.<br>I'm going to check on Canes."
+            }
+          ]
+        },
+        {
+          "text": "(Confused by the sudden events)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "What happened to him?<br>Seriously, you two sometimes fight too, huh, I'm surprised."
+            },
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "Now, what should I do-<br>I have to chase Canes, but taking Sterio with me is..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "note": "[This choice will only be available if you picked Option 3]<br><br>If you are confused, it's just that it will jump back to the choicer above without Option 3.",
+      "options": [
+        {
+          "text": "Rokusei-san, I'm counting on you.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "I'm going too, [Player].<br>Pubraseer, Rokusei.<br>I'll leave Sterio to you for a bit."
+            }
+          ]
+        },
+        {
+          "text": "Sterio-kun... are you okay?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sterio",
+              "avatar": "../char/sterio.png",
+              "text": "...[Player].<br>Why did Canes say such things?<br>I don't understand at all."
+            },
+            {
+              "type": "character",
+              "name": "Goro",
+              "avatar": "../char/goro.png",
+              "text": "[Player], Rokusei, Pubraseer.<br>I'm leaving him to you.<br>I'm going to check on Canes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "note": "The choice above is quite important,<br>as it will change the entire chapter from here on out.<br>Sorry for not being able to come up with a more elegant design,<br>but you'll have to do with this for now.<br><br>I said \"important\", but it mostly only changes<br>if you can have a choice in certain parts of the story...",
+      "options": [
+        {
+          "text": "<a href=\"reader.html?chapter=chapter-5a\", style=\"color:var(--background-light);\">Option 1"
+        },
+        {
+          "text": "<a href=\"reader.html?chapter=chapter-5b\", style=\"color:var(--background-light);\">Option 2"
+        }
+      ]
+    }
+  ]
+  
