@@ -1,0 +1,73 @@
+[
+  {
+    "category": "Event Quests",
+    "items": [
+      {
+        "id": "prologue",
+        "title": "Prologue"
+      },
+      {
+        "id": "chapter-1",
+        "title": "Chapter 1"
+      },
+      {
+        "id": "chapter-2",
+        "title": "Chapter 2"
+      },
+      {
+        "id": "chapter-3",
+        "title": "Chapter 3"
+      },
+      {
+        "id": "chapter-4",
+        "title": "Chapter 4"
+      },
+      {
+        "id": "chapter-5",
+        "title": "Chapter 5"
+      },
+      {
+        "id": "finale",
+        "title": "Finale"
+      },
+      {
+        "id": "epilogue",
+        "title": "Epilogue"
+      }
+    ]
+  },
+  {
+    "category": "Hidden Quests",
+    "hidden": true,
+    "items": [
+      {
+        "id": "prologue_a",
+        "title": "Prologue (Route A)"
+      },
+      {
+        "id": "prologue_b",
+        "title": "Prologue (Route B)"
+      },
+      {
+        "id": "prologue_c",
+        "title": "Prologue (Route C)"
+      },
+      {
+        "id": "prologue_d",
+        "title": "Prologue (Route D)"
+      },
+      {
+        "id": "prologue_e",
+        "title": "Prologue (Route E)"
+      },
+      {
+        "id": "chapter-4a",
+        "title": "Chapter 4 (Route A)"
+      },
+      {
+        "id": "chapter-4b",
+        "title": "Chapter 4 (Route B)"
+      }
+    ]
+  }
+]

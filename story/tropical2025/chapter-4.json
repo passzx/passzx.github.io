@@ -1,0 +1,1722 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/wanokuni_village_desolation.png"
+  },
+    {
+      "type": "narrator",
+      "text": "It is said that the great tengu has a power called 'clairvoyance'.<br>It is the vision to know the life and death of all living beings due to karma—"
+    },
+    {
+      "type": "narrator",
+      "text": "In my dream, I saw that disciple disappear into a burning building,<br>shot with a flaming arrow."
+    },
+    {
+      "type": "narrator",
+      "text": "The time limit for it to burn down is soon approaching.<br>He will probably lament the world in those flames."
+    },
+    {
+      "type": "narrator",
+      "text": "The disciple will probably not return<br>from that burning building alive."
+    },
+    {
+      "type": "narrator",
+      "text": "I know the distant cause of that end.<br>—'Getting too close to one's own family'."
+    },
+    {
+      "type": "narrator",
+      "text": "The art of war of the tengu, which Hogen taught to that disciple<br>as his master, is the principle of the sword of 'distance'."
+    },
+    {
+      "type": "narrator",
+      "text": "It is also called the divine feet of the tengu,<br>and it is something that closes the distance in an instant and reduces it to zero."
+    },
+    {
+      "type": "narrator",
+      "text": "That disciple used it freely on the battlefield<br>and made countless heroic tales known to the world,<br>such as the reverse drop of Ichi no Tani."
+    },
+    {
+      "type": "narrator",
+      "text": "But that is what definitively made the disciple and his brother and vassals<br>misjudge their sense of distance."
+    },
+    {
+      "type": "narrator",
+      "text": "He stepped into the other's territory that should not be touched.<br>Or should I say that he stepped on a landmine after closing the distance?"
+    },
+    {
+      "type": "narrator",
+      "text": "No matter how close they are... No, precisely because they are family,<br>there is a domain that cannot be entered without consequences."
+    },
+    {
+      "type": "narrator",
+      "text": "That is not only for the disciple,<br>but also for Hogen, who is his master."
+    },
+    {
+      "type": "narrator",
+      "text": "In the same world, in the same 'faith',<br>the fate of those with the same Role and Rule is the same."
+    },
+    {
+      "type": "narrator",
+      "text": "No matter how much he regrets it, the past is the past.<br>He— cannot leap through time."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/underground_facility_6.png"
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Alright, this project is finally starting to see its end.<br>Everyone, just a little more effort!"
+    },
+    {
+      "type": "narrator",
+      "text": "Late at night on the day before the reopening of T.S.L.<br>In the construction work area, the staff were moving about busily."
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "—I'm glad the work is done.<br>I can't thank the construction team enough."
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "You were working all night, weren't you?<br>For the vibration countermeasures, was it?"
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "That's right, the vibration from the fireworks seemed<br>to reverberate inside the facility more than expected—"
+    },
+    {
+      "type": "narrator",
+      "text": "T.S.L. decided to carry out urgent renovation work in response<br>to the results of the fireworks impact survey conducted the other day."
+    },
+    {
+      "type": "narrator",
+      "text": "The reopening day was safely met and the retest was completed,<br>and the staff were all busy carrying unnecessary materials to the temporary storage area."
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "...Alright, this is the last one for now.<br>Good work, let's go take a shower. We have a luxurious—"
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "...Did something<br>just move over there?"
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Eh...?<br>No, I didn't see anything."
+    },
+    {
+      "type": "character",
+      "name": "Direction Team",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Maybe it was my imagination.<br>Pulling all-nighters is getting tough as I get older—"
+    },
+    {
+      "type": "character",
+      "name": "Dust Slimes",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "..........<br>.........."
+    },
+    {
+      "type": "title",
+      "text": "Chapter 4:<br>An Old Tengu's Gaze at the Opposite Shore's Fire"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/buildingrouka_day.png"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Attention!<br>Fire platoon roll call, begin!!"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Yes, yes.<br>I'm the ace, number one!"
+    },
+    {
+      "type": "character",
+      "name": "Firefighting Students",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Two, three, four!"
+    },
+    {
+      "type": "character",
+      "name": "Firefighting Students",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Five, six!"
+    },
+    {
+      "type": "character",
+      "name": "Firefighting Students",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Seven, eight, nine!<br>All present, Captain... No, Chief!!"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "You guys! It's been a while since we've had a real deployment,<br>but you haven't let your guard down, have you?"
+    },
+    {
+      "type": "narrator",
+      "text": "As a master and an instructor,<br>Cinderella gives a pep talk."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "It's my job to raise you into ash-covered ones<br>that I wouldn't be ashamed to send anywhere."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Listen up, don't think I'll be able<br>to guide you forever, alright?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "It's precisely when you let your guard down like this<br>that unexpected disasters happen."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Don't even give Hogen and his security team a chance to step in,<br>you all better handle it yourselves, alright?"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Speaking of the Security Chief, Sandra,<br>aren't things between you and him a little tense?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Hmph, haven't I told you, Reddy?<br>That I once had a near-death experience with him?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "That's right, I think it was during a joint disaster prevention drill<br>between the police and the fire department or something—"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "...'Cinderella'?<br>No, no, whoever 'you' are?"
+    },
+    {
+      "type": "narrator",
+      "text": "At that time, Hogen, with his tengu eyes,<br>said so as soon as he saw Cinderella."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "W-What near-death experience?<br>What on earth happened, Sandra?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Ahahaha, it's nothing.<br>He just stepped a little too far, that's all."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "But if you make a 'mistake' like stepping on your partner's shoes<br>while dancing, you have to be taught a lesson, right?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Even dancing is something you do while measuring your distance.<br>It's not good enough to just step in as much as you can."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Though, that dance wasn't bad.<br>I have to admit, that old man has talent."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "But if we get too close, it'll be the same thing all over again.<br>...That's the kind of relationship he and I have."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "A-Achoo!<br>(...*shiver* *shiver* *shiver*...)"
+    },
+    {
+      "type": "character",
+      "name": "Security Staff",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Security Chief Hogen, are you feeling cold?<br>Shall I turn down the air conditioning a little?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "No, no, some cute person somewhere<br>is probably talking about me."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "—More importantly, I should be grateful that<br>you were able to be flexible with the shifts."
+    },
+    {
+      "type": "character",
+      "name": "Security Staff",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "No, no! Rather, I'm sorry that you have to stay on as a<br>member of security team even after the opening."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "The reopening of the facility has attracted<br>a lot of attention from the citizens."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "The more people there are, the greater the risk of trouble.<br>Not all visitors come for entertainment—"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "In any case, feel free to contact me if anything happens.<br>I'll be counting on you while I'm resting my wings."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "...Well then, now I can secure some time<br>to go around the park with my disciple."
+    },
+    {
+      "type": "narrator",
+      "text": "Hogen operates his device and sends a message<br>to [Player]'s chat, and laughs."
+    },
+    {
+      "type": "narrator",
+      "text": "But that smile slowly fades, and his expression disappears.<br>As Hogen remembered the scene he saw in his dream this morning."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Physical distance is one thing, but<br>you mustn't close the distance of the heart... huh."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/tropical2025_guild2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The day of T.S.L.'s reopening.<br>Although reservations were only made available by lottery,<br>the park was still plenty crowded."
+    },
+    {
+      "type": "narrator",
+      "text": "And it was the first day for the staff as well.<br>Even though they had been trained, they were very busy with the crowds."
+    },
+    {
+      "type": "narrator",
+      "text": "Meanwhile, [Player] and the other fire brigade members<br>were spending a quiet time at the standby area."
+    },
+    {
+      "type": "narrator",
+      "text": "Red Hood and the others sent out invitations to play<br>to their other friends and acquaintances later on—"
+    },
+    {
+      "type": "narrator",
+      "text": "Until it was time to meet up, there was nothing in particular<br>for them to do, and so they were at a loss on what to do."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "..........<br>.........."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "..........<br>.........."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's a good thing the fire brigade has nothing to do!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "So bright, our firefighting junior is too good to be true...<br>A former man-eating wolf like me can't possibly compete."
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "Just being able to stand by would give you a higher rating than Ulaanbaatar."
+            }
+          ]
+        },
+        {
+          "text": "Cinderella, tell me a story from the past.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "Oh, I'm interested too!<br>Tell me, tell me, Sandra!"
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "There were times I burned with revenge.<br>There were times my heart was burned by a love that only happened once."
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "...If you want to hear more of my old stories, you should bring me a souvenir, you inconsiderate person?"
+            }
+          ]
+        },
+        {
+          "text": "Red Hood, shall we run away together?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "...Shall we?<br>Under the midsummer blue sky...<br>Though it's underground, but to elope on a tropical beach—"
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "—What are you talking about, Reddy!?<br>[Player], you, what did Hogen teach you to say things like that?"
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "That old man also suddenly steps on the gas, but you're just as bad, honestly..."
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "But... It's a little exciting.<br>I don't dislike guys who propose out of the blue, you know?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "You've made plans to play with the others, haven't you?<br>It's almost time, so be patient."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Oh, are you trying to make me and<br>[Player] go play by ourselves again!?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "I thought that was the plan?<br>There's nothing wrong with that, is there?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I want Cinderella to come too!!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "Right, if we're going, I want Sandra to come too!<br>I'd be worried if we left her alone."
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "So, if you don't mind, Sandra, I'd like you to come with us..."
+            }
+          ]
+        },
+        {
+          "text": "I'll stay behind this time.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "I wouldn't leave my junior behind to go play!?<br>Besides, we made a promise to meet up with everyone we know after this!"
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "This place has great fire prevention equipment, so it's okay if we don't all stay cooped up in the standby area."
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "I'd still be worried leaving one person behind.<br>If you don't mind, Sandra, I'd like you to come with us..."
+            }
+          ]
+        },
+        {
+          "text": "Well, we're here for work...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "W-Well, if you put it that way, I can't really argue, but..."
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "...Look, during break time or something!<br>Sandra, you've been cooped up in here the whole time."
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "And when we fought the sharks the other day, I was lonely because you weren't with us, Sandra...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "If you so wish for it, then alright.<br>You can take me wherever you want."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Yeah, you're right.<br>Well, it doesn't hurt to just say it..."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "—Eh, you'll go!?<br>R-really? I thought you'd say no."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "It's fine, I don't dislike it or anything.<br>And it doesn't seem like you're being considerate either."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "I can't leave this place without permission,<br>so I'll have to put a reserve unit in place before I go—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Conveniently timed."
+        },
+        {
+          "text": "I guess you've already made arrangements."
+        },
+        {
+          "text": "Stalking again?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Oscar",
+              "avatar": "../char/housamo/oscar.png",
+              "text": "...Of course not!<br>I am always, only thinking about what you are thinking!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Are you sure you can be here?<br>But then again, you'd be the busiest before the opening, right?"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "That's right. Unless an emergency occurs,<br>I've adjusted it so that all I have to do today is watch over..."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "The renewed T.S.L. is more than<br>just a workplace to me—"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "It's a paradise for me, where my fiction has become a reality,<br>and so I want to enjoy it as a guest myself!"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "In addition, if I can see the honest reactions of my friends and acquaintances,<br>there's nothing that would make me happier as a creator."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "In short, I want feedback.<br>And as much as possible, if you will.<br>Will you do me the favor?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "If not just [Player] and Reddy, but even the site manager says so,<br>I can't just say no, can I?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "If you ask, she'll accept...!?"
+        },
+        {
+          "text": "As expected, you're good at inviting people."
+        },
+        {
+          "text": "Then, let's get going right away!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "It's a little early, but let's all go!<br>Thanks a bunch, Oscar-san!!"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "No, you were the ones who invited me in the first place.<br>I'm glad the three of you from the fire brigade could go out together."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "From now on, I'll try to invite<br>Sandra more persistently!"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "You can, but don't overdo it!?<br>I'm already busy enough to turn to ash as it is!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/seaside_walk.png"
+    },
+    {
+      "type": "character",
+      "name": "Hei Long Yi Quan",
+      "avatar": "../char/housamo/heilongyiquan.png",
+      "text": "Hello, masters! Konpura~<br>Today, from the renewed T.S.L., the first review—"
+    },
+    {
+      "type": "character",
+      "name": "Saturnus",
+      "avatar": "../char/housamo/saturnus.png",
+      "text": "—Marduk, you look great!<br>So, there's no harm with walking with a bit more confidence...!"
+    },
+    {
+      "type": "character",
+      "name": "Marduk",
+      "avatar": "../char/housamo/marduk.png",
+      "text": "I-I know.<br>I will conquer this summer's chaos as well!!"
+    },
+    {
+      "type": "character",
+      "name": "Snegurochka",
+      "avatar": "../char/housamo/snegurochka.png",
+      "text": "Amazing, amazing! It's so big!!<br>I've only ever seen islands in the southern sea in picture books!"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Hey, I know how you feel,<br>but don't run around! You'll get hurt!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's a huge success!"
+        },
+        {
+          "text": "I see some familiar faces."
+        },
+        {
+          "text": "I'm getting crowd sick...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "I know how you feel.<br>I was the one who brought you here, but I'm not used to it either..."
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "B-but...!<br>It's fun to talk with everyone, and I don't really mind the crowd!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "The reservation tickets are sold out!<br>I'm sure the CEOs and owners will be satisfied."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "If you get tired of the crowd,<br>I'll show you to the nearest VIP lounge!"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "The nearest?<br>Are there really that many?"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Wow, and I'd thought our standby area<br>was already luxurious enough."
+    },
+    {
+      "type": "narrator",
+      "text": "To get to the meeting place,<br>[Player] and the others walk through the lively park."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/leisura_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The group arrived earlier than the promised time,<br>but there was a familiar shadow at the landmark."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...What happened?"
+        },
+        {
+          "text": "I can pretty much guess, poisonous creature?"
+        },
+        {
+          "text": "Oh, you're both early?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "Yeah, I had less work than I thought.<br>I've been working consecutive shifts, so I left it to the other first aid staff today."
+            },
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "I thought it would be nice to take a leisurely stroll by myself, and then I bumped into Yuma-kun."
+            },
+            {
+              "type": "character",
+              "name": "Yuma",
+              "avatar": "../char/housamo/yuma.png",
+              "text": "Um, work, later, in afternoon.<br>So... It's okay."
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "A-agagaga...<br>My body is numb, numb, so could you at least say something to me...!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "This is...<br>Quite a poisonous ad-lib, isn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Is it an ad-lib?<br>Is it okay to call this an ad-lib...?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Ahahaha!<br>Hogen, what a state you're in!!"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Well now... That was a terrible experience.<br>I was just trying to have a little skinship—"
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "If he wasn't knocked out by the poison, I'd think it was the wind.<br>That's how fast he was. He's used to it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Where did you touch...?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hmph, I know my distance, so I just checked a little of the part hidden by the aloha shirt."
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "With a speed that could be mistaken for the wind, you just stuck your hand in...?"
+            }
+          ]
+        },
+        {
+          "text": "Give me your thoughts.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Of course.<br>This time, I just checked a little of the part hidden by the aloha shirt—"
+            },
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "My body is poisonous all over, yes?<br>Danger, do not touch, so I hope you've learned your lesson."
+            },
+            {
+              "type": "character",
+              "name": "Yuma",
+              "avatar": "../char/housamo/yuma.png",
+              "text": "[Player], if, want to pat, pat me, woof woof, awoo!"
+            }
+          ]
+        },
+        {
+          "text": "(Ready your device)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "H-hey, hey!<br>As always, your judgment is a little too quick!!"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "I just checked with my own body to see if there was anything dangerous hidden under the aloha shirt, that's all!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "What a waste of talent...<br>And to think it's so subtle that it's not worth getting angry about."
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "No, in the first place,<br>I'd appreciate it if you didn't check it as you'd wish!?"
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "...Though, I guess I can understand.<br>I can't help but taste it when I see a wild plant I don't know—"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Ehh...<br>That's pretty out there in its own way..."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Hmm, a beautiful rose has thorns,<br>a colorful tropical creature has poison... I've learned something today."
+    },
+    {
+      "type": "choice",
+      "note": "[Option 1 purely differs in visual]",
+      "options": [
+        {
+          "text": "Actually, I also—"
+        },
+        {
+          "text": "Genius and criminal are two sides of the same coin...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Oscar",
+              "avatar": "../char/housamo/oscar.png",
+              "text": "Ah, yes, to be a genius is always to commit a sin.<br>I am no exception to that, you see."
+            }
+          ]
+        },
+        {
+          "text": "I want to go play soon."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "—You guys, aren't you going to go around the park?<br>That old man, I'll turn him to ash if it comes down to it."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "That's right, I, still have work.<br>Until then, want to play, with everyone, as much as possible."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Oh my, I seem to have gotten a little carried away<br>and have forgotten what I have come here for."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "The stars of the park, of my stage,<br>allow me to personally guide you."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "That's very kind of you. As a security team member, I have a grasp of the map,<br>but I have almost no prior knowledge of the facility's outline."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Now that you mention it, I'm in the same boat.<br>Last time it was a 'play' disguised as a guide, wasn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "[Player], Yuma-kun.<br>Is there anywhere you two want to go?"
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "I, only know, Am-sama's live show.<br>So, want to be, taken around, more."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I want to look around the park."
+        },
+        {
+          "text": "I think I could go to the pool as many times as it takes."
+        },
+        {
+          "text": "I-I can't decide...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "In that case, may I recommend the<br>'T.S.L. Stamp Rally - The Treasure of the Southern Isles'?"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "As the name suggests,<br>you go around to each spot and collect stamps."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Some require you to ride an attraction,<br>and there are also spots you have to find based on hints."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Collect all the stamps to get a souvenir!!<br>...How does that sound?"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Wow! I like the atmosphere here,<br>so I was just thinking I'd like to explore."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "In that case, [Player],<br>a little, favor to ask."
+    },
+    {
+      "type": "narrator",
+      "text": "Yuma takes out a harness from his bag,<br>puts it on, and hands the lead to [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "[Player], here.<br>With this, take me, around."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "To think you're handing over the reins yourself.<br>...Then we must make sure it doesn't break on the way."
+    },
+    {
+      "type": "narrator",
+      "text": "After receiving the 'treasure map' at the designated place,<br>the tour of T.S.L. began according to the written content."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/island_guild2.png"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The location of the next stamp is—"
+        },
+        {
+          "text": "I have no idea."
+        },
+        {
+          "text": "The view here is nice!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yuma",
+              "avatar": "../char/housamo/yuma.png",
+              "text": "Plants, all real. Buildings, too, only natural materials.<br>No-swim area, look, fish there—"
+            },
+            {
+              "type": "character",
+              "name": "Oscar",
+              "avatar": "../char/housamo/oscar.png",
+              "text": "Ah, that's my personal touch.<br>I incorporated natural objects as much as possible, and reproduced the buildings as they are."
+            },
+            {
+              "type": "character",
+              "name": "Oscar",
+              "avatar": "../char/housamo/oscar.png",
+              "text": "Mixing truth into fiction increases its credibility...<br>I simply applied that to the theme park."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "The scenery is amazing, it's almost indistinguishable from nature.<br>But more than that, I don't like that I can't solve this riddle!"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "This riddle was made by a<br>riddle creator named Sphinx-kun, you see—"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Sphinx... in Tokyo?<br>No wonder even I am struggling with this."
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "Hmm, it should be around here,<br>but I don't see anything that looks like it."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "I can't do it anymore,<br>I don't understand it at all!!"
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "How about we take a break for now?<br>Let's have a drink while looking at the scenery and clear our heads."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "A fine idea.<br>Then, I shall go buy some for everyone."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "Is it alright? I, my and [Player]'s share, buy.<br>Everyone's too, buy then..."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Hahaha, that's very thoughtful of you.<br>That's why I want to take care of you."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, Hogen.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Yes, that one word is enough for me.<br>Well then, I'll send you a picture of the menu when I get to the shop."
+            }
+          ]
+        },
+        {
+          "text": "I'll repay you with my body—",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hohoho?<br>Then I shall look forward to it—"
+            },
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "What was the number for the security team again?<br>Or, would an injection be quicker?"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "It's just a bad joke...!<br>No, it's a tengu joke!!"
+            }
+          ]
+        },
+        {
+          "text": "(Tell him what drink you want)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Hogen leaves [Player] and the others,<br>who are trying to solve the riddle, and goes to buy drinks alone."
+    },
+    {
+      "type": "narrator",
+      "text": "In the meantime, [Player] and the others<br>decided to take a break."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What book are you reading, Shennong?",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Shennong, who seemed to be trying to get away from the riddle for a while, had a book open in his hand."
+            },
+            {
+              "type": "character",
+              "name": "Yuma",
+              "avatar": "../char/housamo/yuma.png",
+              "text": "Shennong-sensei, what book, is that?<br>If, biology book, I know, maybe."
+            },
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "This is a book on psychotherapy written by a sports doctor from Yoyogi Academy.<br>In short, it's a study in my spare time."
+            },
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "I was originally only good at treating the body, but since I became a school nurse, I can't exactly use that excuse anymore."
+            },
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "I don't understand that riddle at all.<br>So I thought that if I reset my mind, I might see something."
+            }
+          ]
+        },
+        {
+          "text": "Cinderella, you have a stern look on your face...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "..........<br>.........."
+            },
+            {
+              "type": "character",
+              "name": "Red Hood",
+              "avatar": "../char/housamo/red_hood.png",
+              "text": "Wow, Sandra trying to solve a riddle with a serious face, that's a little fresh!"
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "...It's not that anyone asked me to, but it annoys me that I can't solve Sphinx's riddle."
+            },
+            {
+              "type": "character",
+              "name": "Oscar",
+              "avatar": "../char/housamo/oscar.png",
+              "text": "To think you're acquainted with Sphinx-kun, it's surprising how things are connected."
+            },
+            {
+              "type": "character",
+              "name": "Cinderella",
+              "avatar": "../char/housamo/cinderella.png",
+              "text": "Well, yes.<br>I don't know if the one in Tokyo is the 'Sphinx' I know, though."
+            }
+          ]
+        },
+        {
+          "text": "Oscar, give me a hint for the riddle."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Hmph... Then, to be considerate of spoilers,<br>let me just say that the current move is as the management and creator intended..."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Of course, I made it with the premise that it would be solved?<br>However, whether it's a straight path is another matter."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "Oscar, knew, answer?<br>Know, but, with us, still thinking...?"
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "...No, I, Am-sama's tour, setlist spoilers, no.<br>No, absolutely not."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "Oscar, said, move, as intended.<br>Then maybe, before here, have to go, another place, no?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Oh, they're getting excited.<br>From the looks of it, did they realize they shouldn't be here yet?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "A lively time with nothing special going on,<br>it's a pleasant feeling to look down on it from above."
+    },
+    {
+      "type": "narrator",
+      "text": "Hogen muttered to himself,<br>holding a drink."
+    },
+    {
+      "type": "narrator",
+      "text": "Then he noticed them and hurried<br>over to them, waving his hand."
+    },
+    {
+      "type": "narrator",
+      "text": "After that, [Player] and the others continued<br>to collect stamps and ride attractions."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/seaside_walk.png"
+    },
+    {
+      "type": "character",
+      "name": "Hercules",
+      "avatar": "../char/housamo/hercules.png",
+      "text": "This attraction is for six people.<br>Since there are seven of you, I would like you to split into two groups—"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Then, shall I take pictures of everyone<br>on the attraction from the outside?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "I have plans to come with my students,<br>so I'll save the attraction for that time."
+    },
+    {
+      "type": "character",
+      "name": "Tadatomo",
+      "avatar": "../char/housamo/tadatomo.png",
+      "text": "The end of the line for the 3-star Nisroch food truck is here,<br>the line for gelato is over there—"
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "As I expected, there's quite a line everywhere.<br>It looks like it'll be a struggle to secure a seat."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "There are a lot of food trucks.<br>If you don't want to waste time, you don't have to stick to this one—?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Hahaha, the Tengu of Kurama is not just for show.<br>Look down from a high blind spot and strike at the gap.<br>The foundation of my art of war."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "I-I see!<br>...So what does that mean!?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "I have been entrusted with securing a seat.<br>In return, I would like you to buy me a meal."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "I'm really indebted to you, Hogen-san!<br>Unlike with Sandra, I feel like I'm being watched over."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "I'm so sorry about that, Reddy!<br>Have I always been leaving you behind?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's so unlike you to be so well-behaved.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "You do know that I'm an adult, [Player]?<br>Even I have those kinds of ennui days."
+            }
+          ]
+        },
+        {
+          "text": "I'll take the seat..."
+        },
+        {
+          "text": "Hogen, you look strangely wistful— What's wrong?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "I've been playing the guardian role all the time,<br>so I couldn't help but be spoiled, but I'm an adult too."
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "I'll get the seats.<br>I feel bad for leaving it all to you."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "No, in that case, shall I have my servant<br>prepare both the seats and the meal, dear Security Chief?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "No, I have no intention of overstepping the bounds of a general customer.<br>I'll refrain being an old man that makes the younger generation worry too much."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "..........<br>.........."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Hey Hogen, is that a jab at me!?<br>Or... have you gotten sick from eating something bad?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Hahaha, my body is in perfect health!<br>No matter what I do, or what is done to me, I will not die."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Now, go on.<br>It's almost lunchtime, so the lines will get longer."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "We ended up leaving it to Hogen."
+        },
+        {
+          "text": "He seems to have something on his mind—"
+        },
+        {
+          "text": "A little tired... No, his body should be fine, right?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Will you forcibly rip off his mask?<br>I wouldn't recommend being too rough with others, though."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "That's right. If you step into someone else's private matters,<br>Sandra would get angry too."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "If it's not needed of you, it's best not to do it.<br>If someone were to ask me, I'll answer in earnest...<br>Though, it seems we have no time."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "...Hogen, seeing, something.<br>Something, not here, now, feels like."
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "Hogen, heart, and body, far.<br>Distance, different, cannot go back, time..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yuma's saying difficult things."
+        },
+        {
+          "text": "Is there anything I can do to help?"
+        },
+        {
+          "text": "It annoys that my Master's not feeling well."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "—If that's the case, I have an idea.<br>Well, it's also a bit of a payback for earlier."
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "If the cause is that he's seeing too much,<br>then maybe, he 'just shouldn't see'."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "..........<br>.........."
+    },
+    {
+      "type": "narrator",
+      "text": "While waiting in line to order,<br>the group devises a plan with Shennong at the center."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Oh, what a good team you make.<br>I didn't think I'd be able to get involved that much, but—"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "...I've become a little more interested in what lies ahead.<br>Really, the world doesn't go as planned, does it?"
+    },
+    {
+      "type": "title",
+      "text": "-------- Part 2 --------"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/roppongi_castle.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Once upon a time, in the capital of the otherworld Land of Wa,<br>there was an exorcist who served as a public servant."
+    },
+    {
+      "type": "narrator",
+      "text": "He possessed a skill revered as the ancestor of swordsmanship,<br>and his fame as a master of military strategy was known throughout the capital."
+    },
+    {
+      "type": "narrator",
+      "text": "Eventually, the court graciously granted him a book on<br>the secrets of military strategy, and appointed him as its guardian."
+    },
+    {
+      "type": "narrator",
+      "text": "And, there was a legend that if one could decipher that secret book,<br>one could obtain a power beyond human comprehension."
+    },
+    {
+      "type": "narrator",
+      "text": "A certain warrior heard of that legend.<br>The hero of the Land of Wa— appeared before the exorcist."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/sky_day.png"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Why do I have to be in the front row<br>for the roller coaster!? Aaaaahhh!!!"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Ahahaha!<br>Isn't this quite fun? We should try it more often, shouldn't we?"
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": ".........!!<br>...! ...!?"
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "The view from up high is even better.<br>...Are you alright, Yuma-kun? Look, Oscar-san is over there."
+    },
+    {
+      "type": "narrator",
+      "text": "The group rides the roller coaster in the park.<br>This one also had an even number of seats, so Oscar became the photographer—"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Oh, this unique pressure, this floating feeling,<br>how very addicting... Yahoo—!"
+    },
+    {
+      "type": "narrator",
+      "text": "—Saying that he should experience the rides for security reasons,<br>Hogen, who was persuaded... or  rather, forced to ride, screamed."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Wave with an air of composure)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "As expected of my beloved disciple, you're so calm!<br>Oh, Oscar-dono is over there!"
+            }
+          ]
+        },
+        {
+          "text": "(Look for Oscar)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "As expected of my beloved disciple, you're so calm!<br>Oh, Oscar-dono is over there!"
+            }
+          ]
+        },
+        {
+          "text": "(Shout as loud as you can)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "To hear such a voice from my beloved disciple...<br>That alone was worth riding with you."
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Look, [Player].<br>Oscar-dono is holding a camera over there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "It's a shame that I can't touch anything,<br>not even your hand, because of the safety bar—"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/leisura_day.png"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Well, well, welcome back.<br>I took some good pictures, so I'll send them to your device."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Now, what kind of spot would you like to go to next?<br>I'll come up with the perfect plan."
+    },
+    {
+      "type": "choice",
+      "note": "path splitting again<br>this will affect the immediate dialogue",
+      "options": [
+        {
+          "text": "<a href=\"chapter-4a.html\", style=\"color:var(--background-light);\">Something more thrilling!!"
+        },
+        {
+          "text": "<a href=\"chapter-4b.html\", style=\"color:var(--background-light);\">I'd like to take it easy next time."
+        },
+        {
+          "text": "<a href=\"chapter-4b.html\", style=\"color:var(--background-light);\">I think I could go to the pool any number of times."
+        }
+      ]
+    }
+  ]
+  
+  

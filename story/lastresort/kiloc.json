@@ -1,0 +1,202 @@
+[
+  {
+    "type": "narrator",
+    "text": "On Enoshima Beach, basking in strong sunlight,<br>something cold was gently placed<br>on [Player]'s cheek."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Yo, good work.<br>If you stay here like this, you'll catch a heat stroke.<br>Drink some water, [Player]-chan."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Thank you, Kiloc.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Kiloc",
+            "avatar": "../char/kiloc.png",
+            "text": "What, it's just a little something.<br>You've helped me a lot, [Player]-chan."
+          }
+        ]
+      },
+      {
+        "text": "Whoa, it's cold!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Kiloc",
+            "avatar": "../char/kiloc.png",
+            "text": "Hahahaha!<br>Sorry for surprising you.<br>But, [Player]-chan,<br>you have a really cute reaction, you know that?"
+          }
+        ]
+      },
+      {
+        "text": "Did you catch anything?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Kiloc",
+            "avatar": "../char/kiloc.png",
+            "text": "Yes, I suppose I caught something. Just now—<br>A big catch named [Player]-chan, huh?<br>Hahahaha!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "The calendar photoshoot<br>has finished its first phase,<br>so I'm taking a short break now."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "That outfit suits you.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Kiloc",
+            "avatar": "../char/kiloc.png",
+            "text": "Hehehe... Thanks.<br>[Player]-chan, you're wonderful too."
+          },
+          {
+            "type": "character",
+            "name": "Kiloc",
+            "avatar": "../char/kiloc.png",
+            "text": "That's why, I and the others just can't leave you alone."
+          }
+        ]
+      },
+      {
+        "text": "Truly the enjoying-Enoshima style.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Kiloc",
+            "avatar": "../char/kiloc.png",
+            "text": "Of course!<br>It's rare to leave Estebolta with such fanfare.<br>I intend to enjoy it to the fullest!"
+          }
+        ]
+      },
+      {
+        "text": "You were really into the photoshoot.",
+        "dialogue_after_selection": [
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Well, yeah.<br>When Saotome-san told me it was for revitalizing the region, even a carefree captain like me gets excited."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Besides, if someone who saw my photo got smitten and contacted me... Hehehe.<br>—Ah, no, ahem. Never mind."
+  }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "By the way, you're also on break, right?<br>If you like, why don't we play together<br>at Enoshima's beach!"
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "We can go fishing as we are,<br>or [Player]-chan, I can accompany<br>in whatever you'd like— Alright?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I need to prepare before I get to enjoy myself."
+      },
+      {
+        "text": "Speaking of Enoshima..."
+      },
+      {
+        "text": "Kiloc, do you use things like this?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Oh—, is this sun oil?<br>It's an Enoshima specialty, right?<br>I saw it at the concession stand earlier."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "The sun is especially strong today,<br>so it might be good to apply it.<br>Then, if I'm thinking of what you've got in mind..."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "You showed me that sun oil, which means<br>I can assume that you will apply<br>it for me, right, [Player]-chan?"
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "—Whoa, really!?<br>So it was worth asking, even if it's a long shot.<br>I'm counting on you, [Player]-chan!"
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "—Well then,<br>if you could,<br>[Player]-chan."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Hehe, I didn't expect<br>to get a reward from you<br>so soon."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Ah—, I feel good.<br>Just me and a cute fella on Earth's sea,<br>isn't this just the best?"
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Oh! You're even giving me a massage?<br>Nice, that's quite a service.<br>It was worth working hard!"
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Whoaah!?<br>To think you're even doing that much,<br>you're bold, [Player]-chan!"
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] and Kiloc enjoyed<br>their intimate time together."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "—Thanks.<br>I really got to have the<br>best time of my life, [Player]-chan."
+  },
+  {
+    "type": "character",
+    "name": "Kiloc",
+    "avatar": "../char/kiloc.png",
+    "text": "Well then, it's my turn now.<br>I won't let you say \"I'll pass\", okay?<br>Come on, lie down and leave yourself to me."
+  }
+]

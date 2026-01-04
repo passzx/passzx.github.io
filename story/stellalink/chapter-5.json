@@ -1,0 +1,1924 @@
+[
+    {
+      "type": "bg",
+      "bg": "../bg/lah/festivalstalls_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The lights of the stalls and lanterns shine in the<br>darkness of the night, and many people, a clamor.<br>Between the light and sound, the two walk hand in hand."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "W-Wow...!<br>This cotton candy is so big,<br>sweet, and delicious!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Is that so? That's great.<br>If it's not enough, just say so, and<br>Grandma will share mine with you."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "Thanks, Grandma!<br>By the way, that mask,<br>when did you buy it?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "At the stall next to the cotton candy's.<br>When I found a mask of my favorite character,<br>I just had to buy it."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "Favorite...?<br>Grandma, is that from the old movie<br>you always watch at home?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Yes, that's it!!<br>The righteous police officer hero, who hides his face under a fox mask,<br>and with a pair of jitte, he shouts 'You're under arrest!' against the great evil...!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "Under arrest! Hehe, that's so cool!!<br>I want to see it when we get back... Oh.<br>Grandma, that kid...!"
+    },
+    {
+      "type": "narrator",
+      "text": "At the end of the path Barrel pointed to,<br>a small child was staring at the ground,<br>with tears in his eyes."
+    },
+    {
+      "type": "character",
+      "name": "Child's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Ugh...<br>*sniffle*..."
+    },
+    {
+      "type": "narrator",
+      "text": "He must have fallen, his clothes were dirty,<br>and where his tear-filled eyes were looking, a cotton candy,<br>similarly soiled with dirt, was rolling."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "That kid... poor thing.<br>Oh, I know...!"
+    },
+    {
+      "type": "narrator",
+      "text": "The child's empty hand, and<br>his own hand grasping the cotton candy.<br>Barrel looks at them alternately."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "Hey...! ...Ah.<br>But... Um..."
+    },
+    {
+      "type": "narrator",
+      "text": "And Barrel looks down,<br>his face filled with sadness,<br>and retracts the hand he was about to offer."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Oh my, oh my, that's enough crying.<br>Look, look, your cotton candy<br>came back all big!"
+    },
+    {
+      "type": "narrator",
+      "text": "At that moment, Barrel's grandmother,<br>standing next to him, ran up to the child<br>and offered him the cotton candy she was holding."
+    },
+    {
+      "type": "character",
+      "name": "Child's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Eh...?<br>Um, grandma, can I<br>really have this?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "That's right, after something sad happens,<br>something happy always comes after.<br>Now, be careful not to fall next time, okay?"
+    },
+    {
+      "type": "character",
+      "name": "Child's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Okay!<br>Thank you, grandma!!"
+    },
+    {
+      "type": "narrator",
+      "text": "She gently pats the child's head, and the child,<br>now smiling, is gently pushed on the back and seen off.<br>And, in the direction she turned to look—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "...! Uuu...!<br>Grandma, I...!"
+    },
+    {
+      "type": "narrator",
+      "text": "As if the child's tears had been contagious,<br>this time Barrel was the one looking down, and his tears<br>were creating small stains on the ground."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Oh my, oh my!<br>It seems the tears that just stopped<br>have moved over here."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "...Won't you tell me, Barrel?<br>Why are you crying?"
+    },
+    {
+      "type": "narrator",
+      "text": "Wiping away his flowing tears with<br>a handkerchief, and gently stroking his head,<br>Barrel's grandmother quietly asks him."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "Because... I was going to give him my<br>cotton candy, but I didn't give it to him...<br>So Grandma, your share... I'm sorry...!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "You don't have to apologize.<br>I told you, didn't I? Grandma's cotton candy<br>went to deliver happiness to that child."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "So there's nothing to worry about.<br>...But, well. Can you tell me,<br>why did you pull your hand back then?"
+    },
+    {
+      "type": "narrator",
+      "text": "Continuing to stroke his head to<br>calm him down, with a gentle smile,<br>Barrel's grandmother quietly asks him."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "I really wanted to give that kid<br>my cotton candy. Because I thought,<br>it would make him happy..."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "But... In a place with so many people,<br>if I gave him my cotton candy, I'd stand out.<br>And that's a bad thing..."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "And, this cotton candy,<br>you bought it for me, Grandma."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "If I just gave it away,<br>this time Grandma would be sad...<br>I thought so."
+    },
+    {
+      "type": "narrator",
+      "text": "Calmed down by his grandmother's stroking,<br>Barrel, whose tears had finally subsided,<br>spits out his feelings."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "...I see.<br>Barrel, you're not just kind,<br>you're a really good and proper boy."
+    },
+    {
+      "type": "narrator",
+      "text": "With that, she gently hugs Barrel,<br>and pats Barrel's back gently,<br>at the same rhythm."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": ".........<br>Grandma, but..."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "What your parents say is right,<br>they're words to protect you, a child.<br>And you, who can follow them, are admirable!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "And, you thought of Grandma,<br>and hesitated to give your cotton candy<br>to that child, didn't you?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "I'll say it as many times as you want, Barrel.<br>You're a kind, good and proper boy.<br>Grandma's really proud of you!"
+    },
+    {
+      "type": "narrator",
+      "text": "As she says, she releases Barrel<br>from her hug, looks straight into<br>Barrel's small eyes, and speaks."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "You thought that giving your cotton candy<br>to that child was the right thing to do, didn't you?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "But you gave up your own 'right' for your<br>parents' words, and your kindness to Grandma.<br>To the 'right' of those around you."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Your parents, and I, and you.<br>Nobody is in the wrong.<br>And yet, the reason you're in pain is—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Barrel, more than anyone else,<br>you think you're not cool.<br>That's what you're thinking."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "Not cool...?<br>I, think that about myself?<br>But, that's..."
+    },
+    {
+      "type": "narrator",
+      "text": "At his grandmother's laughing words,<br>Barrel's small eyes opened wide as he replies."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "In this world, there are as many<br>'rights' as there are people."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "For example, to your parents,<br>to this Grandma of yours.<br>And, of course, to you too."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "As many rights as there are people...<br>So, I'm right, too...?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Of course!<br>You're right, and other people are right!<br>In that case—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "To follow straight with what you think is right,<br>and to laugh with all your might.<br>Isn't that the coolest thing of all!?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "I... don't really get it.<br>But, cool, huh?<br>Ehe, that sounds really nice!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel_b.png",
+      "text": "...Well then.<br>Grandma, is this cool?"
+    },
+    {
+      "type": "narrator",
+      "text": "At his grandmother's hearty laugh,<br>Barrel returns a small smile, and offers<br>his grandmother his own cotton candy."
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Barrel...!<br>Ah, of course.<br>It's the coooolest!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel's Grandmother",
+      "avatar": "../char/placeholder_b.png",
+      "text": "Well then, Grandma will show you my cool.<br>Let's go, Barrel.<br>Let's go buy some more cotton candy!"
+    },
+    {
+      "type": "narrator",
+      "text": "What is right, and what is not right.<br>I've never known, and I still don't.<br>I don't have a single clue to it."
+    },
+    {
+      "type": "narrator",
+      "text": "If I don't know, then I'll just follow<br>through with my own 'right', and laugh.<br>Those words are still deep in my heart—"
+    },
+    {
+      "type": "narrator",
+      "text": "That is what that drives me forward.<br>That I, am always<br>the coolest hero of justice."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/fairground_day.png"
+    },
+    {
+      "type": "title",
+      "text": "Chapter 5:<br>Distant Days Carnival"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": ".........<br>........."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Turbak-san."
+        },
+        {
+          "text": "Good morning."
+        },
+        {
+          "text": "I'm counting on you again today!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The next morning, [Player] arrives<br>at Japan Pavilion, which is still projecting<br>a clear blue sky overhead."
+    },
+    {
+      "type": "narrator",
+      "text": "And, to Turbak, who is quietly gazing<br>at the festival stalls, which are even<br>livelier than the day before, they call out."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "[Player]-kun!?<br>G-Good morning!<br>It's another beautiful morning!!"
+    },
+    {
+      "type": "narrator",
+      "text": "At the sudden words,<br>Turbak's expression is one of surprise.<br>And then it changes to a downcast one."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Sorry about yesterday.<br>We were all having so much fun,<br>and then I proceeded to ruin it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I don't really mind, but..."
+        },
+        {
+          "text": "Have you calmed down a little?"
+        },
+        {
+          "text": "...Are you alright?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...After that, I thought about it all night.<br>Why did Anonymous... the Nethers,<br>create that festival?"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "But in the end, I still couldn't understand.<br>That festival is a festival for those people,<br>that's all I could think about it."
+    },
+    {
+      "type": "narrator",
+      "text": "With a still-downcast expression,<br>Turbak continues to speak,<br>squeezing out each word."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I talked a little about it before.<br>The festival in my hometown<br>is no longer a thing."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "The people of my hometown have been<br>celebrating the festival for a long time.<br>I thought it would continue onwards forever."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "But still, the festival disappeared in just 10 years.<br>The number of people participating decreased due to urban development,<br>and we couldn't spare the time to prepare for the festival—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "And before I knew it, it was decided that there was no<br>need to focus on the tourism industry, and it disappeared.<br>It wasn't for ourselves anymore."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Times change... Huh."
+        },
+        {
+          "text": "It's sad to see a tradition lost."
+        },
+        {
+          "text": "The meaning of the festival disappeared."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...That's why I was sad.<br>That there's a festival that's not<br>meant to be passed down. But—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "At the same time, I came to<br>understand that what Theoreol-san<br>said is also right."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...It's not something to be sad about.<br>My hometown is now prosperous,<br>and everyone is living hand in hand."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...There are things that have been lost,<br>and things that have changed their form.<br>But, everyone in my hometown is happy now."
+    },
+    {
+      "type": "narrator",
+      "text": "As he says, with the same big<br>smile as when they first met,<br>Turbak continues to spin his words."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "But, my own thoughts still stand!<br>That if everyone is enjoying the festival with a smile,<br>then there's no greater happiness than that!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Turbak-san...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Barrel",
+              "avatar": "../char/barrel.png",
+              "text": "It's just as [Player]-san says~!!<br>Let's get going now, Turbak-san!!"
+            }
+          ]
+        },
+        {
+          "text": "Are you convinced by that?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Barrel",
+              "avatar": "../char/barrel.png",
+              "text": "It's just as [Player]-san says~!!<br>Let's get going now, Turbak-san!!"
+            }
+          ]
+        },
+        {
+          "text": "I think you should see that festival more.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Barrel",
+              "avatar": "../char/barrel.png",
+              "text": "Just as [Player]-san says, Turbak-san, you should see that festival again, properly this time~!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As Turbak comes to a conclusion with his own words,<br>Barrel's voice overlaps [Player]'s reply to his conclusion."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Barrel-kun!?<br>Um, what do you mean by 'going now'...<br>Ah, first of all, good morning!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Sorry~, Turbak-san.<br>I was eavesdropping on<br>your conversation~."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "No, I don't mind that, but<br>what do you mean by going<br>to Fortina Pavilion...?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Turbak-san, you've studied all about<br>the festivals so far, and found out<br>how amazing and fun they are, right~?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "...I kind of understood why<br>you felt that festival wasn't<br>for Fortina, Turbak-san~."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "...But, even those people must<br>have their own thoughts,<br>and their own 'right'~!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "It might not change even if you knew,<br>so it's fine if that was the case~.<br>But..."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "I want those people,<br>and you too, Turbak-san.<br>To enjoy all the festivals~!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": ".........<br>It might be so, but..."
+    },
+    {
+      "type": "narrator",
+      "text": "At Barrel's words, Turbak looks down<br>with a downcast expression.<br>Another voice calls out to him."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Let's just go and see, no?<br>We're free today anyway.<br>...Right, good morning."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Good morning, Roudin-san."
+        },
+        {
+          "text": "Were you eavesdropping, by any chance?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Hey, hey, I just happened to overhear, okay?<br>Well, I was watching to see when I should call out, though."
+            }
+          ]
+        },
+        {
+          "text": "You were waiting for the right timing, weren't you?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Hey, hey, I just happened to overhear, okay?<br>Well, I was watching to see when I should call out, though."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "...And, well.<br>It's not like you have<br>a reason not to go, right?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Then, maybe it wouldn't be so<br>bad to go to Fortina Pavilion again.<br>We didn't get to see it properly yesterday."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "...I mean, Turbak.<br>You're going to apologize to those guys from<br>yesterday, right? So I'll accompany you to it?"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Eh!?<br>W-wait, Roudin-san,<br>I was planning to, but..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Seeing you yesterday,<br>I figured you'd do that.<br>But, well—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "I agree with Barrel as well,<br>that you should go see<br>that festival one more time."
+    },
+    {
+      "type": "narrator",
+      "text": "As Roudin says, he smiles lightly,<br>and ostentatiously reads out the<br>schedule displayed on his device."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "And... Oh, what a coincidence!!<br>There's no exchange stream scheduled for today,<br>and we're free until the exhibition match in the evening!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Okay, it's decided~!<br>Well then, let's head to<br>Fortina Pavilion!!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Eh, ehh!?<br>I'm happy, but I can't possibly make<br>everyone come along for my sake..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Don't worry about it!"
+        },
+        {
+          "text": "I'm curious about it too!"
+        },
+        {
+          "text": "It's just an excuse to play at that festival!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "[Player]-kun...<br>Everyone, I'm sorry,<br>and... Thank you."
+    },
+    {
+      "type": "narrator",
+      "text": "Nodding at Turbak's quiet words,<br>the group heads to Fortina Pavilion."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/amusementpark_day.png"
+    },
+    {
+      "type": "character",
+      "name": "Mafia?",
+      "avatar": "../char/placeholder.png",
+      "text": "Gwah!?<br>I-I lost!?"
+    },
+    {
+      "type": "character",
+      "name": "Villain?",
+      "avatar": "../char/placeholder.png",
+      "text": "...Not bad.<br>You're... going to be<br>a great hero... *gasp*."
+    },
+    {
+      "type": "character",
+      "name": "Staff",
+      "avatar": "../char/placeholder.png",
+      "text": "Congratulations!<br>You were a really cool hero!!<br>Ah, here's a commemorative item. Please accept."
+    },
+    {
+      "type": "narrator",
+      "text": "Following from the previous day,<br>[Player] and the others visit Fortina Pavilion."
+    },
+    {
+      "type": "narrator",
+      "text": "The festival was even more lively<br>than the day before, and the sounds of<br>laughter and cheers echoed throughout the venue."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "It's super lively~!<br>Just watching makes<br>me super excited~!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "As an organizer, I'm really grateful.<br>Now then. I'd like to talk to<br>those guys from yesterday..."
+    },
+    {
+      "type": "narrator",
+      "text": "Roudin takes a look around.<br>In his line of sight, a particularly large shadow<br>notices the group and approaches with a loud laugh."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "Gwahahaha!<br>To visit my pavilion two days in a row,<br>you sure have a good mindset!"
+    },
+    {
+      "type": "choice",
+      "note": "kinda mad that he's right",
+      "options": [
+        {
+          "text": "Viscunam, good to see you again!"
+        },
+        {
+          "text": "We're in your care again today."
+        },
+        {
+          "text": "What about the other two?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Viscunam",
+              "avatar": "../char/viscunam.png",
+              "text": "Don't just treat people as sets!<br>First, you should be weeping with emotion at being able to see me again!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As Viscunam exchanges greetings,<br>familiar people also show<br>their faces from behind him."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Honestly...<br>We was just dealing with the police,<br>but you're already so needlessly energetic..."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Ah...<br>I'm so sorry for<br>the extra trouble~."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "There's no need for you to apologize.<br>It's a pretty common thing for us, so I<br>don't think the Nethers mind that much."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "More importantly, since you're here,<br>you should enjoy our festival!<br>It ended halfway yesterday!"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Well, weLL!<br>It's nice to see you again so soon, everyoNE.<br>This is excellent timiNG!"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Starting today, we're expanding<br>on the food that we offER.<br>There's a little surprise up for experienCE!"
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Why are you advertising the surprise<br>instead of the taste of the food...?<br>W-Well, it is true—"
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "The mystery noodles that multiply as you eat,<br>and the candy that randomly changes flavor,<br>those certainly made an impact, but... Hey."
+    },
+    {
+      "type": "narrator",
+      "text": "The gazes of Sensettia and the others,<br>who were still talking, focus on Turbak,<br>and silence falls."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": ".........<br>...You, came again today."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Sensettia, and<br>Viscunam, Theoreol.<br>Um, about yesterday..."
+    },
+    {
+      "type": "narrator",
+      "text": "In front of the three, with a<br>downcast expression, Turbak opens his mouth.<br>But, Sensettia interrupts him."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Wait just a second!<br>If you're trying to apologize,<br>can you stop right there?"
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "I have no reason to consider the theories<br>of a fool who can't understand the goodness<br>of this festival. No apology is necessary..."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "That's not what I mean!<br>Don't make things more complicated!"
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "Ouch!?<br>P-Pulling my beard is against the rules, young lady!<br>It's not that big of a deal!"
+    },
+    {
+      "type": "narrator",
+      "text": "Ignoring Viscunam who is clutching his beard,<br>Sensettia turns back to Turbak."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "I'll need to say some things first.<br>...Umm, it's not that I can't forgive you,<br>or that I'm angry, or anything like that."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "It's just that, just as you have<br>your thoughts, we also have our own thoughts.<br>I wanted you to know that."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "This festival is not being held<br>for the sake of Fortina.<br>About this conclusion you've reachED—"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "We also didn't present<br>all the necessary informatiON.<br>So, since that's the caSE."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Why don't you re-examine the<br>presented information, and see if<br>you would reach the same conclusiON?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, you three."
+        },
+        {
+          "text": "I'm interested in that too."
+        },
+        {
+          "text": "Is that okay with you, Turbak?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Thank you, all of you.<br>If you don't mind, could you tell me?<br>About what connects this festival, and Fortina itself."
+    },
+    {
+      "type": "narrator",
+      "text": "At Turbak finally raising his face and smiling,<br>Sensettia and the others nod<br>and continue talking about the festival."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Like I have told you yesterday,<br>this festival is a project<br>that Anonymous has started."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "About this Anonymous.<br>I'm not really involved with villains,<br>so can you tell me a little more?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Ah...<br>If it's something you can't talk about in front of me,<br>I can step away for a bit~?"
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "I wouldn't really mind?<br>In the first place, we don't<br>know that much about them either."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "You'd probably know more about them, Barrel?<br>We barely access Anonymous for<br>anything other than transforming."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Now, this will be a repeat of the<br>information I disclosed yesterday,<br>but Anonymous is a private network serviCE."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I thought it was something like a villain agency..."
+        },
+        {
+          "text": "I can't really imagine it."
+        },
+        {
+          "text": "Elaborate, please!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "It's completely different<br>from your usual hero agencies.<br>It's not even an organization."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "It's not open to the public,<br>so you'd probably never get involved with<br>it unless you accessed it yourself."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "The information that circulates there is diverse.<br>Anonymous people spouting information, without<br>the slightest regard for its authenticity."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "There's also a request board like the Link Board.<br>The source is unknown, so<br>we've never accepted any, though."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "They also offer a service equivalent<br>to 'LIVE@HERO', which is<br>what you'd use to streaM."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Unlike a hero agency, there's<br>no dedicated 'Observer' for it, so<br>the observation is a bit unstabLE."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Yeah, yeah.<br>I learned about that in training,<br>so I know about it~!"
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Well, just registering for Anonymous<br>doesn't automatically make you a villain.<br>And, this is the main point."
+    },
+    {
+      "type": "narrator",
+      "text": "As Sensettia says, she<br>glances around and shifts her gaze<br>to the staff working at the pavilion."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "It's easy to misunderstand, but even if<br>you get Anonymous to transform you,<br>you wouldn't be a villain in the true sense."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "Even if they can transform, there are those<br>who belong to neither heroes nor villains.<br>The world perceives them as villains, though."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Like I've told you yesterday, they're the Nethers.<br>The ones who are making this<br>festival so lively are those Nethers."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "About that you've mentioned,<br>what do you mean that they can transform,<br>but they're not heroes or villains...?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Not a hero or a villain, huh..."
+        },
+        {
+          "text": "I can't really imagine it."
+        },
+        {
+          "text": "I think I kind of get it."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Ah... I think I've got a clue.<br>Not everyone who can<br>transform wants to fight."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Transformation, is the power to gain help from one's own dreams.<br>And, to suddenly get that power,<br>and be told to fight monsters—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "And, to be told to stream the form<br>of your dreams to the whole galaxy.<br>Isn't it natural for some to deny that?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's true..."
+        },
+        {
+          "text": "I'd never thought about it before."
+        },
+        {
+          "text": "Well, I'm sure that a certain number of them do."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "If you join a hero agency,<br>you have to fight Kaibutsu<br>and villains."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "So there are quite a few people who just<br>register with Anonymous and live a normal<br>life, neither a hero nor a villain."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "This festival is mainly run by<br>those who are called Nethers."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "Gwahahaha!<br>They're a pretty impressive bunch, aren't they?<br>After all—"
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "They're not heroes or villains,<br>but they're achieving a level of excitement<br>that neither can achieve."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "And they want to surprise the whole<br>galaxy, to show that they're here.<br>This pavilion is a festival for those people."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "At that point, an offer of<br>cooperation came from Fortina.<br>Fortina may be a developing planet, buT—"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "If the festival comes to a success,<br>they can introduce this festival when the<br>development is complete to some exteNT."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "I see.<br>So they're developing their own<br>resources for tourism in advance."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Of course, that's not all?<br>Fortina, to be honest,<br>isn't that rich of a star."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "It doesn't have any famous tourist spots or resources.<br>But still, they're working hard<br>to show that they're present."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "It's all those factors at hand, that<br>they wanted to make this pavilion's<br>festival Fortina's own festival."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...I see,<br>so that's what they were thinking.<br>They want to convey their feelings..."
+    },
+    {
+      "type": "narrator",
+      "text": "At Sensettia's words,<br>Turbak's expression is serious.<br>And, he bows deeply."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I'm very sorry about yesterday!<br>I've said some really terrible things<br>without even trying to find out!!"
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Y-You don't have to apologize!<br>...But, I'll accept your feelings.<br>Thanks."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Now I've understood.<br>The festival at this pavilion<br>is the happiest thing ever!"
+    },
+    {
+      "type": "narrator",
+      "text": "Turbak's apology, and his smile.<br>And that smile makes its way<br>to the rest of the group."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "It's great that everyone's on good terms~!<br>It was the right choice to come here today~.<br>Good job, officer~!!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Hehe, that's a great smile, Turbak.<br>With this, the exhibition match<br>after this is going to be exciting."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "It's all thanks to you guys.<br>Thank you all for pulling me along with you.<br>And—"
+    },
+    {
+      "type": "narrator",
+      "text": "As he says, Turbak turns his smile<br>to Sensettia and the others."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Is there anything I can do for you?<br>As an apology... No, as a thank you for telling me<br>such a wonderful story, I'd do anything for you."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "That's great~!<br>I'll help too~!<br>It sounds like fun~!!"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "I didn't provide the information<br>in exchange for anything, so you don't<br>need to provide any labor, buT..."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "Hold it there, Theoreol.<br>Kuku, Turbak, that's a good mindset.<br>—You really said 'anything', didn't you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "P-Please go easy on him..."
+        },
+        {
+          "text": "Leave it to me!"
+        },
+        {
+          "text": "Good luck, Turbak-san..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Hey, hey, I don't know what's going on,<br>but go easy on me, okay?"
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "What, it's nothing big.<br>I'm just giving you with a big role<br>that only a 'hero' can do."
+    },
+    {
+      "type": "narrator",
+      "text": "Viscunam laughs as he says.<br>And, the heroes are<br>assigned a certain role."
+    },
+    {
+      "type": "character",
+      "name": "Mafia?",
+      "avatar": "../char/placeholder.png",
+      "text": "Kukuku...<br>What's with that lukewarm punch?<br>It doesn't even scratch my itch!"
+    },
+    {
+      "type": "character",
+      "name": "Guest",
+      "avatar": "../char/placeholder.png",
+      "text": "Eh... What?<br>Isn't this an event where I<br>can experience being a hero...?"
+    },
+    {
+      "type": "character",
+      "name": "Villain?",
+      "avatar": "../char/placeholder.png",
+      "text": "Too bad!<br>Your bonus time's over,<br>so cry and beg for your life!"
+    },
+    {
+      "type": "narrator",
+      "text": "The Fortina Pavilion, bustling with guests.<br>Suddenly, a scream echoes through the pavilion,<br>and a commotion spreads through the area."
+    },
+    {
+      "type": "character",
+      "name": "Guest",
+      "avatar": "../char/placeholder.png",
+      "text": "N-No way...!<br>S-Someone!<br>Someone help me!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "<strong>That's as far as you go~!!</strong>"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "This Symphonic Trigger won't<br>allow for any more violence~!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "Now, come along quietly~!<br>You're under arrest~!!"
+    },
+    {
+      "type": "character",
+      "name": "Mafia?",
+      "avatar": "../char/placeholder.png",
+      "text": "W-What, you!<br>If you're gonna interfere,<br>I won't go easy on you!!"
+    },
+    {
+      "type": "character",
+      "name": "Villain?",
+      "avatar": "../char/placeholder.png",
+      "text": "Don't you see that<br>we have a hostage...<br>Huh? The hostage...?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Surprising, yes?<br>Too bad, the hostage has<br>already been set free."
+    },
+    {
+      "type": "narrator",
+      "text": "Barrel rushes to the guest's scream,<br>and Roudin and Turbak join him,<br>confronting the villains."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I won't let you turn the happy<br>memories of the festival into sad ones!<br>We will protect them!!"
+    },
+    {
+      "type": "title",
+      "text": "Battle Start"
+    },
+    {
+      "type": "character",
+      "name": "Villain?",
+      "avatar": "../char/placeholder.png",
+      "text": "Gwah!!<br>S-Strong... Too strong...<br>*gasp*..."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "Alright, a-great-victory~!<br>Another page has been added to the<br>legend of Symphonic Trigger~!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "You've done well.<br>For being a hero, here's<br>a little something for you... Hup!"
+    },
+    {
+      "type": "narrator",
+      "text": "Barrel defeats the villains,<br>and Roudin turns to the<br>shaken guest with a smile."
+    },
+    {
+      "type": "narrator",
+      "text": "And, when Roudin takes out a single<br>flower out of nowhere for the guest<br>to accept, their face flushes with joy."
+    },
+    {
+      "type": "character",
+      "name": "Guest",
+      "avatar": "../char/placeholder.png",
+      "text": "Ah, thank you very much!<br>Wow, so this is the new project<br>I was told about at the entrance!"
+    },
+    {
+      "type": "character",
+      "name": "Guest",
+      "avatar": "../char/placeholder.png",
+      "text": "I never thought I'd have a chance<br>to be rescued by a hero!!<br>I'm so glad I applied—!!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I'd be really glad if it became<br>a happy memory for you!<br>Here, take this commemorative item too!"
+    },
+    {
+      "type": "character",
+      "name": "Mafia?",
+      "avatar": "../char/placeholder.png",
+      "text": "Thank you for participating<br>in the guerrilla live show.<br>We look forward to seeing you again!"
+    },
+    {
+      "type": "character",
+      "name": "Villain?",
+      "avatar": "../char/placeholder.png",
+      "text": "There are still plenty of<br>rides, food, and sights to see,<br>so please enjoy the rest of your time!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Good work, everyone!"
+        },
+        {
+          "text": "It was really exciting!"
+        },
+        {
+          "text": "Did that count as a thank you?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Mafia?",
+      "avatar": "../char/placeholder.png",
+      "text": "Thanks for your help!<br>There was a talk on Anonymous<br>about trying a new project."
+    },
+    {
+      "type": "character",
+      "name": "Villain?",
+      "avatar": "../char/placeholder.png",
+      "text": "This time, it was a live show where<br>you get rescued by a hero."
+    },
+    {
+      "type": "character",
+      "name": "Mafia?",
+      "avatar": "../char/placeholder.png",
+      "text": "If the guests' response is good, we're thinking<br>of asking other pavilions for their cooperation.<br>We'll be counting on you again then!"
+    },
+    {
+      "type": "narrator",
+      "text": "As they say, the group sees off the<br>Nethers as they leave with smiles on their faces.<br>At that moment, Sensettia and the others appear."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Good work!<br>It was pretty exciting, wasn't it!?"
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "Gwahahaha!<br>To become a hero,<br>and to be rescued by a hero..."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "It's precisely because 'there are no heroes<br>here' that this entertainment is possible.<br>The Nethers are pretty good, aren't they?"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "It's very interestiNG!<br>It's only a matter of time before we<br>take control of this event, Viscunam."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "We're done with that story.<br>I'm sure this guy has already<br>forgotten he said that..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "We can't lose either!"
+        },
+        {
+          "text": "We have to liven up Japan Pavilion too."
+        },
+        {
+          "text": "Everyone, let's do our best again!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "We can't fall below either~!<br>Let's go back to the pavilion right away<br>and have a strategy meeting~!!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "W-Wait a minute, Barrel-kun!<br>First, we have to go to the<br>exhibition match after this...!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Haha, I know how Barrel feels.<br>For now... Hey, [Player].<br>Isn't your device ringing?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Roudin's words,<br>[Player] checks their device.<br>It was an emergency call from Huckle."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Excuse me, I have to take this."
+        },
+        {
+          "text": "You've worked hard, President!"
+        },
+        {
+          "text": "Is there some kind of trouble?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "[Player]-kun.<br>Good work. If the heroes are nearby,<br>I'd like them to listen in as well."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "It's an emergency.<br>—An incident has occurred, a guest<br>has been attacked by a villain."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I want you to act with the heroes,<br>and never leave their side."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh!?"
+        },
+        {
+          "text": "...Please tell me the details."
+        },
+        {
+          "text": "A villain...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "As of now, the two pavilions that<br>were attacked are Clouge and Wehmalt."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Fortunately, the heroes on site<br>responded immediately. I hear that<br>the casualties are extremely light."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...However, there's a high possibility<br>that there are more of them in hiding.<br>The organizers are currently investigating the details."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I'll contact you again as soon as I have more information.<br>Again, don't leave the heroes' side,<br>and be extremely vigilant."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Roger!"
+        },
+        {
+          "text": "I'll share this with the heroes."
+        },
+        {
+          "text": "I'll check it out over here too!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] ends the call,<br>and the heroes around them,<br>who had also received the information,<br>check their devices with grim faces."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "I got the info too~.<br>...They said there was a villain attack."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "We got it from the agency too.<br>I don't know the details yet, but..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "...First, we need more details.<br>I'm sure Clouge was attacked too, right?<br>Let's hear from those who were there."
+    },
+    {
+      "type": "narrator",
+      "text": "As he says, Roudin operates his device<br>and contacts Nessen and the others,<br>who should be at Clouge Pavilion."
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "You've worked hard, Roudin-sama.<br>If it's an emergency call, it must be<br>about the recent attack, correct?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Apologize for bothering you<br>when you're busy cleaning up.<br>...We need some more details."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "They said it was a villain attack..."
+        },
+        {
+          "text": "The casualties are light, right?"
+        },
+        {
+          "text": "Please tell us the situation in detail!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At the voices of the group over the call,<br>Nessen politely explains the situation."
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "First, there was a request for a guerrilla<br>live show from a certain pavilion."
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "There were no problems with the<br>documents, so we readily accepted.<br>However—"
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "They didn't show up at the scheduled time,<br>and when we tried to contact them, a commotion<br>broke out as guests were attacked."
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "Fortunately, the number of attackers was small,<br>so we were able to respond ourselves.<br>The damage is also minor."
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "There was someone who was injured from<br>falling during the evacuation, but they are<br>currently being taken to the first aid booth."
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "...Other than that, to prevent panic,<br>we've only announced that it was<br>an accident that occurred during the event."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...H-Hey, Nessen-san.<br>That pavilion, could it be..."
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "It's 'Fortina Pavilion'.<br>We're also investigating the details, so we'll<br>share any information as soon as we find it."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "...Roger that.<br>If we find out anything on our end,<br>we'll let you know. Thanks."
+    },
+    {
+      "type": "narrator",
+      "text": "Nessen finishes his explanation.<br>A heavy silence falls over the<br>group who heard his words."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "........."
+        },
+        {
+          "text": "I'm just asking over concern..."
+        },
+        {
+          "text": "(Look at Sensettia and the others)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "W-We have no clue about this!<br>There was no talk on Anonymous<br>about attacking other pavilions..."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "In the first place,<br>if I had known that was the purpose,<br>I wouldn't have accepted such a request."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "What I should be etching into history is my<br>great achievements, not my evil deeds."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Hypothetically, if we were to conspire in an attack,<br>wouldn't we not publicize the guerrilla live shOW?<br>Since, that would be how suspicion ariSE."
+    },
+    {
+      "type": "narrator",
+      "text": "At the words of the three answering<br>one after another, Barrel and the rest<br>of the group smile in return."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "If I hadn't seen this pavilion,<br>I don't know what would have happened, but...<br>I believe in all of you~!!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "You guys must have been set up too.<br>When you want to hide something, the theory is to<br>distract with something else flashy."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I... believe you too.<br>That your feelings for the festival are genuine,<br>that you just want people to have fun."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Then it's decided!"
+        },
+        {
+          "text": "We have to find out the enemy's goal!"
+        },
+        {
+          "text": "First, let's organize the information."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "I cannot be certain, but the attacker is<br>probably a registered member of Anonymous,<br>and is related to this festivAL."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Probably.<br>The attack was at the same time as<br>the new guerrilla live show here."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "So you're saying they couldn't have planned it<br>unless they knew the internal information~.<br>Then, how do we find them~?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Barrel's words, Roudin's<br>face clouds over for a moment, and then<br>he continues with his usual expression."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "I don't exactly know,<br>but I have a feeling.<br>Hey, you three."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "If you could, do a quick search on Anonymous.<br>An attack like this, wouldn't there<br>some kind of warning or something?"
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "I don't really mind, but just a sec.<br>Um, GCE... Warning...<br>Ah, what's this!?"
+    },
+    {
+      "type": "narrator",
+      "text": "As Sensettia says, she displays<br>her device's screen, and there,<br>a single post was displayed."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "'I'm going to destroy the world of heroes.<br>First, I'll destroy GCE, where heroes<br>are acting as advertisements themselves.'"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "'And next, 'LIVE@HERO',<br>and everything that turns heroes into<br>entertainment, I'll destroy it all...', huh."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "It looks like people think it's a prank?<br>In fact, no one seems to<br>have reacted to this post."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Maybe so.<br>...But it might be true.<br>Let's share it, just in case?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "We need to share any information we have."
+        },
+        {
+          "text": "Roudin-san...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin (Stella Link)",
+              "avatar": "../char/event_roudin.png",
+              "text": "If it's just a prank, it would be great.<br>We need information right now, so there's no harm in sharing even trivial things, right?"
+            }
+          ]
+        },
+        {
+          "text": "Isn't it just a prank?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin (Stella Link)",
+              "avatar": "../char/event_roudin.png",
+              "text": "If it's just a prank, it would be great.<br>We need information right now, so there's no harm in sharing even trivial things, right?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At Roudin's words,<br>Barrel and Turbak also nod,<br>and each begins to act."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "No matter how small, it's still a clue...<br>I'll report it to the local police~!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I'll share this with the organizers...<br>the agency and the Archimedes Colony."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Oh, that's a big help.<br>After that... We need to decide what to do<br>about the exhibition match after this."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "...Damn.<br>Destroy everything, huh..."
+    }
+  ]
+  

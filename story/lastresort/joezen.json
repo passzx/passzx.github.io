@@ -1,0 +1,182 @@
+[
+  {
+    "type": "narrator",
+    "text": "On Enoshima Beach, basking in strong sunlight,<br>a voice called out to [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Hello, [Player]-san!<br>I saw you passing by, so I called out to you.<br>Was I bothering you?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Good work, Joezen-kun."
+      },
+      {
+        "text": "Are you done with the photoshoot already?",
+        "dialogue_after_selection": [
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Yes, the photoshoot reached a good stopping point just now, so I'm just taking a break."
+  }
+        ]
+      },
+      {
+        "text": "You're not bothering me at all.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Joezen",
+            "avatar": "../char/joezen.png",
+            "text": "Ehehe, that's good!<br>Actually, the photoshoot just reached a good stopping point, and I'm now on break."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "By the way, how does this swimsuit look on me!?<br>My father... the Captain found this<br>at a shop in Enoshima and bought it for me."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "It suits you very well.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Joezen",
+            "avatar": "../char/joezen.png",
+            "text": "Thank you very much!<br>I don't know much about fashion, so I'm relieved to hear you say that."
+          }
+        ]
+      },
+      {
+        "text": "I like it.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Joezen",
+            "avatar": "../char/joezen.png",
+            "text": "Thank god, I'm relieved!<br>I also like the design, so I'm glad you liked it too."
+          }
+        ]
+      },
+      {
+        "text": "Kiloc has good taste.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Joezen",
+            "avatar": "../char/joezen.png",
+            "text": "You think so too?<br>The Captain is really reliable when it comes to fashion and fun."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "...By the way, [Player]-san.<br>What is that you're holding in your hand?<br>I saw it at the souvenir shop."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "It's a local specialty sun oil."
+      },
+      {
+        "text": "I got it from Saotome-san."
+      },
+      {
+        "text": "(Hand over what you're holding to Joezen)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Is that sun oil?<br>It looks quite different<br>from Estebolta's."
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Oh~ so this is how it's sold in Enoshima.<br>It's made from Earth plants, huh.<br>The bottle is pretty lovely too!"
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "[Player]-san, if you don't mind,<br>can I use this sun oil too?"
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "What, you'll apply it for me!?<br>No, I can't possibly<br>be that spoiled!"
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Well, it's certainly difficult to apply to my own back,<br>but if it's not too much trouble,<br>can I ask you to do it for me?"
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Yes, I'm ready!<br>Well then, [Player]-san,<br>I'm counting on you."
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "...To be honest, I've only used sun oil<br>a handful of times until now.<br>Or rather, I haven't had the opportunity to."
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "So, being like this, it feels like<br>an event on a special day just for me...<br>Ehehe. I feel very happy!"
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Whoa—! Ahahahaha!<br>[Player]-san,<br>that tickles!?"
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "—Huh!? Sorry, I almost<br>fell asleep! Being caressed by<br>your hand feels so good..."
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] and Joezen enjoyed<br>their intimate time together."
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Thank you very much,<br>[Player]-san!<br>Now, it's my turn."
+  },
+  {
+    "type": "character",
+    "name": "Joezen",
+    "avatar": "../char/joezen.png",
+    "text": "Don't hold back on me,<br>because I'll definitely repay you<br>for all your help!"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/uenostation_fire.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Pillars of fire rise high into the sky.<br>The sirens of fire trucks echo."
+  },
+  {
+    "type": "narrator",
+    "text": "No matter how many countermeasures are taken,<br>there has never been a year without a fire."
+  },
+  {
+    "type": "narrator",
+    "text": "On this day too, the firefighters are working<br>desperately to extinguish a fiercely burning fire."
+  },
+  {
+    "type": "narrator",
+    "text": "As ashes blow up into the sky, a child's cry for help<br>leaks out from inside the building."
+  },
+  {
+    "type": "character",
+    "name": "Firefighter",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Ma'am, you can't...!<br>I understand how you feel, but it's too dangerous!!"
+  },
+  {
+    "type": "character",
+    "name": "Firefighter",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "...!!?<br>You, stop right there—!!"
+  },
+  {
+    "type": "narrator",
+    "text": "It was in the middle of a struggle, as the firefighters tried to stop<br>a civilian who was about to go back inside to help."
+  },
+  {
+    "type": "narrator",
+    "text": "Someone, with a light and elegant step,<br>stepped into the flames, as if it was a ballroom."
+  },
+  {
+    "type": "narrator",
+    "text": "Some time has passed since then.<br>Around the time the clock struck 24, the fire was finally extinguished."
+  },
+  {
+    "type": "narrator",
+    "text": "What happened to the child,<br>and the person who went to save them? At that moment—"
+  },
+  {
+    "type": "narrator",
+    "text": "Covered in ashes from head to toe, 'she' calmly made her appearance from the ruins.<br>Holding a child who had cried themselves to sleep—"
+  },
+  {
+    "type": "narrator",
+    "text": "After handing the child to their mother, 'she' tries to leave.<br>Leaving alone with the midnight bell, the figure looking like a 'cinder-covered' person—"
+  },
+  {
+    "type": "title",
+    "text": "Prologue"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/main13_guild.png"
+  },
+  {
+    "type": "narrator",
+    "text": "—Akihabara Fire Station.<br>It is also the base of operations for the city's youth fire brigade."
+  },
+  {
+    "type": "narrator",
+    "text": "Together with active firefighters, 'Firefighting Academy Students',<br>the local brigade members conduct their daily training."
+  },
+  {
+    "type": "narrator",
+    "text": "Tokyo Firefighting Academy is a unique academy in Tokyo—<br>While they are students, they are also active civil servants."
+  },
+  {
+    "type": "narrator",
+    "text": "Along with the Oniou Police Academy in the west,<br>they are a cornerstone in protecting the peace of this Tokyo."
+  },
+  {
+    "type": "narrator",
+    "text": "Among the elite firefighting academy students who have survived<br>the rigorous training in such a place and are honing their skills—"
+  },
+  {
+    "type": "narrator",
+    "text": "Two Transients were standing out from the crowd.<br>The next training is to climb a rope with only arm strength while carrying a sandbag."
+  },
+  {
+    "type": "character",
+    "name": "Elderly Female Firefighter?",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "—Here, a handicap. I'll climb with just one hand.<br>Are you ready, Reddy?"
+  },
+  {
+    "type": "character",
+    "name": "Wolf in Red Riding Hood?",
+    "avatar": "../char/housamo/red_hood.png",
+    "text": "Don't underestimate me, grandma. Today's the day I'll eat you up, alright?<br>Gurangatch, give us the signal!!"
+  },
+  {
+    "type": "character",
+    "name": "Elderly Female Firefighter?",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "I'm not the type to die just because I'm eaten, you know?<br>I'm the kind of woman who can survive even from inside your stomach."
+  },
+  {
+    "type": "character",
+    "name": "Elderly Female Firefighter?",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "But if you're prepared to follow me even<br>if it means you'd get covered in blood, then bring it on!"
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "Roger that~<br>Alright~, on your marks—"
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "..........<br>.........."
+  },
+  {
+    "type": "narrator",
+    "text": "Grangachi put the whistle in his mouth, and things went silent.<br>And then, with a sudden, sharp sound—"
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "Wow, you two are fast.<br>As expected of our fire chief and ace."
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "Captain Cinderella is even competing with one hand.<br>It's not like she has wings or anything... That's insane."
+  },
+  {
+    "type": "character",
+    "name": "Elderly Female Firefighter?",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "Phew, to keep up with me,<br>you must have trained a lot, haven't you, Reddy?"
+  },
+  {
+    "type": "character",
+    "name": "Little Red Riding Hood Wolf?",
+    "avatar": "../char/housamo/red_hood.png",
+    "text": "I'm happy that I can finally compete with a one-handed Sandra...<br>But I still have a long way to go."
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "That's amazing~.<br>I'm good at diving, but climbing is a different story—"
+  },
+  {
+    "type": "character",
+    "name": "Elderly Female Firefighter?",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "Then how about we train together?<br>I'll join you, Gurangatch."
+  },
+  {
+    "type": "character",
+    "name": "Little Red Riding Hood Wolf?",
+    "avatar": "../char/housamo/red_hood.png",
+    "text": "Sandra's training is honestly incredibly tough.<br>As long as you're not used to it, you'll feel like you've turned to ash, just like that of a manga—"
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "Uhh, that doesn't sound very nice...<br>Just watching is enough for me—"
+  },
+  {
+    "type": "character",
+    "name": "Ulaanbaatar",
+    "avatar": "../char/housamo/ulaanbaatar.png",
+    "text": "Yo, everyone!<br>It sure seems lively at my workplace today, isn't it?"
+  },
+  {
+    "type": "character",
+    "name": "Ulaanbaatar",
+    "avatar": "../char/housamo/ulaanbaatar.png",
+    "text": "Please don't be so surprised just because I came to training...<br>Is it perhaps because of my usual behavior?"
+  },
+  {
+    "type": "character",
+    "name": "Ulaanbaatar",
+    "avatar": "../char/housamo/ulaanbaatar.png",
+    "text": "But I did properly work today, alright?<br>Securing personnel for a recent busy security request...<br>And with that, an announcement for everyone."
+  },
+  {
+    "type": "character",
+    "name": "Ulaanbaatar",
+    "avatar": "../char/housamo/ulaanbaatar.png",
+    "text": "Together with my junior, Akiha-chan,<br>I've found some new help!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/main12_guild3.png"
+  },
+  {
+    "type": "narrator",
+    "text": "On a certain day in Tokyo,<br>where the sweltering heat still lingered."
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] visits a shared space in Akihabara<br>for a certain appointment."
+  },
+  {
+    "type": "character",
+    "name": "Akiha Gongen",
+    "avatar": "../char/housamo/akiha_gongen.png",
+    "text": "Yo, [Player]!<br>Here, here, thank you very much for coming."
+  },
+  {
+    "type": "character",
+    "name": "Akiha Gongen",
+    "avatar": "../char/housamo/akiha_gongen.png",
+    "text": "I've been asking you for a while,<br>but I'm really happy you're actually joining the fire brigade!"
+  },
+  {
+    "type": "choice",
+    "note": "branching paths<br>this will affect the immediate dialogue, plus ONE dialogue option down the line",
+    "options": [
+      {
+        "text": "<a href=\"prologue_a.html\", style=\"color:var(--background-light);\">Because you asked me to, Akiha."
+      },
+      {
+        "text": "<a href=\"prologue_a.html\", style=\"color:var(--background-light);\">I've been interested for a while."
+      },
+      {
+        "text": "<a href=\"prologue_b.html\", style=\"color:var(--background-light);\">I recently went through a fire myself."
+      }
+    ]
+  }
+]

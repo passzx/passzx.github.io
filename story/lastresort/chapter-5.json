@@ -1,0 +1,2332 @@
+[
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Someone...!<br>Someone, help...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Perhaps due to successive strong impacts from outside,<br>the spaceship door, whose lock had come undone,<br>wouldn't budge no matter how many times I hit it."
+    },
+    {
+      "type": "narrator",
+      "text": "From outside the door,<br>I could hear the screams of people<br>fleeing from the monsters that suddenly appeared in the city."
+    },
+    {
+      "type": "narrator",
+      "text": "I couldn't stop trembling,<br>thinking that a monster might attack<br>even while I was like this."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Ugh...<br>Get me out of here...<br>Please... I beg you..."
+    },
+    {
+      "type": "narrator",
+      "text": "I had screamed so many times that<br>my own throat was crushed, leaving me unable<br>to make a proper sound."
+    },
+    {
+      "type": "narrator",
+      "text": "It was dark and scary,<br>and I wanted to escape immediately,<br>but I couldn't find an exit anywhere."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Cough...<br>S-Someone..."
+    },
+    {
+      "type": "character",
+      "name": "Man's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "—Don't worry, kid.<br>I'll help you right away."
+    },
+    {
+      "type": "narrator",
+      "text": "The voice from beyond the door was a low one,<br>calmer than that would befit the critical situation."
+    },
+    {
+      "type": "character",
+      "name": "Man's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Because you didn't give up and kept knocking on the door,<br>I realized there was someone left behind."
+    },
+    {
+      "type": "character",
+      "name": "Man's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "—You must have been scared,<br>but you did well."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Ugh...<br>I-I... cough..."
+    },
+    {
+      "type": "narrator",
+      "text": "The moment I heard those words,<br>my eyes welled up with tears<br>for no apparent reason."
+    },
+    {
+      "type": "narrator",
+      "text": "My throat was choked with emotion,<br>and I couldn't even properly thank him."
+    },
+    {
+      "type": "narrator",
+      "text": "Even so, the person beyond the door<br>repeatedly encouraged me,<br>who could only sob."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "I'm a locksmith, you know.<br>Opening a door that's stuck shut<br>is child's play for me."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "Remember this, kid.<br>As long as you don't give up,<br>there's always an exit."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "An, exit..."
+    },
+    {
+      "type": "narrator",
+      "text": "The next moment,<br>a dull sound of something heavy being dragged was heard,<br>and the spaceship door opened slightly."
+    },
+    {
+      "type": "narrator",
+      "text": "In the dazzling light,<br>a powerfully built uncle<br>grinned at me."
+    },
+    {
+      "type": "narrator",
+      "text": "The moment I saw that smile,<br>I felt that I would be saved, I truly believed it."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "—See?<br>Just as I said,<br>it was over in an instant."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Cough, cough...<br>Th-Thank you..."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "It's too early to thank me.<br>Let's get out of here quickly."
+    },
+    {
+      "type": "narrator",
+      "text": "The person who held me under his arm<br>effortlessly leaped over the pile of rubble<br>and got on a motorcycle-like machine."
+    },
+    {
+      "type": "narrator",
+      "text": "And the next moment,<br>a strange floating sensation enveloped my entire body."
+    },
+    {
+      "type": "narrator",
+      "text": "—Before I even knew it,<br>I was already flying in the sky."
+    },
+    {
+      "type": "narrator",
+      "text": "At the edge of my vision,<br>the rubble collapsed and made a tremendous noise<br>around the area where I had been trapped just moments ago."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "—Phew.<br>That was a close call.<br>I owe my life to my \"partner\"."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "But it's not over yet.<br>We still have to help those left behind."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "I'm going to speed up a bit,<br>so hold on tight, kid!"
+    },
+    {
+      "type": "narrator",
+      "text": "From that day on,<br>he began to aim to become a locksmith."
+    },
+    {
+      "type": "narrator",
+      "text": "He traveled to Estebolta IV, where he heard his \"master\" lived,<br>and pressed his way into a locksmith shop in Estebolta—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "—Please!<br>Please take me as your apprentice!"
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "Oh dear...<br>I don't usually take apprentices, you know."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "If I do say so myself,<br>what would you do as a locksmith?"
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "For a young lad like you,<br>there must be more suitable jobs.<br>There's no need to be so fixated on being a locksmith..."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "I'm very happy for your advice,<br>but please, somehow, I beg you...!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "I really want to be a locksmith<br>like you—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "—I want to be a locksmith<br>who can offer a helping hand<br>to people who are trapped (in trouble)!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Just like how you rescued<br>me from that dark place!"
+    },
+    {
+      "type": "narrator",
+      "text": "His master shrugged, then<br>reluctantly opened his mouth again."
+    },
+    {
+      "type": "character",
+      "name": "Locksmith Man",
+      "avatar": "../char/placeholder.png",
+      "text": "...Kid.<br>What's your name?"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "I'm Yohack!<br>Yohack Raniranza (ヨハック・ラニランザ),<br>from Clouge!"
+    },
+    {
+      "type": "narrator",
+      "text": "—And so,<br>after becoming an apprentice to my master,<br>I aimed to become a full-fledged locksmith."
+    },
+    {
+      "type": "narrator",
+      "text": "Just like my master saved me,<br>I wanted to help people who were stuck without an exit.<br>But—"
+    },
+    {
+      "type": "narrator",
+      "text": "—No matter how much trouble they're in,<br>some people don't ask for help.<br>Some people keep everything to themselves."
+    },
+    {
+      "type": "narrator",
+      "text": "In such times,<br>what should I do?<br>What can I do for them?"
+    },
+    {
+      "type": "title",
+      "text": "Chapter 5:<br> Selfish Kindness"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "N-No way...<br>Enoshiman, along with the monsters..."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Am I having<br>a bad dream...?"
+    },
+    {
+      "type": "narrator",
+      "text": "The monsters that attacked Enoshima Village<br>had already vanished without a trace."
+    },
+    {
+      "type": "narrator",
+      "text": "And Enoshiman, who unleashed a powerful blow<br>to defeat the monsters,<br>was nowhere to be found."
+    },
+    {
+      "type": "character",
+      "name": "Enoshiman",
+      "avatar": "../char/enoshiman.png",
+      "text": "Yohack-kun.<br>I sincerely respect your kindness and positivity."
+    },
+    {
+      "type": "character",
+      "name": "Enoshiman",
+      "avatar": "../char/enoshiman.png",
+      "text": "You are not ignorant of pain,<br>but a hero with the strength to endure it.<br>Fighting alongside you, I truly felt that."
+    },
+    {
+      "type": "character",
+      "name": "Enoshiman",
+      "avatar": "../char/enoshiman.png",
+      "text": "Astar-kun.<br>Your unwavering will and strong body<br>are surely the fruits of tireless effort."
+    },
+    {
+      "type": "character",
+      "name": "Enoshiman",
+      "avatar": "../char/enoshiman.png",
+      "text": "I am proud to have fought alongside you,<br>who possess a will to push forward towards your goal<br>and an unshakeable conviction."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Enoshiman-san protected us<br>and used that technique—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "It's almost like<br>a farewell greeting...!"
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "He must have wanted to protect them.<br>Something important to him—<br>the people of Enoshima."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "And, even us who<br>fought alongside him..."
+    },
+    {
+      "type": "narrator",
+      "text": "Astar and Yohack's lament<br>was drowned out by Saotome's sorrowful wail."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "It's my...!<br>It's all my fault...!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack and Astar couldn't hide their shock<br>at the tragic sight and abrupt ending.<br>However—"
+    },
+    {
+      "type": "narrator",
+      "text": "Seeing Saotome repeatedly slamming his tightly clenched fist<br>onto the ground, the heroes regained their composure<br>and called out to him."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...Saotome.<br>Don't blame yourself alone."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "It's also our fault that<br>we let Enoshiman use such a technique."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "If only we had defeated<br>the monsters sooner..."
+    },
+    {
+      "type": "narrator",
+      "text": "Knowing that the monsters were defeated,<br>the children rushed over."
+    },
+    {
+      "type": "character",
+      "name": "Island Kid",
+      "avatar": "../char/placeholder.png",
+      "text": "Hey, where did<br>Enoshiman go off to?"
+    },
+    {
+      "type": "character",
+      "name": "Island Kid",
+      "avatar": "../char/placeholder.png",
+      "text": "Enoshiman!<br>Show us your victory pose!"
+    },
+    {
+      "type": "character",
+      "name": "Island Kid",
+      "avatar": "../char/placeholder.png",
+      "text": "When we call him,<br>he usually comes right away..."
+    },
+    {
+      "type": "narrator",
+      "text": "Their calls echoed emptily into the void,<br>forcing the children to face the fact<br>that Enoshiman was no longer there."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...[Player].<br>Can you still observe Enoshiman?"
+    },
+    {
+      "type": "narrator",
+      "text": "Receiving Astar's gaze,<br>[Player] checked their device.<br>The screen displayed \"Connection Lost\"."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "There's no reaction from the device..."
+        },
+        {
+          "text": "No way, Enoshiman wouldn't...!"
+        },
+        {
+          "text": "(Simply shake your head)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "In other words...<br>Enoshiman is already..."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "...It's too early to give up!<br>Enoshiman-san shouldn't have been<br>eaten by a monster."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Because if he had been eaten,<br>Enoshiman-san's name wouldn't be coming<br>from the villagers' mouths...!"
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...His strength is guaranteed.<br>He wouldn't fall so easily."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "Believing that Enoshiman is alive,<br>we can only do what we can now."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "Evacuation of villagers and tourists,<br>and monster patrol will also be necessary.<br>This is not the time to stand still."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "I-I see...<br>You're right..."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "...Everyone is right.<br>For the sake of everyone in Enoshima,<br>I can't be disheartened."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Anyway, let's think about what's next—<br>No, ensuring everyone's safety comes first."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "I don't see Shiratori-kun, but<br>he must be moving nearby too.<br>Once we meet up, we need to think about the next step."
+    },
+    {
+      "type": "narrator",
+      "text": "Saotome, with a grim expression contrary to his words,<br>gritted his teeth and stood up,<br>then began issuing evacuation instructions to the villagers."
+    },
+    {
+      "type": "narrator",
+      "text": "And, as [Player] and the others<br>were guiding the villagers to safety,<br>Alend and the others returned to the village."
+    },
+    {
+      "type": "narrator",
+      "text": "They were leading the tourists and villagers<br>who had been playing on the beach."
+    },
+    {
+      "type": "character",
+      "name": "Alend",
+      "avatar": "../char/alend.png",
+      "text": "[Player]...<br>Sorry for being late.<br>We were held up by the monsters."
+    },
+    {
+      "type": "character",
+      "name": "Senthak",
+      "avatar": "../char/senthak.png",
+      "text": "Sorry, [Player]-kun.<br>If we had rushed here sooner..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Good work on your end too."
+        },
+        {
+          "text": "I'm glad everyone is safe..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Joezen",
+      "avatar": "../char/joezen.png",
+      "text": "[Player]-san...<br>I heard the report. Many large monsters<br>appeared, and then... that..."
+    },
+    {
+      "type": "character",
+      "name": "Kiloc",
+      "avatar": "../char/kiloc.png",
+      "text": "...Joezen, take a deep breath.<br>It's not decided yet.<br>We can't afford to be flustered."
+    },
+    {
+      "type": "character",
+      "name": "Kiloc",
+      "avatar": "../char/kiloc.png",
+      "text": "However... in this chaotic situation,<br>to protect the villagers with such a small number of people.<br>As expected of you, [Player]-chan."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I only observed."
+        },
+        {
+          "text": "It's thanks to Enoshiman."
+        },
+        {
+          "text": "It's because everyone did their best."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Hearing the name Enoshiman,<br>the heroes wore solemn expressions."
+    },
+    {
+      "type": "character",
+      "name": "Kiloc",
+      "avatar": "../char/kiloc.png",
+      "text": "...Ah, I heard from Yohack.<br>Enoshiman, he's still missing, right?"
+    },
+    {
+      "type": "character",
+      "name": "Joezen",
+      "avatar": "../char/joezen.png",
+      "text": "Enoshiman-san...<br>I hope he's safe."
+    },
+    {
+      "type": "narrator",
+      "text": "The heroes, who had reassembled in the village,<br>continued to be vigilant against monsters<br>and gathered the villagers and tourists in one place."
+    },
+    {
+      "type": "narrator",
+      "text": "Avoiding the buildings collapsed by monsters,<br>they headed to the village office,<br>which had suffered minor damage."
+    },
+    {
+      "type": "narrator",
+      "text": "And, by the time the evacuation was settled,<br>it had become completely dark."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Everyone, thank you for working hard<br>until this late hour."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "If EnoRail could operate,<br>we could have evacuated the tourists, but<br>in this situation..."
+    },
+    {
+      "type": "narrator",
+      "text": "EnoRail had suspended operations,<br>as the extent of the monster damage<br>was unknown."
+    },
+    {
+      "type": "narrator",
+      "text": "Saotome announced the situation,<br>looking apologetic."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "And, I'm truly sorry.<br>Because I did something unnecessary,<br>it ended up in a terrible commotion."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Far from revitalizing Enoshima,<br>I've brought about a result<br>that's almost the worst possible..."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "My own wish has<br>hurt many people...<br>And then..."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...I don't think your struggle<br>to fulfill your wish is unnecessary."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "It's not unnecessary at all.<br>Saotome-san, you've worked hard<br>for your precious hometown..."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Saotome-san, it is out of your own<br>kindness to desire for everyone in the<br>village to live happily, isn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "...Even if that's true,<br>the result is undeniably this."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Besides, it would be a lie if I said that<br>there was no ego in my desire to<br>make Enoshima enjoyable."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "That ego...<br>That is what have caused<br>Enoshiman to go missing."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Saotome-san..."
+        },
+        {
+          "text": "Enoshiman..."
+        },
+        {
+          "text": "(Remember what happened at the village office)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Shiratori",
+      "avatar": "../char/shiratori.png",
+      "text": "It pains me greatly to ask this<br>right after meeting you, but..."
+    },
+    {
+      "type": "character",
+      "name": "Shiratori",
+      "avatar": "../char/shiratori.png",
+      "text": "Please, could you keep my true identity<br>a secret...?"
+    },
+    {
+      "type": "character",
+      "name": "Shiratori",
+      "avatar": "../char/shiratori.png",
+      "text": "If it's known that a plain person like me<br>is Enoshiman, the children's dreams<br>might be shattered..."
+    },
+    {
+      "type": "character",
+      "name": "Shiratori",
+      "avatar": "../char/shiratori.png",
+      "text": "...Therefore,<br>I would like you to think of me<br>as just \"Shiratori\"."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Let's believe that he's still alive.",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Even after hearing [Player]'s words,<br>Saotome's expression didn't brighten."
+            }
+          ]
+        },
+        {
+          "text": "Actually... Enoshiman is—",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Just before [Player] spoke,<br>Yohack encouraged Saotome."
+            }
+          ]
+        },
+        {
+          "text": "(Keep silent about Shiratori)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "It's alright, Saotome-san!<br>We will definitely rescue<br>Enoshiman-san!"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "No, Yohack-kun.<br>I appreciate the sentiment, but..."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "I don't want to involve you all any further.<br>Please don't overexert yourselves."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "I don't want anyone else<br>to be sacrificed for Enoshima."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Saotome-san...<br>..........."
+    },
+    {
+      "type": "narrator",
+      "text": "Some time later,<br>[Player] visited a makeshift<br>temporary clinic."
+    },
+    {
+      "type": "narrator",
+      "text": "From the brutally destroyed village clinic,<br>the barely salvaged medical equipment was gathered<br>in a corner of the village office."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "—Ah!<br>[Player]-san!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Are your injuries alright?"
+        },
+        {
+          "text": "Good work, Yohack-san."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Could it be that you came to check on me<br>because you were worried?<br>Thank you!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "I've also received treatment,<br>so I'm completely fine now!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Even if monsters appear again,<br>I can fight perfectly!"
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack, who said that and<br>acted cheerfully as usual—"
+    },
+    {
+      "type": "narrator",
+      "text": "—That cheerfulness, on the contrary,<br>created an indescribable sense of unease.<br>[Player] sensed it."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yohack-san..."
+        },
+        {
+          "text": "Are you overexerting yourself?"
+        },
+        {
+          "text": "You're trying too hard..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Ahaha...<br>It seems that I cannot deceive<br>your eyes after all, [Player]-san."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Precisely because it's a time like this,<br>I, as a hero, must be smiling."
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack scratched his cheek,<br>with a troubled smile."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, after a moment of hesitation,<br>he slowly began to speak."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "It might sound strange coming from me, but<br>for Enoshima now that Enoshiman-san is gone..."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "I think \"we\" are the<br>last remaining support."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "But if I'm feeling down,<br>it will surely make everyone anxious.<br>...I don't want to do that."
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack's expression as he looked down,<br>was tinged with definite sorrow."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I think you're very admirable, but...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yohack",
+              "avatar": "../char/yohack.png",
+              "text": "That's not true.<br>That's what I wanted myself to be, but I'm not actually doing anything to fulfill it."
+            }
+          ]
+        },
+        {
+          "text": "Yohack-san, you'll break down.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yohack",
+              "avatar": "../char/yohack.png",
+              "text": "Thank you for your concern.<br>But, as a hero, I can't be like this..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] witnessed Yohack,<br>who rarely showed weakness."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Smile at Yohack)",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "[Player] faced the depressed Yohack and gave him a smile."
+            }
+        ]
+        },
+        {
+          "text": "(Encourage Yohack awkwardly)",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Choosing their words carefully, [Player] smiled at Yohack."
+            }
+          ]
+        },
+        {
+          "text": "(Slap Yohack's back)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yohack",
+              "avatar": "../char/yohack.png",
+              "text": "Whoa—!<br>What are you doing!?"
+            },
+            {
+              "type": "narrator",
+              "text": "[Player] smiled at Yohack,<br>who looked at them in surprise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "It was a declaration of intent to fulfill<br>the mission of an \"Observer\",<br>who supports heroes."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Let's overcome this together."
+        },
+        {
+          "text": "Everything will surely be alright!"
+        },
+        {
+          "text": "I'll fight beside you too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "[Player]-san...!"
+    },
+    {
+      "type": "narrator",
+      "text": "The sight of [Player] reaching out to him in his suffering,<br>overlapped with the image of the hero Yohack himself aspired to be."
+    },
+    {
+      "type": "narrator",
+      "text": "His words, observing the path to realizing his wish<br>and trying to walk it together, shone a light<br>into Yohack's soft heart."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "...As expected,<br>[Player]-san, you are amazing."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "With you, I'm sure, that no matter how<br>thick the wall can be, we'll overcome it together!<br>That's what I'm feeling!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I haven't done anything yet, though."
+        },
+        {
+          "text": "I'm glad you feel better."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Ehehe...<br>Thank you.<br>[Player]-san."
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack, as if making up his mind,<br>opened his mouth towards [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "[Player]-san.<br>Will you listen to my story?"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "[Player]-san,<br>there's something I really want to consult with you,<br>for you who have always supported me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course."
+        },
+        {
+          "text": "I'll listen to you as much as you like!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Ehehe. [Player]-san,<br>I thought you'd say that,<br>so I was a bit selfish."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Well then, since we're here,<br>why don't we go outside?<br>I want to do a patrol too."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] nodded, and followed Yohack<br>out of the makeshift clinic."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "...Right now, I think Saotome-san<br>is having the hardest time."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Saotome-san will surely say<br>that's not true, but-"
+    },
+    {
+      "type": "narrator",
+      "text": "As Yohack said that,<br>he casually looked around<br>to check if the subject of their conversation was nearby."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Is he being considerate of Saotome-san?)"
+        },
+        {
+          "text": "(Did he not want this conversation to be overheard?)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "He's taking on the burden of the monsters<br>and Enoshiman-san's disappearance,<br>thinking it's all his fault."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Even though that's not true,<br>I want him to rely on others,<br>but he's trying to handle everything by himself."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "—I really want to help such people,<br>people who are stuck without an exit."
+    },
+    {
+      "type": "narrator",
+      "text": "Hearing Yohack's earnest words,<br>[Player] remembered a certain person."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Could that be...?"
+        },
+        {
+          "text": "Are you talking about Astosis-san...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Astosis-san at that time<br>was carrying the problems happening<br>in Clouge all by himself."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "...I think<br>I understand."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Astosis-san didn't think<br>I was unreliable or that he didn't like me."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "Rather, precisely because he cared<br>for me as a childhood friend,<br>that he acted alone."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack_b.png",
+      "text": "But—"
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack's eyes welled up with tears,<br>and he clenched his fist tightly."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Even so, I wanted to be<br>of more help to Astosis-san.<br>I wanted him to rely on me from the start."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "I wanted to take on even a small part<br>of Astosis-san's painful feelings."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "—Is it still selfish<br>to think that way?"
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack, who usually behaved brightly and bravely,<br>and encouraged his comrades, now showed<br>a gloomy expression he rarely displayed."
+    },
+    {
+      "type": "narrator",
+      "text": "Witnessing that,<br>[Player] thought."
+    },
+    {
+      "type": "narrator",
+      "text": "What words should they say to Yohack,<br>who still wanted to help someone who wasn't asking for it,<br>someone who was suffering alone."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Even so...!"
+        },
+        {
+          "text": "It's okay to be selfish, isn't it?"
+        },
+        {
+          "text": "Because you really want to help, don't you?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "[Player]-san...?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Do what you want..."
+        },
+        {
+          "text": "If they say it's a nuisance..."
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'll apologize with you."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "[Player]-san...<br>With me...?"
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack took [Player]'s words<br>with surprise."
+    },
+    {
+      "type": "narrator",
+      "text": "Even if they're bothered, he'll help because he wants to.<br>And he'll accept the consequences together—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "I never thought of that.<br>To push through my own selfishness..."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "But, that's right.<br>Even if helping causes trouble,<br>that's not the end of it."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Even so, if we stand up again,<br>and solve the next problem—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "If we do it together, it's surely possible."
+        },
+        {
+          "text": "That's the spirit, Yohack-san!"
+        },
+        {
+          "text": "We'll just have to take responsibility until the end!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Ehehe! I completely understand!<br>If we help beyond the point of being a nuisance,<br>everything will be resolved!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Then, instead of brooding here,<br>I'll go for it with a \"nothing ventured, nothing gained\" spirit...!<br>I'll give it my all!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Because that's the kind<br>of locksmith I wanted to be!"
+    },
+    {
+      "type": "narrator",
+      "text": "Immediately after Yohack declared that,<br>[Player]'s device emitted a red light.<br>It was a faint glow of new possibilities."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "This light is...!"
+        },
+        {
+          "text": "Could it be...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Eh, what's wrong, [Player]-san—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "—Huh, what's this light!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "We might be able to give shape to your wish, Yohack-san."
+        },
+        {
+          "text": "I think I can help you do what you want even more now."
+        },
+        {
+          "text": "I saw the same light back in Clouge.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yohack",
+              "avatar": "../char/yohack.png",
+              "text": "I remembered too!<br>It's the same light as Nessen-san's back then...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The red flash gradually faded.<br>However, [Player] clearly observed<br>the outline of the path."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "When the time calls for it, I can surely approve it."
+        },
+        {
+          "text": "I'll give shape to your wish, Yohack-san."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Thank you...<br>It's incredibly reassuring...!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "It's truly good that<br>you are here with me, [Player]-san."
+    },
+    {
+      "type": "narrator",
+      "text": "A ray of light shone through a desperate situation.<br>The two, witnessing it—"
+    },
+    {
+      "type": "narrator",
+      "text": "—Renewed their resolve to help Enoshima Village,<br>and by extension, Saotome."
+    },
+    {
+      "type": "narrator",
+      "text": "And, the next morning, which they were able to greet safely,<br>without the feared appearance of monsters."
+    },
+    {
+      "type": "narrator",
+      "text": "With no prospect of EnoRail resuming operation,<br>and tourist evacuation seemingly difficult,<br>[Player] and the others began to act."
+    },
+    {
+      "type": "narrator",
+      "text": "To cover a wide area of the village and ensure safety,<br>the heroes split into three teams<br>and patrolled Enoshima Village."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "Since then, the appearance of monsters<br>has calmed down, but<br>we can't let our guard down."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "That's right...!<br>To protect everyone in the village,<br>we have to do our best!"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Astar-kun,<br>Yohack-kun...<br>Actually—"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "(I haven't seen Shiratori-kun since yesterday,<br>but... I don't want to overwork<br>the heroes any more than this.)"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "(I'll manage the villagers myself.<br>I'll surely find him.)"
+    },
+    {
+      "type": "narrator",
+      "text": "Saotome, looking troubled, swallowed the words<br>that were about to spill out, and tried to act<br>as if nothing was wrong."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "—Everyone in the village was grateful to you.<br>Thank you very much,<br>Astar-kun, Yohack-kun."
+    },
+    {
+      "type": "narrator",
+      "text": "And, a few hours after<br>starting their patrol."
+    },
+    {
+      "type": "character",
+      "name": "Kiloc",
+      "avatar": "../char/kiloc.png",
+      "text": "[Player]-chan!<br>We have some troublesome guests here,<br>so I'm just letting you know!"
+    },
+    {
+      "type": "character",
+      "name": "Joezen",
+      "avatar": "../char/joezen.png",
+      "text": "It's a manageable number for me and Captain,<br>but please be careful on your end too!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "They finally appeared...!"
+        },
+        {
+          "text": "Don't overdo it!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As [Player] was about to rush to Kiloc's aid,<br>a message came in from Alend."
+    },
+    {
+      "type": "character",
+      "name": "Alend",
+      "avatar": "../char/alend.png",
+      "text": "Monsters have appeared on the west side of the village.<br>We'll deal with them now, but<br>are things alright on your end?"
+    },
+    {
+      "type": "character",
+      "name": "Senthak",
+      "avatar": "../char/senthak.png",
+      "text": "We'll take care of things here!<br>Judging from yesterday, monsters<br>might appear on your side too!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Understood!"
+        },
+        {
+          "text": "You two, be careful!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "This is bad...!<br>To think they'd all appear at once!"
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "We should be vigilant too.<br>[Player], tell me immediately if you feel<br>the presence of monsters."
+    },
+    {
+      "type": "narrator",
+      "text": "Receiving Astar's words,<br>[Player] sharpened their senses."
+    },
+    {
+      "type": "narrator",
+      "text": "And [Player] felt a faint premonition<br>in the center of the village."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Let's head to the center of the village!"
+        },
+        {
+          "text": "If monsters appear, surely...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Receiving [Player]'s words,<br>the group moved at full speed to the center of the village."
+    },
+    {
+      "type": "narrator",
+      "text": "And, shortly after their arrival,<br>monsters appeared from the void."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "We barely made it!<br>Now, we'll protect<br>everyone in the village!"
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "[Player]...!<br>I'm counting on your observation!"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Everyone,<br>don't overexert yourselves..."
+    },
+    {
+      "type": "character",
+      "name": "Kiloc",
+      "avatar": "../char/kiloc.png",
+      "text": "Monsters appearing northwest!<br>Joezen, stop them!"
+    },
+    {
+      "type": "character",
+      "name": "Joezen",
+      "avatar": "../char/joezen.png",
+      "text": "Understood, Captain!<br>I won't let them go any further!<br>Take this!"
+    },
+    {
+      "type": "narrator",
+      "text": "The gust of wind raised by Joezen<br>stopped the monsters' advance."
+    },
+    {
+      "type": "character",
+      "name": "Kiloc",
+      "avatar": "../char/kiloc.png",
+      "text": "Good, Joezen!<br>Leave the finishing blow to me!"
+    },
+    {
+      "type": "character",
+      "name": "Alend",
+      "avatar": "../char/alend.png",
+      "text": "No entry beyond this point.<br>Sorry, but please leave!"
+    },
+    {
+      "type": "character",
+      "name": "Senthak",
+      "avatar": "../char/senthak.png",
+      "text": "Alright!<br>I'll wipe them all out!"
+    },
+    {
+      "type": "narrator",
+      "text": "Senthak threw a hologram<br>towards the monsters, who were blocked by<br>the translucent wall created by Alend."
+    },
+    {
+      "type": "narrator",
+      "text": "The monsters seemed to have been annihilated<br>by the exploding hologram, but—"
+    },
+    {
+      "type": "character",
+      "name": "Senthak",
+      "avatar": "../char/senthak.png",
+      "text": "Whoa, a second wave just came!<br>At this rate, we'll never<br>be able to go help!"
+    },
+    {
+      "type": "character",
+      "name": "Alend",
+      "avatar": "../char/alend.png",
+      "text": "Calm down, Senthak.<br>We can't solve everything at once,<br>so let's finish the tasks in front of us first."
+    },
+    {
+      "type": "character",
+      "name": "Senthak",
+      "avatar": "../char/senthak.png",
+      "text": "Th-That's true, but...<br>...Everyone, please be safe."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Ugh...!<br>There's no end to defeating them!"
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "Is this what they call overwhelming numbers?<br>It's quite a tough situation, but..."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "Alend and the others are also fighting back.<br>We have to deal with this by ourselves...!"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "...Am I again<br>only able to watch<br>the heroes get hurt?"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and the others, who were fighting back<br>while protecting the buildings,<br>were having a very hard time."
+    },
+    {
+      "type": "character",
+      "name": "Monster",
+      "avatar": "../char/placeholder.png",
+      "text": "Guoooooh!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "They're really tough!"
+        },
+        {
+          "text": "It's hard to fight inside the village..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The gradually accumulating fatigue and damage<br>were hindering the heroes' movements."
+    },
+    {
+      "type": "narrator",
+      "text": "Taking advantage of that opening,<br>an matured monster gradually approached<br>the village office—"
+    },
+    {
+      "type": "narrator",
+      "text": "—The building where the villagers and tourists<br>were evacuated to."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "That alone...!"
+    },
+    {
+      "type": "narrator",
+      "text": "At that moment,<br>Saotome moved faster than anyone else."
+    },
+    {
+      "type": "narrator",
+      "text": "He pulled out a flag—the flag Shiratori had been carrying—<br>from among the flags erected throughout the village,<br>and ran towards the monster, swinging it around."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "That alone is unacceptable...!<br>No one else will be harmed by monsters...!"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Yuto, the villagers,<br>and the heroes too!<br>I won't let you hurt them anymore!"
+    },
+    {
+      "type": "narrator",
+      "text": "A dark shadow, akin to resignation,<br>appeared on Saotome's face."
+    },
+    {
+      "type": "narrator",
+      "text": "Astar recognized<br>that expression."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "He's like me back then,<br>and Monomasa back then."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "[Player]!<br>We have to stop Saotome!"
+    },
+    {
+      "type": "narrator",
+      "text": "Astar's voice, as he clenched his fist<br>and shouted, was tinged with<br>agitation and impatience."
+    },
+    {
+      "type": "narrator",
+      "text": "Hearing that voice,<br>[Player] nodded greatly."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Understood, Astar!"
+        },
+        {
+          "text": "Let's help Saotome-san!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Saotome, who had rushed to the front lines,<br>shouted loudly while swinging the flag."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "If it's people that you wanted to eat so much,<br>then go for me first!<br>Come on, come this way!"
+    },
+    {
+      "type": "narrator",
+      "text": "Saotome swung the flag widely,<br>attracting the monster's attention, and<br>ran towards the outskirts of the village."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "If I can lure them outside the village,<br>it'll be a bit easier to fight!"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "I can't just stand by<br>and watch you all get hurt<br>anymore!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Saotome-san!<br>That's reckless!"
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...It's useless, Yohack.<br>He's already made up his mind."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "More precisely,<br>he can't find any other options."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "He believes that he can only fulfill<br>his responsibility by sacrificing himself."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "I know what kind of actions<br>someone who believes that will take."
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Saotome-san...!<br>With such a sad feeling,<br>he's carrying everything alone...!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "I don't want anyone else<br>to feel that way anymore...!"
+    },
+    {
+      "type": "narrator",
+      "text": "—The moment Yohack muttered that,<br>[Player]'s device reacted, and<br>a red flash ran across it again."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That path from before, it's stronger...!"
+        },
+        {
+          "text": "Yohack-san, it's reacting to your wish...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Please, [Player]-san!<br>Give me the power to save Saotome-san!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "Even if Saotome-san doesn't ask me for help,<br>even if he doesn't want to be helped—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "—I want to push through with my selfishness!<br>Putting everything I can into it!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "If we get scolded, we'll apologize together!"
+        },
+        {
+          "text": "We made a promise, Yohack-san!"
+        },
+        {
+          "text": "Approve transformation!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Mobile Device",
+      "avatar": "../char/placeholder.png",
+      "text": "—Connect to path?<br>To start operation,<br>tap \"OK\"."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "OK"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] pulled Yohack's wish<br>from the parallel universe.<br>And, a dazzling red light enveloped the surroundings—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "This is the form<br>of my other wish...!"
+    },
+    {
+      "type": "narrator",
+      "text": "When the light subsided,<br>Yohack stood, clad in a lifeguard-like suit."
+    },
+    {
+      "type": "narrator",
+      "text": "Behind him,<br>a Parallel Weapon shaped<br>like a jet ski floated."
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "This is what Master<br>rode back then...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Flickering in Yohack's mind was the motorcycle-like<br>vehicle his master rode when he rescued him,<br>soaring through the air."
+    },
+    {
+      "type": "narrator",
+      "text": "However, the Parallel Weapon's shape<br>also resembled the jet ski he rode<br>in Enoshima."
+    },
+    {
+      "type": "narrator",
+      "text": "Witnessing that sight,<br>Astar remembered."
+    },
+    {
+      "type": "narrator",
+      "text": "How new Santas<br>gained new forms on Christmas night."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "A new interpretation of a dream's form,<br>observed by [Player]...!"
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...I see.<br>To think it was a \"sleigh\"."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're looking great, Yohack-san!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Yohack (Last Resort)",
+              "avatar": "../char/event_yohack.png",
+              "text": "Ehehe!<br>When you praise me, I feel a bit embarrassed, but..."
+            },
+            {
+              "type": "character",
+              "name": "Yohack (Last Resort)",
+              "avatar": "../char/event_yohack.png",
+              "text": "More than that, I feel like I can try even harder!"
+            }
+          ]
+        },
+        {
+          "text": "A jet ski Parallel Weapon?"
+        },
+        {
+          "text": "Yohack-san, this is the form of your dream...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "[Player]-san!<br>Thank you!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "With this power observed by [Player]-san,<br>I will rescue Saotome-san!"
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack, having declared himself,<br>straddled the jet ski-shaped<br>Parallel Weapon."
+    },
+    {
+      "type": "narrator",
+      "text": "And, accelerating to full throttle,<br>he flew straight towards Saotome,<br>who was about to be caught by the monsters—"
+    },
+    {
+      "type": "narrator",
+      "text": "—Ignoring rock walls and houses,<br>he flew in a straight line, literally."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Go around, Yohack-san!"
+        },
+        {
+          "text": "You'll crash at this rate!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "There's no need for that!<br>Because if this is the form of my wish—"
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "I should be able to reach<br>beyond any wall!"
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "So, [Player]-san!<br>Please believe in me!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Understood, Yohack-san!"
+        },
+        {
+          "text": "Receive my ViewPower!"
+        },
+        {
+          "text": "...I-I'll believe you!?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack, receiving ViewPower from [Player],<br>charged forward, his jet ski glowing."
+    },
+    {
+      "type": "narrator",
+      "text": "And, splashing water as he went,<br>he broke through all obstacles."
+    },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "\"Unlocking\"!<br>Omnes Exitus!"
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Saotome-san!<br>It's alright now!<br>I will definitely save you!"
+      },
+      {
+        "type": "narrator",
+        "text": "Yohack extended his hand to Saotome,<br>with the brightest smile he could muster."
+      },
+      {
+        "type": "narrator",
+        "text": "Just as his Master, and [Player],<br>had smiled to encourage him."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Come on, Saotome-san!<br>Reach out your hand!"
+      },
+      {
+        "type": "character",
+        "name": "Saotome",
+        "avatar": "../char/saotome.png",
+        "text": "Y-Yohack-kun...!"
+      },
+      {
+        "type": "narrator",
+        "text": "Yohack firmly grasped<br>Saotome's outstretched arm."
+      },
+      {
+        "type": "narrator",
+        "text": "He then put Saotome on his back,<br>and returned to [Player]'s side<br>while dodging the monster's attacks."
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "He made it in time...!"
+          },
+          {
+            "text": "He phased through the wall!?"
+          },
+          {
+            "text": "You're amazing, Yohack-san!"
+          }
+        ]
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Ehehe!<br>The moment I gripped the handle,<br>I somehow understood."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "If there's anything in the way of helping someone,<br>I can surely break through it!"
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "...[Player]-san made<br>me believe that."
+      },
+      {
+        "type": "narrator",
+        "text": "And, he set Saotome down<br>next to [Player]."
+      },
+      {
+        "type": "character",
+        "name": "Saotome",
+        "avatar": "../char/saotome.png",
+        "text": "...Yohack-kun.<br>I, if it's for everyone's sake,<br>it doesn't matter what happens to me—"
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "—Saotome-san.<br>To sacrifice yourself excessively,<br>that is not atonement."
+      },
+      {
+        "type": "character",
+        "name": "Astar",
+        "avatar": "../char/astar.png",
+        "text": "You yourself should already know what<br>those who were left behind will feel,<br>you can't possibly not know."
+      },
+      {
+        "type": "character",
+        "name": "Astar",
+        "avatar": "../char/astar.png",
+        "text": "Are you planning to make Yuto and the villagers<br>experience the same feelings?"
+      },
+      {
+        "type": "character",
+        "name": "Saotome",
+        "avatar": "../char/saotome.png",
+        "text": "To those left behind...<br>I..."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Enoshiman-san<br>fought monsters because he<br>wanted to protect you all."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "And yet,<br>Saotome-san, if you were to be<br>eaten by a monster in this way..."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "This time, we would truly<br>never see Enoshiman-san<br>again, wouldn't we?"
+      },
+      {
+        "type": "character",
+        "name": "Saotome",
+        "avatar": "../char/saotome.png",
+        "text": "Yohack-kun...<br>You're... right..."
+      },
+      {
+        "type": "character",
+        "name": "Astar",
+        "avatar": "../char/astar.png",
+        "text": "Do you understand, Saotome?<br>Whether you act recklessly or not,<br>we will help you."
+      },
+      {
+        "type": "character",
+        "name": "Astar",
+        "avatar": "../char/astar.png",
+        "text": "We could have always cooperated from the start.<br>Because, after all, we are a team<br>that pulls the same sleigh."
+      },
+      {
+        "type": "character",
+        "name": "Saotome",
+        "avatar": "../char/saotome.png",
+        "text": "Astar-kun...<br>You all, truly..."
+      },
+      {
+        "type": "character",
+        "name": "Astar",
+        "avatar": "../char/astar.png",
+        "text": "...The rest of the reflection session can wait.<br>Now, we must focus on<br>removing the obstacle before us."
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "That's right."
+          },
+          {
+            "text": "Let's defeat the monsters!"
+          },
+          {
+            "text": "Resuming operation!"
+          }
+        ]
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Understood, [Player]-san!<br>I'll take everyone to the exit of this battle<br>at full speed!"
+      },
+      {
+        "type": "title",
+        "text": "Battle Start"
+      },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "Now, let's end this!<br>\"Unlock\"!<br>Omnes Exitus!"
+    },
+    {
+      "type": "narrator",
+      "text": "Yohack, who moved freely through the village,<br>unfazed by obstacles, toyed with the monsters."
+    },
+    {
+      "type": "narrator",
+      "text": "And with that, thanks to the heroes' efforts,<br>Enoshima Village was safely protected."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Good work!"
+        },
+        {
+          "text": "I'm glad it worked out somehow..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...A \"sleigh\" that flies through the air,<br>and the ability to break through obstacles, huh."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "Hmph, it seems my eyes weren't mistaken.<br>His aptitude as \"Santa-san\"<br>has been further refined."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "—Splendid, Yohack.<br>I shall recognize you as an intermediate<br>\"Santa-san apprentice\"."
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "I-Intermediate!?<br>\"Santa-san apprentice\"...?<br>Astar-san, isn't that your-?"
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "Anyway, he's praising me...<br>Right?<br>Ah, thank you!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Th-That's good."
+        },
+        {
+          "text": "He got promoted, somehow..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Saotome, who had been watching the battle,<br>bowed deeply towards [Player] and the others."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "I'm truly sorry.<br>Yohack-kun, Astar-kun.<br>And you too, [Player]-kun."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "To do such a thing,<br>and cause everyone worry and burden..."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "...Even so,<br>thank you very much<br>for helping me like this."
+    },
+    {
+      "type": "narrator",
+      "text": "Unlike yesterday, when he seemed somewhat distressed,<br>Saotome expressed his gratitude with a frank smile."
+    },
+    {
+      "type": "character",
+      "name": "Astar",
+      "avatar": "../char/astar.png",
+      "text": "...Hmph.<br>Your expression looks a bit better now."
+    },
+    {
+      "type": "character",
+      "name": "Yohack (Last Resort)",
+      "avatar": "../char/event_yohack.png",
+      "text": "Saotome-san, thank you<br>for taking my hand!"
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "...As expected,<br>you local heroes are amazing."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "You don't give up in any situation,<br>and keep on facing difficulties.<br>I want to be like that too."
+    },
+    {
+      "type": "narrator",
+      "text": "Saotome, muttering,<br>clenched his trembling fist and<br>took a deep breath."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "To regret, that's something that can always happen.<br>If I try everything and it still doesn't work,<br>then I'll have no choice but to depressed, but..."
+    },
+    {
+      "type": "character",
+      "name": "Saotome",
+      "avatar": "../char/saotome.png",
+      "text": "Now is not that time yet.<br>I will still stubbornly struggle."
+    },
+    {
+      "type": "narrator",
+      "text": "In Saotome's eyes, upon declaring it,<br>a light of determination resided."
+    },
+    {
+      "type": "narrator",
+      "text": "And,<br>there was a faint reaction<br>on [Player]'s device."
+    },
+    {
+      "type": "character",
+      "name": "Mobile Device",
+      "avatar": "../char/placeholder.png",
+      "text": "New path detected.<br>Target: Saotome<br>Strength: Very Weak"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "This is...!"
+        },
+        {
+          "text": "Saotome-san...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The reaction was fleeting,<br>the faint light quickly disappeared."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The reaction was weak, but..."
+        },
+        {
+          "text": "(Look at Saotome)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Even so,<br>a strong light resided in Saotome's eyes,<br>who had stood up again."
+    },
+    {
+      "type": "narrator",
+      "text": "The same strong will as the heroes,<br>never to give up."
+    },
+    {
+      "type": "character",
+      "name": "Shiratori",
+      "avatar": "../char/shiratori.png",
+      "text": "Ugh...!<br>Th-This place...?"
+    },
+    {
+      "type": "character",
+      "name": "Shiratori",
+      "avatar": "../char/shiratori.png",
+      "text": "The same beach as that time?<br>Why am I...?"
+    },
+    {
+      "type": "character",
+      "name": "Shiratori",
+      "avatar": "../char/shiratori.png",
+      "text": "No, the reason can wait.<br>More importantly, I...<br>I have something I must do...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Shiratori, who woke up on the beach,<br>stood up, protected his body, and<br>began to walk away in unsteady steps."
+    }
+  ]
+  

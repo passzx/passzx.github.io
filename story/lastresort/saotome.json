@@ -1,0 +1,194 @@
+[
+  {
+    "type": "narrator",
+    "text": "On Enoshima Beach, basking in strong sunlight,<br>a voice called out to [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "[Player]-kun,<br>thank you for the invitation!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Are you eating ice cream!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "Wahahaha!<br>I suddenly wanted something sweet!<br>It's Enoshima's famous whitebait soft serve!"
+          },
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "Besides its cute appearance, the saltiness of the kneaded whitebait and the sweetness of the ice cream are a perfect match!"
+          },
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "If you'd like, why don't you try it too, [Player]-kun?<br>This old man will secretly treat you!"
+          }
+        ]
+      },
+      {
+        "text": "Your swimsuit suits you!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "Wahahaha!<br>To be praised by a youngster like you, I'm still not bad at all!"
+          },
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "Well, I just bought this swimsuit at the concession stand, but..."
+          },
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "This T-shirt and sandals, with Shinyasu-kun's print on them, makes them really cute that they're my favorite!"
+          }
+        ]
+      },
+      {
+        "text": "Your outfit is quite daring...!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "D-Daring!?<br>Does that perhaps mean it's uncool in city slang!?"
+          },
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "—No, that's not it, were you genuinely praising me?"
+          },
+          {
+            "type": "character",
+            "name": "Saotome",
+            "avatar": "../char/saotome.png",
+            "text": "Ah, thank you...!<br>It's a bit embarrassing, but of course, I'm happy...!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Just a moment, please."
+      },
+      {
+        "text": "Something I received from you, Saotome-san..."
+      },
+      {
+        "text": "It's an Enoshima specialty, right?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Ohh!<br>That's what I gave you,<br>Enoshima's specialty—"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "—It's the sun oil<br>that's planned to be!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Wahahaha!<br>If you're actually using it,<br>I'd be quite happy about that!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "...And, you're going to<br>apply it to this old man?"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "It's a bit embarrassing, but<br>since you've so kindly invited me,<br>I'll gratefully accept!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "—Oh.<br>Before that, I have to finish my ice cream!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Well then, [Player]-kun.<br>Please go ahead and do it!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Hmm...<br>The slightly blended coconut<br>is a nice accent!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Whoa!?<br>I appreciate the sentiment, but<br>you don't need to apply it there!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Phew~...<br>My whole body feels cool,<br>this is truly refreshing..."
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "It's a bit embarrassing<br>to have my relaxed body touched<br>like this, though...!"
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] and Saotome enjoyed<br>their intimate time together."
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Thank you, [Player]-kun!<br>I'm truly grateful that<br>you called out to me."
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "...To tell you the truth,<br>I was also involved in the<br>development of this sun oil!"
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "That's why, [Player]-kun, when you<br>applied it to this old man like this,<br>it really touched my heart."
+  },
+  {
+    "type": "character",
+    "name": "Saotome",
+    "avatar": "../char/saotome.png",
+    "text": "Now, it's my turn to<br>apply sun oil to you!<br>—So, would you lie down?"
+  }
+]

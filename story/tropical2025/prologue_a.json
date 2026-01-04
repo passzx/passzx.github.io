@@ -1,0 +1,256 @@
+[
+  {
+  "type": "bg",
+  "bg": "../bg/main12_guild3.png"
+  },
+    {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Because you asked me to, Akiha.",
+            "dialogue_after_selection": [
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "...!<br>[Player]...!!"
+              },
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "I'm so moved.<br>...Actually, we've been short on staff lately."
+              },
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "I'll explain in detail later, but the fire brigade's duties aren't just responding to fires and training."
+              },
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "If there's a gathering of people, we also do disaster prevention and inspections, and help out the active firefighter seniors—"
+              },
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "Oh, of course, school comes first!<br>So, don't worry about that, okay?"
+              }
+            ]
+          },
+          {
+            "text": "I've been interested for a while.",
+            "dialogue_after_selection": [
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "Is that so!<br>I guess I have a good eye, haha."
+              },
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "Everyone in our fire brigade is a good person,so I'm sure you'll get along with them right away, [Player]."
+              },
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "—But don't imitate Ulaanbaatar-senpai.<br>He always slacks off, saying it's for an emergency."
+              },
+              {
+                "type": "character",
+                "name": "Akiha Gongen",
+                "avatar": "../char/housamo/akiha_gongen.png",
+                "text": "[Player], if you see Baatar-senpai slacking off, tell me, okay?<br>I'll go give him a worthwhile talk right away."
+              }
+        ]
+        }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Akiha Gongen",
+    "avatar": "../char/housamo/akiha_gongen.png",
+    "text": "Well, let's go for now.<br>I'm sure everyone's looking forward to meeting you!"
+  },
+  {
+    "type": "narrator",
+    "text": "Guided by the visibly delighted Akiha Gongen,<br>they immediately headed to the base of the fire brigade he belonged to."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/main13_guild.png"
+  },
+  {
+    "type": "character",
+    "name": "Akiha Gongen",
+    "avatar": "../char/housamo/akiha_gongen.png",
+    "text": "Seniors! This is the otaku I was telling you about...<br>I mean, [Player]!"
+  },
+  {
+    "type": "character",
+    "name": "Ulaanbaatar",
+    "avatar": "../char/housamo/ulaanbaatar.png",
+    "text": "Nice to meet you~, [Player]-chan.<br>Just relax, and let's have a welcome party first, shall we?"
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "Baatar is trying to casually skip today's training,<br>that's pretty insane..."
+  },
+  {
+    "type": "character",
+    "name": "Gurangatch",
+    "avatar": "../char/housamo/gurangatch.png",
+    "text": "Hey, nice to meet you~, [Player].<br>Don't worry, we'll have a proper welcome party for you."
+  },
+  {
+    "type": "character",
+    "name": "Red Hood",
+    "avatar": "../char/housamo/red_hood.png",
+    "text": "Nice to meet you, I'm Red Hood.<br>This old hag here is my buddy, Cinderella... our Captain."
+  },
+  {
+    "type": "character",
+    "name": "Cinderella",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "...Yes, nice to meet you.<br>You've introduced me without my permission again."
+  },
+  {
+    "type": "character",
+    "name": "Red Hood",
+    "avatar": "../char/housamo/red_hood.png",
+    "text": "If I don't, you'll say something like 'I don't have a name worth mentioning'.<br>Be careful, newbie, this old hag is pretty 'insane', yeah?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Introduce yourself)"
+      },
+      {
+        "text": "What a sturdy wolf...",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Red Hood",
+            "avatar": "../char/housamo/red_hood.png",
+            "text": "Wh-What's with that look, like you're staring at prey?<br>I thought I was the hunter wolf, but this is..."
+          },
+          {
+            "type": "character",
+            "name": "Cinderella",
+            "avatar": "../char/housamo/cinderella.png",
+            "text": "Ahahahaha!<br>Newbie... You've got yourself a good eye."
+          },
+          {
+            "type": "character",
+            "name": "Cinderella",
+            "avatar": "../char/housamo/cinderella.png",
+            "text": "If you don't fix that wimpy habit of yours soon, you might be the one eaten, Reddy?"
+          },
+          {
+            "type": "character",
+            "name": "Red Hood",
+            "avatar": "../char/housamo/red_hood.png",
+            "text": "W-Wimpy...<br>I won't deny it, but please pick a better timing..."
+          }
+        ]
+      },
+      {
+        "text": "Bewitching silver hair... lovely!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Cinderella",
+            "avatar": "../char/housamo/cinderella.png",
+            "text": "Ahahahaha!<br>Newbie... you have a good eye."
+          },
+          {
+            "type": "character",
+            "name": "Cinderella",
+            "avatar": "../char/housamo/cinderella.png",
+            "text": "I'll have to give you a good spoiling later!!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Akiha Gongen",
+    "avatar": "../char/housamo/akiha_gongen.png",
+    "text": "From me as well, as a fellow fire brigade member,<br>let us get along together again!"
+  },
+  {
+    "type": "character",
+    "name": "Akiha Gongen",
+    "avatar": "../char/housamo/akiha_gongen.png",
+    "text": "I'd like to give you a lecture right away,<br>but I'm still a trainee, so I'm leaving it to my seniors."
+  },
+  {
+    "type": "narrator",
+    "text": "Akiha Gongen said that and turned to<br>Cinderella and Red Hood."
+  },
+  {
+    "type": "character",
+    "name": "Red Hood",
+    "avatar": "../char/housamo/red_hood.png",
+    "text": "Yeah, me and the old hag will be your instructors.<br>...Is that right, old hag?"
+  },
+  {
+    "type": "character",
+    "name": "Cinderella",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "Anyone who can dance with me at a fire is welcome.<br>...Though there's never been anyone like that before."
+  },
+  {
+    "type": "character",
+    "name": "Ulaanbaatar",
+    "avatar": "../char/housamo/ulaanbaatar.png",
+    "text": "Alright, I'll leave it to you two then.<br>[Player]-chan, if it's too tough, let's slack off together—"
+  },
+  {
+    "type": "narrator",
+    "text": "After finishing the introductions in a friendly atmosphere,<br>[Player] becomes a trio with their instructor buddies."
+  },
+  {
+    "type": "character",
+    "name": "Red Hood",
+    "avatar": "../char/housamo/red_hood.png",
+    "text": "—Well then, that's it for the facility tour,<br>next is training... so!"
+  },
+  {
+    "type": "character",
+    "name": "Cinderella",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "No need to be so tense.<br>A fire brigade's duty isn't just to deal with the incidents at the scenes."
+  },
+  {
+    "type": "character",
+    "name": "Cinderella",
+    "avatar": "../char/housamo/cinderella.png",
+    "text": "First, to see your aptitude,<br>I'll have you experience various training."
+  },
+  {
+    "type": "choice",
+    "note": "branching paths again<br>this will affect the immediate dialogue",
+    "options": [
+      {
+        "text": "<a href=\"prologue_c.html\", style=\"color:var(--background-light);\">I've always admired water-hosing...!"
+      },
+      {
+        "text": "<a href=\"prologue_d.html\", style=\"color:var(--background-light);\">I'm not good at sports..."
+      },
+      {
+        "text": "<a href=\"prologue_e.html\", style=\"color:var(--background-light);\">I'm confident in my stamina."
+      }
+    ]
+  }
+]

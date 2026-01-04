@@ -1,0 +1,616 @@
+[
+    {
+        "type": "bg",
+        "bg": "../bg/lah/fairground_evening.png"
+      },
+      {
+        "type": "narrator",
+        "text": "The festival of festivals held on the<br>surface of the moon, the Galaxy Carnival Expo.<br>An attack occurred in the midst of it."
+      },
+      {
+        "type": "narrator",
+        "text": "Thanks to [Player] and the heroes' efforts,<br>the incident was resolved,<br>and several days have passed since then."
+      },
+      {
+        "type": "narrator",
+        "text": "The event has regained its composure,<br>and is about to reach its grand<br>finale with great success."
+      },
+      {
+        "type": "narrator",
+        "text": "Walking through the stalls of the bustling Japan Pavilion,<br>which has succeeded in attracting customers,<br>[Player] mutters to themselves."
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "I can't believe it's gotten this lively..."
+          },
+          {
+            "text": "It has gotten so different from the first day."
+          },
+          {
+            "text": "I'm glad we've all worked hard."
+          }
+        ]
+      },
+      {
+        "type": "narrator",
+        "text": "While enjoying the laughter from the people around<br>and the aroma wafting from the food stalls,<br>[Player] hears a voice calling out to them."
+      },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "[Player]-kun!<br>Good work out there, have you been<br>enjoying the festival to the end?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yes, I'm having a great time!"
+        },
+        {
+          "text": "Turbak-san, what's with that outfit!?",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Turbak",
+                "avatar": "../char/turbak.png",
+                "text": "Ah, this?<br>I wanted to let my hair down a bit for the last day."
+              },
+              {
+                "type": "character",
+                "name": "Turbak",
+                "avatar": "../char/turbak.png",
+                "text": "I thought I'd enjoy it in my plain clothes for a change.<br>If it looks good on me, I'm glad."
+              }
+          ]
+        },
+        {
+          "text": "That outfit looks great on you!",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Turbak",
+                "avatar": "../char/turbak.png",
+                "text": "Ah, this?<br>I wanted to let my hair down a bit for the last day."
+              },
+              {
+                "type": "character",
+                "name": "Turbak",
+                "avatar": "../char/turbak.png",
+                "text": "I thought I'd enjoy it in my plain clothes for a change.<br>If it looks good on me, I'm glad."
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "[Player]-kun, are you also going to look<br>around the festival one last time?<br>If you'd like, how about we go together?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course, I'd love to!"
+        },
+        {
+          "text": "I haven't had a chance to look around properly."
+        },
+        {
+          "text": "I wanted to talk with you, Turbak-san."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Thank you, [Player]-kun!<br>I've also studied up on Japan since<br>then, so let me be your guide!"
+    },
+    {
+      "type": "narrator",
+      "text": "As he says that, Turbak<br>beams and gently takes<br>[Player]'s hand."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Um.<br>I don't have my tour flag right now,<br>so, just so we don't get separated."
+    },
+    {
+      "type": "narrator",
+      "text": "Holding [Player]'s hand,<br>Turbak leads the way through<br>the bustling festival stalls."
+    },
+    {
+      "type": "narrator",
+      "text": "On the path the two walk, lined on both<br>sides with numerous stalls, a mouth-watering<br>aroma was hanging in the air."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hmm, what a nice smell!"
+        },
+        {
+          "text": "Let's grab something to bite first."
+        },
+        {
+          "text": "Where should we start..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I've seen it many times over this<br>week, but with so many options,<br>I still can't make up my mind."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Right!<br>Since it's the last day, let's buy each<br>other as much of whatever we want!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "And then, how about we tell each other what we like?<br>Because, I want to know more and more about you!"
+    },
+    {
+      "type": "narrator",
+      "text": "Lured by the smells and the<br>energetic calls, the two of them go around<br>the stalls, buying one after another."
+    },
+    {
+      "type": "narrator",
+      "text": "By the time they settled down at<br>a table along the path, both their<br>hands were full of festival food."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ahaha... I think we bought too much."
+        },
+        {
+          "text": "Time to eat with all our might!"
+        },
+        {
+          "text": "C-Can we finish all this?",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Turbak",
+                "avatar": "../char/turbak.png",
+                "text": "Don't worry, it'll be alright!<br>I move around a lot for my job, so I eat a lot!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Wow, it's a feast filling the table!<br>And it's all just the things<br>you and I like, right?"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...I've always wanted to do this.<br>To just selfishly line up<br>only the things I like."
+    },
+    {
+      "type": "narrator",
+      "text": "As he says with a laugh,<br>Turbak digs into the food<br>one after another."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Right, right, we were going<br>to tell each other what we like.<br>I'll be going first!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I ate a lot of different things at<br>this pavilion, but my favorite was...<br>This candied apple!"
+    },
+    {
+      "type": "narrator",
+      "text": "Turbak happily gazes at the<br>candy coating the red fruit,<br>reflecting the light."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "In my hometown, there was a<br>fruit that looked just like this.<br>It grew in the wild, though."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...When I was a kid, I spent all<br>my time training to be a ritualist.<br>In between that training—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Finding fruit in the nearby<br>forest and secretly eating it<br>was my secret pleasure."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Ahaha, at first, I often<br>picked the wrong ones.<br>Some were super sour!"
+    },
+    {
+      "type": "narrator",
+      "text": "Turbak laughs as he reminisces about the past.<br>Then, his face darkens, and he<br>continues to speak in bits and pieces."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Ever since that incident,<br>I find myself thinking about it a lot.<br>That I should have been more selfish."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "No matter what I have said, my hometown would have<br>developed, and the festival would have disappeared.<br>But still, no matter how pointless—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I wanted to say that I hated it,<br>that I was frustrated and sad.<br>That's what I really wanted to say."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I couldn't even say what I wanted<br>to say most, so how will I even express<br>my feelings to other people now...?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "To worry, to think..."
+        },
+        {
+          "text": "And to decide to move forward..."
+        },
+        {
+          "text": "That was all you, Turbak-san."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...[Player]-kun.<br>I see, that's right."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "And, you are moving forward, properly."
+        },
+        {
+          "text": "Because, look..."
+        },
+        {
+          "text": "You're telling me what you like right now!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Ehh!?<br>No, no, not something like this!?"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...But, thanks!<br>I feel a little lighter now!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I don't know if it'll go well,<br>but I have to try moving forward first."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I'll worry and think as much as I can!<br>And whatever I become as a result,<br>I'll accept it with a smile!"
+    },
+    {
+      "type": "narrator",
+      "text": "At Turbak's words,<br>he beams and reaches<br>for the food on the table."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Oops!<br>I'd better eat this before it gets cold.<br>Tell me your recommendation, too!"
+    },
+    {
+      "type": "narrator",
+      "text": "In the clamor of the passing people<br>and the lights of the stalls, the<br>two of them calmly finish their meal."
+    },
+    {
+      "type": "narrator",
+      "text": "By the time they finished eating,<br>the monitor overhead had finished its projection,<br>and a starry sky spread out above them."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/fairground_night.png"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Oh, it's already this late.<br>Time really flies when<br>you're having fun."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "After this is the Grand Finale!<br>To go along with it, all the<br>pavilions will be closing, too."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "At the Grand Finale, there'll be<br>a big ceremony on the stage,<br>so if you'd like, we can all..."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": ".........<br>...[Player]-kun."
+    },
+    {
+      "type": "narrator",
+      "text": "At his words, he stands up from his<br>seat and holds out his hand to [Player].<br>Turbak's expression changes."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Um, you see.<br>I'm going to say something selfish now,<br>so if you don't want to, please say no."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...At the end, please stay by my side.<br>It's fine for just a moment longer, because I<br>want to make this happy feeling mine alone."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course, I don't mind."
+        },
+        {
+          "text": "...I was thinking the same thing."
+        },
+        {
+          "text": "That's a wonderful selfishness."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Thank you, [Player]-kun!<br>Well, let's get going, because<br>I know a special place!"
+    },
+    {
+      "type": "narrator",
+      "text": "With a huge smile,<br>Turbak once again takes [Player]'s<br>hand in the one he offered."
+    },
+    {
+      "type": "narrator",
+      "text": "And, heading in the opposite direction<br>of the crowd moving to the stage,<br>they soon come to a stop."
+    },
+    {
+      "type": "narrator",
+      "text": "It was a small clearing, sandwiched<br>between equipment warehouses,<br>with only green grass spreading out."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "This is a reserve space.<br>It's for use when we suddenly<br>need to add stalls or equipment—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Like when Nessen-san and Goro-san<br>made that request, remember?<br>It was prepared for times like that."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "But in the end, it was never used.<br>It's just an empty lot, but..."
+    },
+    {
+      "type": "narrator",
+      "text": "As he says, Turbak rolls<br>down onto the grass, and gently<br>pats the ground beside him."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "How about it, [Player]-kun?<br>Ah... It might be some bad manners,<br>but no one will see us."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "This looks kind of fun!"
+        },
+        {
+          "text": "Well then, excuse me..."
+        },
+        {
+          "text": "This is pretty comfortable."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Nodding at Turbak's words,<br>[Player] gently<br>lies down on the ground."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...It's quiet.<br>It's like the bustling festival<br>just a moment ago was a lie."
+    },
+    {
+      "type": "narrator",
+      "text": "Under the spreading starry sky,<br>Turbak takes the hand of [Player]<br>lying next to him."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Thank you.<br>I wanted to thank you<br>properly once again."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "My Parallel Weapon is all about<br>connecting and sharing with someone.<br>I understood that by feeling, but—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I couldn't connect with anyone<br>on a deep level like with their<br>memories or emotions."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I thought it was because<br>I wasn't a good enough person<br>to receive someone's feelings."
+    },
+    {
+      "type": "narrator",
+      "text": "As Turbak speaks in bits and pieces,<br>his hand, connected to [Player]'s, trembles<br>for a moment, and his grip tightens."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "But, it wasn't that.<br>It was just that I wasn't trying<br>to connect with anyone."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "But, Roudin-san, Barrel-kun,<br>all the heroes.<br>And you... [Player]-kun."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "You all pushed me forward, and<br>I connected with those attackers.<br>With my feelings connected to you—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I was truly saved.<br>Just having someone know my feelings,<br>that alone made me very happy."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I didn't do anything."
+        },
+        {
+          "text": "It is you who saved yourself."
+        },
+        {
+          "text": "I was happy, too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I'm going to keep connecting from now on.<br>To all kinds of lands, all kinds of festivals,<br>and then, to all kinds of people."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I want to tell them, that the<br>feelings that are as numerous as<br>the stars won't just disappear."
+    },
+    {
+      "type": "narrator",
+      "text": "With his connected hand still in place,<br>Turbak turns his face to [Player]<br>and gives them a gentle smile."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's a dream very much like you, Turbak-san."
+        },
+        {
+          "text": "I think it's wonderful."
+        },
+        {
+          "text": "I'll help you with that!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Thank you...<br>I'm so glad I met you...<br>I'm really, really glad I could connect with you."
+    },
+    {
+      "type": "narrator",
+      "text": "At the same time as his words,<br>the fireworks on the stage sparkled,<br>illuminating Turbak's expressions."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "The festival is ending, isn't it?<br>...Hey, [Player]-kun.<br>Please, just a little longer—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Please let me stay like this.<br>I want to be connected with<br>you until the very end."
+    },
+    {
+      "type": "narrator",
+      "text": "Pulling on their connected hand,<br>Turbak gently embraces [Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "The warmth transmitted from their touching<br>bodies, and the heartbeat so close it could<br>be heard, make Turbak's face flush red."
+    },
+    {
+      "type": "narrator",
+      "text": "And, illuminated by the colorful<br>fireworks sparkling overhead,<br>the two shadows quietly overlapped."
+    }
+  ]

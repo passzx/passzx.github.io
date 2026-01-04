@@ -1,0 +1,121 @@
+[
+  {
+    "category": "Event Quests",
+    "items": [
+      {
+        "id": "chapter-1",
+        "title": "Chapter 1"
+      },
+      {
+        "id": "chapter-2",
+        "title": "Chapter 2"
+      },
+      {
+        "id": "chapter-3",
+        "title": "Chapter 3"
+      },
+      {
+        "id": "chapter-4",
+        "title": "Chapter 4"
+      },
+      {
+        "id": "chapter-5",
+        "title": "Chapter 5"
+      },
+      {
+        "id": "chapter-6",
+        "title": "Chapter 6"
+      },
+      {
+        "id": "chapter-7",
+        "title": "Chapter 7"
+      },
+      {
+        "id": "finale",
+        "title": "Finale"
+      }
+    ]
+  },
+  {
+    "category": "Sunoil Quests",
+    "items": [
+      {
+        "id": "yohack",
+        "title": "Yohack",
+        "pageTitle": "Sunoil - Yohack"
+      },
+      {
+        "id": "astar",
+        "title": "Astar",
+        "pageTitle": "Sunoil - Astar"
+      },
+      {
+        "id": "saotome",
+        "title": "Saotome",
+        "pageTitle": "Sunoil - Saotome"
+      },
+      {
+        "id": "kiloc",
+        "title": "Kiloc",
+        "pageTitle": "Sunoil - Kiloc"
+      },
+      {
+        "id": "joezen",
+        "title": "Joezen",
+        "pageTitle": "Sunoil - Joezen"
+      },
+      {
+        "id": "alend",
+        "title": "Alend",
+        "pageTitle": "Sunoil - Alend"
+      },
+      {
+        "id": "senthak",
+        "title": "Senthak",
+        "pageTitle": "Sunoil - Senthak"
+      }
+    ]
+  },
+  {
+    "category": "Epilogue Quests",
+    "items": [
+      {
+        "id": "event_yohack",
+        "title": "\"Radiant Rider\" Yohack",
+        "pageTitle": "Epilogue - Yohack"
+      },
+      {
+        "id": "event_astar",
+        "title": "\"Surfing Striker\" Astar",
+        "pageTitle": "Epilogue - Astar"
+      },
+      {
+        "id": "event_saotome",
+        "title": "Saotome",
+        "pageTitle": "Epilogue - Saotome"
+      }
+    ]
+  },
+  {
+    "category": "Hidden Quests",
+    "hidden": true,
+    "items": [
+      {
+        "id": "event_astara",
+        "title": "Epilogue - Astar (Route A)"
+      },
+      {
+        "id": "event_astarb",
+        "title": "Epilogue - Astar (Route B)"
+      },
+      {
+        "id": "event_yohacka",
+        "title": "Epilogue - Yohack (Route A)"
+      },
+      {
+        "id": "event_yohackb",
+        "title": "Epilogue - Yohack (Route B)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Embrace Astar)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Astar (Last Resort)",
+            "avatar": "../char/event_astar.png",
+            "text": "[Player]...<br>Thank you..."
+          },
+          {
+            "type": "character",
+            "name": "Astar (Last Resort)",
+            "avatar": "../char/event_astar.png",
+            "text": "Your hands are truly warm..."
+          }
+        ]
+      },
+      {
+        "text": "(Be embraced by Astar)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Astar (Last Resort)",
+            "avatar": "../char/event_astar.png",
+            "text": "This...<br>I can feel you right by my side..."
+          },
+          {
+            "type": "character",
+            "name": "Astar (Last Resort)",
+            "avatar": "../char/event_astar.png",
+            "text": "I...<br>I am truly happy..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] and Astar slowly drew closer, and<br>exchanged their body warmth."
+  },
+  {
+    "type": "narrator",
+    "text": "And, without either initiating,<br>they exchanged a gentle kiss."
+  },
+  {
+    "type": "character",
+    "name": "Astar (Last Resort)",
+    "avatar": "../char/event_astar.png",
+    "text": "...[Player].<br>I've always...<br>wanted to be like this with you."
+  },
+  {
+    "type": "character",
+    "name": "Astar (Last Resort)",
+    "avatar": "../char/event_astar.png",
+    "text": "And, at a deeper level... With you..."
+  },
+  {
+    "type": "narrator",
+    "text": "The two, gently swayed by the calm waves,<br>cuddled on the board and gazed at the fireworks."
+  },
+  {
+    "type": "narrator",
+    "text": "And with that, [Player]<br>spent an unforgettably<br>long night with Astar."
+  }
+]

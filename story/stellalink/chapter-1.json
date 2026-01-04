@@ -1,0 +1,1598 @@
+[
+    {
+      "type": "bg",
+      "bg":"../bg/lah/herofestasite_day.png"
+    },
+    {
+      "type": "character",
+      "name": "Customer's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "The Crowne snack set and a beer,<br>and... Ah!<br>Two Mighty Paw Buns, please!"
+    },
+    {
+      "type": "character",
+      "name": "Customer's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Excuse me!<br>Over here, Akashi Takoyaki, a Cola,<br>and a Sui Special Parfait!"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "Y-Yes!<br>Thank you for your order!<br>Please wait a moment!"
+    },
+    {
+      "type": "character",
+      "name": "Customer's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "A large Justy Curry,<br>make it 'Numbing Justice' spicy!"
+    },
+    {
+      "type": "character",
+      "name": "Child's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Dad, I've decided too!<br>Um, a Hopper the Waffle, please!<br>And, orange juice!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you for your order!"
+        },
+        {
+          "text": "Please wait a moment!"
+        },
+        {
+          "text": "Order up!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Whoa!<br>We just opened,<br>but it's already a huge success!"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "More people come every year so I prepared myself,<br>but this is more than I expected...<br>But—"
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Sui-chan, is this alright<br>for the parfait's presentation?<br>I'm quite confident in it."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "It's perfect, Melide-chan.<br>The orders are pouring in,<br>so please keep it up."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Yes, leave it to me.<br>...Fufu. Running a shop like this<br>is really fun..."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Mhm!<br>It's tough with so many customers,<br>but thanks to everyone, it looks like we'll manage this year!"
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "Stop yer yapping and move yer hands!<br>Be aware that you're keepin' customers waitin'!<br>—Here, take these two packs of takoyaki!"
+    },
+    {
+      "type": "character",
+      "name": "Monomasa",
+      "avatar": "../char/monomasa.png",
+      "text": "Can we not afford to enjoy ourselves a little?<br>...Sui, is this cutting style<br>alright for the parfait fruit?"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "It's fine... or rather.<br>This rabbit and bear, they're so cute!<br>I didn't know you had such skill, Monomasa-san..."
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "Yer enjoyin' this quite a bit, aren'tcha!?<br>Gettin' all excited, that sure ain't like ya...<br>Don't go standin' out now."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Fufu, it's not just Monomasa-kun,<br>don't you think it's fine to enjoy it a little?<br>—We'll need to place another order for fruit."
+    },
+    {
+      "type": "character",
+      "name": "Yoshiori",
+      "avatar": "../char/yoshiori.png",
+      "text": "Aren't you the one enjoyin' this<br>the most, Exio-san...!?<br>At least take over the back kitchen duties."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Oh, but who will manage the books then?<br>Besides... I prefer to be on the side<br>watching people work up a sweat."
+    },
+    {
+      "type": "character",
+      "name": "Children",
+      "avatar": "../char/placeholder.png",
+      "text": "It's Justice!<br>He's huge!!"
+    },
+    {
+      "type": "character",
+      "name": "Fan's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Justice-sa—n!<br>Give me a Justice Hug!!"
+    },
+    {
+      "type": "character",
+      "name": "Fan's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Hopper-san, please shake my hand!<br>Your last battle was so cool!!"
+    },
+    {
+      "type": "character",
+      "name": "Fan's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Whoa, it's really them!<br>Please let us take a picture with you!"
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "WAHAHAHA!!<br>Leave it to me!!!<br>Now, it's time for a Justice Hug!!!!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Photos are fine too.<br>If you'd like, your companion can join as well."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "Crowne!!<br>Take the picture!!!"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Aye, aye. C'mon, c'mon,<br>get closer, closer!<br>—Alright, OK, let's have you a photo."
+    },
+    {
+      "type": "narrator",
+      "text": "Orient City's summer celebration,<br>the Hero City Summer Festa.<br>The first day got off to a grand start."
+    },
+    {
+      "type": "narrator",
+      "text": "Parallel Flight Inc.'s beach cafe,<br>located in a corner of the food stall area,<br>had a constant stream of customers the moment it opened."
+    },
+    {
+      "type": "narrator",
+      "text": "With the cooperation of all members,<br>they managed both the cafe's operation and fan interactions,<br>safely reaching the end of the business day."
+    },
+    {
+        "type": "bg",
+        "bg": "../bg/lah/pfyatai_back.png"
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "Kuhhaaa—!!<br>We're so busy again this year.<br>Ugh, my clothes are soaked in sweat."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Good work. Here's your staff meal.<br>It's tough working amidst all these good smells.<br>I was trying so hard to ignore my rumbling stomach."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "It's busy, but it's really rewarding.<br>Fufu, I was so happy when a fan<br>came wearing an outfit that looked like my suit."
+    },
+    {
+      "type": "choice",
+      "note": "yeah Akashi, hold still",
+      "options": [
+        {
+          "text": "Here's a towel. Hold still while I wipe you?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Akashi",
+              "avatar": "../char/akashi.png",
+              "text": "Oh, thanks, [Player].<br>I'm soaked all over, see?<br>This shirt looks like I could wring out... Wait."
+            },
+            {
+              "type": "character",
+              "name": "Akashi",
+              "avatar": "../char/akashi.png",
+              "text": "I-I'll wipe myself!!<br>Hey, look the other way!!"
+            }
+          ]
+        },
+        {
+          "text": "I'm too tired to move, so feed me something!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Mokdai",
+              "avatar": "../char/mokdai.png",
+              "text": "You were talking just fine until a second ago!?<br>—Honestly, you can't be helped."
+            },
+            {
+              "type": "character",
+              "name": "Mokdai",
+              "avatar": "../char/mokdai.png",
+              "text": "It's a Mokdai special Mighty Paw Bun.<br>Hold still, [Player].<br>Here, say 'ah'."
+            }
+          ]
+        },
+        {
+          "text": "Nice! Did you get a picture?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sui",
+              "avatar": "../char/sui.png",
+              "text": "Of course we do, we took a two-shot.<br>Look, she said she sewed all the pleats on this skirt by hand."
+            },
+            {
+              "type": "character",
+              "name": "Sui",
+              "avatar": "../char/sui.png",
+              "text": "[Player]-san, if this person comes again, could I ask you to transform me?<br>Fufu, I want to take a picture with her in my hero suit too."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Good work, everyone.<br>Yoshiori-kun and the others have already left.<br>You all can clock out when you're ready."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I hear we have more visitors this year than ever before.<br>Thank you for working so hard during this busy time."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "There have been a lot of Kaibutsu incidents lately,<br>so many events were cancelled.<br>This is probably the rebound from that, right?"
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "HAHA!!<br>And that commotion was also safely resolved<br>thanks to the efforts of [Player] and the others!!!"
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "Now everyone is enjoying the Summer Festa<br>with smiles overflowing!!!!"
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "As a hero, there is nothing<br>that could make me happier!!!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "To be honest, I wasn't even sure if I'd make it...<br>But as Ryekie says,<br>let's enjoy the Summer Festa for now."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "This year, there's also a new event<br>to go along with the Summer Festa!"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "Ah, I've been seeing that on the news a lot lately.<br>I'm a little interested in it too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "A new event?"
+        },
+        {
+          "text": "Is it hero-related too?"
+        },
+        {
+          "text": "(Act like you already know)",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Akashi",
+                "avatar": "../char/akashi.png",
+                "text": "You, that's definitely the face of someone who doesn't know.<br>I don't know much about it either, so let's listen carefully together."
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "I think it was something about a big event<br>on the moon after the Summer Festa ends, right?"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "That's right!<br>The public hero license exam that was held at the<br>Archimedes Colony on the moon before—"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "It's being held at that site for one week!<br>On the internet, they're calling it the After Summer Festa,<br>and it seems to be a huge sensation!"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "I took some paid leave after the Summer Festa,<br>so I'm planning to go check it out.<br>I'm so excited...!"
+    },
+    {
+      "type": "choice",
+      "note": "go check out The Glorious Rising Moon",
+      "options": [
+        {
+          "text": "The venue from the ceremony...",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Akashi",
+                "avatar": "../char/akashi.png",
+                "text": "That time was really crazy.<br>You suddenly got warped away..."
+            }
+          ]
+        },
+        {
+          "text": "I wonder if we'll use the warp to get there again...",
+          "dialogue_after_selection": [
+            {
+                "type": "character",
+                "name": "Akashi",
+                "avatar": "../char/akashi.png",
+                "text": "That time was really crazy.<br>You suddenly got warped away..."
+            }
+          ]
+        },
+        {
+          "text": "Is the venue that big?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "I was in the audience most of the time back then,<br>so I don't really know how big the exam venue was.<br>Is it that big of an event?"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "It was on a scale large enough to build a model city.<br>Since they're using the same space,<br>it's a pretty large-scale event."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "I know it's a big event, but<br>what kind of event is it exactly?<br>I've been so busy lately, I haven't seen the news..."
+    },
+    {
+      "type": "narrator",
+      "text": "Akashi scratches his cheek as he says that.<br>To him, Mokdai continues on with a huge smile."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "It's a festival held on various stars throughout the galaxy.<br>They're reproducing that festival on the lunar surface,<br>it's a festival of festivals, and its name is—"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "The Galaxy Carnival Expo!<br>It's also called GCE, if I'm right."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Galaxy Carnival Expo?"
+        },
+        {
+          "text": "A festival of festivals...?"
+        },
+        {
+          "text": "What do you mean...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "../char/placeholder.png",
+      "text": "Oh, what perfect timing!<br>You can leave that story to... me... no!<br>Leave it to us~!!"
+    },
+    {
+      "type": "narrator",
+      "text": "As [Player] is left unanswered,<br>from behind the group,<br>a familiar voice calls out."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Yo, good work.<br>If you wanna know about GCE,<br>why don't we, the organizers, give you the details?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "As expected of us!<br>This is beyond good timing~!<br>It's practically inevitable, like fate~!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Barrel, it's been a while!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Barrel",
+              "avatar": "../char/barrel.png",
+              "text": "Hey~!<br>It's been since I said hello to you in front of the police box the other day~, [Player]-san!"
+            },
+            {
+              "type": "character",
+              "name": "Barrel",
+              "avatar": "../char/barrel.png",
+              "text": "Whoa, my tension is already skyrocketing~!<br>Let's go for a hug, a hug!"
+            }
+          ]
+        },
+        {
+          "text": "Roudin-san's casual clothes!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Hey, hey, it's been a while, and the first thing you talk about is my clothes?<br>Isn't there something else, like a reunion hug or something?"
+            },
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Well, it doesn't feel too bad to be seen as fresh.<br>You can enjoy it as much as you want, yes?"
+            }
+          ]
+        },
+        {
+          "text": "You two know each other!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Barrel",
+              "avatar": "../char/barrel.png",
+              "text": "I just met Roudin-san through this job~!<br>It was a last-minute thing~, but..."
+            },
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Well, I'll explain that and a few more things later.<br>More importantly...<br>It's been a while, [Player]."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Barrel and Roudin exchange greetings.<br>At that point, Akashi, with a surprised<br>expression, also calls out."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "R-Roudin-san!?<br>What the, if you were coming to Earth,<br>you could have contacted me..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Yo, Akashi. I would have liked<br>to call you guys while I was out sightseeing...<br>But I'm here for work this time."
+    },
+    {
+      "type": "narrator",
+      "text": "As he says, Roudin lightly introduces<br>himself to the members of<br>Parallel Flight Inc. on the spot."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "So, once again, an explanation of the event,<br>and the reason why Barrel and I are here...<br>We'd like to ask you for a job."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "The GCE management is making a request to us?<br>If I remember correctly, Roudin-san, your affiliation is...<br>S&S Heroes, was it?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hmm...<br>Roudin-san, could you please<br>tell us in detail?"
+    },
+    {
+      "type": "narrator",
+      "text": "Casually taking the third large<br>mug of beer from Crowne's hand,<br>Huckle urges him to continue."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Thanks, President Huckle. Well then—<br>The Galaxy Carnival Expo,<br>first, an explanation of this event."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Roughly speaking, Mokdai-san<br>called it a festival of festivals earlier,<br>and it's exactly that kind of event~!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "At the Archimedes Colony,<br>at the site of the public hero license exam.<br>A huge gathering of festivals from various stars in the galaxy!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Food stalls with food you can only eat on that star,<br>dances you can only see in videos... and much more,<br>it's a super exciting event packed with festivals~!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "That's about it. At the event venue,<br>there are pavilions built for each festival.<br>Even the cityscapes are reproduced quite faithfully."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Not only that, but at each pavilion,<br>heroes closely associated with that<br>festival are participating!"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "You can meet heroes from other galaxies or<br>faraway stars that you can't usually meet in person,<br>and not just for greetings—"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "On the main stage of the event,<br>there will also be an exhibition match<br>between the pavilions!"
+    },
+    {
+      "type": "narrator",
+      "text": "To Roudin and Barrel's explanation,<br>Mokdai also adds with a huge smile."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Thanks for the follow-up, Mokdai.<br>Now, about my agency S&S Heroes being the organizer,<br>to be precise, it's co-hosted with the Archimedes Colony."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Our company, which is strong in the travel industry,<br>hopped on board this event that<br>the colony was originally planning to do."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I see...<br>If it's a reproduction of festivals from various places,<br>it would be more than enough for tourism promotions."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "But, why the request to us from there?<br>If your company is fully in cooperation,<br>it seems like it would be running smoothly..."
+    },
+    {
+      "type": "narrator",
+      "text": "At Huckle's words, Roudin<br>scratches his cheek awkwardly<br>and forces a smile."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Ah... About that.<br>A little while ago, we had a pre-opening<br>for the residents of the Archimedes Colony."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "The event itself is lively, but<br>there's a pretty big difference in the number<br>of visitors between the pavilions."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Some of the pavilions... Or to be more<br>precise, Japan Pavilion from Earth,<br>is unfortunately deserted."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "A popularity gap, how cruel..."
+        },
+        {
+          "text": "Could it be, that this event is also having an effect?"
+        },
+        {
+          "text": "There was a Japan Pavilion in the first place?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "I knew about GCE, but<br>I didn't know Japan Pavilion was participating.<br>This is the first time I've heard of it!!"
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Earth is all abuzz with the Summer Festa right now,<br>so maybe it's not being reported on much..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "That's right... Well, in the first place.<br>The Japan Pavilion is a bit special,<br>though other stars have applied for participation—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Only Japan gets to participate as its host country.<br>By calling it the After Summer Festa,<br>it became more convenient for attracting tourists."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I see, that's quite a selection<br>criteria typical of your company..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Well, I won't try to deny it.<br>But, well, because of that...<br>It has become a bit of a problem."
+    },
+    {
+      "type": "narrator",
+      "text": "As Roudin hesitates to continue,<br>Barrel steps in to follow up."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "All the buzz has been taken by the Summer Festa,<br>so the pavilion isn't lively at all~!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Other stars choose one festival and<br>reproduce it as is, but Japan also has<br>lots of festivals all over the country~."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "And, it seems they couldn't decide which<br>festival to do until the very last minute~.<br>What they finally decided on was—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "The elements common to all festivals throughout<br>the country, festival stalls and fireworks!<br>They decided to focus on reproducing those~!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "But the concept was decided at the last minute,<br>and because we rushed the construction,<br>we couldn't spare any people or time for promotion."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I see..."
+        },
+        {
+          "text": "Running an event must be tough."
+        },
+        {
+          "text": "The scheduling seemed a bit too optimistic?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Oops. You sure don't pull your punches, do you?<br>Well, it's a fact, but what's happened has happened."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "So, that's why our agency, S&S Heroes,<br>decided to step in and help.<br>...And, this is where the request comes in."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...Hmm.<br>I understand the premise.<br>Please continue."
+    },
+    {
+      "type": "narrator",
+      "text": "After confirming that Huckle in front of him nodded,<br>Roudin continues his explanation."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "To liven up Japan Pavilion, we would<br>like to borrow the power of Parallel Flight Inc."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hmm, so you'd like the heroes of<br>Parallel Flight to help out at<br>Japan Pavilion as well?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Well, if Zap the Justice were to appear,<br>it would be the best promotion we could ever get.<br>But what I want to request of you, is an Operator."
+    },
+    {
+      "type": "narrator",
+      "text": "Laughing and shaking his head at Huckle's words,<br>Roudin looks straight at [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "[Player], please.<br>I need your help. As an Operator,<br>could you help out Japan Pavilion?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh, me?"
+        },
+        {
+          "text": "If it's about livening it up, wouldn't a hero be..."
+        },
+        {
+          "text": "Please elaborate."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "As Mokdai over there said earlier,<br>there are quite a few heroes participating<br>in each pavilion."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "The reproduced festival, and on top of that,<br>a greeting with a hero!<br>The popular pavilions are like this."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "The Japan Pavilion should follow suit...<br>Or so I'd like to say, but heroes<br>who are familiar with Japan are—"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "At the Summer Festa, right?<br>Certainly, almost all heroes on the Earth Sphere<br>are participating in that."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "That's about it. Even though the periods don't overlap,<br>but due to it being tied down for a week right after the Summer Festa,<br>it's incredibly tough to make requests now."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "I've been sending requests to agencies left and right,<br>and the one I finally managed to get an offer from was—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "This officer right here~!<br>I was originally scheduled to<br>participate in GCE for security~"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "It's a large-scale event, so we got a request<br>for security support from the local<br>Archimedes Colony police~, but—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "I may have been born in America, but I'm<br>completely Japanese now! I love Japanese festivals!<br>So, I volunteered myself~!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "And, when I consulted about the request,<br>it was decided that I would be dispatched as a hero<br>while also serving as plainclothes security on site~!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Thanks, Barrel. You're a lifesaver.<br>...But, we couldn't get anyone else,<br>so we had to send someone from our agency."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "And that's me, and there's one more<br>person, but he's already at the venue.<br>Neither of us knows much about Japan, though."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Leave that to me~!<br>The number one festival man in Orient City,<br>this Barrel will teach you all you need to know~!!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Hehe, I'm counting on you, Barrel.<br>Well, it's like that,<br>so we've gathered the heroes, but—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "The Operator to observe them,<br>I just can't find an<br>arrangement for that person..."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I see...<br>Certainly, being tied down for a week<br>right after the Summer Festa is..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "That's right...<br>As the organizer, our agency has dispatched<br>a considerable number of Operators to the pavilions."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "If it were just transforming at the pavilion and<br>waving, we could manage by dividing the time,<br>but..."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "Ah, could it be...<br>The exhibition match?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Yes, that's it!<br>On the event stage, there's an exhibition<br>match for the participating heroes, but—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "An Operator needs to be present during the match,<br>so we just can't secure<br>that many personnel..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "In terms of livening up the pavilion and promotion,<br>it's the perfect opportunity,<br>so I really want to participate, but—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So that's why you need an Operator."
+        },
+        {
+          "text": "This is where I come in, right!?"
+        },
+        {
+          "text": "Work after work! I can't stand it anymore!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Why do you look so happy about it!?<br>Ah... I feel bad for you.<br>Your agency's working environment..."
+            },
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "Could you not say things that might cause misunderstandings!?<br>Properly, always!<br>I'm always considering your schedules in mind, alright!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...I see, I understand the request.<br>For one week during the GCE,<br>stationed at Japan Pavilion—"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "To observe the heroes who will be the advertisements,<br>and to operate the exhibition match,<br>is that correct?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "I know it's a sudden and unreasonable request.<br>On top of that, as a member of the event management...<br>No, more than anything, myself personally."
+    },
+    {
+      "type": "narrator",
+      "text": "As he says that, Roudin looks<br>straight into [Player]'s eyes and<br>quietly bows his head."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Please, [Player].<br>I need you to lend me your skills,<br>which helped liven up Aguarica, one more time."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "I'm asking you too~!<br>I want everyone who comes to the event<br>to know the fun of festivals~!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'd love to help!"
+        },
+        {
+          "text": "If you're both asking so earnestly..."
+        },
+        {
+          "text": "President, what should we do?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hmm... There's no problem with the schedule,<br>I've left a lot of room, so it's easy<br>to take a vacation after the Summer Festa."
+    },
+    {
+      "type": "narrator",
+      "text": "Nodding at [Player]'s gaze,<br>Huckle displays the schedule on<br>the device in his hand."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "There are many heroes stationed at the event venue,<br>and if it's on the moon, we can rush over<br>immediately if anything happens."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "In terms of schedule and safety,<br>I have nothing more to say.<br>The rest, I'll leave up to you."
+    },
+    {
+      "type": "choice",
+      "note": "so we're spending vacation periods on work?",
+      "options": [
+        {
+          "text": "Then it's decided!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "From what I've heard, it doesn't seem like such a hard schedule.<br>Relax, and enjoy yourself."
+            },
+            {
+              "type": "character",
+              "name": "Ryekie",
+              "avatar": "../char/ryekie.png",
+              "text": "If anything happens, be sure to contact us!!<br>We'll rush over immediately!!!"
+            }
+          ]
+        },
+        {
+          "text": "I'm counting on you, you two!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Barrel",
+              "avatar": "../char/barrel.png",
+              "text": "Wahha! This is the best~!<br>We'll call in more and more customers, and make it the most exciting~!!"
+            },
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Thanks, [Player].<br>If I can work with you again, it's going to be a great event."
+            }
+          ]
+        },
+        {
+          "text": "Let's enjoy the event—!!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Akashi",
+              "avatar": "../char/akashi.png",
+              "text": "No, it's still work, you know!?<br>Well, the fact that you're not nervous is just like you."
+            },
+            {
+              "type": "character",
+              "name": "Mokdai",
+              "avatar": "../char/mokdai.png",
+              "text": "When things calm down here, I'll come visit as a guest.<br>See you there!"
+            },
+            {
+              "type": "character",
+              "name": "Sui",
+              "avatar": "../char/sui.png",
+              "text": "Festivals from various stars...<br>Maybe I should invite Melide-chan and go.<br>I'll be counting on you then."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At [Player]'s words,<br>Roudin smiles broadly and<br>bows his head again."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "To be honest,<br>you really helped me out."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "It's partly because I've just returned<br>to being a hero, but I didn't have<br>any other connections besides you."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "If [Player]-san said no,<br>I was planning to go in front of Procy-san's<br>store's Link Board and just shout at people~!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "T-That's...<br>In any case, we're very happy<br>to be of assistance."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "I think the detailed contract information<br>will be sent from our legal department later.<br>And, well..."
+    },
+    {
+      "type": "narrator",
+      "text": "His relieved expression tightens again,<br>and Roudin turns to Huckle<br>and continues to speak."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "The Parallel Queue that you prepared<br>for the Aguarica stage,<br>I'd like to request the production of that."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Hmm... [Player]-kun is with you,<br>so it's possible to use it, but<br>I can't make that decision on my own..."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "In that case, it looks like it's my turn.<br>Roudin-san, could you tell me<br>more about it?"
+    },
+    {
+      "type": "narrator",
+      "text": "With the large mug that she had<br>retrieved from Huckle while he was talking,<br>Crowne urges Roudin to continue."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "It's the final push for the heroes' advertising effects.<br>The exhibition match on the main stage,<br>there, we heroes will—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Make a grand entrance in suits that<br>immediately identify us as Japan Pavilion!<br>There's no doubt it will stand out~!"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "I see, that sounds like it would be exciting.<br>If you can adjust the food stall shifts,<br>I can do one... no, two."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "As for the shift adjustments,<br>I'll see what I can do.<br>Melide-kun and the others are working hard, too."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "If you're short on stall staff due to the<br>impact of the request, let me know.<br>I'd be delighted to send some of our elite staff?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Haha, that's very encouraging.<br>In that case, I'll take you up on<br>that offer without hesitation."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "The rest is the suit design.<br>When I was drinking with 'that gal' before, she said she had<br>plenty of time on her schedule..."
+    },
+    {
+      "type": "narrator",
+      "text": "She puts the empty mug down on the table,<br>and Crowne operates her device<br>to display a call screen in front of her."
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "Oh, what's wrong, Crowne?<br>I'm on a business trip for a while, so I told you I can't<br>join you for a drink, didn't I?"
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Do you think I'd only contact you<br>to invite you for a drink!?<br>...Well, you're not entirely wrong."
+    },
+    {
+      "type": "character",
+      "name": "Crowne",
+      "avatar": "../char/crowne.png",
+      "text": "Anyway, this time it's about a request.<br>It's for the production of a Parallel Queue,<br>so can you make time in your schedule?"
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "A request for a Parallel Queue?<br>Well, I don't think it'd be a problem,<br>but can you tell me more about it?"
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "I see, I understand the situation.<br>I can make time in my schedule, but<br>well..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "If there's anything I can do to help, let me know.<br>I know it's an unreasonable request,<br>so I'll do everything I can."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Me too~!<br>I'll help with anything, so<br>please don't hesitate to ask~!"
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "Oh, what a wonderful offer, you two.<br>In that case, I'll take you up on it without hesitation.<br>And, is Sui-chan there?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Maculata's words,<br>Sui approaches Crowne's device<br>and joins the call."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "You've worked hard, Master.<br>Did you request me for design support?<br>I'll do my best to help too..."
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "Fufu, I won't be... asking for help.<br>This project, I'm thinking of entrusting<br>the entire design to you."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "Eh!?<br>Me, the design...?"
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "The requested suit is a stage costume, right?<br>Sui-chan, considering your recent achievements,<br>you should be able to do it without any problems."
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "Of course, I'll assist you.<br>I'll take responsibility for the quality.<br>Is that alright with you, our two clients?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "I'm an amateur when it comes to design, so.<br>If Maculata-san says it's not a problem,<br>I have nothing to say."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "I have no problem with it at all~!<br>Waha, a new suit design,<br>I'm already excited~!!"
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "Thank you for your consent.<br>The rest depends on your feelings, Sui-chan.<br>So, you want to give it a try?"
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "Me, designing a hero suit...<br>It's certainly a chance, but..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's a rare opportunity, why not give it a try?"
+        },
+        {
+          "text": "Go for it with an offensive mindset!!"
+        },
+        {
+          "text": "You don't have to force yourself...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sui",
+              "avatar": "../char/sui.png",
+              "text": "Yes... That I have the ability to be involved in a suit that protects the lives of heroes...<br>I can't say that so easily.<br>But..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "Thank you, [Player]-san.<br>I want to give it a try.<br>Master, please let me take on this request!"
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "A good answer, Sui-chan.<br>Well then, let's get to work right away.<br>Please proceed to my office."
+    },
+    {
+      "type": "narrator",
+      "text": "After ending the call, Sui turns to the two clients<br>and bows with a serious expression."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "It's as we discussed. I'll be in charge<br>of this request. I'll do my best,<br>so I look forward to working with you."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "It's a bit sudden, but would you mind<br>coming with me to my Master's office?<br>I'd like to share the image of the suit with you."
+    },
+    {
+      "type": "character",
+      "name": "Barrel",
+      "avatar": "../char/barrel.png",
+      "text": "Roger~!<br>Hehe, I believed you'd accept the request,<br>so I've been thinking about the suit image I want~!!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "What, Barrel, you're pretty quick on the draw.<br>As for me, I'm not familiar with Japanese clothing,<br>so please teach me whatever you can."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "Understood.<br>Well then, let's get going.<br>...Ah, President."
+    },
+    {
+      "type": "narrator",
+      "text": "Just as Sui, whose eyes were sparkling at<br>the project in front of her, was about to start moving,<br>she caught sight of Huckle, who was smiling."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Normally, I would say that you should<br>have consulted with me beforehand.<br>But, an employee challenging a new task—"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I don't intend to be such an unrefined boss<br>as to rain on such a happy moment.<br>Please do your best."
+    },
+    {
+      "type": "narrator",
+      "text": "At Huckle's words, Sui bows<br>with a smile and starts<br>walking towards the office."
+    },
+    {
+      "type": "narrator",
+      "text": "Following Sui, Barrel and Crowne also<br>leave the place. Seeing them off,<br>Roudin turns back to Huckle."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Thank you again, everyone of Parallel Flight Inc..<br>Thanks to you, I feel like I can face<br>the event with peace of mind."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "No, I should be thanking you, Roudin-san.<br>Unexpectedly, I was able to give my employee<br>a good opportunity."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Well, I'm glad it was worth asking.<br>[Player] too, the event will be a long haul,<br>but I'm counting on you, yes?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Leave it to me!"
+        },
+        {
+          "text": "I'll do my best, without overdoing it!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "That's right, that's the spirit!<br>If you relax and take it easy, you can make a job fun."
+            }
+          ]
+        },
+        {
+          "text": "You seem to be enjoying your work, Roudin-san.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "What, when we met before, my motivation was...<br>Hehe, I can't say it was there.<br>But, well, that's right—"
+            },
+            {
+              "type": "character",
+              "name": "Roudin",
+              "avatar": "../char/roudin.png",
+              "text": "Now, I'm having fun.<br>Someone, somewhere, helped me find a dream I want to fulfill."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "Now, then. I'll be taking my leave.<br>I don't want to be left behind by Sui and Barrel.<br>Oh, that's right—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "If your company ever has an employee trip, come visit Tesfinito.<br>I'll give you the full service at our place?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Haha, that sounds nice.<br>I'll look forward to it."
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin.png",
+      "text": "And, [Player].<br>On the day, please come directly to the lunar surface,<br>the other hero will be on standby at the venue."
+    },
+    {
+      "type": "narrator",
+      "text": "As he says, he waves his hand flutteringly,<br>and Roudin follows Sui and Barrel<br>and leaves the place."
+    },
+    {
+      "type": "narrator",
+      "text": "And so, time passes since the sudden visit,<br>and [Player], who has spent their days at<br>the hugely successful Summer Festa, is—"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/fairground_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Leaving Earth, to the lunar surface, Archimedes Colony.<br>At the Galaxy Carnival Expo,<br>they were visiting Japan Pavilion."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I was told to meet here, but..."
+        },
+        {
+          "text": "Wow, it really is a festival!"
+        },
+        {
+          "text": "So this is the festival of festivals..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "A Japanese festival reproduced on the lunar surface.<br>As they walk, soaking in the atmosphere,<br>a familiar, clear voice echoes from somewhere."
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "../char/placeholder.png",
+      "text": "O—i!<br>Over here, over here—!"
+    },
+    {
+      "type": "narrator",
+      "text": "When [Player] turns their face<br>in the direction of the voice, there—"
+    },
+    {
+      "type": "character",
+      "name": "A Cheerful Tour Guide?",
+      "avatar": "../char/turbak.png",
+      "text": "Operator of Parallel Flight Inc.,<br>am I correct?<br>Amazing, you're right on time!"
+    },
+    {
+      "type": "narrator",
+      "text": "Waving a tour flag towards them,<br>a young man with a huge smile.<br>And what can be seen behind him is—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Oh, a banner...?"
+        },
+        {
+          "text": "Welcome, [Player]-sama..."
+        },
+        {
+          "text": "Oooh, VIP treatment!!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "A handmade banner,<br>and written on it in large letters,<br>the words 'Welcome, [Player]-sama'."
+    },
+    {
+      "type": "character",
+      "name": "A Cheerful Tour Guide?",
+      "avatar": "../char/turbak.png",
+      "text": "In Japan, this is how you<br>show your welcoming feelings, right?<br>I worked hard to make it yesterday!"
+    },
+    {
+      "type": "character",
+      "name": "A Cheerful Tour Guide?",
+      "avatar": "../char/turbak.png",
+      "text": "Well then, once again—<br>Welcome to the Galaxy Carnival Expo!!"
+    },
+    {
+      "type": "character",
+      "name": "A Cheerful Tour Guide?",
+      "avatar": "../char/turbak.png",
+      "text": "Together with me,<br>let's make this the happiest event ever!"
+    },
+    {
+      "type": "title",
+      "text": "Chapter 1:<br>Carnival, Carnival"
+    }
+  ]
+  

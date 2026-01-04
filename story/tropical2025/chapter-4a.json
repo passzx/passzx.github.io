@@ -1,0 +1,952 @@
+[
+    {
+      "type": "bg",
+      "bg": "../bg/leisura_day.png"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "If there's something else like that,<br>I'm a little interested."
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "You're more enthusiastic than I thought.<br>From what I've heard, I thought you weren't<br>interested in anything other than disaster prevention?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Is that how it seems? I do like experiencing new things.<br>Disaster prevention is just my assigned duty, so I prioritize it."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "I'll show you to the perfect attraction!<br>It's also a spot for the stamp rally."
+    },
+    {
+      "type": "character",
+      "name": "Staff",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "—Welcome!<br>To the 'Tropical Super Typhoon'!"
+    },
+    {
+      "type": "character",
+      "name": "Staff",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "This attraction is a circular boat for eight people that slides<br>down the rapids of a super-large slider—!!"
+    },
+    {
+      "type": "narrator",
+      "text": "A huge half-pipe lane,<br>a circular boat flows down a high platform where the starting point is not visible."
+    },
+    {
+      "type": "narrator",
+      "text": "However, unlike the previous roller coaster,<br>the screams that echoed were mixed with laughter."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "The moment of the goal is especially photogenic,<br>so I'll take a picture from a good spot again—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Everyone can join now!"
+        },
+        {
+          "text": "I won't let you get away?"
+        },
+        {
+          "text": "(Grab Oscar's arm)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "[Player]...!?<br>W-W-What do you think you're doing?"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "That's my line, dear Director.<br>Everyone can come along, so there's no need for you to go take pictures, right?"
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "I also, want Oscar, to have fun, happy.<br>Ride, together. Alright, not scary!"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "No, no, no, I didn't say it was scary, did I?<br>It's just that not being able to move is a little...<br>Like a prison— Um, well."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "You did say you wanted to enjoy yourself as a guest, didn't you?<br>I wouldn't want to leave one young person out in the cold forever."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Or... Are you scared?<br>If so, I can't really force you. Hahaha!"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "...Ah, of course!<br>I-I'd be very delighted to accompany you?"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "A-are you alright, Oscar-san...<br>Are you actually afraid of heights...?"
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "There's no knowing for sure.<br>But once you're on the boat, you're with us until the end!"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Eek...<br>W-Well, let's get in line for now."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/sky_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "A few dozen minutes later, [Player] and the others<br>boarded the circular boat at the top of the high platform."
+    },
+    {
+      "type": "narrator",
+      "text": "Everyone was seated in a configuration facing the center of the boat,<br>and the final safety check was completed."
+    },
+    {
+      "type": "character",
+      "name": "Announcement",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Please do not stand up or put your body outside the boat!<br>Well then, are you ready? Three, two, one—"
+    },
+    {
+      "type": "narrator",
+      "text": "The boat descends the lane while slowly rotating<br>and swinging widely from side to side."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Cling to your seat)"
+        },
+        {
+          "text": "(Enjoy the scenery)"
+        },
+        {
+          "text": "(Shift your center of gravity to fall towards Hogen)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Shennong",
+      "avatar": "../char/housamo/shennong.png",
+      "text": "This is payback for earlier,<br>so prepare yourself, Tengu of Kurama!!"
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "I, help too. Shift, center of gravity.<br>Hogen, back, face forward, to slide!"
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Hahaha, if it's like this, then it's all about momentum!<br>May I join in on that plan as well?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "You guys... Whoa!!<br>Even with my tengu eyes, I can't see,<br>so I can't predict what's next... Whoa!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Until they landed, laughter and screams that<br>are not usually heard echoed."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/tropical2025_guild2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "After that, with Oscar's guidance and on a whim,<br>the group went around various attractions and facilities."
+    },
+    {
+      "type": "narrator",
+      "text": "After collecting all the stamps,<br>they took a long break in the VIP room Oscar showed them to."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "To think I'd be this exhausted from playing...<br>The fruit juice really seeped into my body."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "You're right.<br>This was probably more tiring than my daily training."
+    },
+    {
+      "type": "character",
+      "name": "Oscar",
+      "avatar": "../char/housamo/oscar.png",
+      "text": "Me too. But... this fatigue shows<br>that what happened just now was real."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "I'm a little tired, but I'm glad Sandra had<br>an innocent look on her face, just like that precious child!"
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "<p2 style=\"font-size: 150%\">Shall I turn you to ashes?"
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Eek!!<br>As expected, you seem to be full of energy, Sandra!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I still haven't played enough!"
+        },
+        {
+          "text": "I'm so tired...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "In that case, shall I give you some moxibustion to relieve your fatigue?"
+            },
+            {
+              "type": "character",
+              "name": "Shennong",
+              "avatar": "../char/housamo/shennong.png",
+              "text": "If it's to recover from playing, I'll do it as many times as you want."
+            }
+          ]
+        },
+        {
+          "text": "I'm getting hungry."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Yuma",
+      "avatar": "../char/housamo/yuma.png",
+      "text": "I, a little, hungry.<br>After this, have work. Want to, eat something... maybe."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "That's right, it's snack time, so<br>I'll go buy something at a nearby wagon for you."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "However, I can't carry it all by myself,<br>so I'll have to rely on my beloved disciple, I suppose?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "[Player], I was just thinking<br>I'd like to talk to you one-on-one."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Student and police, of the fire brigade and the security team.<br>We haven't had much time, have we?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Of course, it's fine."
+        },
+        {
+          "text": "Yes, yes, a date.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hahaha.<br>You've gotten the first move on me, [Player]!"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Well, the fact that you'd follow me even if I say that, is what's cute about you, isn't it?"
+            }
+          ]
+        },
+        {
+          "text": "Then it's your treat, Master!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hahaha, you caught me off guard, alright!<br>I had a lot of fun, so it's my treat for everyone?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Oh, in that case,<br>I'll have the two of you buy it for me."
+    },
+    {
+      "type": "character",
+      "name": "Red Hood",
+      "avatar": "../char/housamo/red_hood.png",
+      "text": "Ah, but Hogen-san?<br>You better not take [Player] away from the fire brigade!"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Hahaha, you caught me!<br>Alright, I promise, Red Hood."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/andvaresort_arcade_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and Hogen decide to walk through the park<br>to a light meal restaurant where they can get takeout."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "—So, [Player].<br>How are your activities in the fire brigade?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Looking at your two seniors,<br>I can see that it's a good environment."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The training is tough...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hahaha, so it's tough even for you?<br>But if you're training that much, you'll be fine in an emergency."
+            }
+          ]
+        },
+        {
+          "text": "The classroom lectures are surprisingly tough!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Yes, it is in addition to your schoolwork.<br>It must be tough, but the pen is mightier than the sword.<br>Hahaha."
+            }
+          ]
+        },
+        {
+          "text": "I think it's my calling.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Oh, is that so?<br>If your intuition says so, it must be true."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "But, I am a little jealous. I was just<br>about to have you experience some work in the police."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "—But if you had joined us, we might not have<br>been able to enjoy this vacation together today."
+    },
+    {
+      "type": "narrator",
+      "text": "As Hogen says that,<br>he closes his eyes for a moment."
+    },
+    {
+      "type": "narrator",
+      "text": "He was trapped by his eyes that saw too much.<br>He felt a little relieved, he thought."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "It was around noon, wasn't it?<br>I felt like everyone was strangely trying to make me play?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I don't know what you're talking about.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hahaha!<br>I'll just pretend it was a misunderstanding."
+            }
+          ]
+        },
+        {
+          "text": "As expected of my Master, you've noticed.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hmph, my intuition as a strategist hasn't dulled in the slightest."
+            }
+          ]
+        },
+        {
+          "text": "(Tickle Hogen's side)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "<p2 style=\"font-size: 150%\">Whoaah!!"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Carelessness is a great enemy, karma!<br>And your polished step-in...!"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "I've been had.<br>But I'm happy to feel my disciple's growth on my skin?"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "You...<br>You've been through a life-or-death situation I don't know about.<br>Just by looking at that one thing, I can tell."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The remaining Cinderella was alone,<br>watching the fire reserve unit in the distance."
+    },
+    {
+      "type": "character",
+      "name": "Cinderella",
+      "avatar": "../char/housamo/cinderella.png",
+      "text": "Everyone, you're better than I thought.<br>If things go on like this, it won't be a problem—<br>No matter when I have to leave you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Master, what were you looking at?"
+        },
+        {
+          "text": "Hogen, what did you see?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Hmm, what are you talking about,<br>[Player], so suddenly?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Don't play dumb."
+        },
+        {
+          "text": "Oh, was I wrong?"
+        },
+        {
+          "text": "........."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "...Well, I guess you've figured something out.<br>I'll give in and talk."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "I can see someone's end.<br>I can see when their 'connection' to this world is severed."
+    },
+    {
+      "type": "narrator",
+      "text": "And so Hogen tells an old story.<br>Not of a tengu— but of a mere human."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/roppongi_castle.png"
+    },
+    {
+      "type": "narrator",
+      "text": "—A long time ago, in the capital of Land of Wa,<br>an exorcist served the court for some time."
+    },
+    {
+      "type": "narrator",
+      "text": "A certain hero visited the exorcist.<br>And asked to borrow the book on the secrets of military strategy."
+    },
+    {
+      "type": "narrator",
+      "text": "The exorcist refused.<br>But the ambitious hero stepped in further."
+    },
+    {
+      "type": "narrator",
+      "text": "He devised a plan to separate the exorcist from his daughter,<br>the person the exorcist had raised to be his own,<br>and used her to borrow the book of military strategy."
+    },
+    {
+      "type": "narrator",
+      "text": "The exorcist, who realized this, immediately<br>unleashed an even more elaborate plan to defeat the hero."
+    },
+    {
+      "type": "narrator",
+      "text": "—And the result was something he didn't even want to talk about,<br>a result that was almost too much to bear."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/andvaresort_arcade_day.png"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "The daughter, whose 'connection' was severed,<br>grieved and took her own life."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Is that your story, Hogen?"
+        },
+        {
+          "text": "Whose story is that, and from when?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "It's the same everywhere, at any time.<br>...As long as the Role and Rule are the same."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "That exorcist and I were like that.<br>Therefore, we will meet a similar end."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "That's why— In one world,<br>there is no need for two people with the same Role and Rule."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Have I ever told you?<br>...The Tengu have six supernatural powers."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "One of them is the power to see into a person's past and previous lives.<br>With this, I have come to know the fate of those with the same Role and Rule."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "The power to sever the distance between this shore and the other shore.<br>Physical distance, and the distance of the heart... In other words, to sever ties."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "If the disciple catches up with the master—<br>There is no choice but for one of them to leave this world."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So that's why you were acting like a guardian."
+        },
+        {
+          "text": "I thought you were keeping your distance, but that's why."
+        },
+        {
+          "text": "...How do you explain the sexual harassment?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Oh, as expected of my beloved disciple,<br>you hit me where it hurts, hahaha!"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "That's that,<br>and this is this."
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "How much have they grown through their daily training?<br>If I can confirm it with my own hands, I can't help but want to."
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "—So please put that device away?<br>And don't just call it sexual harassment as if it's a matter of course?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "...If you were to stand alongside me,<br>I wouldn't want the scene I saw to repeat again."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's alright, Hogen."
+        },
+        {
+          "text": "Don't worry, Master."
+        },
+        {
+          "text": "You worry too much, public servant."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Hmm?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'll be the one to leave then."
+        },
+        {
+          "text": "I will surpass you, Master."
+        },
+        {
+          "text": "I'll show you the future."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "...You've got some nerve, you little brat.<br>Are you trying to motivate me?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Just keep it in moderation.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "I know, I know?<br>I know my proper distance, so don't worry!!"
+            }
+          ]
+        },
+        {
+          "text": "To define is to limit, as they say.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Oh, you're saying something wise.<br>Has some director influenced you?<br>Hahaha!"
+            }
+          ]
+        },
+        {
+          "text": "Show me what you've really got, Master.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "That's right, if physical distance alone is not enough for you, then—<br>Shall we try?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "...We're almost at the wagon we're heading to,<br>but how about we take a little detour?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "The treatment here is really good,<br>and I also got a special ticket that lets me skip the line—"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/leisura_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Led by Hogen, they took a detour to the<br>water slider area near the wagon."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Do you want to compete for speed in a single-person ride,<br>or slide together in a two-person ride...<br>No one would notice if we go just this once, hahaha!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Compete in a single-person parallel lane)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Alright, I'll accept your challenge.<br>Let's see the results of your training in the fire brigade."
+            },
+            {
+              "type": "narrator",
+              "text": "Without having to wait in line with the special ticket,<br>they climbed the high platform to the starting point."
+            },
+            {
+              "type": "narrator",
+              "text": "Then, they waited on the steep lane<br>where shallow water was flowing."
+            },
+            {
+              "type": "character",
+              "name": "Staff",
+              "avatar": "../char/housamo/placeholder.png",
+              "text": "Are you ready!?<br>Then both lanes will start at the same time...<br>Three, two, one—"
+            },
+            {
+              "type": "narrator",
+              "text": "After a short signal, the ground beneath their feet opened, and they slid down the pipe with great force—"
+            },
+            {
+              "type": "narrator",
+              "text": "The pipe is transparent in some places, so they can roughly grasp each other's position."
+            },
+            {
+              "type": "narrator",
+              "text": "They anticipate the course and accelerate by twisting their bodies along the sharp curves.<br>And as they reach the outside—"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hah! How's that!!<br>With this magnificent slide, you have a long way catching up to me, my disciple!!"
+            },
+            {
+              "type": "narrator",
+              "text": "The two of them jumped out of the lane at almost the same time, and landed with a spectacular splash."
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "—Come to think of it, isn't it difficult for just the two of us to judge?"
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Well, winning or losing doesn't matter!<br>That was a good slide, my beloved disciple!!"
+            },
+            {
+              "type": "narrator",
+              "text": "As he says that, the old tengu smiles an unfathomable smile."
+            }
+          ]
+        },
+        {
+          "text": "(Slide together in a two-person lane)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Ah, that's fine.<br>I'll give you a good hug at it."
+            },
+            {
+              "type": "narrator",
+              "text": "Without having to wait in line with the special ticket, they climbed the high platform to the starting point."
+            },
+            {
+              "type": "narrator",
+              "text": "And on the steep lane where shallow water was flowing, [Player] gets into a position to be hugged from behind."
+            },
+            {
+              "type": "character",
+              "name": "Staff",
+              "avatar": "../char/housamo/placeholder.png",
+              "text": "Are you ready!?<br>Then the countdown will begin...<br>Three, two—"
+            },
+            {
+              "type": "narrator",
+              "text": "Hogen's arms around [Player] tighten just a little—"
+            },
+            {
+              "type": "narrator",
+              "text": "—Almost at the same time, the ground beneath their feet opened with a short signal, and [Player] and Hogen slid down with great force."
+            },
+            {
+              "type": "narrator",
+              "text": "Anticipating the course and feeling each other's bodies, they twist their bodies along the sharp curves and accelerate."
+            },
+            {
+              "type": "narrator",
+              "text": "And after being thrown outside and gliding through the air, they landed with a spectacular splash."
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Hah, how's that!!<br>This magnificent landing, is the work of the proud Tengu!"
+            },
+            {
+              "type": "narrator",
+              "text": "As he says that, the old tengu smiles an unfathomable smile."
+            }
+          ]
+        },
+        {
+          "text": "(Offer to play in the side pool)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "Yes, that would be interesting as well.<br>Unlike the river-like pool, we can enjoy it more intimately."
+            },
+            {
+              "type": "narrator",
+              "text": "Hogen nods at [Player]'s suggestion and heads to the side pool near the slider's landing point."
+            },
+            {
+              "type": "narrator",
+              "text": "The classic pool, though does not imitate nature, is also well-equipped with statues that spray water irregularly and a jet bubble area."
+            },
+            {
+              "type": "narrator",
+              "text": "When they went in for a soak, as if waiting for them, Hogen closed the distance beyond zero—<br>And shrank even further."
+            },
+            {
+              "type": "character",
+              "name": "Hogen",
+              "avatar": "../char/housamo/hogen.png",
+              "text": "I have always been it, so for a change, [Player], you try to catch me!"
+            },
+            {
+              "type": "narrator",
+              "text": "As he says that, the old tengu smiles innocently and runs away, splashing water on his way."
+            },
+            {
+              "type": "narrator",
+              "text": "Until he was caught, Hogen continued to make a fuss without regard for others' eyes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "And then, the time approaches for T.S.L.<br>The future— That no one had yet seen."
+    }
+]

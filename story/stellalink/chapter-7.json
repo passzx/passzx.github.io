@@ -1,0 +1,2107 @@
+[
+    {
+      "type": "bg",
+      "bg": "../bg/lah/alley_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "In a corner of a rapidly developing city,<br>two voices echo quietly in the gap<br>between the buildings."
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": "Watch closely, Turbak.<br>This is the last bonfire that connects<br>this star and its people."
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": "...No, that's not it.<br>The people of this city no longer wish<br>to be connected to the star."
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": "The forests have been cleared,<br>and the land has become a mining facility.<br>Our days of living by the star is over."
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": "This park, which we've preserved for the sake of the ritual,<br>is also going to be turned into a commercial building.<br>The leveling work is scheduled to start next week."
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": "The role of the ritualist ends here.<br>...I wasn't able to pass down<br>to you what I've inherited myself."
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": "Even though, you've told me you wanted to take on the role!<br>I'm truly sorry, Turbak.<br>Please forgive your worthless father...!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "...Dad.<br>Don't make that face now,<br>I'm totally fine with it."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "It's true that this might be sad, but<br>it is what the people of this city wanted.<br>That means, it's going to be a happy future!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": ".........<br>...Turbak."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "Besides, Dad.<br>I'm not giving up on passing it on to someone.<br>I'll leave this star, and—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "I'll travel to all sorts of stars,<br>and I'll pass on what I've inherited<br>to the people of other stars."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "If it remains in someone's memory, that means<br>I've passed it on to someone else, right?<br>I'm sure, that that is my role."
+    },
+    {
+      "type": "character",
+      "name": "Turbak's Father",
+      "avatar": "../char/placeholder.png",
+      "text": "...I see.<br>You're really a good boy, Turbak.<br>Thank you... Thank you..."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "W-Wait a minute, Dad!?<br>We're in the middle of the ritual,<br>so please wipe your tears!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "...Leave it to me!<br>I'm sure I can do it.<br>Because I'm a 'good boy'."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/japanesestylestage_night.png"
+    },
+    {
+      "type": "title",
+      "text": "Chapter 7:<br>Stella Link Carnival"
+    },
+    {
+      "type": "character",
+      "name": "Imposter Villain",
+      "avatar": "../char/imposterVillain.png",
+      "text": "<strong>GRRRRRRR!!</strong>"
+    },
+    {
+      "type": "narrator",
+      "text": "The attackers all at once,<br>and the many paths they forced open."
+    },
+    {
+      "type": "narrator",
+      "text": "And, manifested from those paths,<br>the Parallel Weapons stick together<br>and fuse in a distorted way."
+    },
+    {
+      "type": "narrator",
+      "text": "No longer retaining its original form,<br>the black, sludge-like thing<br>covered the attackers like a suit..."
+    },
+    {
+      "type": "narrator",
+      "text": "It became 'a single mass of attackers'<br>and let out a voiceless roar."
+    },
+    {
+      "type": "narrator",
+      "text": "And that mass, like a newborn<br>animal, slowly checks<br>its own movements, step by step."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "H... H-Hey...<br>What is that thing...?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "I-Is that a villain...?<br>All those people are being<br>swallowed up by that black thing~!?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "It doesn't look like it's going to<br>attack right away, but it's so big,<br>what should we do~...!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What is that..."
+        },
+        {
+          "text": "W-We have to be on alert!"
+        },
+        {
+          "text": "I'll try observing it again."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] stares at the writhing<br>thing in front of them and<br>focuses their consciousness."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What... is this?"
+        },
+        {
+          "text": "A large number of paths are mixed together..."
+        },
+        {
+          "text": "It's like they're becoming something else..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The paths that use human dreams as guideposts,<br>and the Parallel Weapons that manifest from them.<br>They certainly have an existence of their own."
+    },
+    {
+      "type": "narrator",
+      "text": "However, the Parallel Weapons, which should<br>have given power to the people,<br>swallowed their hosts, the attackers, and—"
+    },
+    {
+      "type": "narrator",
+      "text": "As if it had a will of its own,<br>it was writhing."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "My vision... is warping...!"
+        },
+        {
+          "text": "Ugh, I feel sick..."
+        },
+        {
+          "text": "I have to close the paths, quickly!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "To close the paths that spat out<br>the Parallel Weapon-like thing,<br>[Player] continues to observe."
+    },
+    {
+      "type": "narrator",
+      "text": "However, the many paths opened by the attackers<br>are distorted and intertwined, and just observing<br>them wears down the mind."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "Hey, [Player]-san!?<br>Don't push yourself, and leave it to me~!<br>I'll just charge in and come up with something~!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Just as Barrel was about to run off,<br>[Player]'s device displayed<br>an emergency call."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "I've grasped the general situation from the stream.<br>I thought that you, of all people, would once again<br>be at the center of the commotion."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're a lifesaver, Exio-san!!"
+        },
+        {
+          "text": "Master, please explain!!"
+        },
+        {
+          "text": "It's an accident! Just an accident!!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Hah... Hurry up and share this call with everyone.<br>What I'm about to explain won't do any good<br>if you're the only one hearing it, right?"
+    },
+    {
+      "type": "narrator",
+      "text": "Nodding at Exio's words,<br>[Player] shares the call with the<br>heroes on the stage."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Let's start with the premise.<br>As you've observed, that's a path.<br>It's connected to a 'Parallel Weapon', yes."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "W-Wait a minute!"
+        },
+        {
+          "text": "You mean it's the same as a normal transformation!?"
+        },
+        {
+          "text": "But if so, then why..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Why 'is the path distorted', you ask?<br>In a normal transformation, the<br>transformer and the path are one-to-one."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "After all, transformation is borrowing<br>power from a transformer in a parallel<br>world who has fulfilled their dream."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "There's no difference between a hero and<br>a villain in that fundamental mechanism,<br>so normally—"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Even if one transformer tries to open<br>multiple paths, they shouldn't be able to transform.<br>The paths would cancel each other out."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "...But, the path here is actually open.<br>You must have noticed it when you observed it, right?<br>What that path actually is."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "There are more paths open than there are people."
+        },
+        {
+          "text": "The forms of their dreams are similar, but so many different ones..."
+        },
+        {
+          "text": "They're all tangled up, I don't know what's what..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "You're able to put your feelings into words.<br>That's probably what it is,<br>more or less, just as you said."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Paths that should be one-to-one are<br>opening in large numbers, tangled with each other,<br>and becoming one giant path."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "This would be normally impossible,<br>but it's actually happening.<br>It's probably—"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "A 'collective dream' of that group,<br>a conglomerate of similar dreams."
+    },
+    {
+      "type": "narrator",
+      "text": "Staring at the writhing existence<br>over the stream, unused to its<br>own being, Exio continues speaking."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "All with only one dream... huh?<br>There's no way something<br>like that is possible."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...You're right."
+        },
+        {
+          "text": "Is that really so?"
+        },
+        {
+          "text": "I feel like people can chase the same dream..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Even if the dream they speak of is<br>the same, it doesn't mean they're<br>envisioning the 'same result'."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "For example, even if the same group<br>dreams of a world without heroes,<br>then what kind of specific world would that be?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "The destination of a person's dream.<br>The form of the world they desire<br>can only exist within that person."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "But, even if the dreams differ from person to person,<br>if both the Observer and the observed acknowledge<br>that they are the same, they become similar in form."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Ah... Sorry to interrupt.<br>I kind of get the reason, but in<br>the end, what is that black thing?"
+    },
+    {
+      "type": "narrator",
+      "text": "At Roudin's words,<br>Exio proceeds to quietly, and clearly.<br>Define its existence."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "To put it simply...<br>It's a 'failed Parallel Weapon'.<br>Let's call it a 'Imposter Villain' for now."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "That's... a Parallel Weapon?<br>Sorry, can you explain a<br>little more about it?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "The large number of paths that opened.<br>And, the large number of Parallel Weapons<br>that manifested from each of them."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "They've all blended into one,<br>and in trying to forcibly adapt,<br>they've swallowed the transformers."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Since it's the form of their own dreams,<br>a Parallel Weapon should normally be controllable<br>by the will of its own transformer, but—"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "They're being swallowed by so many<br>dreams that are not their own.<br>...They'll probably lose their egos eventually."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...!?"
+        },
+        {
+          "text": "W-Wait just a minute!"
+        },
+        {
+          "text": "Lose their egos..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "That's... not okay~!!<br>Can't we do something~!?"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "It's true, I can't accept or<br>forgive what those people did...<br>But that's exactly why~!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "I have to arrest them properly~!<br>To just disappear like this,<br>that's definitely not okay~!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Barrel..."
+        },
+        {
+          "text": "I want to do something too."
+        },
+        {
+          "text": "There has to be a way."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "...Compassion is a virtue.<br>But I think it's better not to hold onto<br>some baseless, wishful thinking."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "But still, if we give up, it's over~!!<br>If there's anything I can do, I'll do it~,<br>so is there, is there anything we can do~!?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "To deal with it is certainly easy.<br>It's the same as always, just defeat it.<br>If the path closes, it will disappear."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Oh, that sounds great!<br>What, it's a simpler story than I thought.<br>...But then."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "...After we defeat it,<br>what happens to those guys?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "...Oh, a sharp point.<br>As expected of a magician hero."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "My bad!<br>To hide and to deceive is my job, yes."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Exio-san!!"
+        },
+        {
+          "text": "Please, tell me."
+        },
+        {
+          "text": "I really need to know."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "...Good grief.<br>I didn't say anything because I knew<br>you'd get involved like this."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Honestly, I don't know what will happen.<br>To forcibly close a path that's overlapped<br>to the point that the ego can be erased."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "...At the very least,<br>they won't just go back to<br>normal as if nothing happened."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "No way...<br>Can't anything be done...?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hold it!"
+        },
+        {
+          "text": "What if we untangle that tangled path..."
+        },
+        {
+          "text": "And close them one by one?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "Theoretically, it's possible.<br>That is, if you know the 'true dreams'<br>of all those attackers."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "To untangle those paths one by one, and<br>properly connect and close each path.<br>Well done, problem solved."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "So? With those numerous paths,<br>can you actually observe who they<br>were originally connected to?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "W-Well..."
+        },
+        {
+          "text": "I won't know until I try."
+        },
+        {
+          "text": "I have to act before I think!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "You don't know what will happen if you make a mistake.<br>Do you really think the people of Parallel<br>Flight will allow you to make such a gamble?"
+    },
+    {
+      "type": "narrator",
+      "text": "As [Player] struggles to answer,<br>Turbak quietly speaks up."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "If I can know those people's dreams...<br>With my Parallel Weapon,<br>I might be able to do something."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "If I can connect those people with<br>myself again and share their memories,<br>even deeper this time..."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...But, people's memories and dreams,<br>I've never connected to them that deeply,<br>so I don't know if it will work..."
+    },
+    {
+      "type": "narrator",
+      "text": "Looking down, Turbak<br>clutches his Parallel Weapon.<br>And at that moment—"
+    },
+    {
+      "type": "character",
+      "name": "Guest's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "Hey, what's that?<br>Is that the special stage?"
+    },
+    {
+      "type": "character",
+      "name": "Guest's Voice",
+      "avatar": "../char/placeholder.png",
+      "text": "That thing on the stage,<br>is that a hero or a villain?<br>...It's, kind of creepy."
+    },
+    {
+      "type": "narrator",
+      "text": "A guest's own casual remarks.<br>Those words echoed unusually<br>loudly on the silent stage."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": ".........<br>...Stop, don't look.<br>Don't look at it like that, please!!"
+    },
+    {
+      "type": "narrator",
+      "text": "An immense amount of anger and sadness flows<br>from the entity he's sharing emotions with.<br>As if he was swallowed by it, Turbak shouts—"
+    },
+    {
+      "type": "character",
+      "name": "Imposter Villain",
+      "avatar": "../char/imposterVillain.png",
+      "text": "<strong>GRRRRRRR!!</strong>"
+    },
+    {
+      "type": "narrator",
+      "text": "Letting out a roar that shakes the air,<br>the Imposter Villain leaps off the stage and<br>hurtles in the opposite direction of the audience."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What, so suddenly!?"
+        },
+        {
+          "text": "We have to follow them!"
+        },
+        {
+          "text": "Turbak-san, are you alright!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Those people's emotions,<br>they all flowed into me.<br>Enough to overwrite everything—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Anger, sadness... and fear.<br>The fear of having the form of your dream<br>being flatly rejected as 'creepy'."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...I, have to go.<br>I know it's not the right<br>thing to do as a hero... But."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "If those people's dreams... All of them.<br>If they are just going to disappear,<br>then at least I want to remember them!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "Turbak-san, I'm going too~!<br>To be honest, I don't get all the<br>complicated stuff~, but—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "It's definitely not okay for<br>those people to just disappear~!<br>If they have their own 'right'—"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "I'll accept it all, and then arrest them!<br>Make them atone for all their sins... And then.<br>I'll show them the world isn't such a bad place."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "I'll fight on until they understand that,<br>because— That's my own duty as<br>a police officer of justice~!"
+    },
+    {
+      "type": "narrator",
+      "text": "At Turbak's determined<br>words, Barrel smiles<br>and starts running."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm sorry, Exio-san."
+        },
+        {
+          "text": "I'll write as many reports as you want later."
+        },
+        {
+          "text": "I have to go, too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "I thought as much.<br>...By the way, this call is being<br>shared within the agency."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "...[Player].<br>I was watching the stream too.<br>I can't tell you not to go."
+    },
+    {
+      "type": "character",
+      "name": "Mokdai",
+      "avatar": "../char/mokdai.png",
+      "text": "It's true they're villains, and<br>we have to do something.<br>But..."
+    },
+    {
+      "type": "character",
+      "name": "Sui",
+      "avatar": "../char/sui.png",
+      "text": "No matter how distorted or uncool,<br>there's no dream that deserves to just disappear.<br>So, [Player]-san."
+    },
+    {
+      "type": "character",
+      "name": "Akashi",
+      "avatar": "../char/akashi.png",
+      "text": "Go give 'em hell!<br>Then, finish it all up, and<br>show us around the festival!"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I'll save the lecture for when you get back.<br>Make sure you come back safely.<br>That's a direct order, got it?"
+    },
+    {
+      "type": "narrator",
+      "text": "Nodding at the words of<br>the members of the agency,<br>[Player] ends the call."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "The direction it headed was<br>towards Fortina Pavilion.<br>Looks like Barrel is about to catch up."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Turbak, [Player].<br>You two go after them,<br>I've got things to do here."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Roudin-san, what are you planning?"
+        },
+        {
+          "text": "Ah... The audience."
+        },
+        {
+          "text": "We would have to do something about the panic too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "That's right.<br>Leave this to me.<br>The cast is all here, after all."
+    },
+    {
+      "type": "narrator",
+      "text": "As Roudin says, he takes a look behind him.<br>There, the heroes who had finished closing the gates<br>are gathering on the stage one after another."
+    },
+    {
+      "type": "character",
+      "name": "Astosis",
+      "avatar": "../char/astosis.png",
+      "text": "I've grasped the situation.<br>Should we also pursue<br>that attacker?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "No. I want all of you<br>to stand on stage with me.<br>After all—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Blow away all the guests' anxiety,<br>and gather a ton of ViewPower.<br>That's the kind of stage we need right now!"
+    },
+    {
+      "type": "narrator",
+      "text": "And, Roudin turns to face<br>Turbak directly,<br>and speaks to him gently."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Turbak, I'm going to cast<br>a spell on you now.<br>A spell to overcome the pressure."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Roudin-san.<br>I'll be fine,<br>I'm sure I can handle it..."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "'It's okay to fail', Turbak.<br>You don't have to carry it all,<br>and if you do fail..."
+    },
+    {
+      "type": "character",
+      "name": "Flamier (Ghostwoods)",
+      "avatar": "../char/event_flamier.png",
+      "text": "You just have to keep trying<br>until you succeed, that's all."
+    },
+    {
+      "type": "character",
+      "name": "Goro (Ghostwoods)",
+      "avatar": "../char/event_goro.png",
+      "text": "That's right.<br>Look around ya, the people here<br>are heroes, just like you, yeah?"
+    },
+    {
+      "type": "character",
+      "name": "Yohack",
+      "avatar": "../char/yohack.png",
+      "text": "It will be okay!<br>If anything happens, we'll<br>definitely back you up!"
+    },
+    {
+      "type": "character",
+      "name": "Nessen (Masquerade)",
+      "avatar": "../char/event_nessen.png",
+      "text": "Turbak-sama, please do what you can...<br>No, whatever you want to do,<br>with all your strength."
+    },
+    {
+      "type": "character",
+      "name": "Lilac",
+      "avatar": "../char/lilac.png",
+      "text": "The power you need to accomplish that,<br>we'll make sure everyone receive it.<br>So—"
+    },
+    {
+      "type": "character",
+      "name": "Maculata",
+      "avatar": "../char/maculata.png",
+      "text": "You can fail as many times as you want,<br>so show us what you're made of."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "...Damn.<br>I was trying to look cool,<br>but they stole my thunder."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Listen, Turbak.<br>A Parallel Weapon, is<br>the form of your dream."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "If you think you can do it,<br>any miracle can happen.<br>So believe in your dream."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "...Believe in my dream, huh?<br>Roudin-san, you say<br>some difficult things."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Leave it to me...<br>No, that's not it.<br>I'll try everything I can!"
+    },
+    {
+      "type": "narrator",
+      "text": "At Roudin's words,<br>Turbak smiles awkwardly<br>and runs off after Barrel."
+    },
+    {
+      "type": "narrator",
+      "text": "Seeing him off with a smile,<br>Roudin turns to [Player]<br>with a smile."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Leave the rest to me...<br>Is what I'd like to say.<br>Can I ask you one last thing before you go?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yes, ask me anything!"
+        },
+        {
+          "text": "Ah, everyone's transformation, right?"
+        },
+        {
+          "text": "Ah, Roudin-san, your suit..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "If it's just maintaining the<br>observation, any 'Observer' other<br>than you can do it, right?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "So, I just want you to transform the others.<br>...As for my observation,<br>I have a little idea of my own."
+    },
+    {
+      "type": "narrator",
+      "text": "As Roudin says that,<br>he looks behind him.<br>There—"
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Eh, us!?<br>I mean, I don't mind<br>helping out, but..."
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Roudin, what you need<br>is an 'Observer', righT?<br>We don't have that abiliTY."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "...Kukuku, I see.<br>Roudin, you have yourself<br>quite the interesting idea."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ah, could it be..."
+        },
+        {
+          "text": "Roudin-san, your idea for observation is..."
+        },
+        {
+          "text": "Anonymous!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Hehe, that's right.<br>When this is over, it looks like I'll<br>be writing a report with you."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "You're out of your mind, you...<br>Well, I don't really mind<br>that sort of thing!"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Anonymous have responded to uS.<br>Your transformation<br>can be maintaineD!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Oh, that's a big help.<br>You guys, join me<br>for the best stage ever."
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "...Oi, hold it.<br>Why are we supposed<br>to be on stage too?"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Isn't it obvious?<br>To get the crowd excited,<br>'LIVE@HERO' and Anonymous—"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "Both are in on a 'simulcast'.<br>It's guaranteed to<br>be a huge success!"
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "...Hah, ahahaha!<br>You're pretty interesting, aren't you!<br>Alright, don't leave me out of this!"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "Does that mean me as weLL?<br>...I see, it's been hundreds of years<br>since I've been in the public eyE—"
+    },
+    {
+      "type": "character",
+      "name": "Theoreol",
+      "avatar": "../char/theoreol.png",
+      "text": "It might be a good opportunity to learn<br>the difference in values from those dayS.<br>Very interestiNG!"
+    },
+    {
+      "type": "character",
+      "name": "Viscunam",
+      "avatar": "../char/viscunam.png",
+      "text": "Wait, don't just decide on your own!<br>I should be making a name for myself<br>with my inventions..."
+    },
+    {
+      "type": "character",
+      "name": "Sensettia",
+      "avatar": "../char/sensettia.png",
+      "text": "Alright, alright, don't sweat<br>the details! [Player],<br>time for you to go for it!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, everyone!"
+        },
+        {
+          "text": "I'll leave this to you!"
+        },
+        {
+          "text": "Transformation, all approved!!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] approves the heroes'<br>transformations, and confirms that the<br>observation has been passed on."
+    },
+    {
+      "type": "narrator",
+      "text": "And seeing off [Player], who immediately<br>runs off after Barrel and the others,<br>Roudin walks to the center of the stage."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "(The fear of having the form of your dreams<br>rejected, huh? I get it too, because I've been<br>dealing with it for a really long time.)"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "(If things had been a little different,<br>I might have become the same<br>as them... But...)"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin_b.png",
+      "text": "(To live with your head down,<br>just looking at the ground.<br>That kind of life can change.)"
+    },
+    {
+      "type": "character",
+      "name": "Roudin",
+      "avatar": "../char/roudin_b.png",
+      "text": "(When you're tired of looking down,<br>and you happen to look up,<br>there might be a hand reaching out to you.)"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "(...Ah, I see.<br>I finally get it, the meaning<br>of this Parallel Weapon.)"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "(I want to leave it all behind.<br>It's okay to be in pain, to look down.<br>The ground in front of me is colored...)"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "(The sky I happen to look up at is also colored,<br>and I can smile even for just a moment,<br>for just that one moment.)"
+    },
+    {
+      "type": "narrator",
+      "text": "And with a huge smile on his face,<br>Roudin's voice echoes<br>to the audience."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "To all our esteemed guests!<br>Sorry for getting you caught<br>up in a little trouble!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "That thing just now—<br>Was this stage's highlight!<br>A special guest!"
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "From here on out, this stage<br>will be on a simultaneous<br>broadcast with Fortina Pavilion."
+    },
+    {
+      "type": "character",
+      "name": "Roudin (Stella Link)",
+      "avatar": "../char/event_roudin.png",
+      "text": "It's a magical time for tonight only.<br>Until the very end, don't you dare miss it!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Roudin and the others take the stage,<br>and just as they're about to start<br>their brilliant show, at Fortina Pavilion—"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/amusementpark_night.png"
+    },
+    {
+      "type": "character",
+      "name": "Imposter Villain",
+      "avatar": "../char/imposterVillain.png",
+      "text": "<strong>GRRRRRRR!!</strong>"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and the others were<br>also facing the roaring<br>Imposter Villain head-on."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's really big up close..."
+        },
+        {
+          "text": "But we have to do something."
+        },
+        {
+          "text": "Are you two, alright?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I'll be fine!<br>Sorry, I can't say that for sure...<br>But—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Barrel-kun, Roudin-san,<br>and everyone I met here<br>believed in me."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "So, I want to give them back!<br>The memories of this event,<br>that everyone smiled and had fun with!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "You can do it, Turbak-san!<br>It's not about what's right for me,<br>because I just wanted to help those people..."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "So if that 'cool' is in your heart,<br>there's nothing you can't do~!!<br>I'm sure of it~!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Let's end this!"
+        },
+        {
+          "text": "We're going to have the best festival ever!"
+        },
+        {
+          "text": "Operation, start!"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "Battle Start"
+    },
+    {
+      "type": "note",
+      "text": "The following text is displayed right inside the battle,<br>so for the best experience, I'd recommend opening the game right beside it!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/battle_japanesestylestage_night.png"
+    },
+      {
+        "type": "character",
+        "name": "Sensettia",
+        "avatar": "../char/sensettia.png",
+        "text": "I ended up on stage in the heat of the moment,<br>but was this really a good idea...?"
+      },
+      {
+        "type": "character",
+        "name": "Viscunam",
+        "avatar": "../char/viscunam.png",
+        "text": "You dragged me out here against my will,<br>and you're saying that now, young lady?<br>Besides, you—"
+      },
+      {
+        "type": "character",
+        "name": "Viscunam",
+        "avatar": "../char/viscunam.png",
+        "text": "You're delivering your song to the universe,<br>aren't you? Don't tell me, a stage<br>like this got you on cold feet?"
+      },
+      {
+        "type": "character",
+        "name": "Sensettia",
+        "avatar": "../char/sensettia.png",
+        "text": "...Of course not!<br>Just watch me, I'll make every single guest say<br>my singing was the most exciting part!"
+      },
+      {
+        "type": "character",
+        "name": "Theoreol",
+        "avatar": "../char/theoreol.png",
+        "text": "Kukuku.<br>It's only a matter of time before<br>we take control of this eveNT."
+      },
+      {
+        "type": "character",
+        "name": "Sensettia",
+        "avatar": "../char/sensettia.png",
+        "text": "We're done with that topic.<br>And you, you can't<br>even get a joke right..."
+      },
+      {
+        "type": "character",
+        "name": "Theoreol",
+        "avatar": "../char/theoreol.png",
+        "text": "A homunculus joke, yeS!<br>A festival is about providing the extraordinary,<br>so I've adjusted my speech a littlE."
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "Haha!<br>If you've got that much stage presence,<br>you don't need my advice, so let's get going!"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "To all our guests!<br>Welcome to the Galaxy Carnival Expo<br>Special Stage!!"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "What begins here is a magical<br>time for tonight only, a joint performance<br>of festivals that connect the stars!!"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "Until the very last moment,<br>don't you dare miss it, okay?<br>It's showtime!!"
+      },
+      {
+        "type": "narrator",
+        "text": "[Trigger condition: Spectator Gauge filled to 50%]"
+      },
+      {
+        "type": "character",
+        "name": "Maculata",
+        "avatar": "../char/maculata.png",
+        "text": "My, it's getting exciting.<br>From here on, we'll be even more aggressive, shall we?<br>Everyone, are you ready?"
+      },
+      {
+        "type": "character",
+        "name": "Astosis",
+        "avatar": "../char/astosis.png",
+        "text": "Of course, Maculata-san.<br>The people of Clouge are watching, so we have<br>to make sure they enjoy it until the end."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Hehe, leave it to me!<br>We'll make this a stage that makes everyone<br>glad they came to this event!"
+      },
+      {
+        "type": "character",
+        "name": "Nessen (Masquerade)",
+        "avatar": "../char/event_nessen.png",
+        "text": "Well then, shall we go, everyone?<br>Let's show all our guests<br>our full hospitality!"
+      },
+      {
+        "type": "bg",
+        "bg": "../bg/lah/battle_halloweentown_night.png"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "Waha, as expected of Roudin-san!<br>ViewPower is rolling in~!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "Yes, it's really encouraging!<br>We have to do our best too!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "Barrel-kun, [Player]-kun.<br>In order for me to connect my thread,<br>their movements must be stopped first."
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "Leave it to me, Turbak-san~!<br>Let's wrap this up quickly and<br>get back to the super fun festival~!!"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Let's save those people..."
+          },
+          {
+            "text": "Let's end the festival with everyone smiling!"
+          },
+          {
+            "text": "Operation, start!"
+          }
+        ]
+      },
+      {
+        "type": "narrator",
+        "text": "[Trigger condition: Imposter Villain's HP falls below 50%]"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "Aaaall-right!!<br>That was pretty effective~!?"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "Turbak-san,<br>now's our chance~!<br>Let's finish it as cool as we can~!!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "I'll try!<br>Please, don't move...<br>Let us, connect and share!!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "Wha...!?<br>The thread was repelled...!"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "That black stuff is regenerating~!?<br>This is going to be pretty troublesome..."
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "Sorry, Barrel-kun.<br>Even though you've gave me a chance.<br>At this rate..."
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "No 'sorry' or 'impossible' right now~!<br>It's alright, we'll get another chance~!<br>Come on, let's keep attacking~!!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "B-But...<br>At this rate, the ViewPower..."
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "It's still fine!"
+          },
+          {
+            "text": "Roudin-san and the others are working hard, too!"
+          },
+          {
+            "text": "Focus on this for now!"
+          }
+        ]
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "You two... Thank you.<br>Alright, I'll count on you again!<br>This time, I'll definitely do it!"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "Hehe, leave it to me!<br>As Orient City's number one festival man, I'll make a<br>chance for you no matter how many times it takes~!!"
+      },
+      {
+        "type": "bg",
+        "bg": "../bg/lah/battle_japanesestylestage_night.png"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "(The stage is in its second half, huh?<br>Their situation...<br>Doesn't look like they're having an easy time.)"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "...Well now.<br>We need to get this place even more excited,<br>but what should I do?"
+      },
+      {
+        "type": "character",
+        "name": "Goro (Ghostwoods)",
+        "avatar": "../char/event_goro.png",
+        "text": "That's obvious, ain't it?<br>First, ya gotta do something<br>about that gloomy face."
+      },
+      {
+        "type": "character",
+        "name": "Flamier (Ghostwoods)",
+        "avatar": "../char/event_flamier.png",
+        "text": "Fufu, as Goro-sama says, first,<br>you have to enjoy yourself, Roudin-sama.<br>It's alright, because—"
+      },
+      {
+        "type": "character",
+        "name": "Flamier (Ghostwoods)",
+        "avatar": "../char/event_flamier.png",
+        "text": "You can create such a wonderful flower field!<br>All the guests down there,<br>they will definitely be captivated!"
+      },
+      {
+        "type": "character",
+        "name": "Goro (Ghostwoods)",
+        "avatar": "../char/event_goro.png",
+        "text": "O-Oh?<br>I feel like you went in a different direction halfway,<br>but that's pretty much it!"
+      },
+      {
+        "type": "character",
+        "name": "Lilac (Summer Nights)",
+        "avatar": "../char/event_lilac.png",
+        "text": "Ah, ahaha...<br>I'm sure you'll be fine, Roudin-san.<br>I believe in you."
+      },
+      {
+        "type": "character",
+        "name": "Lilac (Summer Nights)",
+        "avatar": "../char/event_lilac.png",
+        "text": "Roudin-san, your magic can make<br>people smile, again and again!"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "You guys... Haha.<br>Damn it, I was just about<br>to lose my role as a magician."
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "Just because my work has picked up a little,<br>I was thinking about unnecessary things.<br>...Remember, what it is that's most important."
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "I love magic!<br>I want to leave behind the best smiles<br>and memories with my stage!!"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "So please,<br>lend me your strength!"
+      },
+      {
+        "type": "narrator",
+        "text": "[Trigger condition: Spectator Gauge filled to 100%]"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "Alright, everyone!<br>On this festival on the moon,<br>the magical time is reaching its climax!!"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "To those who are enjoying the festival.<br>―And to those who aren't."
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "Now, this very moment.<br>The moment where you can forget everything and laugh.<br>Won't you grant me the privilege to deliver it to you?"
+      },
+      {
+        "type": "character",
+        "name": "Roudin (Stella Link)",
+        "avatar": "../char/event_roudin.png",
+        "text": "I'll show you a spectacular illusion<br>that will repaint the festival sky!<br>Come and take a good look!!"
+      },
+      {
+        "type": "bg",
+        "bg": "../bg/lah/battle_halloweentown_night.png"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "Wooooow!<br>That's a huge firework~,<br>Ta-ma-ya~!!"
+      },
+      {
+        "type": "note",
+        "text": "たーまやー (tamaya): a popular call for when fireworks are launched<br>it came from the time people shouted a brand name that they thought made the best fireworks<br>the two main competitors at the time were 玉屋 (Tamaya) and 鍵屋 (Kagiya)"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "A ton of ViewPower is coming in too~!<br>One more time, one more chance to take~!!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "This is the chance Roudin-san and everyone have given me.<br>This time... I'll connect them!<br>Please, [Player]-kun!!"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Roger!"
+          },
+          {
+            "text": "Operation, recommence!"
+          },
+          {
+            "text": "Let's go, you two!"
+          }
+        ]
+      },
+      {
+        "type": "narrator",
+        "text": "[Trigger condition: Imposter Villain's HP reaches 0%]"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "Alright!<br>Its movements stopped...!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "This time for sure...<br>I have to succeed!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "Everyone is counting on me.<br>I... I have to<br>bring happiness to everyone...!"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Turbak-san, calm down!"
+          },
+          {
+            "text": "It's okay if you fail!"
+          },
+          {
+            "text": "If it doesn't work, we'll just try again!"
+          }
+        ]
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "It's just as [Player]-san says~!<br>If this doesn't work,<br>it's totally fine~!!"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "No matter how many chances you need,<br>I'll make them for you~!<br>If it doesn't work once, try again!"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "If it doesn't work again,<br>we'll do it as many times as it takes!"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "And if it still doesn't work after that...<br>We'll do it all together~!!"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "Because a hero is someone<br>who stops at nothing until<br>they see their justice through~!!"
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "...Never stop, huh?<br>Thank you, Barrel-kun,<br>I've calmed down a little."
+      },
+      {
+        "type": "character",
+        "name": "Turbak",
+        "avatar": "../char/turbak.png",
+        "text": "This time for sure... No.<br>I'll try as many times as it takes!<br>Lend me your strength until the end!!"
+      },
+      {
+        "type": "character",
+        "name": "Barrel (Stella Link)",
+        "avatar": "../char/event_barrel.png",
+        "text": "—That's what I wanted to hear~!<br>Alright!!<br>Let's go, you two!!"
+      },
+      {
+        "type": "choice",
+        "options": [
+          {
+            "text": "Let's finish this, you two!"
+          },
+          {
+            "text": "Sending all my ViewPower!"
+          },
+          {
+            "text": "Let's end this right here!"
+          }
+        ]
+      },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/amusementpark_night.png"
+    },
+    {
+      "type": "character",
+      "name": "Imposter Villain",
+      "avatar": "../char/imposterVillain.png",
+      "text": "<strong>GRRRRRRR!!</strong>"
+    },
+    {
+      "type": "narrator",
+      "text": "Damaged in battle, the Imposter Villain's<br>black, sludge-like exterior<br>begins to peel off, little by little."
+    },
+    {
+      "type": "narrator",
+      "text": "And, at the moment it raises its arm<br>in a desperate swing,<br>a shadow slips into its range."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "Channnnnce~!<br>This is where we end it~!!"
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "—\"Surefire\"!<br>ZAP&SLAAAAAAAASH!!<br>Finiiiiiish~!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Responding to Barrel's shout,<br>thunder and lightning cover<br>Barrel's Parallel Weapon."
+    },
+    {
+      "type": "narrator",
+      "text": "And just like so,<br>it slashes through the sludge-like,<br>hardened exterior."
+    },
+    {
+      "type": "character",
+      "name": "Barrel (Stella Link)",
+      "avatar": "../char/event_barrel.png",
+      "text": "Turbak-san!<br>Now~!!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Roger!<br>[Player]-kun,<br>I need ViewPower!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Turbak-san, please!"
+        },
+        {
+          "text": "We're definitely saving them!!"
+        },
+        {
+          "text": "ViewPower, I'm giving it all to you!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I won't let these feelings be erased.<br>I'll connect them, share them!<br>I'll make sure they remain forever!!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "—'Heart-to-Heart'!<br>Filo di Unione!!"
+    },
+    {
+      "type": "narrator",
+      "text": "'LIVE@HERO' and Anonymous—<br>A massive amount of ViewPower from<br>Roudin and the others' simulcast stage."
+    },
+    {
+      "type": "narrator",
+      "text": "Poured into him all at once,<br>Turbak's staff-shaped Parallel<br>Weapon emits a dazzling light."
+    },
+    {
+      "type": "narrator",
+      "text": "And, a beautiful thread spun from the light<br>is released from the tip of the staff,<br>connecting the black shadow, Turbak, and [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It worked...!"
+        },
+        {
+          "text": "Thank you, Turbak-san!"
+        },
+        {
+          "text": "Now it's my turn...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "Let's go, [Player]-kun.<br>To the journey that connects people's dreams and memories.<br>...It will be okay."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak.png",
+      "text": "I'll guide your journey until the end.<br>So— No matter what happens.<br>Please, lend a hand to those people."
+    },
+    {
+      "type": "narrator",
+      "text": "With Turbak's smile,<br>[Player]'s vision<br>gradually fades to black."
+    },
+    {
+      "type": "narrator",
+      "text": "And, into their mind, the Imposter Villain—<br>The memories of the people connected<br>to the tangled paths began to flow."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/house.png"
+    },
+    {
+      "type": "character",
+      "name": "Kaibutsu",
+      "avatar": "../char/placeholder.png",
+      "text": "<strong>Pigyaaaa!!</strong>"
+    },
+    {
+      "type": "narrator",
+      "text": "The person I loved from the bottom of my heart,<br>my child, being devoured right in front of me.<br>My vision turned red, and when I came to my senses—"
+    },
+    {
+      "type": "narrator",
+      "text": "It was already over.<br>A hero rushed in, and the Kaibutsu was defeated.<br>Everyone forgot about my family, and returned to their daily lives."
+    },
+    {
+      "type": "character",
+      "name": "Lone Attacker",
+      "avatar": "../char/placeholder.png",
+      "text": "Why...!<br>Why.. am I made a hero!?"
+    },
+    {
+      "type": "narrator",
+      "text": "A little while after that, I found out<br>that I had awakened the ability to transform.<br>And then, the people around me—"
+    },
+    {
+      "type": "character",
+      "name": "Resident",
+      "avatar": "../char/placeholder.png",
+      "text": "Isn't that great!?<br>You lost your family to a Kaibutsu, right?<br>Now you can fight back against those Kaibutsu!"
+    },
+    {
+      "type": "character",
+      "name": "Resident",
+      "avatar": "../char/placeholder.png",
+      "text": "That's true!<br>Then, if we're attacked by a Kaibutsu,<br>you'll definitely protect us, right!?"
+    },
+    {
+      "type": "narrator",
+      "text": "...Why?<br>For what reason, do I have to fight?<br>I dream of that moment, over and over—"
+    },
+    {
+      "type": "narrator",
+      "text": "That fear from that time keeps coming back to me.<br>Sure, I may have the power to fight,<br>but I don't have the courage to fight."
+    },
+    {
+      "type": "narrator",
+      "text": "You don't even remember what was important to me.<br>Why do I have to fight?<br>Why do I have to protect you?"
+    },
+    {
+      "type": "narrator",
+      "text": "Why... for strangers who know nothing!<br>Because 'I'm a hero', because 'I can fight'.<br>Who are you to tell me I have to stand up for you!?"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/orientcitycenter.png"
+    },
+    {
+      "type": "character",
+      "name": "Stream Comment",
+      "avatar": "../char/placeholder.png",
+      "text": "'Hey, that new hero...<br>Isn't he kind of lame?'"
+    },
+    {
+      "type": "character",
+      "name": "Stream Comment",
+      "avatar": "../char/placeholder.png",
+      "text": "'Yeah, he seems kinda lackluster.<br>And his Parallel Weapon<br>is kind of plain, yea?'"
+    },
+    {
+      "type": "character",
+      "name": "Mercenary",
+      "avatar": "../char/placeholder.png",
+      "text": ".........<br>...Damn it!!"
+    },
+    {
+      "type": "narrator",
+      "text": "I had a dream.<br>To others, it might seem absurd.<br>But, it was my one and only dream."
+    },
+    {
+      "type": "narrator",
+      "text": "One day, that dream lent me its power.<br>My very own Parallel Weapon,<br>the form of my precious... dream."
+    },
+    {
+      "type": "character",
+      "name": "Lone Attacker",
+      "avatar": "../char/placeholder.png",
+      "text": "What do you even know about me!?<br>Don't you talk about my dream like that!<br>This dream of mine isn't your entertainment!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Because I had power, because I<br>thought my dream could help people.<br>I became a hero."
+    },
+    {
+      "type": "narrator",
+      "text": "My dream is judged by people over a stream.<br>They demand to see more of the form of<br>my dreams, because it entertains them."
+    },
+    {
+      "type": "narrator",
+      "text": "...What hero, what stream?<br>You don't even try to know<br>what my dream really is like."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/lah/outerspace.png"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "These are, the attackers' memory..."
+        },
+        {
+          "text": "I can't get swept away."
+        },
+        {
+          "text": "...Now, I have to focus."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Multiple memories flow into [Player],<br>with sadness and hatred so deep<br>they can almost be considered pain..."
+    },
+    {
+      "type": "narrator",
+      "text": "Focusing to not be consumed by them,<br>[Player] follows the memories,<br>untangles the paths, and closes them."
+    },
+    {
+      "type": "narrator",
+      "text": "And, after closing all the paths,<br>to return to reality, they follow<br>the thread in their hand."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "Good work, [Player]-kun!<br>I felt it too, the paths closing.<br>You're really an amazing person!"
+    },
+    {
+      "type": "narrator",
+      "text": "At the voice they had grown accustomed to<br>over the past few days, [Player] turns around.<br>In their line of sight—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...!?"
+        },
+        {
+          "text": "Turbak-san!!"
+        },
+        {
+          "text": "That form, what on earth..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "While you were tracing down those<br>people's dreams, I received a little<br>bit of the overwritten emotions."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "...I'm truly happy.<br>I was able to properly<br>guide you on your journey."
+    },
+    {
+      "type": "narrator",
+      "text": "There was Turbak, most of his body<br>being swallowed by the sludge-like<br>mass that had covered the attackers."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "Now, all that's left is to go back.<br>Just follow that thread,<br>it's connected to Barrel-kun!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Wait!"
+        },
+        {
+          "text": "There's no way I can go back!"
+        },
+        {
+          "text": "Turbak-san, what's going to happen to you?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "The same as those people.<br>...But, it's okay!<br>The heroes will handle the rest!"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "If the path is closed, this<br>black thing will disappear, right?<br>If that's the case, go back to reality..."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "...And then, defeat me.<br>That way, everyone can be happy!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...What, are you talking about?"
+        },
+        {
+          "text": "There's no way I can do that!"
+        },
+        {
+          "text": "That's not really happy."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "...It's fine.<br>Because, you see, I wished for it.<br>This dream that's enveloping me—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "That these people are sad,<br>that they hate the world, that they resent it.<br>That they want to erase everything."
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "I want to properly share<br>those kinds of feelings too.<br>...So, I'll take it all."
+    },
+    {
+      "type": "narrator",
+      "text": "His face swallowed, his expression unseen.<br>But even so, Turbak still laughs.<br>And then—"
+    },
+    {
+      "type": "character",
+      "name": "Turbak",
+      "avatar": "../char/turbak_b.png",
+      "text": "...This is fine, right?<br>I was a good boy until the end...<br>I made everyone happy, right...?"
+    },
+    {
+      "type": "narrator",
+      "text": "With those quiet, muttered words,<br>Turbak is completely swallowed,<br>and silence envelops the area."
+    }
+]
+  

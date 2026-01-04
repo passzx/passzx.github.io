@@ -1,0 +1,46 @@
+[
+      {
+        "type": "narrator",
+        "text": "And so, as they stared<br>at each other for some time,<br>Yohack spoke a little louder."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "[Player]-san!<br>With you on my back,<br>I want us to go even further!"
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "I'll speed up a bit, so<br>please put this on just in case!"
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Of course, I won't<br>drop you into the sea, though."
+      },
+      {
+        "type": "narrator",
+        "text": "Having said that, Yohack put the<br>life jacket he was wearing on [Player]."
+      },
+      {
+        "type": "narrator",
+        "text": "Then, he put [Player] on his back,<br>and started the jet ski."
+      },
+      {
+        "type": "character",
+        "name": "Yohack (Last Resort)",
+        "avatar": "../char/event_yohack.png",
+        "text": "Ehehe...!<br>Being able to watch fireworks with you like this,<br>I'm incredibly happy...!"
+      },
+      {
+        "type": "narrator",
+        "text": "[Player] and Yohack continued to enjoy the<br>fireworks while gliding across the sea."
+      },
+      {
+        "type": "narrator",
+        "text": "Where the two headed,<br>only the jet ski cutting<br>through the waves will ever know."
+      }
+]
