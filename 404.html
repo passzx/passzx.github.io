@@ -15,7 +15,7 @@
       (function() {
         var currentPath = window.location.pathname;
         if (currentPath.indexOf('/tl_project') !== -1) {
-          var newPath = currentPath.replace('/tl_project', '');
+          var newPath = currentPath.replace('/tl_project', '') || '/';
           window.location.replace(newPath + window.location.search + window.location.hash);
         } else {
           document.documentElement.classList.add('ready');
@@ -42,7 +42,7 @@
       </div>
       <div class="dialogue-box character-dialogue-box" data-character-name="Terminal" data-character-avatar="story/char/placeholder.png" style="display: flex;">
         <div class="character-avatar">
-          <img src="story/char/placeholder.png" alt="Terminal">
+          <img src="story/char/placeholder.png">
         </div>
         <div class="dialogue-content">
           <p class="character-name">Terminal</p>
@@ -51,7 +51,7 @@
       </div>
       <div class="dialogue-box character-dialogue-box" data-character-name="Terminal" data-character-avatar="story/char/placeholder.png" style="display: flex;">
         <div class="character-avatar">
-          <img src="story/char/placeholder.png" alt="Terminal">
+          <img src="story/char/placeholder.png">
         </div>
         <div class="dialogue-content">
           <p class="character-name">Terminal</p>
@@ -60,7 +60,7 @@
       </div>
       <div class="dialogue-box character-dialogue-box" data-character-name="?????" data-character-avatar="story/char/broker_b.png" style="display: flex;">
         <div class="character-avatar">
-          <img src="story/char/broker_b.png" alt="?????">
+          <img src="story/char/broker_b.png">
         </div>
         <div class="dialogue-content">
           <p class="character-name">?????</p>
@@ -69,16 +69,16 @@
       </div>
       <div class="dialogue-box character-dialogue-box" data-character-name="?????" data-character-avatar="story/char/broker_b.png" style="display: flex;">
         <div class="character-avatar">
-          <img src="story/char/broker_b.png" alt="?????">
+          <img src="story/char/broker_b.png">
         </div>
         <div class="dialogue-content">
           <p class="character-name">?????</p>
-          <p class="dialogue-text">Oh, PzTJ. <br>You aren't supposed to be here. </p>
+          <p class="dialogue-text">Oh, [Player]. <br>You aren't supposed to be here. </p>
         </div>
       </div>
       <div class="dialogue-box character-dialogue-box" data-character-name="?????" data-character-avatar="story/char/broker_b.png" style="display: flex;">
         <div class="character-avatar">
-          <img src="story/char/broker_b.png" alt="?????">
+          <img src="story/char/broker_b.png">
         </div>
         <div class="dialogue-content">
           <p class="character-name">?????</p>
