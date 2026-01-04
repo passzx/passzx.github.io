@@ -64,12 +64,6 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (window.innerWidth > 768 && sidebar.classList.contains('open')) {
             eventPageContent.classList.add('shifted');
         }
-        const pathname = window.location.pathname;
-        const parts = pathname.split('/');
-        const htmlFileNameWithExtension = parts[parts.length - 1];
-        const fileNameWithoutExtension = htmlFileNameWithExtension.split('.')[0];
-        const jsonPath = `./${fileNameWithoutExtension}.json`;
-        loadStory(jsonPath);
     });
 
     // reduce the length of the stuff I have to copy
@@ -172,6 +166,68 @@ document.addEventListener('DOMContentLoaded', () => {
     // debounce to avoid a bunch of bgs scrolling
     const debouncedCheckBackgroundScroll = debounce(checkBackgroundScroll, 200);
 
+    // sidebar content loading
+    async function loadSidebar() {
+        try {
+            const response = await fetch('./manifest.json');
+            if (!response.ok) return;
+            
+            const data = await response.json();
+            const listContainer = document.querySelector('.chapter-list');
+            
+            listContainer.innerHTML = '';
+
+            const urlParams = new URLSearchParams(window.location.search);
+            const currentChapter = urlParams.get('chapter');
+
+            // default
+            let titleFound = false;
+
+            data.forEach(group => {
+                if (group.category && !group.hidden) {
+                    const catLi = document.createElement('li');
+                    catLi.classList.add('chapter-category');
+                    catLi.textContent = group.category;
+                    listContainer.appendChild(catLi);
+                }
+
+                if (group.items) {
+                    group.items.forEach(item => {
+                        if (currentChapter === item.id) {
+                            document.title = item.pageTitle || item.title;
+                            titleFound = true;
+                        }
+
+                        if (group.hidden || item.hidden) {
+                            return; 
+                        }
+
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        
+                        a.href = `reader.html?chapter=${item.id}`;
+                        a.textContent = item.title;
+
+                        if (currentChapter === item.id) {
+                            a.style.fontWeight = 'bold';
+                            a.style.color = 'var(--accent-color)';
+                        }
+
+                        li.appendChild(a);
+                        listContainer.appendChild(li);
+                    });
+                }
+            });
+
+            if (!titleFound) {
+                document.title = "Story Reader"; 
+            }
+
+        } catch (error) {
+            console.error('Error loading sidebar manifest:', error);
+        }
+    }
+
     // story loading
     async function loadStory(jsonPath) {
       try {
@@ -198,7 +254,16 @@ document.addEventListener('DOMContentLoaded', () => {
                   dialogueBox = document.createElement('div');
                   dialogueBox.classList.add('dialogue-box');
                   dialogueBox.innerHTML = `<p style="font-size: 0.8em; opacity: 0.5; font-style: italic; text-align: center;">${displayText}</p>`;
-              } else if (item.type === 'title') {
+              } else if (item.type === 'image') {
+                dialogueBox = document.createElement('div');
+                dialogueBox.classList.add('dialogue-box', 'image-display-box');
+                let contentHtml = `<img src="${item.src}" style="width: 100%; height: auto; display: block; border-radius: 8px;">`;
+                if (item.note) {
+                    let displayNote = processTextForDisplay(item.note, playerName);
+                    contentHtml += `<p style="font-size: 0.8em; opacity: 0.5; font-style: italic; text-align: center; margin-top: 24px;">${displayNote}</p>`;
+                }
+                dialogueBox.innerHTML = contentHtml;
+            } else if (item.type === 'title') {
                 dialogueBox = document.createElement('div');
                   dialogueBox.classList.add('dialogue-box');
                   dialogueBox.innerHTML = `<p style="font-size: 1.5em; text-align: center;">${displayText}</p>`;
@@ -264,12 +329,28 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
 
-    const pathname = window.location.pathname;
-    const parts = pathname.split('/');
-    const htmlFileNameWithExtension = parts[parts.length - 1];
-    const fileNameWithoutExtension = htmlFileNameWithExtension.split('.')[0];
-    const jsonPath = `./${fileNameWithoutExtension}.json`;
+    const urlParams = new URLSearchParams(window.location.search);
+    const chapterId = urlParams.get('chapter');
 
+    let jsonPath;
+
+    if (chapterId) {
+        jsonPath = `./${chapterId}.json`;
+    } else {
+        // legacy support
+        const pathname = window.location.pathname;
+        const parts = pathname.split('/');
+        const htmlFileNameWithExtension = parts[parts.length - 1];
+        const fileNameWithoutExtension = htmlFileNameWithExtension.split('.')[0];
+        
+        if (fileNameWithoutExtension === 'index' || fileNameWithoutExtension === 'reader') {
+             jsonPath = './chapter-1.json';
+        } else {
+             jsonPath = `./${fileNameWithoutExtension}.json`;
+        }
+    }
+
+    loadSidebar();
     loadStory(jsonPath);
 
     window.addEventListener('scroll', debouncedCheckBackgroundScroll);
@@ -296,9 +377,5 @@ document.addEventListener('DOMContentLoaded', () => {
             alert('Nope. That cannot be empty.');
           }
         });
-    }
-
-    function processTextForDisplay(text, player) {
-      return text.replace(/\[Player\]/g, player);
     }
 });

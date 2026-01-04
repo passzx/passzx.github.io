@@ -1,0 +1,2084 @@
+[
+    {
+      "type": "narrator",
+      "text": "The giant monster's body,<br>bisected by Hydoor's ultimately refined blade,<br>began to crumble into pieces."
+    },
+    {
+      "type": "narrator",
+      "text": "A torrent of something, along with sparkling,<br>sand-like particles, gushed into the jet-black space."
+    },
+    {
+      "type": "narrator",
+      "text": "Aiming for that jet-black space—<br>The group leaped out into outer space, guided by [Player]'s observation."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "This is outside the universe..."
+        },
+        {
+          "text": "It's pitch black... but..."
+        },
+        {
+          "text": "That's the \"rift\"...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The surroundings were enveloped in darkness.<br>However, below them, there was indeed a vast space where the universe was exposed."
+    },
+    {
+      "type": "narrator",
+      "text": "With no reference point,<br>it was difficult to tell how far away it was,<br>or how large it was."
+    },
+    {
+      "type": "narrator",
+      "text": "—What was certain was that they could somehow<br>take in its entirety within their sight."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Travelers)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "...It's incredible...<br>I can't see anything, it's like the bottom of the ocean.<br>This is a terrifying place..."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Travelers)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "—R-right! From here...!<br>What do we do from here!?"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Travelers)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Well, [Player] closes the \"rift\",<br>and we return to our original universe, right?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...I think the order should be reversed.<br>Everyone can remain in this space—"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "Because my \"magic\" is forcibly securing a living space.<br>Outside this space is \"nothingness\", where even<br>the concept of time does not exist..."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "And my \"magic\"...<br>will probably become unusable the moment<br>the connection to the \"Endangered World\" is severed."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...In other words,<br>it would be better to secure a way back to<br>your original universe before closing the \"rift\"."
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "B-But...!<br>Didn't we say [Player] had to<br>find their original universe first?"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "[Player]...<br>Do you have any clues?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Clues..."
+        },
+        {
+          "text": "Speaking of which..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player]—<br>looked at ID Replica, who was circling around them."
+    },
+    {
+      "type": "narrator",
+      "text": "Something like a \"chain\" could be seen,<br>extending from [Player]'s body, in ID Replica's trajectory,<br>stretching endlessly into the distance."
+    },
+    {
+      "type": "narrator",
+      "text": "And ID Replica was constantly making a chirping sound."
+    },
+    {
+      "type": "character",
+      "name": "ID Replica",
+      "avatar": "../char/placeholder.png",
+      "text": "—■■■!<br>■■■■■■■■■!<br>■■■, ■■■■■!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The chirping sound could not be understood as language."
+    },
+    {
+      "type": "narrator",
+      "text": "However, by its gestures and the signal echoing in their head...<br>[Player] understood."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Is it telling me to grab on?"
+        },
+        {
+          "text": "Should I... grab on?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Travelers)",
+      "avatar": "../char/event_danzo.png",
+      "text": "—I see!<br>If this ID Replica is Exio's messenger...!"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Travelers)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "I don't know who this Exio is, but at any rate,<br>this thing belongs to an acquaintance, right!?"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "But... how do we grab onto this little guy?<br>Can all of us go?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "That... shouldn't be a problem.<br>In this space, the concept of weight also doesn't exist."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "As long as [Player]-sama<br>can grab onto that individual..."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "If you all grab onto each other, connected to [Player]-sama,<br>I think you'll manage."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] hesitantly reached out their hand<br>towards ID Replica's tail."
+    },
+    {
+      "type": "narrator",
+      "text": "The tip of its white, snake-like body,<br>which looked like a shed skin—<br>was slowly gripped."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "—I got it!"
+        },
+        {
+          "text": "Everyone, hold hands!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Hydoor's hand took [Player]'s hand,<br>Barte's hand took Hydoor's hand—"
+    },
+    {
+      "type": "narrator",
+      "text": "Danzo's hand took Barte's hand.<br>They connected one after another.<br>And then..."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Travelers)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Alright, Gnomon-kun!<br>Your hand!"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...!<br>Yes!"
+    },
+    {
+      "type": "narrator",
+      "text": "This time, without hesitation.<br>Gnomon grasped Danzo's hand.<br>Danzo smiled slightly."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "—[Player]-sama!<br>Please close the \"rift\"!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Understood!"
+        },
+        {
+          "text": "I'll do it!!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "While holding onto ID Replica—<br>[Player] focused on the \"rift\" in their sight."
+    },
+    {
+      "type": "narrator",
+      "text": "To close the \"rift\"...<br>They began to observe."
+    },
+    {
+      "type": "narrator",
+      "text": "...However.<br>That immensely vast path, with terrifyingly strong force,<br>resisted being closed."
+    },
+    {
+      "type": "narrator",
+      "text": "The Ether pumps,<br>released simultaneously with the monster's disintegration<br>and scattered outside the path—"
+    },
+    {
+      "type": "narrator",
+      "text": "Even as they broke down,<br>they seemed to be generating gravity towards the \"Endangered World\"<br>in an attempt to fulfill their function."
+    },
+    {
+      "type": "narrator",
+      "text": "Perhaps influenced by this,<br>ID Replica struggled and writhed,<br>unable to move forward easily."
+    },
+    {
+      "type": "character",
+      "name": "ID Replica",
+      "avatar": "../char/placeholder.png",
+      "text": "■■■...!<br>■■■...!<br>■■■■■!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Damn it, I can't close it...!"
+        },
+        {
+          "text": "Not enough power...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "—This is bad.<br>The cease command to the Ether pump...!<br>Connection timed out!"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "Is it the effect of the Ether pump's bonds breaking...!?<br>Damn it, re-logging in, attempting... hurry!"
+    },
+    {
+      "type": "narrator",
+      "text": "Gnomon attempted to re-login to the Ether pump's administration screen.<br>The other members could only watch, holding their breath."
+    },
+    {
+      "type": "narrator",
+      "text": "Amidst this, [Player] continued to observe...<br>but their spirit was gradually wearing down."
+    },
+    {
+      "type": "narrator",
+      "text": "Their vision began to blur,<br>and their consciousness, little by little,<br>faded away."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Th-this is bad..."
+        },
+        {
+          "text": "My consciousness is fading...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "—It was at that moment.<br>The terminal blared a deafening alarm."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Travelers)",
+      "avatar": "../char/event_danzo.png",
+      "text": "—! What!?<br>What is that sound!?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "This is... a notification from the battle observation app!?<br>But, even outside the universe like this...!"
+    },
+    {
+      "type": "narrator",
+      "text": "The alarm continued to blare.<br>Their vision instantly cleared.<br>The sensation was just like..."
+    },
+    {
+      "type": "narrator",
+      "text": "The sensation was very similar to that time when \"Observers\" connected in parallel, strengthening each other's observation intensity."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Th-this is...!?"
+        },
+        {
+          "text": "The number of \"Observers\" have increased...!?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "At that moment, the terminal displayed the<br>received video feed in front of the group."
+    },
+    {
+      "type": "narrator",
+      "text": "It was heavily distorted, and the audio was difficult to hear...<br>But it was unmistakably a communication from somewhere."
+    },
+    {
+      "type": "character",
+      "name": "King",
+      "avatar": "../char/alphecca.png",
+      "text": "—Hero—.<br>Please—our strength—<br>add to—it."
+    },
+    {
+      "type": "character",
+      "name": "Magic Shop Owner",
+      "avatar": "../char/hisaki.png",
+      "text": "I—was encouraged by—you—.<br>—The—power of each—person is weak but—"
+    },
+    {
+      "type": "character",
+      "name": "Guild Member",
+      "avatar": "../char/placeholder.png",
+      "text": "—If we connect, surely—<br>—it will become a powerful force—<br>Therefore—"
+    },
+    {
+      "type": "character",
+      "name": "Village Elder",
+      "avatar": "../char/marfik.png",
+      "text": "—Save—the world!!<br>I'm counting on you!!"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "H-His Majesty...!?<br>And—"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Travelers)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Aren't those the guys we met all over the place!?"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "I see some familiar faces, that guy was definitely an \"Observer\"!<br>So then...!"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...Are the \"Observers\" of that world<br>all observing the exposed \"rift\" together...!?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "But, the \"Observers\" of the<br>\"Endangered World\" all had weakened power...<br>So why...?"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Travelers)",
+      "avatar": "../char/event_danzo.png",
+      "text": "—It might be like the \"three arrows\" story.<br>Even if each one is weak alone, if they're bundled together,<br>they become strong enough."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Travelers)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Over a trillion people watched that battle.<br>If all the \"Observers\" among them are<br>watching the current sky and observing—"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Travelers)",
+      "avatar": "../char/event_danzo.png",
+      "text": "What do you think would happen if they were properly and<br>firmly bundled together with [Player] as the band leader...!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It would be an incredible observational ability!"
+        },
+        {
+          "text": "With this—we can do it!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] steadied their breath.<br>Once again, they began to close the \"rift\"."
+    },
+    {
+      "type": "narrator",
+      "text": "The \"rift,\" which had been repelling with tremendous force,<br>rapidly narrowed in size."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Guuuuuhhh...!!"
+        },
+        {
+          "text": "Close it—!!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The hole became the size of a speck in their vision.<br>At the same time—"
+    },
+    {
+      "type": "character",
+      "name": "ID Replica",
+      "avatar": "../char/placeholder.png",
+      "text": "—■■■■!<br>■■■■!!<br>■■, ■■■!!"
+    },
+    {
+      "type": "narrator",
+      "text": "ID Replica began to move with great vigor."
+    },
+    {
+      "type": "narrator",
+      "text": "The pea-sized world, whether it was moving away or shrinking,<br>was indistinguishable, but it was gradually becoming invisible."
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "...Thanks, everyone.<br>Take care..."
+    },
+    {
+      "type": "narrator",
+      "text": "They were already beginning to lose sight of each other.<br>However, Barte certainly bid them farewell."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...!<br>........."
+    },
+    {
+      "type": "narrator",
+      "text": "As it entered Gnomon's ears, various images instantly replayed in his mind."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "—Gnomon.<br>You must have felt lonely, didn't you?<br>But... it's alright now."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "I'll be taking care of you from now on.<br>You could say I'm your master."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "...Well. You can think of me like a parent.<br>Nice to meet you."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "Hmm... Gnomon.<br>You tend to be too afraid of everyone else besides me."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "It's alright. Outsiders aren't as cold to you as you fear.<br>So... relax."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "...You've really come into your own.<br>I've grown quite old too.<br>Perhaps it's time for you to take over."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "—Just kidding.<br>Hahahaha, don't look like you're about to cry.<br>I'm not going yet."
+    },
+    {
+      "type": "narrator",
+      "text": "Those were memories of the \"Endangered World\",<br>spent with his late master.<br>And..."
+    },
+    {
+      "type": "character",
+      "name": "King",
+      "avatar": "../char/alphecca.png",
+      "text": "...The previous Lord Korphen was indeed a magnificent \"Great Wizard\".<br>Truly... a regrettable loss."
+    },
+    {
+      "type": "character",
+      "name": "King",
+      "avatar": "../char/alphecca.png",
+      "text": "However... if you are here, having surely inherited his will, then I am at ease.<br>Fulfill the mission entrusted to you... without fail."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": ".........<br>Ah..."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/placeholder.png",
+      "text": "With your wisdom—<br>You will surely be able to live strongly, no matter what choice you make."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon's Master",
+      "avatar": "../char/rutilix.png",
+      "text": "So...<br>Even if you go to a different world, you'll surely be fine.<br>Live well."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "Ah... Ah...<br>Ahhh...!"
+    },
+    {
+      "type": "narrator",
+      "text": "His eyes blurred, and tears overflowed.<br>Gnomon cried out his master's name.<br>However—"
+    },
+    {
+      "type": "narrator",
+      "text": "Before that sound could fully resonate—<br>The \"rift\" closed.<br>And nothingness enveloped everything."
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": ".........<br>........."
+    },
+    {
+      "type": "narrator",
+      "text": "—The \"Broker\" released his hand from the<br>glowing orb he had been holding, and let out a sigh."
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": "...Honestly.<br>As expected, a warning is necessary."
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": "Even though it had been almost like squeezed pulp,<br>and I had squeezed the production and collection cycle to its minimum—"
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": "They led such a universe back to recovery.<br>That's commendable... but, it shouldn't have been left unchecked."
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": "They don't seem to understand their own preciousness at all..."
+    },
+    {
+      "type": "narrator",
+      "text": "The \"Broker\" pondered for a moment, then began to call someone.<br>However, the other party showed no sign of responding."
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": ".........<br>What method did they use?"
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": "Without my intervention...<br>How did they outsmart the surveillance of \"that monster\"?"
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": "...Did they use the \"barrier\" I prepared?<br>Or..."
+    },
+    {
+      "type": "character",
+      "name": "Mysterious Man",
+      "avatar": "../char/broker.png",
+      "text": "...Either way, it's utterly cunning.<br>As expected, you are... well worth observing."
+    },
+    {
+      "type": "title",
+      "text": "Finale:<br> The One Who Regenerates the World"
+    },
+    {
+      "type": "character",
+      "name": "Announcer",
+      "avatar": "../char/placeholder.png",
+      "text": "—We repeat, for your information.<br>This event has been canceled due to a disaster caused by Ether turbulence."
+    },
+    {
+      "type": "character",
+      "name": "Announcer",
+      "avatar": "../char/placeholder.png",
+      "text": "Please confirm your personal safety and promptly exit the venue,<br>following the instructions of the guides.<br>For ticket refunds..."
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "—Your Majesty!<br>Due to the emergency, I apologize for having to transmit<br>the report from the Cavalry Captain via communication!"
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "All divisions, all personnel and draconic riders have been confirmed safe.<br>Only a few individuals sustained minor injuries."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "—Hmm. Good work on the transmission, Rutilix.<br>...With this, all safety reports are in."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "It seems fortunate that the opened path was facing the stadium.<br>It's most important that there were no casualties among the spectators."
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "...Yes.<br>But..."
+    },
+    {
+      "type": "narrator",
+      "text": "King Alphecca of the Aradisia Kingdom surveyed the venue,<br>where most of the audience had already left, leaving only the heroes and staff."
+    },
+    {
+      "type": "narrator",
+      "text": "Although the temporary stadium's upper tiers of seating were mostly undamaged,<br>the stage where the heroes and knights had stood was—"
+    },
+    {
+      "type": "narrator",
+      "text": "Destroyed as if scooped out from its center,<br>having been drawn into the path that appeared for approximately one minute."
+    },
+    {
+      "type": "narrator",
+      "text": "Alphecca averted his gaze from that section,<br>which had become a pile of rubble with exposed steel frames."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "In the end...<br>The only casualties were [Player]<br>and two heroes who went missing, huh."
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "...My lord,<br>I can't believe that person<br>would be caught in such an accident."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...I am deeply sorry.<br>It was due to our company's Operator<br>intervening in the observation at that location."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "—No. There is no need for you to apologize.<br>Ether turbulence is a natural disaster in the first place; no one is to blame."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "...Moreover.<br>The Operators of each company<br>and our country's wizard corps all agree."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "Anyone in such a situation would instinctively<br>take actions like [Player]... so they say."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "In other words...<br>[Player] acted correctly as an Operator.<br>That should rather be praised."
+    },
+    {
+      "type": "narrator",
+      "text": "Alphecca said that, then lowered his eyebrows and sighed."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "...I understand your worries all too well.<br>To think that [Player]... would go missing."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": ".........<br>Yes... I've also contacted experts in various fields..."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "...[Player], Danzo.<br>There's no way they won't come back, right...?"
+    },
+    {
+      "type": "character",
+      "name": "Polaris Mask",
+      "avatar": "../char/polaris_mask.png",
+      "text": "Hey, don't say ominous things!<br>It's [Player], you know?<br>They'll surely find a way to come back!"
+    },
+    {
+      "type": "character",
+      "name": "Polaris Mask",
+      "avatar": "../char/polaris_mask.png",
+      "text": "...Hydoor's a tough guy too!<br>There's no way he'd just disappear and be done with it."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "...I share the same desire to believe.<br>We know the strength of those three.<br>They will surely return safely."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "Has it really only been an hour...<br>since then?<br>It feels so long."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": ".........<br>........."
+    },
+    {
+      "type": "narrator",
+      "text": "Disregarding the anxious heroes, Exio remained silent,<br>simply staring intently at the sky."
+    },
+    {
+      "type": "narrator",
+      "text": "Occasionally, furrowing his brow,<br>as if concentrating on something."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": ".........<br>Exio-sama...<br>Did you see something...?"
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": ".........<br>—They're coming."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Eh... \"Coming\"?<br>What on earth—...!?<br>This fluctuation of Ether...!"
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "What's wrong, both of you!?<br>Could it be...!!!"
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "—I don't know.<br>I don't know, but...<br>A path is about to open...!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "H-huh...?"
+        },
+        {
+          "text": "What happened...?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Before they knew it, their eyelids had closed.<br>[Player] slowly opened their eyes.<br>Then—"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player]'s body was in the clear blue sky."
+    },
+    {
+      "type": "narrator",
+      "text": "To their right was Danzo, holding them.<br>Looking around from that point..."
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "—Oh, come on.<br>This development again...?"
+    },
+    {
+      "type": "narrator",
+      "text": "A sky crisscrossed by many bands of light—satellite bands.<br>A desolate plain, and the distant royal castle."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] and the others were...<br>falling from the sky above a place that seemed to be the Aradisia Kingdom."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Whoa, whoa, we're falling, we're falling!!"
+        },
+        {
+          "text": "ID Replica... isn't here!?"
+        },
+        {
+          "text": "I wonder if we made it back!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo",
+              "avatar": "../char/danzo.png",
+              "text": "I don't know, but...!<br>Anyway, why are we in the sky again!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "—That's right, everyone!<br>What about everyone else who was with us...!?"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "A-ahhhhhhh!!?<br>Why is it like this again!!?<br>H-Help meee!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Looking towards the voice,<br>they saw Hydoor desperately clinging to<br>Danzo's right leg with only his grip strength."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hydoor!"
+        },
+        {
+          "text": "Hy-kun!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "Damn it...!<br>You, I'm really gonna hit you a few times later...!"
+            }
+          ]
+        },
+        {
+          "text": "Alright, one person down, OK!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Oh, he's there again.<br>Well, Hydoor's fine.<br>And the others..."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "Whoaaaaaaaah!!!<br>We're... falling!!!"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "Whoaaaaaaaaah!!!<br>This is bad, this is bad, this is bad!!<br>Help meee!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Hanging below Hydoor...<br>Gnomon and Barte.<br>Their respective figures were there."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Gnomon-kun!"
+        },
+        {
+          "text": "Barte!"
+        },
+        {
+          "text": "Thank goodness, both are safe!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Hey...!<br>You guys are heavy!!<br>My body's going to tear apart...!?"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Gnomon!<br>You, what about your so beloved \"magic\"!?<br>You can fly, can't you!?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "B-Because...<br>I'm trying, but!<br>I can't use \"magic\"!"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "I can't connect to the \"grimoire\"...<br>F-First, I need to calm down.<br>If this continues, it will truly be over.<br>We'll just die."
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "You're kidding me!?<br>After all the trouble of flying across worlds again,<br>is this the end for us!?"
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Alright, alright! Geez, fine!<br>Everyone, climb up my body!<br>Starting from Barte-chan at the very bottom!"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "O-oh...!<br>Danzo, you have a plan, don't you!?<br>As expected...!!"
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Nope, not at all.<br>Just that I'm used to high-altitude landings, so there's a slim chance."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "A slim chance, you say...!?<br>Have you ever landed while carrying this many people!?"
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Eh, absolutely zero.<br>Actually, it's probably over capacity."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "You idiot, be dependable until the very end, don't mess around!<br>Damn it... I'm really counting on you!!"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] held in front of him, Barte on his right shoulder, Gnomon on his left shoulder.<br>And Hydoor on his back."
+    },
+    {
+      "type": "narrator",
+      "text": "Danzo descended while carrying four people.<br>The scenery on the ground gradually approached."
+    },
+    {
+      "type": "narrator",
+      "text": "It was a wasteland—<br>right nearby, there was a familiar stadium,<br>clearly temporary at a glance."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Almost at the ground...!"
+        },
+        {
+          "text": "I'm counting on you, Danzo!"
+        },
+        {
+          "text": "That being there means...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "—Alright, time to land, ladies and gentlemen!<br>Brace for impact!!"
+    },
+    {
+      "type": "narrator",
+      "text": "—A few moments after the call.<br>Danzo landed on the ground with a sound like a bomb exploding."
+    },
+    {
+      "type": "narrator",
+      "text": "I involuntarily closed my eyes from the rising dust<br>and the impact reverberating through my arms.<br>Then, slowly, as I opened my eyes..."
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "...Ah, yeah, I give up.<br>Sorry, but I can't do this anymore."
+    },
+    {
+      "type": "character",
+      "name": "Everyone",
+      "avatar": "../char/placeholder.png",
+      "text": "Whoa—!?"
+    },
+    {
+      "type": "narrator",
+      "text": "As Danzo lost his balance, he collapsed in a heap.<br>The five of them tumbled over, tangled together."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ow, ow, ow..."
+        },
+        {
+          "text": "Danzo, are you okay...?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo",
+              "avatar": "../char/danzo.png",
+              "text": "Y-Yeah, I'm fine... no worries.<br>But I guess I found out that even I'm not built to carry four people."
+            }
+          ]
+        },
+        {
+          "text": "I-Is this... our original world?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Gnomon",
+              "avatar": "../char/gnomon.png",
+              "text": "...I don't know.<br>At least, \"magic\"<br>doesn't seem to be usable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "Those bands in the sky... I've seen them before.<br>I just can't remember the name..."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Satellite bands...<br>It was common in the world we came from..."
+    },
+    {
+      "type": "character",
+      "name": "???",
+      "avatar": "../char/placeholder.png",
+      "text": "—No doubt about it!<br>It's [Player] and the others!!"
+    },
+    {
+      "type": "character",
+      "name": "???",
+      "avatar": "../char/placeholder.png",
+      "text": "Heeeyyyy!!!<br>Are you alright!!!!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Many voices, footsteps.<br>Gradually getting closer.<br>They were all familiar voices."
+    },
+    {
+      "type": "narrator",
+      "text": "And the people who appeared from beyond the wilderness—<br>Surrounded [Player] and the others."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Everyone!!"
+        },
+        {
+          "text": "They called my name, that means...!"
+        },
+        {
+          "text": "We're home!!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "Whoaahhh!!<br>I'm so glad you're safe!!!<br>I was worried about you, [Player]!!!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Before everyone else could gather,<br>Ryekie lifted [Player] up and hugged them tightly."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ryekie-san, it hurts, it hurts!!"
+        },
+        {
+          "text": "Ahhh, I'm numb!!"
+        },
+        {
+          "text": "This feeling of happiness... it's definitely real."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Polaris Mask",
+      "avatar": "../char/polaris_mask.png",
+      "text": "You, Justice!<br>That's sly!! ...No,<br>this isn't the time to be saying that!"
+    },
+    {
+      "type": "character",
+      "name": "Polaris Mask",
+      "avatar": "../char/polaris_mask.png",
+      "text": "I believed you guys weren't the kind to die so easily...<br>And sure enough! Heheh."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "...Hah, of course.<br>You can't underestimate our tenacity."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "Seriously, I was worried!<br>No one knew if you'd be able to come back or not...!"
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Ah-ah, come on, reXer-chan!<br>Wipe your tears, you're ruining your handsome face!<br>...Sorry for making you worry, I'm home."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "—Ryekie.<br>Shouldn't you let go soon?<br>[Player] also looks uncomfortable."
+    },
+    {
+      "type": "character",
+      "name": "Ryekie",
+      "avatar": "../char/ryekie.png",
+      "text": "Ah, ah, my apologies!!<br>My emotions got the better of me, I just...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Released by Ryekie and set down,<br>before them stood the Parallel Flight Inc.'s<br>Aradisia expedition team."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...Welcome back. It must have been very difficult,<br>but I'm glad you found a way to return."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "Seriously... I was so worried.<br>I kept thinking, if only I had done things properly,<br>this wouldn't have happened..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...I'm home!"
+        },
+        {
+          "text": "I apologize for making you worry, President.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Huckle",
+              "avatar": "../char/huckle.png",
+              "text": "No, it couldn't be helped.<br>It's not something you should apologize for at all."
+            }
+          ]
+        },
+        {
+          "text": "Melide, I'm sorry for making you anxious.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Melide",
+              "avatar": "../char/melide.png",
+              "text": "No... it's okay.<br>[Player] is back, so I'm happy right now..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "—Exio-sama, you see.<br>He went to search, thinking he might be able to find them..."
+    },
+    {
+      "type": "character",
+      "name": "Melide",
+      "avatar": "../char/melide.png",
+      "text": "And then, Exio-sama also stopped saying anything.<br>I wondered what would happen."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Exio-san..."
+        },
+        {
+          "text": "Ah, as I thought."
+        },
+        {
+          "text": "Thank you for coming to meet us.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Exio",
+              "avatar": "../char/exio.png",
+              "text": ".........<br>You really are a handful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Exio sighed deeply and grumbled discontentedly."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "You are my \"anchor\",<br>so what do I do when you disappear from this world?<br>I'm at a loss to understand."
+    },
+    {
+      "type": "character",
+      "name": "Exio",
+      "avatar": "../char/exio.png",
+      "text": "...It seems I need to teach you about<br>path control once again."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "S-Sorry..."
+        },
+        {
+          "text": "Couldn't you be a little kinder!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Exio",
+              "avatar": "../char/exio.png",
+              "text": "—Oh, was that necessary?<br>But, yes. You must be quite exhausted."
+            },
+            {
+              "type": "character",
+              "name": "Exio",
+              "avatar": "../char/exio.png",
+              "text": "I suppose I can offer a free treatment as a token of appreciation.<br>...Just this once, as a special favor."
+            }
+          ]
+        },
+        {
+          "text": "Ah, so that's why it looked like a \"chain\"."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "...Hey, Gnomon.<br>What should I do, I can't understand<br>anything they're saying over here...?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "Ah... was it the same for you, Barte-sama...?<br>It's no wonder, given how long you've been living over there."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "The translation function—seems to be working.<br>This app was standalone, it seems...<br>That's good."
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "Oh, so it seems like we can manage somehow...!?<br>Help me adjust it, I'm really in trouble like this!"
+    },
+    {
+      "type": "narrator",
+      "text": "While [Player], Danzo, and Hydoor were surrounded,<br>the two of them whispered, operating their mobile devices."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Oh, by the way...<br>[Player]-kun.<br>Who are these two?"
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I was told that only... the three of you<br>were missing, wasn't I?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ah, no, well, a lot happened..."
+        },
+        {
+          "text": "These two are..."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Just as [Player] was about to introduce the two,<br>more people appeared with shouts."
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "—Oh, [Player]!<br>And you, Heroes!<br>Well done on your return!"
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "I was wondering what would happen,<br>[Player]-dono! Your safe return<br>is truly a blessing!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Your Majesty!"
+        },
+        {
+          "text": "Rutilix!"
+        },
+        {
+          "text": "Oh, right! That tournament...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Alphecca",
+              "avatar": "../char/alphecca.png",
+              "text": "...No, it's nothing for you to worry about.<br>It was all an accident caused by a natural disaster.<br>Your return, above all else, is the greatest fortune."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Your Majesty...!?<br>Are your duties already finished?<br>Weren't you detained by the Minister earlier?"
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "Ah, it's fine. I obtained permission.<br>The senior cavalryman who rushed out first—"
+    },
+    {
+      "type": "character",
+      "name": "Alphecca",
+      "avatar": "../char/alphecca.png",
+      "text": "Because I had a reason to bring this Rutilix back."
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "Y-Your Majesty!?<br>Did you use me as an excuse again!?<br>Oh, I'm afraid to go back...!"
+    },
+    {
+      "type": "character",
+      "name": "Polaris Mask",
+      "avatar": "../char/polaris_mask.png",
+      "text": "Hahaha! That's good,<br>that reckless impulsiveness of yours!<br>It reminds me of when I was a kid, I like it!"
+    },
+    {
+      "type": "character",
+      "name": "Polaris Mask",
+      "avatar": "../char/polaris_mask.png",
+      "text": "Hey, are you interested in mixed martial arts?<br>With that youth and guts, and extraordinary durability!<br>I think you could aim for the top even now!"
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "W-What are you saying!?<br>I take pride in being a knight,<br>I have no intention of considering another path!"
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "This Rutilix Sol Korphen!<br>Until I become a splendid knight, I will single-mindedly<br>advance along the path of knighthood!!"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...Eh?<br>Kor... phen...?"
+    },
+    {
+      "type": "narrator",
+      "text": "Gnomon, who had been adjusting the translation language while holding his hand to his ear,<br>had just finished adjusting it when—"
+    },
+    {
+      "type": "narrator",
+      "text": "His eyes widened at the name of the lion before him,<br>which had just reached his ears."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Gnomon...?"
+        },
+        {
+          "text": "What's wrong?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "—Hm, [Player]-dono?<br>And this person? From what I see,<br>they appear to be a lion as well..."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...Not just the family name.<br>That fur, those patterns...<br>He's young, but... could it be..."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "......<br>Uncle...?"
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "......<br>Huh...?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh...!?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "—A few days after the commotion on Planet Endaira.<br>Planet Garunderra."
+    },
+    {
+      "type": "narrator",
+      "text": "In front of a blacksmith's workshop in a village at the foot of a mine..."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "......<br>......"
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran, the master of the workshop—<br>stood motionless, as if speechless."
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "......<br>......"
+    },
+    {
+      "type": "narrator",
+      "text": "His disciple, standing before him—<br>looked away and fell silent."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor, Gnomon, Danzo, Huckle, reXer",
+      "avatar": "../char/placeholder.png",
+      "text": "......<br>......"
+    },
+    {
+      "type": "narrator",
+      "text": "A strangely awkward atmosphere.<br>The group accompanying this reunion<br>involuntarily fell silent."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "U-Um..."
+        },
+        {
+          "text": "Someone, say something...?"
+        },
+        {
+          "text": "It's supposed to be a miraculous reunion..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": ".........<br>A-about that..."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": ".........<br>W-where..."
+    },
+    {
+      "type": "narrator",
+      "text": "—At that moment.<br>Ganran's hand, which had finally opened his mouth,<br>began to tremble."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Where in the world have you been,<br>you idiotic apprentice!!"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "—What!?<br>Huh!?"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "You just vanished into thin air,<br>and now you're back with such a fuss,<br>involving all these people!!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Iron Law, number one!!<br>Wipe your own ass!!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "If you're going to call yourself my apprentice,<br>you should naturally uphold it, shouldn't you!?<br>Don't you dare say you forgot!!"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "...! Is that the first thing you're going to say!?<br>It's not like I wanted to be sent to another world!"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "I didn't know how to get back,<br>or what to say when I returned, I didn't know anything!"
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "You don't even understand that!?<br>That's what happens when you're so rigid with your \"rules\", \"rules\"!"
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": "Huh!? She said it!<br>An apprentice acting all high and mighty!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Shouts exchanged between master and disciple.<br>The atmosphere was filled with hostility as they hurled sharp words at each other."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "H-Hey, hey!?<br>Why is the mood like this!?<br>Ganran-san...!?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "Um... don't you think we should stop them?<br>It's such a rare reunion..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Y-Yeah..."
+        },
+        {
+          "text": "Hey, both of you, that's enough—"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Let them be.<br>That's how those kinds of people are,<br>they won't be satisfied until they've said everything they want to say."
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Exactly.<br>If they argue for a while, it'll naturally...<br>—See?"
+    },
+    {
+      "type": "narrator",
+      "text": "At that moment, Ganran,<br>who had been continuously hurling insults,<br>hugged Barte tightly."
+    },
+    {
+      "type": "character",
+      "name": "Ganran",
+      "avatar": "../char/ganran.png",
+      "text": ".........<br>You really made me worry.<br>...I'm glad you came back."
+    },
+    {
+      "type": "narrator",
+      "text": "Ganran smiled, with tears welling in his eyes, at an angle that Barte couldn't quite see."
+    },
+    {
+      "type": "character",
+      "name": "Barte",
+      "avatar": "../char/barte.png",
+      "text": "Ga-Ganran...<br>...Ah, ah...!<br>I'm home...!"
+    },
+    {
+      "type": "narrator",
+      "text": "Barte, too—<br>smiled with tears in her eyes and hugged him back."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "...That's good.<br>It was worth the long journey."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yes... truly."
+        },
+        {
+          "text": "I'm glad we could reunite them."
+        },
+        {
+          "text": "I'm about to cry from this too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "...This also seems to be<br>another case closed, huh?<br>Glad to hear it."
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Oh, well... I'll have to go pay a visit<br>to that grumpy face tomorrow.<br>His words were already prickly on the phone."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "Even so...<br>Tenma-sensei was, after all,<br>worried about you, wasn't he?"
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "...I knooow.<br>It's precisely because that Master<br>requested it that I'm here now, you see."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "...I guess I'll go visit the prison sometimes.<br>I haven't seen the boss' face in a long time."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "And while I'm at it... the grumpy faces<br>of my clan, too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You do care about them, after all.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "My pirate companions, that is!<br>...As for my clan, that's just<br>a side trip, a side trip."
+            }
+          ]
+        },
+        {
+          "text": "It was thanks to your pirate days that you could transform.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "...Yeah. I was reminded anew that<br>those people made me who I am today."
+            }
+          ]
+        },
+        {
+          "text": "Give my regards to the boss.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "No, what should I even tell him?<br>You don't even know him... Well.<br>I'll tell him you said hello."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...It's truly good that everyone<br>could return to where they belong."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Gnomon, what are you going to do?"
+        },
+        {
+          "text": "You can't use magic, right?"
+        },
+        {
+          "text": "As expected... you probably can't go home."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...For a while, I've decided to<br>be taken care of in the Aradisia Kingdom<br>of this world."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "The \"King\" here—Alphecca-sama, was very interested<br>in my background and \"magic\", so I humbly accepted his offer."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...Furthermore, the Korphen family of this world<br>also insisted that I live with them."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "So I'll be staying as a guest until I save up some money...<br>Rutilix-sama was quite confused, though."
+    },
+    {
+      "type": "character",
+      "name": "Rutilix",
+      "avatar": "../char/rutilix.png",
+      "text": "Wh-What's going on...!?<br>Our family, a long line of knights, and now a mage?<br>Me... resembling your uncle... huh!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's good to hear!"
+        },
+        {
+          "text": "You won't have to worry about food, clothing, or shelter then."
+        },
+        {
+          "text": "It's okay to rely on your \"uncle.\"",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Gnomon",
+              "avatar": "../char/gnomon.png",
+              "text": "No... although I called him that then,<br>I heard his name is different and he's younger than me.<br>Ultimately, I don't know..."
+            },
+            {
+              "type": "character",
+              "name": "Gnomon",
+              "avatar": "../char/gnomon.png",
+              "text": "...But, he is still a relative, and it's a good connection.<br>I intend to do my best to repay him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "I see... His Majesty would certainly be<br>very interested in someone with your special skills.<br>I'm relieved."
+    },
+    {
+      "type": "character",
+      "name": "Huckle",
+      "avatar": "../char/huckle.png",
+      "text": "However, if I recall correctly...<br>You can no longer use \"magic\", can you?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...I investigated thoroughly, and it's more accurate<br>to say that I can \"mostly\" no longer use it.<br>Since I can no longer connect to the database..."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "The small amount remaining in my memory.<br>Roughly 0.4% of the total.<br>That is the \"magic\" I can currently use."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "99.6% is unusable..."
+        },
+        {
+          "text": "So you can still use a little, at least."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "Yes. Even so... the things I can use<br>seem to be only those that can be achieved with<br>very common technology in this world."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Won't that be pretty inconvenient?<br>After all, you've relied on it to live, haven't you?"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "...Certainly, it might be inconvenient for a while.<br>However, I came to this world of my own free will."
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "To find things that can be utilized<br>as \"magic\" from developing science,<br>and to build the \"grimoire\" myself—"
+    },
+    {
+      "type": "character",
+      "name": "Gnomon",
+      "avatar": "../char/gnomon.png",
+      "text": "I think living such a life might be enjoyable.<br>So... I'll be fine."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "...I see.<br>Well, your life is your own.<br>If you can enjoy it, that's all that matters."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "...However. Now that it's over,<br>I can say this. As a gamer,<br>I'm a little envious."
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "Appointed as a \"Hero\", forming a party with mages and warriors,<br>a grand adventure to save the world, right?"
+    },
+    {
+      "type": "character",
+      "name": "reXer",
+      "avatar": "../char/reXer.png",
+      "text": "It's seriously a classic fantasy world.<br>It's something you rarely get to experience, you know?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So, reXer, want to go next?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "reXer",
+              "avatar": "../char/reXer.png",
+              "text": "Eh...!?<br>N-No, I'm good!!<br>That kind of thing is only for games!!"
+            }
+          ]
+        },
+        {
+          "text": "It was really tough, you know!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "reXer",
+              "avatar": "../char/reXer.png",
+              "text": "I-I know!!<br>That's why I said<br>\"now that it's over\"!!"
+            }
+          ]
+        },
+        {
+          "text": "Now that you mention it, it was an amazing experience."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo",
+      "avatar": "../char/danzo.png",
+      "text": "Haha. Now, it's just a good story to tell!<br>Well then... let's go home too."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Yeah...<br>To the place where the<br>people waiting for us are."
+    },
+    {
+      "type": "narrator",
+      "text": "Having witnessed the regeneration of one bond,<br>each person returned to their own place,<br>bound by their own bonds."
+    },
+    {
+      "type": "narrator",
+      "text": "Even if it meant crossing universes,<br>with the strong bonds that were never broken<br>as their guiding light."
+    },
+    {
+      "type": "narrator",
+      "text": "—The \"Formerly Endangered World\".<br>A world under reconstruction, having escaped the crisis of destruction,<br>and now enjoying peace."
+    },
+    {
+      "type": "narrator",
+      "text": "The remnants of the Ether pump,<br>which had extensively collapsed and would never recombine,<br>occasionally rained down on the planet as shooting stars."
+    },
+    {
+      "type": "character",
+      "name": "Traveler",
+      "avatar": "../char/placeholder.png",
+      "text": "Fufufufu~n,<br>Fuhfuhfuh~n!"
+    },
+    {
+      "type": "narrator",
+      "text": "A traveler journeying across a certain plateau<br>on Planet Endaira<br>hummed a cheerful tune."
+    },
+    {
+      "type": "narrator",
+      "text": "It was—a song left behind by the Heroes<br>who saved this world during their journey."
+    },
+    {
+      "type": "narrator",
+      "text": "A piece of a legend that would be sung for a long time—<br>in praise of the heroes who saved the world."
+    },
+    {
+      "type": "title",
+      "text": "Live A Hero! Special Edition<br>\"World End Travelers\"<br>— END"
+    }
+  ]

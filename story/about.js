@@ -57,6 +57,61 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // sidebar content loading
+    async function loadSidebar() {
+        try {
+            const response = await fetch('./manifest.json');
+            if (!response.ok) return;
+            
+            const data = await response.json();
+            const listContainer = document.querySelector('.chapter-list');
+            
+            listContainer.innerHTML = '';
+
+            const urlParams = new URLSearchParams(window.location.search);
+            const currentChapter = urlParams.get('chapter');
+
+            data.forEach(group => {
+                if (group.category && !group.hidden) {
+                    const catLi = document.createElement('li');
+                    catLi.classList.add('chapter-category');
+                    catLi.textContent = group.category;
+                    listContainer.appendChild(catLi);
+                }
+
+                if (group.items) {
+                    group.items.forEach(item => {
+                        if (currentChapter === item.id) {
+                            document.title = item.pageTitle || item.title;
+                            titleFound = true;
+                        }
+
+                        if (group.hidden || item.hidden) {
+                            return; 
+                        }
+
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        
+                        a.href = `reader.html?chapter=${item.id}`;
+                        a.textContent = item.title;
+
+                        if (currentChapter === item.id) {
+                            a.style.fontWeight = 'bold';
+                            a.style.color = 'var(--accent-color)';
+                        }
+
+                        li.appendChild(a);
+                        listContainer.appendChild(li);
+                    });
+                }
+            });
+
+        } catch (error) {
+            console.error('Error loading sidebar manifest:', error);
+        }
+    }
+
     window.addEventListener('resize', () => {
         if (window.innerWidth <= 768 && sidebar.classList.contains('open')) {
             eventPageContent.classList.remove('shifted');
@@ -110,4 +165,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
     }
+
+    loadSidebar();
 });

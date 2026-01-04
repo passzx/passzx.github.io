@@ -1,0 +1,68 @@
+[
+  {
+    "category": "Event Quests",
+    "items": [
+      {
+        "id": "chapter-1",
+        "title": "Chapter 1"
+      },
+      {
+        "id": "chapter-2",
+        "title": "Chapter 2"
+      },
+      {
+        "id": "chapter-3",
+        "title": "Chapter 3"
+      },
+      {
+        "id": "chapter-4",
+        "title": "Chapter 4"
+      },
+      {
+        "id": "chapter-5",
+        "title": "Chapter 5"
+      },
+      {
+        "id": "chapter-6",
+        "title": "Chapter 6"
+      },
+      {
+        "id": "chapter-7",
+        "title": "Chapter 7"
+      },
+      {
+        "id": "chapter-8",
+        "title": "Chapter 8"
+      },
+      {
+        "id": "finale",
+        "title": "Finale"
+      }
+    ]
+  },
+  {
+    "category": "Epilogue Quests",
+    "items": [
+      {
+        "id": "event_hydoor",
+        "title": "\"Roaring Storm\" Hydoor",
+        "pageTitle": "Epilogue - Hydoor"
+      },
+      {
+        "id": "event_danzo",
+        "title": "\"Bardic Wanderlust\" Danzo",
+        "pageTitle": "Epilogue - Danzo"
+      },
+      {
+        "id": "barte",
+        "title": "Barte",
+        "pageTitle": "Epilogue - Barte"
+      },
+      {
+        "id": "gnomon",
+        "title": "Gnomon",
+        "pageTitle": "Epilogue - Gnomon"
+      }
+    ]
+  }
+]

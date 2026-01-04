@@ -1,0 +1,536 @@
+[
+    {
+      "type": "narrator",
+      "text": "One evening, as the journey in the \"Endangered World\" drew to a close..."
+    },
+    {
+      "type": "narrator",
+      "text": "The sound of an electric guitar echoed through the<br>encampment set up on a high ground overlooking a vast plain."
+    },
+    {
+      "type": "narrator",
+      "text": "The closing phrase of the song [Player] and he had created,<br>intended as the last song to leave in this world<br>was played, and the performance ended."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Yeah! How's that, boss!?<br>I feel pretty good about it!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yeah, it's the best!"
+        },
+        {
+          "text": "Flawlessly perfect!"
+        },
+        {
+          "text": "Well, it shall suffice!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "YES!! If I could get those words out of you,<br>then it's a success, and just like that, it's finally finished!"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Mhm mhm, it was a bit difficult, but I'm really happy with the results!<br>It was worth racking our brains over together!"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "If we blast this during the final showdown,<br>it's sure to be talked about for generations to come!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The final showdown, huh..",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Oh? Are you perhaps getting nervous?"
+            },
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "It's o-kay, it's o-kay!!<br>Don't worry too much, you've got such dependable allies with you!"
+            }
+          ]
+        },
+        {
+          "text": "I can't wait for everyone to hear it!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Right!?<br>I can't wait either, I wonder what kind of feedback we'll get!?"
+            }
+          ]
+        },
+        {
+          "text": "I relied on you a lot, Danzo.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "N-No, no, what are you saying!?<br>[Player]-kun, you came up with the crucial parts, didn't you!?"
+            },
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "I couldn't possibly have completed this song by myself,<br>it was only possible because it was a joint production!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Phew...<br>As expected, I've been playing guitar, singing,<br>and dancing non-stop, so I've worked up a sweat."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "—Ah, the wind feels good!<br>Combined with the exhilaration of finishing a job, I feel absolutely amazing!!"
+    },
+    {
+      "type": "narrator",
+      "text": "After setting down his guitar, Danzo spread his arms and collapsed onto the grass.<br>A refreshing breeze caressed their skin."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Haah... Who knows it's been how many years since I've<br>been able to lie down on the grass feeling so calm.<br>It really is nice."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Every once in a while,<br>you really have to make time to properly relax."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Is it always that tense?"
+        },
+        {
+          "text": "Do you not get time to relax?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Oh, boy!<br>In that other world, I live in a muddy vortex<br>where evil spirits run rampant!"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "You never know when or by whom you'll be attacked, right?<br>It really gave me a habit to hold my weapon even when I'm sleeping."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "If it's a habit, why are you relaxed right now?"
+        },
+        {
+          "text": "You're pretty defenseless right now...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Eh? Well, you see...<br>-Now that you mention it, why is that?"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Aww, the image of the perfect, mysterious Danzo-kun is ruined!<br>I'm such an idiot~!"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": " Well, the biggest reason is probably that there aren't<br>any targets I should be wary of here—"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Hmm... I guess there's a good chance<br>I just figure it's fine because it's you, boss?"
+    },
+    {
+      "type": "narrator",
+      "text": "The next moment after his playful display,<br>he calmly analyzed the situation, hand on his chin.<br>A typical Danzo move."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Because it's me...?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "...Exactly.<br>Because you're the one I've exposed my inner self to, enough for you to observe this new form."
+            }
+          ]
+        },
+        {
+          "text": "So this is what a relaxed Danzo is like.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Of course, my guard would be down.<br>You're someone who understands my inner self to the point of being able to observe this new form, right?"
+            }
+          ]
+        },
+        {
+          "text": "You're calculating something real big right now, aren't you?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Oh, as expected, you know me well!<br>...But this time, you're wrong.<br>What I was doing just now wasn't calculating, it was self-analysis."
+            },
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Well, I did talk about myself enough for you to observe this new form, after all.<br>So it's natural, I guess."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Sighing, Danzo slowly sat up and turned his face towards [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "...You know, [Player]-kun.<br>I'm seriously grateful to you."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "The trigger for me to remember what music means to me was,<br>of course, this world without music..."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzob.png",
+      "text": "...But.<br>It's thanks to you that I was able to organize<br>my thoughts and find what I could do for this world."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzob.png",
+      "text": "That day,<br>you listened to my story on the rooftop,<br>and you observed me."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzob.png",
+      "text": "It's all because of that time we put our heads together,<br>and created a song worthy of the revival of music."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "If that hadn't happened,<br>I probably would've never found the answer and<br>would've been stuck feeling frustrated the whole time."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Like—<br>I wouldn't have even finished a single song, you know.<br>Seriously, thank you."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "There's nothing to thank me for."
+        },
+        {
+          "text": "You found the answer with your own strength, Danzo."
+        },
+        {
+          "text": "I was glad to get to know you deeply."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "...Heheh, I look a bit embarrassing, don't I?<br>You're the first person I've ever talked to this much about my past and dreams."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Even in my original world, there's no one else who knows me this well, you know?<br>Maybe even more than my master?"
+    },
+    {
+      "type": "narrator",
+      "text": "After saying that much, Danzo looked up at the starry sky.<br>The eyes displayed on his screen narrowed."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "...Ah, I see.<br>You've become that significant of a presence to me."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "I had never truly realized it.<br>Learning that... might be a valuable lesson from this journey too."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What am I to you, Danzo?"
+        },
+        {
+          "text": "I want to hear that answer."
+        },
+        {
+          "text": "What do you mean...?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Just as [Player] reacted to Danzo's muttered words-<br>that was the moment."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "—!?"
+        },
+        {
+          "text": "Whoa...!?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Danzo pulled [Player] firmly towards him,<br>holding them against his chest."
+    },
+    {
+      "type": "narrator",
+      "text": "They fell onto the grass, on top of each other.<br>[Player] could feel Danzo's body heat directly."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "—If I tell you that, there'll be no turning back.<br>...Are you sure?"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Think carefully, okay?<br>The fact that I've talked about myself so deeply,<br>just because you asked..."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "It's proof that I want to know about you just as much.<br>...Even down to every last detail, you know."
+    },
+    {
+      "type": "narrator",
+      "text": "Danzo, whispering in a low voice, reached his hand towards the collar of [Player]'s jacket.<br>He began to strip it off, from the shoulder down to the elbow."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "W-wait, wait...!!"
+        },
+        {
+          "text": "Eh, so we are doing this now!?"
+        },
+        {
+          "text": "(Resolve yourself and accept)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "...Just kidding. Just a joke."
+    },
+    {
+      "type": "narrator",
+      "text": "Danzo put the jacket back on and pulled away while helping [Player] up."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "That got your heart racing, didn't it?<br>...Ah, please don't sue me for harassment later, okay?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That seriously gave me a heart attack!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Ahahaha, sorry, sorry!<br>A mischievous urge just sprouted, please forgive me!"
+            }
+          ]
+        },
+        {
+          "text": "Why do you tease like that!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Ahahaha, sorry, sorry!<br>A mischievous urge just sprouted, please forgive me!"
+            }
+          ]
+        },
+        {
+          "text": "You made me get my hopes up!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "Ahahaha, sorry, sorry!<br>A mischievous urge just sprouted, please forgive me!"
+            },
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "...But, I didn't say I wouldn't live up to your expectations, did I?<br>If that's what you're feeling right now..."
+            },
+            {
+              "type": "character",
+              "name": "Danzo (Traveler)",
+              "avatar": "../char/event_danzo.png",
+              "text": "There's no need to hold back anymore, right?<br>Once I get going, I can't put on the brakes, so be prepared."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "note": "[This choice will only be available if you picked Option 3]",
+      "options": [
+        {
+          "text": "Eh...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "—So then, a sincere apology,<br>my thanks for everything so far,<br>and a little service."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "Let's be even more open, more free!<br>I'll deliver you an impromptu personal live performance!"
+    },
+    {
+      "type": "narrator",
+      "text": "Danzo laughed, then reached for his coat and hat and began to take them off."
+    },
+    {
+      "type": "narrator",
+      "text": "He then stripped off his shirt as well—<br>and in a shirtless state, he held his guitar."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Eh...!?"
+        },
+        {
+          "text": "D-Danzo!?"
+        },
+        {
+          "text": "He actually took it off!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "—Haha, maximum liberation!<br>Giving into this feeling of freedom,<br>I'll pour all sorts of emotions into this performance!"
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "So... listen carefully, okay?<br>I've exposed my body's scars—<br>a ninja's shame..."
+    },
+    {
+      "type": "character",
+      "name": "Danzo (Traveler)",
+      "avatar": "../char/event_danzo.png",
+      "text": "I'm more serious than usual, you get me?<br>What I'm about to deliver is a song just for you,<br>that you can only hear here."
+    },
+    {
+      "type": "narrator",
+      "text": "The song Danzo began to play was very gentle-<br>a somewhat melancholic melody."
+    },
+    {
+      "type": "narrator",
+      "text": "A piece woven by the calm strumming of the guitar,<br>fitting for a sky full of stars."
+    },
+    {
+      "type": "narrator",
+      "text": "That day, [Player]—<br>indeed heard the feelings Danzo always kept hidden."
+    }
+  ]

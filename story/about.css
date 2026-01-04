@@ -1,0 +1,12 @@
+html {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-color: transparent !important;
+}
+
+/* :skull: type of compromise

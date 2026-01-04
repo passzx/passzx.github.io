@@ -1,0 +1,491 @@
+[
+    {
+      "type": "narrator",
+      "text": "One evening, a while after finishing the grand adventure to save the \"Endangered World\",<br>and witnessing the reunion of Barte and her master... "
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] was on vacation, visiting the oceanic planet Muirauka IV."
+    },
+    {
+      "type": "narrator",
+      "text": "Aisacks, one of the city ships connected to the largest city fleet, Estebolta."
+    },
+    {
+      "type": "narrator",
+      "text": "As its cityscape began to be bathed in the setting sun,<br>the person [Player] was meeting walked from the<br>direction of the pier where the transport ships arrived and departed."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Hey, [Player].<br>Kept you waiting a long time, huh."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Hydoor!"
+        },
+        {
+          "text": "Hy-kun!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "...I'm not gonna bother retorting anymore.<br>It's dreadful and I'm not in the mood."
+            }
+          ]
+        },
+        {
+          "text": "No, I just got here, so it's fine.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "Don't lie to me.<br>You do know the only ship from this planet to Earth arrives in the morning, right?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Sorry, the ferry from the prison ship only sails at this time.<br>It ended up being pretty late."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Plus, I went to visit the 'land folks' this morning too...<br>It was an all-day affair."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You visited both of them?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": " ...Ah, well, yeah.<br>I wasn't really keen on going to the 'land folks',<br>but I figured it was fine to visit once in a while."
+            }
+          ]
+        },
+        {
+          "text": "How were your former pirate buddies?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "Well, they were the same as always.<br>They apparently even check out the swimming competitions I compete in, even from inside the prison."
+            },
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "They've completely lost their venom and just became good-natured folks.<br>They cheered me on like crazy."
+            }
+          ]
+        },
+        {
+          "text": "What about those 'land folks'...?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "...Well, same as always.<br>All of them had gloomy faces.<br>They're truly a bunch of weaklings."
+            },
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "But they apparently check out the shows I appear in quite a bit.<br>That was the only thing that surprised me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "It was pretty out of character for me, but...<br>sometimes, visiting old acquaintances isn't so bad."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "You don't really think about your roots unless you make an effort to.<br>It made me feel nostalgic."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "...But I'm not going to the 'land folks' for a while.<br>They're waiting impatiently for me to bring back a partner.<br>Geez..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ahh, typical relatives..."
+        },
+        {
+          "text": "Don't say that, you should go back to them.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "Hah! Even if I found someone I could bring back, I'd never let them meet those guys."
+            },
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "I can tell exactly what they'll say next. Those country bumpkins."
+            }
+          ]
+        },
+        {
+          "text": "How about I become your partner?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "Wha—! Hey, you shouldn't say things like that so lightly!<br>I'll punch you, you bastard!"
+            },
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "Besides, I know exactly what those guys expect from a partner!<br> I'm absolutely not letting them meet anyone!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I kinda want to meet them."
+        },
+        {
+          "text": "You could've taken me with you."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Why would you...?<br>What would you even do by meeting them?<br>You wouldn't have anything to talk about."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "If you went to meet those guys,<br>most of what they'd talk about is my past self, you know?<br>What's so interesting about that?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Sounds pretty interesting to me...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "Really...?<br>Where's the interesting part in that?"
+            }
+          ]
+        },
+        {
+          "text": "In fact, I'd really like to hear it.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "You...<br>You're seriously too fond of weird stuff."
+            }
+          ]
+        },
+        {
+          "text": "I want to know more about you, Hydoor.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Hydoor",
+              "avatar": "../char/hydoor.png",
+              "text": "...How can you say things like that so casually?<br>It's making me embarrassed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Anyway, if it's about me, you should just ask me directly.<br>Is that not enough for you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Because you don't talk much about your past."
+        },
+        {
+          "text": "I couldn't ask much during the journey either."
+        },
+        {
+          "text": "You didn't even let me ask in the first place."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Ugh...<br>I just don't like looking back at the past, you know."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "Even during our journey,<br>I only looked back because it seemed necessary..."
+    },
+    {
+      "type": "narrator",
+      "text": "Hydoor sighed, looking away.<br>After thinking for a moment, he turned to [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": " ...[Player].<br>Can you transform me into that form?"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor",
+      "avatar": "../char/hydoor.png",
+      "text": "That form where we cut down that<br>huge monster by borrowing everyone's strength."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I can do it, but..."
+        },
+        {
+          "text": "Okay, here I go?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "—And so, [Player] observed Hydoor's new potential,<br>which they had witnessed during that journey."
+    },
+    {
+      "type": "narrator",
+      "text": "A pair of large cutlasses, a bandana and coat reminiscent of his pirate days,<br>a suit like swimwear, and armor..."
+    },
+    {
+      "type": "narrator",
+      "text": "It was truly a form where the past Hydoor<br>and the present Hydoor were seamlessly fused."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "...Listen.<br>It's true that the foundation for this Parallel Weapon<br>is my past self, when I was a pirate."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Without that, I wouldn't have chosen this weapon.<br>But..."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Those who only know my past self<br>probably couldn't observe this form."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoorb.png",
+      "text": "This is the form I gained after I, my current self,<br>traveled with you guys in that world, and fought those monsters."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoorb.png",
+      "text": "Of course, even those who know my past wouldn't<br>know what kind of journey we had in that other world."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "And, as I said earlier...<br>I don't really look back on the past much,<br>and I don't tell anyone those stories."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Not even the folks at the agency.<br>So, the person who knows me best in this world is—"
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Without a doubt, it's the companions from that journey.<br>Especially you, who observed this form...<br>you're probably way ahead of the rest."
+    },
+    {
+      "type": "narrator",
+      "text": "Hydoor held up one of his cutlasses,<br>on whose blade light constantly flowed like liquid,<br>towards the sky."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "...Thinking about it like that, it feels a little embarrassing, but...<br>If it's you... it's not bad."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Maybe? I wonder..."
+        },
+        {
+          "text": "It feels unsatisfying somehow."
+        },
+        {
+          "text": "But there are still parts I don't know..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "...Sigh. Seriously, you bastard.<br>You want to probe into my life that much?"
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Hydoor sheathed one of his blades, and with that hand—<br>he pulled [Player] firmly towards him."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Whoa!?"
+        },
+        {
+          "text": "H-Hydoor...!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Don't look at my past self, look at my current self."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Look at me now, right in front of you...<br>It's me, I'm the one who's only looking at you."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Otherwise...<br>I'll take everything by force, you hear me?"
+    },
+    {
+      "type": "narrator",
+      "text": "A dragon's breath caressed their skin, and a dragon's sharp gaze pierced [Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "Now, they were close enough to see each individual scale on his skin...<br>[Player] was that close to Hydoor."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Y-yes..."
+        },
+        {
+          "text": "T-too close..."
+        },
+        {
+          "text": "Y-you smell pretty good..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "-Haaa. What am I even saying? It's so embarrassing..."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "Even if I said something like this, it's probably useless against you, anyway..."
+    },
+    {
+      "type": "narrator",
+      "text": "Saying that, Hydoor released [Player] and began to walk away,<br>turning his back towards them."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, with the connecting bridge leading to the pier behind him,<br>he extended his hand towards [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "...Come with me.<br>Let's go on a date, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "If you want to know about me that much, I'll tell you everything...<br>in the time we have from now on."
+    },
+    {
+      "type": "character",
+      "name": "Hydoor (Traveler)",
+      "avatar": "../char/event_hydoor.png",
+      "text": "And while we're at it,<br>you'll also learn that you're the most important person to me.<br>...You'd better be prepared."
+    },
+    {
+      "type": "narrator",
+      "text": "Hydoor's smile was unusually serious, yet still a little embarrassed."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] took his outstretched hand and<br>began to walk towards the sunset sea."
+    },
+    {
+      "type": "narrator",
+      "text": "—That day, indeed.<br>[Player] and Hydoor grew even closer."
+    }
+  ]

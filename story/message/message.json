@@ -1,0 +1,610 @@
+[
+    {
+      "type": "bg",
+      "bg": "../bg/beachcafe_evening.png"
+    },
+    {
+      "type": "narrator",
+      "text": "This message will contain spoilers for some events in both of<br>Lifewonders LLC's games, Tokyo Afterschool Summoners and LIVE A HERO!"
+    },
+    {
+      "type": "narrator",
+      "text": "This message may or may not contain special dialogues for some<br>specific 'Player' name options. Thank you for reading, and please enjoy."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "How has the previous year been for you, [Player]?<br>Has it been fun? Has it been enjoyable?"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Oh, and before you'd 'ask' something,<br>the one in my 'avatar' field is Ask (アスク).<br>He looks nice, doesn't he?"
+    },
+    {
+      "type": "note",
+      "text": "From the maimai でっらくす (DELUXE / DX) franchise, a member of Dragon Area (ドラゴンちほー)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What kind of name is that?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Yeah, I don't really know either.<br>Like, who 'ask'ed for that name? Please laugh."
+            }
+          ]
+        },
+        {
+          "text": "Please have better taste.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "I'm so sorry for you.<br>May the Lord give you the insight you truly need in life."
+            },
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "I'm just kidding."
+            }
+          ]
+        },
+        {
+          "text": "Real.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Based, based, based, based, based.<br>10 out of 10. Perfection.<br>Thank you for your most delightful opinion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Now, where were we?<br>Right, how has this year been for you?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It was fun!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Congratulations!<br>I hope this year can keep up that momentum for you!"
+            }
+          ]
+        },
+        {
+          "text": "It was normal."
+        },
+        {
+          "text": "It was terrible...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "I see...<br>Let us look forward to something brighter, shall we?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Did you do something you absolutely regret?<br>Did someone, something close to you got into something unfortunate?"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Has school, work, or daily circumstances been weighing on you?<br>Don't you just want to take a break from it all?"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Ah, no, that's a bit too dark.<br>My apologies."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Regardless, this year has been one<br>hell of a rollercoaster, wasn't it?"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "The AI bubble going rampant, the job market set on fire,<br>the never ending struggle of the people being oppressed..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "...But despite all that, the Earth still keeps on spinning.<br>...Barely."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "It's been quite the year for me too."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "When I say 'quite',<br>I meant not 'quite' much..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "If you're a long-time follower of mine,<br>or hell, someone I know in real life,<br>chances that you won't see much of my personal life."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Because there wasn't much<br>of me to share to you, that's all."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You surely must have something you want to do, right?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Well, yes.<br>I did have things that I enjoyed doing, that I'd sometimes forget myself and devote my whole being into!"
+            }
+          ]
+        },
+        {
+          "text": "Surely life was just not doom and gloom, right?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "It kinda is... But, you're right.<br>Thanks to some extraordinary people by my side, I was able to live on, and look forward to the future!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "One of the things that I was really into this year<br>was attempting to translate some of my favorite Japanese works.<br>Mainly doujinshis, though..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I haven't been studying Japanese for too long,<br>but I've been able to somewhat grasp the meaning when I'm reading something."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I can read and listen to Japanese at an 'okay' level,<br>but when it comes to speaking and writing...<br>You won't be seeing me in a JLPT test room any time soon."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Though, that's literally the same with me in English.<br>Imagine getting two 9s and two 6s on IELTS...<br>Absolutely wasn't me..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Anyhow, I really had fun being able to<br>translate works, even if it's mostly for me to enjoy."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Some people asked me what 'the character I got a bit too<br>smitten is' was, so here's the answer you've been waiting for."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "But, first of all, I have to give my thanks to そーちゃん (So-chan)<br>for being the person who have brought me to this point..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I discovered his weekly manga series, 'tried' to translate it,<br>gone through the rest of his discography..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I was a on-and-off player of Tokyo Afterschool Summoners at the time,<br>and I was deterred from trying out LIVE A HERO! since it didn't have an English release."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "But then, funnily enough, そーちゃん announced that Gnomon was<br>going to be featured in LIVE A HERO! (and as a distribution character, no less!)"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I made an account just to get him, but then I wanted to find<br>out about his story, so I 'translated' it, and then decided to publish it here."
+    },
+    {
+      "type": "note",
+      "text": "I said 'translated' because it was all on a whim back then...<br>I didn't know much about LAH's terms, and I really didn't establish any consistency by myself...<br>I'll redo the event when it eventually gets rerun, trust"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "One dominos falling after another, other LIVE A HERO! characters<br>started to catch my eyes. I began taking Tokyo Afterschool Summoners<br>a bit more seriously, and started translating those as well."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I'm still salty about Jack Frost and Magical Snowland...<br>We were robbed of his Special Quest... *sniff*"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Though, if Lifewonders really needed the budget,<br>one mention of 'Jack Frost Valentines Alt' would have<br>me rapidly swiping my magical plastic card to spark him."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+    "text": "Anyhow, please do check out そーちゃん's works!<br>They never fail to put a smile on my face, and even gave me something to look forward to.<br>Here are some of their really~ good things (that I translated)!"
+    },
+    {
+      "type": "image",
+      "src": "../special/1.jpg",
+      "note": "Original: クラスメイト、全員忠犬 (My Classmates, All Faithful Dogs)<br>Support そーちゃん by reading it on his <a href=\"https://x.com/Sawch_Cls\", style=\"color:var(background-light);\">X / BlueSky / pixiv!</a>"
+    },
+    {
+      "type": "image",
+      "src": "../special/2.jpg",
+      "note": "Original: 上野は熱帯夜 (Tropical Night in Ueno)<br>Support そーちゃん by purchasing it on <a href=\"https://sawch-cls.booth.pm/items/5459457\", style=\"color:var(background-light);\">BOOTH</a>!"
+    },
+    {
+      "type": "image",
+      "src": "../special/3.jpg",
+      "note": "Original: 放送部のヒグマ (The Broadcasting Club's Brown Bear)<br>The work is a bit ancient, but do give it a read on <a href=\"https://rookie.shonenjump.com/series/X1vJnKZKhgY\", style=\"color:var(background-light);\">ShonenJump</a>!"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "You might have seen one of those on some<br>sites for now, but~ if you know, you know."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Though, was it surprising, [Player]? The script supported images all along,<br>but I never actually got the chance to use it."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "The site hasn't changed too much since its first launch,<br>but it has had its own ups and downs all the same."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Despite that someone suggested a design change to accommodate mobile users,<br>I wasn't able to make it in time for the year, sorry..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Well, that's one more down the list of things I intend to do this year.<br>Speaking of that, why don't I share some story about this 'project'?"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "If you were wondering about which that I select to translate,<br>the answer is simple... Whatever I feel like."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "This... unfortunately causes some problem down the line...<br>For example, I'd translate a story simply because I liked a singular featured character."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I'd get enthusiastic about the first few chapters, and then my motivation<br>starts to dwindle, either because the story got slightly boring, and/or my favorite<br>character doesn't start to hold that much of my interest any longer..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "That lead to a bunch of 'planned' or 'unfinished' stories that never came to be.<br>One of the most evident exhibits has got to be<br>with トロピカル・バーンホリデー (Tropical Burn Holiday)."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Red Hood sparked my interest, I loved Yuma myself<br>(partly because そーちゃん designed him),<br>but I failed to get Yuma's tropical variant, and that got me a bit demotivated."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Demotivated, I started moving on to the Special Quests to see what was good,<br>until I realized that I was not built for an entire SQ's worth of text with fragmented speech..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "By the time I somewhat finished with the main event quests themselves,<br>I thought to myself that I maybe could handle Yuma's entire SQ.<br>That turned out horribly wrong."
+    },
+    {
+      "type": "image",
+      "src": "../special/4.jpg",
+      "note": "I struggled to find phrasing that would be appropriate for his pattern of<br>speech while somehow still having you understand at least the littlest bit of it"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "While Tropical Burn Holiday won't be finished any time soon,<br>please know that I'll work my way towards it eventually...<br>(hopefully before Lifewonders starts a rerun on it)"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Speaking of 'unfinished' or 'unpublished',<br>here's a bunch of other ones that I never posted!"
+    },
+    {
+      "type": "image",
+      "src": "../special/5.jpg",
+      "note": "超大漁！ バトルシップ・フィッシャーズ<br>(Super Catch! Battleship Fishers)<br><br>fun fact: I made this one a long, looong time ago, predating<br>most of the stories on here, but it was never actually finished"
+    },
+    {
+      "type": "image",
+      "src": "../special/6.jpg",
+      "note": "トップオブ・サマーマウンテンズ！～神宿ワンゲル部vs世耕山岳部～<br>(Top of Summer Mountains! ～Shinjuku Wandervogel Club vs Setagaya Mountaineering Club～)<br><br>fun fact 2: this was the first time the background system was introduced,<br>but never actually published, so the winner went to Tropical Burn Holiday"
+    },
+    {
+      "type": "image",
+      "src": "../special/7.jpg",
+      "note": "ゲームマスターズ×エクスターズ ～星外都市の追放選挙～<br>(Game Masters × Exters ～The Exile Election of the Outer City～)"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Not only those, there was a lot that I wanted to translate,<br>like Santa Claus Workout (LAH), Virtual Festa Royale (LAH),<br>Summer Dive Amusement! (LAH), Valentine Idol Live! (TAS),..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Right as I'm writing this, I'm in the middle of doing Christmas Street Fight (TAS),<br>and I'm intending on doing Whiteout Liberation and New Year 2026 (LAH),..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Is this how artists feel when they make a<br>bunch of WIPs but rarely any finished works ever...?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Can you please stick to one thing?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "I'm so, so sorry...<br>It's my bad habit that I really can't fix..."
+            }
+          ]
+        },
+        {
+          "text": "But you barely even did anything...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Y-You didn't have to say that out loud...!<br>It's true, but couldn't you have said something nicer...?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Though, despite all of that, I finally felt like<br>I could do something for the community of the games themselves."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "This page got featured on LIVE A HERO's unofficial English wiki,<br>and I was really honored to have the opportunity to contribute<br>to some of the lore/descriptions' translations there!"
+    },
+    {
+      "type": "image",
+      "src": "../special/8.jpg",
+      "note": "<a href=\"https://live-a-hero.jp/5th_anniversary/heroes_encyclopedia2025\", style=\"color:var(background-light);\">Barrel Crankrack / Symphonic Trigger's Interview</a>"
+    },
+    {
+      "type": "image",
+      "src": "../special/9.jpg",
+      "note": "<a href=\"https://live-a-hero.jp/5th_anniversary/heroes_encyclopedia2025\", style=\"color:var(background-light);\">reXer's Interview</a>"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "I found some time to design a version for the heroes' interviews,<br>and frankly, they were pretty fun to make!"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Oh... I might have taken a<br>little bit too much of your time..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "<p2 style=\"font-size: 130%\">Then, let us cut to the chase!"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Throughout the past year, a lot of people have given me support and comfort,<br>even if they weren't aware of that themselves."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "From the bottom of my heart, I'm very much thankful,<br>but I'm at a loss at how I can repay that favor."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Perhaps... I can keep living,<br>treading on for their sake?"
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Hahaha... What am I even talking about?<br>■■■■■■■-san, ■■■■■-kun, ■■■■■■, and you too, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Thank you for having pushed me on all this time.<br>There's not much I could do, but I hope this year will be spectacular for you."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Now, I do know that it's a bit late<br>to celebrate the New Years' now, but..."
+    },
+    {
+      "type": "character",
+      "name": "PzTJ",
+      "avatar": "../special/passzx.png",
+      "text": "Would you like to join me somewhere?<br>I promise, I mean no harm at all."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/andvaresort_arcade_evening.png"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Sure thing.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "R-Really...!?<br>You'd do that!?"
+            },
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "A-Ahem...<br>I mean, I would be delighted if you could join me."
+            },
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Now, there's a pretty good place I know downtown.<br>Let's go have some 'fun' there, shall we?"
+            },
+            {
+              "type": "narrator",
+              "text": "As you two step outside the cafe's door together, the sunset just behind your back, your shadows seem to meld into one."
+            }
+          ]
+        },
+        {
+          "text": "No, thank you.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Ah! That's pretty much fine too!<br>(Let's wait for another chance, then...)"
+            },
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Say, would you be up for a drink next time?<br>It's fine if you can't drink, I'd just be delighted if you were to join me!"
+            },
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "It'll be my treat next time.<br>Consider it a 'thank you' for having spent your time with me today."
+            },
+            {
+              "type": "character",
+              "name": "PzTJ",
+              "avatar": "../special/passzx.png",
+              "text": "Well then, see you next time!"
+            },
+            {
+              "type": "narrator",
+              "text": "As you two step outside the cafe's door, each of you walking a different path, the sun slowly descended, putting an end to a long day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "someone should hold me off the keyboard next time<br>I clearly cannot write these things"
+    }
+  ]
