@@ -1,0 +1,48 @@
+[
+    {
+      "type": "bg",
+      "bg": "story/bg/darkweb.png"
+    },
+    {
+      "type": "title",
+      "text": "System Alert<br>404_NOT_FOUND_EXCEPTION"
+    },
+    {
+      "type": "character",
+      "name": "Terminal",
+      "avatar": "story/char/placeholder.png",
+      "text": "The timeline coordinates you specified do not exist within the archive.<br>It is possible the record was deleted, or the path has been altered."
+    },
+    {
+      "type": "character",
+      "name": "Terminal",
+      "avatar": "story/char/placeholder.png",
+      "text": "The records in the system indicated that there<br>were traces of a modification to the structure.<br>Please try again later, or until our representative is assigned to you."
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "story/char/broker_b.png",
+      "text": "What seems to be the<br>problem around here—"
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "story/char/broker_b.png",
+      "text": "Oh, [Player].<br>You aren't supposed to be here."
+    },
+    {
+      "type": "character",
+      "name": "?????",
+      "avatar": "story/char/broker_b.png",
+      "text": "May it be your misfortune, I will help you make your way out.<br>Or, you can stay. That much is up to you to choose."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "<a href=\"/\", style=\"color:var(--background-light);\">Return to Home"
+        }
+      ]
+    }
+  ]

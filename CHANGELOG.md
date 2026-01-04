@@ -1,10 +1,17 @@
 (hopefully) upcoming features:
 - better mobile support
 - better chapter navigation
-- better website deployment
-- removing light mode?
 
 -------------------------------------------
+2/1/2026
+- changed structure
+    + one "reader" page and one "index" page each story (working on mashing all the json into one)
+    + sidebar now takes from a json instead of being directly injected into each html
+- fixed mobile.js (how didn't I notice that was broken)
+- added [message] for a limited time
+- updated [tropical2025]
+- added [xmas2025]
+- happy new year!!
 
 3/12/2025
 - minor term changes (Parallel Queue, Estebolta, etc.)
@@ -14,8 +21,7 @@
 06/11/2025
 - no more italic narrator dialogue boxes (some people told me it was hard to read)
 - notes no longer take up the same space as a choice box
-- added [stellalink]
-(nobody notice that I used the wrong background for chapter 7's battle)
+- added [stellalink] (nobody notice that I used the wrong background for chapter 7's battle)
 - changed Theoreol's [choco_volcano]'s epilogue
 
 18/09/2025
