@@ -1,0 +1,1417 @@
+[
+    {
+      "type": "title",
+      "text": "Epilogue:<br>After the Festival"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/policestation_open.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The day after the festival, the final day of the short-term transfer period.<br>A modest ceremony was held at the Kiou Police Academy."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "And so, as of this very moment,<br>I hereby relieve [Player] of the duties assigned during this term."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "It was a brief stay indeed― But, I can only imagine that it<br>was so incredibly dense, you had a hard time catching your breath, no?"
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Normally, the curriculum would have included lectures and elective courses...<br>But instead you were sent working yourself to the bone."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "To think you would even lead a major incident to its resolution.<br>Truly impressive! I believe you will continue to flourish,<br>whether at your original academy, or wherever else you go."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Too short, I wanted to stay longer."
+        },
+        {
+          "text": "Don't act like you're innocent, Master."
+        },
+        {
+          "text": "I didn't do anything, it was thanks to everyone else."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Now then, how was it for you three?<br>Tajikarao, Oguchi Magami, and you, Toji."
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "It was my first time standing against a fellow officer.<br>My heart was pounding, and everything was very intense...!"
+    },
+    {
+      "type": "character",
+      "name": "Oguchi Magami",
+      "avatar": "../char/housamo/oguchi_magami.png",
+      "text": "But in the end, everyone had a great time, so it was a good thing!<br>Next time, I'd like to participate in the festival properly..."
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "Facing such a situation just days after coming to Kiou...<br>You were certainly assigned a terrible senior, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "Well, perhaps it wasn't just a problem with Jagannath himself,<br>but rather a matter of the 'chemistry' between you two."
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "By the way, is that guy late again?<br>I hope he hasn't decided to take an unauthorized absence."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "He said he'd come after patrolling."
+        },
+        {
+          "text": "The streets are still overflowing with bad brats."
+        },
+        {
+          "text": "Hopefully... It's just him being late."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "Good grief... How utterly appalling.<br>I fail to see how such an officer is even tolerated."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "—Oh? Wasn't it you who said with such conviction<br>that officers like him are necessary, Toji-kun?"
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "—!! No, I meant that while I don't approve of everything about him,<br>he does have some qualities worth observing—"
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "Fufu... Well, fine.<br>It seems we both have our hands full with our 'colleagues'."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "Indeed, having an officer like him isn't so bad either.<br>As long as he continues to dance in the palm of my hand, that is."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "And— [Player]-kun. Having an officer like you on our side is also<br>quite attractive from various perspectives."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "We are ready to welcome you at any time.<br>Allow me to state that clearly once again."
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "Yes. If it is you, [Player], I'm sure you'll<br>become an excellent officer unlike any other."
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "Hopefully, you'd be on my side, rather than his.<br>Regardless, I would be happy if you can give it a positive thought."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'll think about it carefully."
+        },
+        {
+          "text": "My heart is being torn in two...!"
+        },
+        {
+          "text": "(Shake hands with Toji)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "Fufu, shall we call it a day then?<br>You've done well in an unfamiliar environment, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Hogen",
+      "avatar": "../char/housamo/hogen.png",
+      "text": "It would be wise to take your time thinking about the future,<br>but for myself, I'll be eagerly waiting for your return!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/kiou_school_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] packed their bags and headed toward the gates of the Police Academy.<br>There, an unexpected figure was leaning against the wall."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "...Oh, [Player].<br>So your transfer period is officially over, no?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "No way... You really came to pick me up!?"
+        },
+        {
+          "text": "You're being way too overprotective!"
+        },
+        {
+          "text": "Even though you hated the police..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Well, I've been worried about you this whole time...<br>Uncle was the one looking forward to this day more than anyone."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "I mean, you were put in more danger than I ever imagined, weren't you?<br>Facing something like that in just a few days is just wrong!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "...As long as you're in the police, Uncle can't stay by your side.<br>And when Uncle can't be by your side, Uncle's always worried."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "And if I worry too much, you'll end up hating me! I don't want that!<br>Not when our bond has finally deepened again!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'd never hate you.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "...Is that really, really true?<br>Wait, that doesn't mean that I don't believe you!?"
+            },
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "But [Player], you're my one and only.<br>The only being in existence that can drive Uncle this crazy."
+            },
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "Besides— Even if you say that, your mind's already half-made up about your future career path, haven't you?"
+            }
+          ]
+        },
+        {
+          "text": "I'm really happy you care that much.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "Bzzzzz!! Ahhh, you've completely pierced my heart...<br>Uncle really is a prisoner of your charms, [Player]..."
+            },
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "That's why I simply have to do my best.<br>I want to do everything I can, so I don't have to live with any regrets."
+            },
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "Besides— Even if you say that, your mind's already half-made up about your future career path, haven't you?"
+            }
+          ]
+        },
+        {
+          "text": "You're such a handful, Papa.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "Ugh, I got no comeback for that.<br>After all that talk we had, this is what I get..."
+            },
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "But still, [Player], you're my one and only.<br>The only being that makes Uncle this frantic with love!"
+            },
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "Besides—<br>Let's be honest, you've probably already got a choice for your future career, haven't you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Uncle can tell!<br>After all, we've lived together for so long..."
+    },
+    {
+      "type": "narrator",
+      "text": "Y'golonac clutched his chest with a look of sorrow, but then,<br>he suddenly seemed to have a flash of inspiration."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "—!! That's it! If you're going to join the police,<br>then wouldn't it be better if Uncle just joined the police too!?"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "And then, I'll take that 'buddy' position for myself!<br>I'll keep you under lock and key, at home and on the job for the rest of our lives!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Right, now that that's settled, I'm going to 'fix' this immediately!<br>I'm not giving that partner position to anyone else, never!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You've got to be kidding!?"
+        },
+        {
+          "text": "I told you I haven't decided yet!!"
+        },
+        {
+          "text": "He can do whatever he wants..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Heheh, to think the solution was this simple!<br>Hihihi. Alright, see you at home later~ Chu!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "—Ah, where's the person in charge of Kiou!?<br>This Uncle from Kabukicho's here to apply for a 'transfer'!!"
+    },
+    {
+      "type": "character",
+      "name": "Police Officer",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Whoa, what!? A man from Kabukicho is charging in!?<br>—S-Someone! Call for backup——!!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/roppongi_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Leaving the chaotic Police Academy behind, [Player] encountered<br>yet another group of unexpected people on the way to the station."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Oh, [Player]-sama.<br>What a coincidence for us to meet in the middle of the city?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Yo, [Player]! It's been a while—<br>Not really, but you know what I mean by that."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Baphomet!"
+        },
+        {
+          "text": "Yo, former brats~!"
+        },
+        {
+          "text": "What are you all doing together?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "We have just returned from visiting the<br>Santa School to offer our formal apologies."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "We could not have brought everyone with us,<br>so a few of them came along as representatives of the group."
+    },
+    {
+      "type": "narrator",
+      "text": "As Baphomet finished her explanation,<br>the children looked down with a solemn expression."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "...Yeah. Both principals were really kind.<br>It's way too late now, but it really made us reflect on what we did."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Especially the Black Principal, he really cared about our futures,<br>and he actually listened to what we had to say..."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Yeah, so that's what it means to be a Black Santa.<br>I had a hunch after talking with Krampus-san, though."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It looks like you'll be fine now."
+        },
+        {
+          "text": "You're definitely moving forward."
+        },
+        {
+          "text": "Have you started to see your future a bit?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Before I knew it, all these children have<br>begun to find actual goals for themselves."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Teachers, chefs, engineers, designers.<br>And— An incredibly strong and kind police officer."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Of course, some have not found their own calling yet, but they seem to feel<br>ready to go back to school and take their time searching."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And, even those who have decided not to return to school,<br>they are living safely under the guidance of their probation officers,<br>promising to stay in constant contact with me..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm so glad...!"
+        },
+        {
+          "text": "I'll welcome them if they do become my underclassmen."
+        },
+        {
+          "text": "What about you, Baphomet?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "For the sake of the children returning to school,<br>I intend to return to my life as a counselor visiting various academies."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "The Santa School has also asked for my help,<br>so things will be busier than ever. And yet—"
+    },
+    {
+      "type": "narrator",
+      "text": "She paused, tilting her head with a look of contemplation—<br>And offered a charming smile as she continued."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Perhaps I have been influenced by Jagannath-sama, but...<br>Shamefully, I have found myself wanting to be even more greedy."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I am currently considering working as both<br>a school counselor, and a police psychologist."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "That way, I can provide the appropriate approach to<br>both students and those who have dropped out, can I not?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—Though, I will not know if such<br>a thing will be possible unless I try."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You can do it, Baphomet.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "It is heartening to hear you say that, [Player]-sama.<br>After all, your very existence is like a 'challenge to the impossible'."
+            }
+          ]
+        },
+        {
+          "text": "Karma Yoga, right?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Fufu, that is exactly what Jagannath-sama would say.<br>And just like so, he continues to leave an indelible mark on the hearts of the people..."
+            }
+          ]
+        },
+        {
+          "text": "I'd love if you could come to Shinjuku...!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Fufu, perhaps I will someday?<br>I shall look forward to the day I can visit...<br>To gaze into the 'devil' within you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But then— [Player]-sama, are you heading back to Shinjuku Academy?<br>Ah, no, it is already winter break. Then, perhaps you would be returning home?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I thought Y'golonac-sama was quite enthusiastic about picking you up...<br>But it seems that you are not together?"
+    },
+    {
+      "type": "choice",
+      "note": "nooo, there's no way I can't find another variant of the backgrou—",
+      "options": [
+        {
+          "text": "There's somewhere I want to go first."
+        },
+        {
+          "text": "Just some business to take care of."
+        },
+        {
+          "text": "(Tell her your plans)"
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_evening2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Drawn by a faint sense of sentimentality, [Player] stopped by<br>Asakusa to catch the lingering traces of the festival. There—"
+    },
+    {
+      "type": "character",
+      "name": "Motosumi",
+      "avatar": "../char/housamo/motosumi.png",
+      "text": "Oh, what's up, [Player]?<br>The cleaning and packing's already mostly done, you know?"
+    },
+    {
+      "type": "character",
+      "name": "Licho",
+      "avatar": "../char/housamo/licho.png",
+      "text": "The 'after-festival' mood is a bit lonely, isn't it...? Ha!<br>I mean, I'm just glad it didn't end up being a 'disaster'!!!"
+    },
+    {
+      "type": "note",
+      "text": "wooo wordplays that I can't translate<br>祭りの後 (matsuri no ato / festival's remnants) and 後の祭り (ato no matsuri / remnants' festival)<br>the latter is a idiom about how something's too late"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I didn't have the chance during the festival, but I wanted to<br>properly express my gratitude to you, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I feel this for Jagannath and Hogen as well, but especially toward you,<br>who somehow managed to unravel my own stubbornness."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...My position hasn't changed. But with just a change in mindset,<br>the view I see today is completely different from yesterday."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "The setting sun is always beautiful, but I wonder why...<br>Watching it with these guys makes it look so much more..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It means you 'love' everyone, right?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "—Love?<br>Mmm, I have indeed realized that I hold an extraordinary amount of affection for them."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Hm? What are you smirking at?<br>This feeling for all of you is nothing to be ashamed of!!"
+            }
+          ]
+        },
+        {
+          "text": "You want to share beautiful things with your precious ones.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Yes, perhaps that's it.<br>I want to share this beautiful season of youth with them."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "In this land of Asakusa, where my 'mission' and 'wish' have happily overlapped―<br>I want to engrave every moment of this into my heart."
+            }
+          ]
+        },
+        {
+          "text": "Should I have Baphomet analyze that?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "W-Wait! There's no need for that!<br>My interactions with my rival should be kept to a minimum...!"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Besides, I've had enough counseling.<br>I've realized it for myself on a deeper level now."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "In this land of Asakusa, where my 'mission' and 'wish' have happily overlapped―<br>I want to engrave every moment of this into my heart."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I look forward to your guidance, senior.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Sure, I'll be in Asakusa.<br>Whenever, with everything you've got―<br>Come and face me!"
+            }
+          ]
+        },
+        {
+          "text": "You're such a romantic, General Manager.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Ugh, how can you say such things with that straight face―!?<br>In a different way from Baphomet, you are a formidable opponent."
+            }
+          ]
+        },
+        {
+          "text": "You really do have a cute side.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Ugh, how can you say such things with that straight face―!?<br>In a different way from Baphomet, you are a formidable opponent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Gorozaemon",
+      "avatar": "../char/housamo/gorozaemon.png",
+      "text": "Kaka! For some reason, you're really good at handling him.<br>I'll have to ask you to deal with it next time Sanat goes out of control."
+    },
+    {
+      "type": "character",
+      "name": "Sarutahiko",
+      "avatar": "../char/housamo/sarutahiko.png",
+      "text": "By the way, we're all going to wash off the sweat and grime now.<br>Do you want to join us, [Player]?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'll pass for today."
+        },
+        {
+          "text": "Everyone at Shinjuku is waiting for me."
+        },
+        {
+          "text": "Will you invite me again next time?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sarutahiko",
+      "avatar": "../char/housamo/sarutahiko.png",
+      "text": "I see, well, maybe next time.<br>If you come to Maraque's Pond, I'll scrub your back anytime!"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Mmm. Even though you are from 'outside' Asakusa, you are strangely<br>a part of us. At the very least, everyone here feels that way."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I hope we can continue to clash and elevate each other's souls.<br>—I am fortunate to have clashed with you this time!!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/dormitory_entrance_evening.png"
+    },
+    {
+      "type": "narrator",
+      "text": "When [Player] visited the Shinjuku Academy dorms,<br>they were met with a warm— Perhaps, a bit 'too' warm of a welcome."
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "I'm so glad you're back, [Player]~!<br>I know we'd see you at school, but I was worried if you'd even visit the dorms~!!"
+    },
+    {
+      "type": "character",
+      "name": "Shiro",
+      "avatar": "../char/housamo/shiro.png",
+      "text": "Honestly, didn't we just see each other at the festival?<br>—But, it really does feel more calming when you're here."
+    },
+    {
+      "type": "character",
+      "name": "Kengo",
+      "avatar": "../char/housamo/kengo.png",
+      "text": "Shiro's been way too quiet without you, it was boring.<br>Heh, finally, things are going to get lively again!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I can feel the love, Ryota.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Ryota",
+              "avatar": "../char/housamo/ryota.png",
+              "text": "Ehehe, I've got nothing but love!<br>This body is just overflowing with love for everyone."
+            }
+          ]
+        },
+        {
+          "text": "I'm back, Shiro.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Shiro",
+              "avatar": "../char/housamo/shiro.png",
+              "text": "Yes, welcome back, [Player].<br>...It makes me happy to be able to say those words."
+            }
+          ]
+        },
+        {
+          "text": "Were you lonely, Kengo?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Kengo",
+              "avatar": "../char/housamo/kengo.png",
+              "text": "I-It's not like I was lonely or anything— Dammit.<br>I was really, really lonely, alright!?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Welcome back to Shinjuku Academy, [Player]. I'm glad to see<br>another step of growth in my student from this experience."
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "—Not that I'm one to talk, since I was with you the whole time,<br>but these are my honest feelings, so I can't help it!"
+    },
+    {
+      "type": "character",
+      "name": "Triton",
+      "avatar": "../char/housamo/triton.png",
+      "text": "Of course, I feel the same way—<br>No, I feel it even more than him, [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Triton",
+      "avatar": "../char/housamo/triton.png",
+      "text": "Unlike Jinn-sensei here, I didn't act like a child, but in my heart,<br>I've been thinking about you, my dear student, this whole time!"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Sorry!? Affection's only worth something if you show it!<br>Just thinking it doesn't get through to anyone!"
+    },
+    {
+      "type": "character",
+      "name": "Triton",
+      "avatar": "../char/housamo/triton.png",
+      "text": "A sensible adult should refrain from 'excessive behavior'.<br>Besides, I went to check on them under the pretext of patrolling!"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "So that was just a pretext...<br>Wait, the Fighting Festival is over, so no more fighting!"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "So— You just got back, but have<br>you decided what to do next, [Player]?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Everyone keeps asking me that.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Ryota",
+              "avatar": "../char/housamo/ryota.png",
+              "text": "Well of course, everyone's curious!<br>So many people need you around."
+            },
+            {
+              "type": "character",
+              "name": "Ryota",
+              "avatar": "../char/housamo/ryota.png",
+              "text": "...I will absolutely respect your choice, [Player]!<br>I've sworn to do that, but thinking about it still makes me feel lonely..."
+            }
+          ]
+        },
+        {
+          "text": "I can't think about anything!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Ryota",
+              "avatar": "../char/housamo/ryota.png",
+              "text": "Right, your transfer period just ended.<br>But... Does that mean you're 'hesitating'?"
+            },
+            {
+              "type": "character",
+              "name": "Ryota",
+              "avatar": "../char/housamo/ryota.png",
+              "text": "...I will absolutely respect your choice, [Player]!<br>I've sworn to do that, but thinking about it still makes me feel lonely..."
+            }
+          ]
+        },
+        {
+          "text": "I'll cherish your feelings, Ryota.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Ryota",
+              "avatar": "../char/housamo/ryota.png",
+              "text": "Ugh, [Player]~~!<br>Sorry... and thank you, really."
+            },
+            {
+              "type": "character",
+              "name": "Ryota",
+              "avatar": "../char/housamo/ryota.png",
+              "text": "I will respect your choice too, [Player]!<br>I've sworn to do that, but thinking about it still makes me feel lonely..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Triton",
+      "avatar": "../char/housamo/triton.png",
+      "text": "...[Player] must be exhausted today.<br>Let's save that for another day."
+    },
+    {
+      "type": "character",
+      "name": "Triton",
+      "avatar": "../char/housamo/triton.png",
+      "text": "I want you to know I wish to watch over you until graduation,<br>but I also want you to sail out into the vast world, unbound by anything."
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Yeah, exactly. My love is greater than Triton-sensei's,<br>and I've decided to devote it all to my students, but—"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Just as you respected me for who I am,<br>I'll respect whatever choice you make, [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Thank you, Jinn-sensei.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Yeah, you're my precious student.<br>That fact won't ever change."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Whether you graduate from Shinjuku or another academy,<br>I'm your Jinn-sensei, and you're my beloved student."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Anyway, just take it easy tonight!<br>You've got tons of things to talk about with your fellow students, don't you?"
+            }
+          ]
+        },
+        {
+          "text": "You've grown too, teach!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Hey, don't get cheeky with me!<br>...Is what I'd like to say, but I suppose I'll just have to accept that for today."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "It's a fact that I've taken the next step as a teacher thanks to you, Jagannath, and everyone involved in that Tag Match."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Anyway, just take it easy tonight!<br>You've got tons of things to talk about with your fellow students, don't you?"
+            }
+          ]
+        },
+        {
+          "text": "What about that 'Partner Contract'?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "D-Don't bring that up again!<br>That was just me being affected by Y'golonac's 'Rule' and the alcohol..."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Well, okay, it's true that it was how I really felt, but we'll save that kind of talk for the right time...!!"
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "A-Anyway, just take it easy tonight!<br>You've got tons of things to talk about with your fellow students, don't you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Did you make sure to tell them you're staying overnight?<br>...Don't worry, I've cleared it with the dorm. Consider it a special case!"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Kyoma-sensei told me not to overdo it, but... just this once!<br>And tomorrow, shall we have a slightly late Christmas party?"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "Ah! That's a great idea! Maybe I'll invite Toji too?<br>It's been a while since everyone's been together for a party!"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "...Yeah. We just have to cherish the present like this.<br>Heheh, then, what should we do tonight, [Player]!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/whatbgisthis2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The next day, as [Player] walked home through the cold night streets,<br>various faces came to mind."
+    },
+    {
+      "type": "narrator",
+      "text": "Those who cling to the places they love, those who break out of their shells,<br>those who struggle desperately to accept change while fearing it."
+    },
+    {
+      "type": "narrator",
+      "text": "Those taking on new challenges, those searching for their next place to belong—<br>These are the people they met and spoke with during these past few days."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, [Player] happened to spot a familiar— No, a person they had<br>only just truly come to know, among the crowd."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "—Hm. Oh, it's just you, [Player]-san. Wandering around at this hour,<br>you've really become quite the delinquent yourself."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Well, you'd better get home before some weirdo messes with you.<br>Though, I'd feel sorry for whoever makes the mistake of picking a fight with you."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...This whole experience did make me realize one thing,<br>and it's that I really do hate you."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "That's all I wanted to say.<br>Now, I hope we never meet again."
+    },
+    {
+      "type": "choice",
+      "note": "bro lives to be a professional hater",
+      "options": [
+        {
+          "text": "I was happy that we grew closer.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Kirito",
+              "avatar": "../char/housamo/kirito.png",
+              "text": "I have no idea how you can come to such a convenient interpretation.<br>Do whatever you want, I'm just going to erase my own tracks."
+            }
+          ]
+        },
+        {
+          "text": "How is your relationship with your family?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Kirito",
+              "avatar": "../char/housamo/kirito.png",
+              "text": "It's not like it's any of your business―<br>But well, I suppose I should say something.<br>'Thanks to you'."
+            }
+          ]
+        },
+        {
+          "text": "Can we get along better from now on?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Kirito",
+              "avatar": "../char/housamo/kirito.png",
+              "text": "D-Did you even listen? You're weird.<br>Seriously, go have Baphomet-san check your head."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Well, I'm off for real this time. At this rate, I feel like we'll just meet<br>again somewhere soon, so... No, thank you."
+    },
+    {
+      "type": "narrator",
+      "text": "Kirito gave a faint smile and<br>added one last thing as he was leaving."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...Oh, and by the way, if you're<br>looking for that guy, he was over there."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "—Haha, he was being an insufferable busybody<br>with that dead-annoying face of his, as usual."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/arakawa_mainstreet_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] walked in the direction Kirito pointed.<br>The sight that awaited them was exactly as expected—"
+    },
+    {
+      "type": "character",
+      "name": "Therian",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Geez, just leave us alone already!<br>We can get home on our own just fine."
+    },
+    {
+      "type": "character",
+      "name": "Therian",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "You've been tailing us every single night!<br>Well... See ya tomorrow! You bored-out-of-your-mind cop!!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Yeah, see ya tomorrow!<br>Sleep warm, so you don't catch a cold!"
+    },
+    {
+      "type": "narrator",
+      "text": "Jagannath waved to the brats.<br>As [Player] watched his side profile, their eyes suddenly met."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Oh? What are you doing wandering around, little delinquent?<br>Wait, what's with that resentful look on your face...?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Oh, right. Was it because I skipped your departure ceremony?<br>Don't look at me, the streets are just overflowing with brats, you know."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Besides— Seeing you off as you leave...<br>That's just kind of unbearably awkward, isn't it?"
+    },
+    {
+      "type": "narrator",
+      "text": "He rambled on with uncharacteristic embarrassment, then scratched<br>his nose and concluded the conversation, trying to hide his feelings."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Ah, anyway, tonight's patrol is about done!<br>I'll walk you back so those guys from Kabukicho or Shinjuku don't give me a headache."
+    },
+    {
+      "type": "narrator",
+      "text": "The two of them walked side-by-side down the cold, windy night road.<br>After sharing a few minutes of silence— The words came naturally."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "From now on, what should I do?"
+        },
+        {
+          "text": "I think I'm suited to being a police officer."
+        },
+        {
+          "text": "To be honest, I just can't decide..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "……………<br>I—"
+    },
+    {
+      "type": "narrator",
+      "text": "Jagannath swallowed back whatever<br>was rising in his throat."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...That's not for me to decide. Well, I suppose I've already<br>let some unnecessary words slip out, though."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath_b.png",
+      "text": "...I wanted you to learn by watching my back.<br>I wanted you standing right there beside me.<br>I meant that from the bottom of my heart."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath_b.png",
+      "text": "I thought you could become a good 'delinquent cop', or even more than that.<br>Just thinking about what you could become excited me."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...Officers like me aren't exactly needed in large numbers.<br>But, just one of me isn't nearly enough."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "If it were you, I bet you'd become a cop just like me—<br>No, you'd be a better unconventional cop than I can ever be."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "But, you have countless other possibilities open to you.<br>Looking at you, it's painfully obvious how much potential you've got."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "That's why I invited you to Kiou for this short period.<br>I thought I could make you more interested in taking this path than any other."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "It's very much unlike me, but that's what I was thinking.<br>...Maybe I'm still thinking about it now?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You were much more forceful at first.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jagannath",
+              "avatar": "../char/housamo/jagannath.png",
+              "text": "I-It's because I've spent time with you that I'm being careful?<br>I've been observing and considering those brats' potential every day!"
+            }
+          ]
+        },
+        {
+          "text": "Aren't you going to ask me to stand by your side?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jagannath",
+              "avatar": "../char/housamo/jagannath.png",
+              "text": "I-I can't say it precisely because you've become so important to me!<br>I've seen how so many people care about you, so I can't just half-ass it?"
+            }
+          ]
+        },
+        {
+          "text": "(Stare intently at him)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jagannath",
+              "avatar": "../char/housamo/jagannath.png",
+              "text": "...I know, I know, you're telling me not to get cold feet now, right?<br>But seriously, your potential is much bigger than you think."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Besides— There's a thing I've always been telling those brats.<br>Ultimately, it's up to you to choose your own path."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Still, if you were to look at me for who I am,<br>and truly think you wanted to become my 'buddy'..."
+    },
+    {
+      "type": "narrator",
+      "text": "Jagannath showed a hesitant, almost clumsy sincerity—<br>A side of him they had almost never seen before."
+    },
+    {
+      "type": "narrator",
+      "text": "His usual fearlessness was gone, leaving only his genuine, heartfelt truth.<br>As [Player] watched him from very close up—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Alright— I've decided!"
+        },
+        {
+          "text": "I see, I've..."
+        },
+        {
+          "text": "(Make up your mind)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Whoa, wait— Are you serious!?<br>You don't have to decide that fast!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...But, um. Can I ask something just for the record?<br>You— What kind of path are you planning to take?"
+    },
+    {
+      "type": "narrator",
+      "text": "Despite his tone, tension bled through his words.<br>His eyes were a complex mix of expectation and anxiety."
+    },
+    {
+      "type": "choice",
+      "note": "I hate this shit TwT<br>it was already short, then they decide to pull a choicer inside another choicer",
+      "options": [
+        {
+          "text": "<a href=\"reader.html?chapter=epilogue_a\", style=\"color:var(--background-light);\">I'll choose the path of the police."
+        },
+        {
+          "text": "<a href=\"reader.html?chapter=epilogue_b\", style=\"color:var(--background-light);\">I want to see Shinjuku Academy and other possibilities."
+        },
+        {
+          "text": "<a href=\"reader.html?chapter=epilogue_c\", style=\"color:var(--background-light);\">There are things I want to do in both the police and Shinjuku."
+        }
+      ]
+    }
+  ]

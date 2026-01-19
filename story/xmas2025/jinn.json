@@ -1,0 +1,1246 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/desert_day.png"
+  },
+  {
+    "type": "narrator",
+    "text": "I am smoke— Or perhaps, I am the wind.<br>Born from a smokeless fire, a hot wind racing across the desert in search of a master."
+  },
+  {
+    "type": "narrator",
+    "text": "The desert otherworld, Garodemann.<br>The 'mechanism' that governs that realm is the dualism of 'Light' and 'Dark'."
+  },
+  {
+    "type": "narrator",
+    "text": "A world supported by a prototype 'mechanism' that splits everything into two opposing sides.<br>The 'Spirit' is the existence that expresses this system in its simplest form."
+  },
+  {
+    "type": "narrator",
+    "text": "They like high places, they like things to be clearly defined as 'above' or 'below'.<br>Therefore, genies are well-suited to being 'teachers or subordinates'."
+  },
+  {
+    "type": "narrator",
+    "text": "Mischievous and dangerous ones, ones granting inspiration to priestesses and poets...<br>They have been divided into upper and lower genies based on their nature."
+  },
+  {
+    "type": "narrator",
+    "text": "Among them, of the highest class, the most fallen genie,<br>is given a special name that resonates across countless worlds."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "The infamy that thunders even outside Garodemann— Shaitan.<br>A name bestowed upon the 'Spirit', who has<br>mastered the extremes of this world's hierarchies."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Come to think of it― That student's face somewhat resembles 'Ahriman',<br>the one supposed to be destroyed at the Final Judgment..."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_snow_night5.png"
+  },
+  {
+    "type": "narrator",
+    "text": "A stall belonging to a shopkeeper from Garodemann,<br>lined with kebabs and juices squeezed from rumman."
+  },
+  {
+    "type": "narrator",
+    "text": "Normally, he'd think to hit up an izakaya for some Tokyo sake—<br>But Jinn, feeling a pang of nostalgia for his homeland, had settled himself here."
+  },
+  {
+    "type": "narrator",
+    "text": "He pops morsels of meze into his mouth between sips of arak.<br>It's a nostalgic taste, quite different from an evening drink in Tokyo."
+  },
+  {
+    "type": "note",
+    "text": "vocabulary time<br><br>kebab: grilled meat skewers, originating from Middle East<br>rumman (رمان): Arabic for pomegranates :D<br>izakaya (居酒屋): informal bar, I'm sure you'd at least seen one, even if you didn't know the term<br>meze: small dishes, served as appetizers in Eastern Mediterranean<br>arak (عرق): distilled spirit (liquor) often served with meze"
+  },
+  {
+    "type": "narrator",
+    "text": "It was in the middle of this relaxed, post-work moment<br>that his storm of a student came crashing in."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Oh, [Player], you made it!<br>But this place serves alcohol. High schoolers are..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Well... As long as you don't order any, I guess it's fine...<br>It's a festival, and it's not like that microphone is here with us, right?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "So this is where you were.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "I just started missing Garodemann.<br>'Nostalgia' isn't really my style, but it just happened today."
+          }
+        ]
+      },
+      {
+        "text": "Are you drinking?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "I just started missing Garodemann.<br>'Nostalgia' isn't really my style, but it just happened today."
+          }
+        ]
+      },
+      {
+        "text": "Is this water? Can I drink some?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Hey! You can sit down, but hands off that drink!<br>You're on exchange to the Police Academy, so act like it!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Anyway, what's up?<br>You came all the way to a liquor stall..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "You're at the middle of Kiou right now.<br>If you're going to walk around the festival, wouldn't it be better<br>with your friends or teachers at your transfer school?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "This is a chance to expand your potential and your options, you know?<br>Your teach's just gonna relax here, so go have fun!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'd rather be with you, teach!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "You... are only acting spoiled at times like this...!?<br>What happened to your usual reckless self!?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "But for me, a teacher, to walk the festival with a student on exchange...<br>Ugh, how troubling...!"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Then again, it'd be uncool for a teacher to turn down his student's invitation...<br>Hmmmm..."
+          }
+        ]
+      },
+      {
+        "text": "But you're happy I asked, aren't you?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Ugh...! Stop teasing me!<br>D-Don't look at me!<br>A teacher has a 'reputation' to uphold...!"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "For some reason, I'm really weak to that side of you.<br>You keep smashing through the teacher-student dualism with that look on your face...!"
+          }
+        ]
+      },
+      {
+        "text": "It's lonely without you~ (grins)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Ugh...! Stop teasing me!<br>D-Don't look at me!<br>A teacher has a 'reputation' to uphold...!"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "For some reason, I'm really weak to that side of you.<br>You keep smashing through the teacher-student dualism with that look on your face...!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Jinn drains the arak he was holding.<br>Slamming the cup down with force, it seemed he had made up his mind."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Daaaah! Worrying like this isn't like me at all...<br>A wish, a wish...! If this is your 'first wish', then fine!!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "As a teacher, I'd feel hesitant...!<br>So— As a Genie of Smoke, I shall grant your wish!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "<a href=\"https://www.youtube.com/watch?v=_iQ6fgFcPwM\">Shopkeeper, the check, please!</a><br>That arak was great, haven't had it in ages!"
+  },
+  {
+    "type": "narrator",
+    "text": "After paying, Jinn stands up from<br>the stall's bench and turns to [Player]."
+  },
+  {
+    "type": "narrator",
+    "text": "With a puff of his breath, Jinn's appearance changes<br>in an instant to a more winter-appropriate outfit."
+  },
+  {
+    "type": "choice",
+    "note": "TPO: time - place - occasion",
+    "options": [
+      {
+        "text": "Ooh, a quick change!"
+      },
+      {
+        "text": "That smoke seems really convenient..."
+      },
+      {
+        "text": "Ah! Your exposed skin...!!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Hey! Mind your TPO!<br>You didn't actually drink anything, did you...?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "If we're doing this, we might as well go all out.<br>Here, [Player]—"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Extend your hand)"
+      },
+      {
+        "text": "(Let him take your hands)"
+      },
+      {
+        "text": "(Wait for Jinn to kneel)"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "It is the ancient, traditional vow of the genie from his homeland.<br>Words sent only to the master who rubbed the lamp."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I, the Genie of Smoke shall grant your wish, and show you to the end.<br>Let us spend this Tokyo 'Chaharshanbe Suri' together."
+  },
+  {
+    "type": "note",
+    "text": "Chaharshanbe Suri: ancient Iranian fire festival,<br>celebrated in the night on the last Wednesday of the year"
+  },
+  {
+    "type": "narrator",
+    "text": "A calm, deep voice never heard at school.<br>The resonance of a servant, tinged with the desire to serve someone, is present."
+  },
+  {
+    "type": "narrator",
+    "text": "But then, Jinn grins and pulls [Player] up,<br>almost lifting them as he stands."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Just kidding. You're still too green to be my official master!<br>But since you've invited me, let's make sure we enjoy ourselves."
+  },
+  {
+    "type": "narrator",
+    "text": "With that, the two walk out into the festival bustle.<br>Somehow, Jinn's steps seemed lighter than usual."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "C-Complaining to him actually works..."
+      },
+      {
+        "text": "This genie is way too easy to deal with...!"
+      },
+      {
+        "text": "This is starting to make me worried."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "[Player], did you say something?<br>...Well, whatever. Come here, so you don't get lost in the crowd."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "You seem like the type to wander off so easily.<br>I really can't take my eyes off you, because you keep me on edge."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Hold his hand)"
+      },
+      {
+        "text": "(Interlock arms)"
+      },
+      {
+        "text": "(Put an arm around his shoulder)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Al... Alright, let's go!<br>The festival is waiting for us!"
+  },
+  {
+    "type": "narrator",
+    "text": "Even though the main event had ended, the lines at the stalls were still thriving.<br>The two walk side-by-side through the lively street of vendors."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I bought some takoyaki!<br>Fuu... Fuu... Here, open your mouth. Say 'aaah'!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Be careful not to burn yourself, okay?<br>How is it? Good? I thought so!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "And also, you can't have a festival without eating yakisoba.<br>See, it's got plenty of sauce, looks delicious, right?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "...Wait, haha, you've got some sauce on you.<br>Hold still, I'll wipe it off."
+  },
+  {
+    "type": "narrator",
+    "text": "Jinn's hot, dry thumb wipes [Player]'s lip.<br>Licking the sauce off his own finger, Jinn gives a mischievous laugh."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/smallshrine_night.png"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Want to take a break? There's an empty bench.<br>Wait a sec. Let me brush off the snow... Lay down a handkerchief..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Don't look at the handkerchief like it's a surprise!<br>I've been carrying one ever since Kyoma-sensei told me to!"
+  },
+  {
+    "type": "narrator",
+    "text": "While receiving Jinn's cheerful care as they toured the stalls,<br>the two take a breather on the outskirts of the festival."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I-I was planning to be the one to lead...!"
+      },
+      {
+        "text": "Isn't your nature as a 'spirit' leaking out a bit too much!?"
+      },
+      {
+        "text": "You're treating me way too much like a kid!"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Gwahahaha, my bad!<br>You're almost an adult, and yet I just can't help wanting to look after you!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Still, even for a 'spirit',<br>I'm finding myself desperately wanting to serve you."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I didn't intend for this...<br>Maybe 'that bite mark' is still there?"
+  },
+  {
+    "type": "narrator",
+    "text": "Tilting his muscular neck, Jinn rubs the spot where the mark had been.<br>Of course, nothing remained there."
+  },
+  {
+    "type": "narrator",
+    "text": "In that case—<br>The remaining possibilities were limited."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn_b.png",
+    "text": "I am searching for a master. My instinct as a 'spirit'<br>is demanding that I devote myself to someone."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn_b.png",
+    "text": "Being needed by 'students' and being needed by a<br>single 'master' may seem similar, but they're different..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn_b.png",
+    "text": "...Dammit, the 'Evil God' keeps flickering in my mind...<br>You're just supposed to be my student...!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn_b.png",
+    "text": "And... Being with you just throws me off my game.<br>We're just teacher and student, yet it feels<br>like there's some fate tying us from a past life..."
+  },
+  {
+    "type": "narrator",
+    "text": "Suddenly, [Player] radiates the presence of 'The Supreme Genie'.<br>But— At the same time, Jinn felt the premonition of a vessel worthy of leading him."
+  },
+  {
+    "type": "narrator",
+    "text": "Two opposing possibilities, existing together in contradiction.<br>That is what makes Jinn so troubled."
+  },
+  {
+    "type": "narrator",
+    "text": "A 'bad kid' can become a 'good kid'.<br>Having seen that, he is drawn into that contradiction."
+  },
+  {
+    "type": "narrator",
+    "text": "Before he knew it, Jinn's hand had moved on its own.<br>In his palm was a hand much smaller than his own."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "—Ah!?<br>S-Sorry, I didn't mean to just grab your hand..."
+  },
+  {
+    "type": "narrator",
+    "text": "A thick, broad hand clutches [Player]'s hand.<br>A grip that is hesitant and somewhat lonely, different from before."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "...Teach?"
+      },
+      {
+        "text": "Right here!? Sure, why not!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "W-What do you mean 'sure'!?<br>You, you should value 'this kind of thing' a lot more!"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "...Wait, that's not the point!<br>There's supposed to be something like an 'atmosphere'!<br>T-That's not the kind of vibe we were having!"
+          }
+        ]
+      },
+      {
+        "text": "What are you so worried about?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "...Maybe it's an occupational hazard. I'm just so worried about you.<br>Whether you'll be able to earn a good 'future', or whether you'll be able to fulfill a good wish."
+  },
+  {
+    "type": "narrator",
+    "text": "Eyes as hot as desert sands baked by the sun<br>gazed at the joined hands, as if they were something precious."
+  },
+  {
+    "type": "narrator",
+    "text": "A side of Jinn never seen at Shinjuku Academy,<br>hesitating over every word, choosing them with extreme care."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Once this exchange is over, whether to stay at Shinjuku, transfer to Kiou,<br>or something else entirely— All of it is up to you to think about."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Judging by your work this time, Kiou is bound to prepare for your entry.<br>Maybe, they've already scouted you?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "You have to think and choose your own path.<br>That... makes me anxious."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Who you want to be, what you want to do, the future you want to aim for...<br>Do you even have a clear idea of what you want to become?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'm still... thinking about it.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Yeah. Think it through carefully.<br>As a teacher, I can offer advice, and I can listen."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "But— The decision is yours.<br>Only you can decide your own path for the future."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "It's obvious, but― I really felt it this time.<br>It's precisely because I'm a teacher, that there are things that my hands cannot reach."
+          }
+        ]
+      },
+      {
+        "text": "I want to be with you, teach.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "W-With me...!?<br>What do you mean by that...!?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Even after you graduate, I'd still be your teacher, but...<br>You don't mean it in that way, do you?"
+          }
+        ]
+      },
+      {
+        "text": "I want to be your master, teach.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Mast...!?<br>Hey [Player], y-you're joking, right?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "I mean, I wouldn't exactly mind, but—<br>Wait!? What the hell am I saying!?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "E-Eh, forget I said anything!<br>And stop trying to seduce your own teacher!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Before [Player], many paths proceed to branch out before them.<br>Regardless of whether those paths are considered 'good' or 'evil'."
+  },
+  {
+    "type": "narrator",
+    "text": "Between good and evil, humans beings waver while burdened<br>by their own contradictions. Yet, the mechanism of Garodemann<br>would simply purge those who come to a stop on the side of evil."
+  },
+  {
+    "type": "narrator",
+    "text": "Whether [Player] will tread to good, or drift to evil—<br>That is a secret unbeknownst to anyone."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "(Argh, damn it all!<br>'Regulations' this, 'Good and Evil' that, thinking about it is all just a waste of time!)"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "(If you're in trouble, I'll lend a hand! If you're worried, I'll listen!<br>That's all there is to it— And that's enough!)"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Sorry, I'm getting all preachy. When you're a teacher,<br>you always end up like this when you're talking to a student."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Back to square one, now's your second wish. What do you want?<br>Today is special, I'll grant you anything."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I want to go somewhere where we can be alone~",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "J-Just the two of us... you say?<br>Well... It's true we've been in a crowd until just now..."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Fine, I'll take you there...!<br>...Just don't do anything weird, okay!?"
+          }
+        ]
+      },
+      {
+        "text": "You said 'anything' just now!? Yay!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "W-What are you planning to wish for!?<br>Don't get any crazy ideas!<br>It has to be within the bounds of common sense, alright!?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "...Y-You should save 'that kind of thing' for when you're old enough to lead a 'spirit' properly... (mumbling)."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "...I-It's nothing!<br>Dammit, I'm really pushing it, but I'll go along with whatever you've got!"
+          }
+        ]
+      },
+      {
+        "text": "What do you want to do, teach?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Hm... Maybe because I'm always granting people's wishes, that honestly, I don't really have anything I want to do myself..."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "But, how... about the hot springs?<br>You've worked hard today, so let's go soak away the fatigue."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/onsen_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "With that, the two begin walking toward<br>their destination, standing side-by-side."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "The best thing about a hot spring, is just how liberating it can be!<br>Nobody else's in sight, so we can relax all we want!"
+  },
+  {
+    "type": "narrator",
+    "text": "The next place the two visited was the hot spring stall.<br>Perhaps because of the late hour, it was in a private state."
+  },
+  {
+    "type": "choice",
+    "note": "they flexed on how many emotional states they can pull off with Option 3 :sobbing:",
+    "options": [
+      {
+        "text": "(Go to the foot bath area)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Phew~ This slightly hot water really works...!<br>We've got 'steam baths' back home, but a foot bath is great too."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "After walking that much, you're bound to be tired.<br>[Player], how about you? Not exhausted?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "You don't notice the fatigue while you're having fun.<br>It's important to rest properly when you can."
+          }
+        ]
+      },
+      {
+        "text": "(Watch as Jinn extends a hand from the tub)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Come on, [Player]!<br>The water's nice and warm~?"
+          },
+          {
+            "type": "narrator",
+            "text": "At Jinn's calling voice, [Player] enters the tub and sits next to him."
+          }
+        ]
+      },
+      {
+        "text": "(Take Jinn's hand and jump into the tub)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Uwooooah!?<br>W-What was that for!?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Ah, that's dangerous, you idiot!<br>Good thing there were no other guests here...!"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Seriously, you're so reckless...!<br>Come here, don't leave my side, okay?"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Wait, wow, now you're too close!<br>What, a wish?<br>...Ah, I'm getting sleepy."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "I'm so tired, I might not even notice what you'd be doing...<br>*snore*... *snore*... zzz... *snore*"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "...Oh, you done?<br>You, the three wishes didn't matter to you, you just did whatever you wanted to this lamp genie...!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Lean against his shoulder)"
+      },
+      {
+        "text": "(Hug him from behind)"
+      },
+      {
+        "text": "(Sit on his lap)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Oh!? Whoa!?<br>...I-I... Sorry, I was just surprised."
+  },
+  {
+    "type": "narrator",
+    "text": "His thick arms move clumsily, with a hesitation that<br>makes it seem like they'd have nowhere else to go."
+  },
+  {
+    "type": "narrator",
+    "text": "And then, Jinn's arms timidly touch [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": ".......<br>......."
+  },
+  {
+    "type": "narrator",
+    "text": "Mixed with the 'sulfur' of the spring is a smoky scent.<br>As [Player] takes a breath to investigate the unfamiliar smell, Jinn panics."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Don't sniff me so much...!<br>I was born from fire, so of course I'd smell like smoke."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "If you thought I smelled bad...<br>I'd never be able to recover...!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I think it's a good smell..."
+      },
+      {
+        "text": "So this is your scent, Jinn-sensei?"
+      },
+      {
+        "text": "(Intentionally bury your face in his skin and breathe deeply)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Hey, stop it, that's embarrassing!<br>S-So... Please, don't tease me so much..."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Get carried away and tease him more)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Gyaaah! Stop it, stop it!<br>Don't sniff me!<br>Don't hold on to me—!!"
+          },
+          {
+            "type": "narrator",
+            "text": "As [Player] buries their face into his hairy chest and sweat-dripping neck, they can smell the scent of damp desert sand."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "I get it, I get it, you don't think I smell bad!<br>So let go of me!"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Dammit! You think you can get all cocky...<br>Fine, if that's how it's gonna be, I've got a plan of my own...!"
+          },
+          {
+            "type": "narrator",
+            "text": "—With a 'thud', [Player] was wrapped in Jinn's weight.<br>With an irresistible but gentle force, they are pushed down by his powerful arms."
+          },
+          {
+            "type": "narrator",
+            "text": "As Jinn hovers over [Player] on the cold stone flooring of the bathhouse, he flashes them a daring smirk."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "You're the one who smashed the teacher-student wall.<br>So, I'll give you the 'service' you've been asking for...!"
+          }
+        ]
+      },
+      {
+        "text": "(Find his weakness and get excited)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Gyaaah! Stop it, stop it!<br>Don't sniff me!<br>Don't hold on to me—!!"
+          },
+          {
+            "type": "narrator",
+            "text": "As [Player] buries their face into his hairy chest and sweat-dripping neck, they can smell the scent of damp desert sand."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "I get it, I get it, you don't think I smell bad!<br>So let go of me!"
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Dammit! You think you can get all cocky...<br>Fine, if that's how it's gonna be, I've got a plan of my own...!"
+          },
+          {
+            "type": "narrator",
+            "text": "—With a 'thud', [Player] was wrapped in Jinn's weight.<br>With an irresistible but gentle force, they are pushed down by his powerful arms."
+          },
+          {
+            "type": "narrator",
+            "text": "As Jinn hovers over [Player] on the cold stone flooring of the bathhouse, he flashes them a daring smirk."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "You're the one who smashed the teacher-student wall.<br>So, I'll give you the 'service' you've been asking for...!"
+          }
+        ]
+      },
+      {
+        "text": "(Hurriedly close your mouth)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Ah, no, sorry...<br>I didn't mean to..."
+          },
+          {
+            "type": "narrator",
+            "text": "Jinn looks surprised by [Player]'s sudden obedience, as if he had been expecting a fight."
+          },
+          {
+            "type": "narrator",
+            "text": "In the slightly awkward atmosphere, Jinn flashes a smile."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "When you tease me like that, I end up taking it all to heart.<br>Maybe― it's because I can feel something something really big inside you."
+          },
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Not that it's an apology, but since we're here to relax...<br>Should I help you relax even more?"
+          },
+          {
+            "type": "narrator",
+            "text": "As he speaks, Jinn's hot arms press [Player] down onto the flat floor."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Back 'home', we get massaged in places like this.<br>And of course, I know the techniques."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Gwahaha! Prepare to experience<br>a real, authentic massage...!"
+  },
+  {
+    "type": "choice",
+    "note": "ouch",
+    "options": [
+      {
+        "text": "I-It's working~~!!"
+      },
+      {
+        "text": "Eh... can bones even move like that!?"
+      },
+      {
+        "text": "I-Is this really a massa— Gyah!"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "([Player], your joints are still plenty flexible.<br>Even when you're growing towards an adult,<br>you still carry the traces of your youth.)"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "(No matter how mischievous you can be, or what kind of person you will be...<br>You're still just a kid yourself. There's no telling which way you'll fall towards.)"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "(The shadow of Shaitan, the presence of an Evil God, the premonition of a master.<br>Despite all that, you're still my student first and foremost.)"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "(And, even a kid labeled 'bad' can become a 'good' one.<br>In that case, my job's already decided—)"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Alright! A present for the kid who worked hard!<br>Receive this devotion to your weary muscles and joints~!!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/tetsuyaroom_day.png"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "T-That was incredible... (exhausted)"
+      },
+      {
+        "text": "I'd like you to do other places too."
+      },
+      {
+        "text": "Now it's my turn to massage you. (rubbing hands)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "...Seriously, you never learn, do you?<br>Where do you get all that energy from!?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Shinjuku Academy, Dorm Supervisor's Room.<br>The two were in the room where Jinn lived his daily life."
+  },
+  {
+    "type": "narrator",
+    "text": "After the hot spring and massage, they had returned home<br>from the festival grounds in search of a place to relax."
+  },
+  {
+    "type": "narrator",
+    "text": "Changing into loungewear, they gave themselves<br>away to a pleasant sense of fatigue."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Sit next to Jinn)"
+      },
+      {
+        "text": "(Rest on a lap pillow)"
+      },
+      {
+        "text": "(Lie down on an arm pillow)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Honestly, usually you're so loud about not wanting to be<br>treated like a kid, and yet here you are, completely defenseless..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "But, you look like you're your age when you're dozing off like this.<br>No matter the era, young people just keep growing up..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Hushing around, playing, fighting... You're bound to be tired.<br>At your age, just playing and studying should be enough."
+  },
+  {
+    "type": "narrator",
+    "text": "Whispering so as not to break [Player]'s slumber,<br>Jinn thinks to himself— What can he do for these kids?"
+  },
+  {
+    "type": "narrator",
+    "text": "Continue to be a teacher as he already is— Would that be enough?<br>Aren't there feelings that he should remember about?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "(Come to think of it... Suidocho has those night classes.<br>There should be a course where working adults can learn...)"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "(I... think just having the mindset of a teacher might not be enough.<br>If I lose the feeling of being on the learning side, there are things I won't reach.)"
+  },
+  {
+    "type": "narrator",
+    "text": "Jinn hesitantly strokes [Player]'s hair,<br>who is drifting in and out of sleep."
+  },
+  {
+    "type": "narrator",
+    "text": "Always at the center of trouble, a problem child, and a precious student.<br>[Player] would surely be able to survive anywhere."
+  },
+  {
+    "type": "narrator",
+    "text": "Even if that's true, Jinn is still [Player]'s teacher—<br>And he wants to remain being so."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "...Fufu.<br>Gwahahaha..."
+  },
+  {
+    "type": "narrator",
+    "text": "Even though they had finally passed their teacher's exams,<br>it seemed that their studies were far from over.<br>For some reason, that thought made Jinn breaks into a smile."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Teach, you're smiling."
+      },
+      {
+        "text": "What's with that cute face?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Cu...!? Gh... *cough* *cough*!<br>How can you always say things like that...?"
+          }
+        ]
+      },
+      {
+        "text": "(Touch Jinn's body)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "Gwahahaha! Too bad!<br>Did you think I wouldn't see that sleepy hand coming from a mile away?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "...I just thought I should work hard so you can<br>always be my student, and I can always be your teacher."
+  },
+  {
+    "type": "narrator",
+    "text": "Cupping [Player]'s cheeks in both hands,<br>Jinn speaks with a quiet, sweet tone."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "This Christmas night's almost over.<br>Before it does... Do tell me your last wish."
+  },
+  {
+    "type": "choice",
+    "note": "woooooooooo nesting choices!!!!!!<br>in case it wasn't obvious, those options are links",
+    "options": [
+      {
+        "text": "<a href=\"reader.html?chapter=jinn_a\", style=\"color:var(--background-light);\">(Make a third wish)"
+      },
+      {
+        "text": "<a href=\"reader.html?chapter=jinn_b\", style=\"color:var(--background-light);\">(Give a third command)"
+      },
+      {
+        "text": "<a href=\"reader.html?chapter=jinn_c\", style=\"color:var(--background-light);\">(Ask Jinn for his wish)"
+      }
+    ]
+  }
+]

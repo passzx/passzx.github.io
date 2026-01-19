@@ -1,0 +1,1342 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/space.png"
+  },
+  {
+    "type": "note",
+    "text": "yea I know his pronouns are all over the place<br>but you'll have to put up with me here"
+  },
+  {
+    "type": "narrator",
+    "text": "He is the Great Duke of the Abyss,<br>thou art the Lord of the deepest depths of 'dark' desires."
+  },
+  {
+    "type": "narrator",
+    "text": "Staring at that face untouched by light,<br>the believer spoke their wish in a trembling, thin voice."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hah? You, did you dare to make a wish to me?<br>How presumptuous... for a tiny, insignificant being such as yourself."
+  },
+  {
+    "type": "narrator",
+    "text": "Realizing they had offended him, the believer hurriedly<br>prostrated themselves, but it was already too late.<br>The fangs of a large palm sank into the believer's neck."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Ugh, aah... My body... It's hot...!<br>Y'golonac-sama, please, take my everything—!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Indeed, it is you who should entrust everything to me.<br>I shall devour you without hesitation. Gwahahahah!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Now then, what do you desire of me?<br>Lay bare your every desire before me."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Well, in the end, they will all be overwritten by your desire to serve me, anyway.<br>But if you happen to strike a chord with me, there might be a chance...!?"
+  },
+  {
+    "type": "narrator",
+    "text": "Shaking his bloated body, the higher being<br>asks the believer for a wish they want fulfilled."
+  },
+  {
+    "type": "narrator",
+    "text": "It has always been this way, since time immemorial.<br>He lived thinking that this was simply how things were."
+  },
+  {
+    "type": "narrator",
+    "text": "But, then, someone asked:<br>'Then, what wish will you speak on this night of miracles?'"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_snow_night2.png"
+  },
+  {
+    "type": "narrator",
+    "text": "And so, on the approach to the Fighting Festival,<br>this is what the Old One who transferred to Tokyo is up to now—"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hey, hey, there's a drink that's glowing like crazy!<br>What's the deal with that!? Does it make your tongue tingle!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "What's that fried pasta? It looks like it'd be a great snack with drinks!<br>Over there, is that takoyaki where you can choose your own fillings and the sauce!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "[Player], what do you want to eat?<br>Just tell Uncle, Uncle'll buy you anything you want, okay?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Thanks, Papa.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "It's fine, it's fine.<br>Uncle's gotta act the part every once in a while~"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Wait, noooooo!<br>That's exactly why everyone keeps calling us parent and child!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I-It's not that I hate it, okay?<br>It's more like... I'm troubled by how happy it makes me..."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uncle's totally fine with the heartwarming feeling, but...<br>Maybe every now and then, something more moist, sticky, and squishy would be nice too?"
+          }
+        ]
+      },
+      {
+        "text": "You're such a glutton.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Ahh, stop poking Uncle's 'marshmallow body'!<br>I have to eat a lot today too, to protect this cute belly..."
+          }
+        ]
+      },
+      {
+        "text": "(Point at Y'golonac)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Eh!? You want to 'devour' Uncle!?<br>Calm down, we just made it to the festival, you know~?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Save the naughty stuff for later, okay?<br>Let's keep things sweet for now."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "So, what'll it be?<br>Something hearty, or maybe an apple candy or cotton candy...?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Since we're here, Uncle wants to eat something festival-like.<br>Ooh, taiyaki looks good too~?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Let's get whatever you like, Y'golonac.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Really~? Then how about that pizza-looking thing?<br>It looks filling and delicious!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "For toppings, let's go with cheese, bacon, ham, corn, eggs...<br>Chicken, salami, and sausage!"
+          }
+        ]
+      },
+      {
+        "text": "(Buy him whatever he wants)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Eh, for Uncle!?<br>Is it because Uncle talked about being filial?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I'm so happy! Then, I'll take you up on that.<br>Can I get that salami pizza thing over there~?"
+          }
+        ]
+      },
+      {
+        "text": "(Try to say what you want)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "No, wait. Uncle will buy it for you!<br>Uncle knows everything about you, [Player]!"
+          },
+          {
+            "type": "narrator",
+            "text": "At his words, he runs off frantically, returning with the exact festival food they were about to mention."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "See, I nailed it, right? We've been together a long time, after all.<br>From your taste in food to this and that... Gufufu."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I barely had any interest in others before.<br>You're the only one I've looked at with something other than desire."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Now then, once we've filled our bellies, think about what to do next, okay?<br>Uncle Santa will make it happen!"
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac looks into [Player]'s face,<br>flashes a grin, and lowers his voice to 'whisper'."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uncle will accept any 'desire' you have, you know?<br>Fulfilling your wishes is my job as your father figure, right?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Don't be shy, even bad wishes are totally okay!<br>Even things you couldn't tell your real father are always welcome!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "That's the best part about guys like me. Parent and child, lovers...<br>If you want... I can show you even the old 'me'?<br>It's more than just a double treat!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "[Player], you're always such a sweet, good kid.<br>But for Christmas, why not let the 'restraints' come off a little?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hmm? Come on, tell me.<br>What do you want to do with Uncle~?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I want to be with you, Y'golonac.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Is that all?<br>You're so cute, Uncle has to spoil you to the best of his ability."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Actually, I felt the same way.<br>We're a perfect match, hihihi."
+          }
+        ]
+      },
+      {
+        "text": "Let's enjoy the festival to the fullest!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Is that all?<br>You're so cute, Uncle has to spoil you to the best of his ability."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Actually, I felt the same way.<br>We're a perfect match, hihihi."
+          }
+        ]
+      },
+      {
+        "text": "(Whisper back to him)",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "After hearing [Player]'s request, Y'golonac flashes the widest grin he's shown all day."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "What, you really can't hold back that much?<br>Kukuku, I see, I see, you're so adorable."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Alright, once we've looked around a bit more and the crowds thin out, let's head back early for some private time."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Since we're here, why don't we walk while holding hands?<br>It'll make things feel more special, don't you think?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "No need to be on guard!<br>Though~ the mouth on my palm might give you a little lick!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Or maybe Uncle's mouths love [Player] so much<br>they'll end up biting you all on their own..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Well, of course I'm joking, that'd cause all sorts of problems.<br>So I definitely won't bite, definitely!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Hold hands)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...I just realized.<br>Uncle's willpower is being tested to the limit right now, isn't it??"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uncle's restraint's already so loose, it'd be hard to keep my desire in check.<br>But Uncle doesn't want to let go, so I'll try my best!"
+          }
+        ]
+      },
+      {
+        "text": "(Get a shoulder ride)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Oh, leave it to me.<br>I saw some parents and kids at the festival and thought it looked nice."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Being carried by me, an Old One, makes you a real <a href=\"https://www.youtube.com/watch?v=V31PVkwzpEY\">big shot</a>.<br>[Player], it's your own special seat, a view no one else can see, right?"
+          }
+        ]
+      },
+      {
+        "text": "(Ask to be carried in his arms)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "That's fine, but aren't you embarrassed?<br>Well, Uncle doesn't mind, but..."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Doing this and calling you 'baby' makes me feel like a babysitter.<br>Well, some of my 'babies' do like that."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "But, for you... let's see.<br>'Shall we go, Princess?'<br>...Is that the line?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "The two of them continued to explore the festival venue.<br>Besides the food stalls, there were many game stalls and experiential stalls."
+  },
+  {
+    "type": "narrator",
+    "text": "Among them, Y'golonac took a liking to<br>a stall for making handmade lanterns to decorate the venue."
+  },
+  {
+    "type": "narrator",
+    "text": "There are two type to choose from, lanterns to hang in the sky,<br>or those that float on the water in the hot spring area."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac naturally chose the latter,<br>and they headed toward the hot spring area."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/onsen_night.png"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hmm hmm hmmm~, no one's here!<br>Now Uncle can take his time with you."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Enter the foot bath)"
+      },
+      {
+        "text": "(Soak together from the waist down)"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac immediately floats the lantern they made on the water.<br>For some reason, it had a slightly mysterious shape."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Interesting. So other worlds have customs like this.<br>Writing a wish and letting it float is just like a wish to Santa."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "No peeking! I heard it's bad luck<br>if people find out about these things."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Not that I have any right to say that, being so sensitive to desire.<br>You can show me yours, though, Uncle will make it come true for you!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "My wish is a secret too.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "What, is it something you can't even tell Uncle!?<br>Ugh... Now I'm super curious!?"
+          }
+        ]
+      },
+      {
+        "text": "Is it a wish that even I couldn't fulfill?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "No, it's not like that...<br>Wait, if I say that, then isn't totally obvious that it's a wish about you!?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "You're a bad kid, [Player]...!<br>I'm not saying anything else, my lips are zipped!"
+          }
+        ]
+      },
+      {
+        "text": "I was planning on fulfilling it for you though...",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Really?<br>I won't forgive you if you're lying, even if it's you, [Player]?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Wait, [Player], so you caught on that it's a wish about you!?<br>I'm not saying anything else, my lips are zipped!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac stared at the lantern floating<br>on the water for a moment, making a prayer."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Still, I didn't have many good memories<br>of Christmas, but it's actually really fun."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac recalls his time as an Old One.<br>Taking over a believer's body, to descend to the surface for brief a moment."
+  },
+  {
+    "type": "narrator",
+    "text": "But his time was spent only on hunting his next victim.<br>Even when he stole a body, he never inherited the victim's memories."
+  },
+  {
+    "type": "narrator",
+    "text": "Even if the person had a family,<br>Y'golonac never experienced the warmth of a family circle."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Well, most of Uncle's believers were people desperate for<br>a place to belong anyway, so the opportunity was rare."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "So, the fact that I can feel this warm<br>inside now is all thanks to you, [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "The greatest gift in Uncle's entire life<br>is none other than you, [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Really, thank you. For coming to Uncle,<br>and for staying with Uncle..."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Likewise, thank you too."
+      },
+      {
+        "text": "I'm glad the one who took me in was you."
+      },
+      {
+        "text": "I love you too, Y'golonac-papa."
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "The moment those words were spoken,<br>tears suddenly overflowed from Y'golonac's eyes."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uuu... Sorry, my eyes are drooling...<br>I didn't think you'd hit me with a counter like that."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "*sniff* ...But I don't think I've repaid you for everything yet,<br>*sniffle* ...so I'll work even harder."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Don't know what's gotten into me, but can I give you a big hug?<br>I just feel like doing it all of a sudden... *sniff*."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Give him a big hug)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hehehehe...<br>It's strange, doing this makes me feels all warm and fuzzy inside."
+          }
+        ]
+      },
+      {
+        "text": "(Open your arms wide)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uwaaaaaa, huuuug~!!<br>I'll squeeze you until you pop—!!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hehe, I'm so happy~<br>A moment like this is just Uncle's favorite!"
+          }
+        ]
+      },
+      {
+        "text": "(Wipe his tear-streaked face)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hehehe, thank you.<br>Uncle just wants to be pampered by you right now."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uncle might actually be completely purified.<br>I never knew it felt so good to be given something."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I never knew, because all I did was take.<br>Uncle's gifts were usually a total scam."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Now, I think giving isn't so bad either.<br>It's really not like me, being a bad Old One and all."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Maybe Uncle should be nicer to<br>the babies' request once in a while."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Yeah, why not?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Right?<br>But don't worry, the Uncle you see now is only for you, okay?"
+          }
+        ]
+      },
+      {
+        "text": "That sounds... a bit unpleasant.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...I see, then I won't do it.<br>Uncle doesn't want to do anything that makes you sad."
+          }
+        ]
+      },
+      {
+        "text": "You'll have all the babies falling for you.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hehe, but don't worry, okay?<br>You'll always be Uncle's favorite."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uncle's willing to do anything,<br>and give everything to you, you know?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...It's embarrassing, but I'm being 'real' here.<br>That's just how much I love you."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac moves very close to [Player].<br>And at that moment—"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Get a kiss on the cheek)",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "A gentle, delicate kiss that one can barely felt descends onto [Player]."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uncle can give proper mouth kisses too.<br>That's the 'proof' that you're special to me."
+          }
+        ]
+      },
+      {
+        "text": "(Get a kiss on your left ring finger)",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "With a soft sound, Y'golonac gives the base of [Player]'s finger a little love-nip."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hey, did you notice?<br>Uncle Santa's ring was in a different place than usual."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "You see, the meaning of a ring changes depending on where you wear it.<br>The left ring's the most famous, meant to strengthen love and the bonds between people."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "It's perfect for Uncle's wish, right?<br>Plus, it's a warning to everyone else, yes?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "So, think of it as a charm from Uncle.<br>The 'proof' that you're special to me."
+          }
+        ]
+      },
+      {
+        "text": "(Nothing was done)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Let's head to the other tubs.<br>There were a few unusual ones over there."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_snow_night2.png"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Phew~ That was a good soak.<br>Maybe we should go to a hot spring inn together sometime."
+  },
+  {
+    "type": "narrator",
+    "text": "After leaving the hot spring, Y'golonac dresses in his Santa outfit.<br>Whether if it was to keep warm, or by some other intent—"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...You might have guessed from what Uncle said at the spring,<br>but Uncle's got a Christmas present for you."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I'm worried if you'll like it, but I prepared it after<br>asking people around me, so I can only hope that you liked it."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac rummages through his bag<br>and takes out a present. From there, it's—"
+  },
+  {
+    "type": "choice",
+    "note": "???",
+    "options": [
+      {
+        "text": "(A small present box)",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Y'golonac encourages [Player] to open the beautiful packaging.<br>He watches nervously as they do."
+          }
+        ]
+      },
+      {
+        "text": "(Something unspeakable)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uwah!? Sorry, sorry, wrong one.<br>It's actually this one, so do open and take a look?"
+          }
+        ]
+      },
+      {
+        "text": "(A freshly removed loincloth)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uwah, that stinks!<br>I forgot I shoved my spare clothes in there too."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "No, I just grabbed the wrong thing!<br>But they say a real Santa bag gives good kids what they want, so maybe..."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Well, this is just a normal bag, so that's impossible!<br>...Though, Uncle will give it to you if you really want it..."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Anyway, the real present is this box!<br>Do open and take a look."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Matching winter gear)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Might be a bit cliché, but matching mufflers and gloves.<br>Now you can hold hands with Uncle without worry, right?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "They even got custom-made boar pins, aren't they cute?<br>Make sure to wear them this winter, okay?"
+          }
+        ]
+      },
+      {
+        "text": "(Handmade sweets)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I tried my hand at icing cookies for the first time!<br>See, aren't the cookies with Uncle's face cute?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I usually only make simple meals, so I struggled a bit,<br>but I think they turned out pretty well."
+          }
+        ]
+      },
+      {
+        "text": "(Matching rings)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Uncle thought about our future together a lot, and Uncle felt like it'd be better to bind us together in a visible way."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Somehow, I feel like you'll wander off the moment I look away.<br>I get that scary feeling when I look at you sometimes."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Well, it's obviously not an engagement ring, so I'd be happy if you just wore it as a normal accessory."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Thank you, I'm happy.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Didn't I told you that it's fine?<br>Uncle's satisfied as long as you're happy."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Buuut, if you really want to give me something back, [Player], then maybe you can be my Santa?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "The festival is almost over, but you and Uncle's holy night is just beginning, no?"
+          }
+        ]
+      },
+      {
+        "text": "I didn't prepare anything in return.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Didn't I told you that it's fine?<br>Uncle's satisfied as long as you're happy."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Buuut, if you really want to give me something back, [Player], then maybe you can be my Santa?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "The festival is almost over, but you and Uncle's holy night is just beginning, no?"
+          }
+        ]
+      },
+      {
+        "text": "(Give him a present)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Eh, for Uncle...!?<br>Well, I didn't think you'd actually prepare something..."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I planned to act like it was my turn to get a present later~ or something, and then move it towards me asking for a wish."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "But Uncle's so happy that you've done this, [Player]...<br>That's all it needed for Uncle's heart to go down~"
+          },
+          {
+            "type": "narrator",
+            "text": "Y'golonac pulls [Player] for a tight embrace, a fresh scent from the bath wafting from him."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hey, can we just stay hugged like this all the way home?<br>...Uncle really doesn't want to let go."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "note": "[This choice will only be available if you picked Option 3]",
+    "options": [
+      {
+        "text": "Okay, we can stay like this."
+      },
+      {
+        "text": "...This is pretty embarrassing."
+      },
+      {
+        "text": "No, open your present."
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/tetsuyaroom_day.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Feeling a sense of regret as the festival venue recedes,<br>the two return to their home in Kabukicho."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Ah, that was so much fun!<br>How about you, [Player]? You tired?"
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac is a bit restless,<br>acting fidgety as he gauges [Player]'s state."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "...Is something wrong?"
+      },
+      {
+        "text": "(Have a hunch)"
+      },
+      {
+        "text": "I'm pretty tired today~",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I know, I know?<br>But, Christmas only lasts as much as today!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Come on, please.<br>Just for today!<br>Can you stay with me a tiny bit longer~?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I actually prepared one more thing.<br>I wanted to make the most of Christmas with you, you see?"
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac once more pulls a bright red<br>Santa outfit out of his bag of dreams."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hey, could you wear this and be Uncle's personal Santa?<br>It's my life's wish for this year!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Only for a bit, alright?"
+      },
+      {
+        "text": "I suppose I can do that much."
+      },
+      {
+        "text": "(Change with enthusiasm)"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac's face lights up once he<br>realizes [Player] will dress up for him."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uncle will go change too~<br>Wouldn't it be weird if Uncle was a Santa as well?"
+  },
+  {
+    "type": "narrator",
+    "text": "However, the Santa outfit Y'golonac prepared was<br>a bit different from a normal Santa suit—"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Isn't this design a bit insane?"
+      },
+      {
+        "text": "So this is how you like it, huh...?"
+      },
+      {
+        "text": "Now, do I look good, Y'golonac-papa?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hyuuu!! It's great! It's so great~!!<br>It suits you exactly as muuuuuch as Uncle thought it would!"
+  },
+  {
+    "type": "narrator",
+    "text": "After a moment of great joy, Y'golonac pulls on<br>[Player]'s hand, dragging them into his arms."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hihi, Uncle's got the best personal Santa~!<br>Resign yourself and surrender!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Pity this Santa who fell into Uncle's clutches,<br>for you'll be put to work to satisfy Uncle's desires!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Oh no, release me... (monotone)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "If Uncle stopped just by someone's words, then Uncle wouldn't be an evil Old One, no?"
+          }
+        ]
+      },
+      {
+        "text": "(Try to escape from his arms)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hey now, you won't escape Uncle anymore.<br>Just give up and get along, okay?"
+          }
+        ]
+      },
+      {
+        "text": "Oh... Just kill me...!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I'd never do something so wasteful!<br>Uncle's going to cherish you for the rest of your life, okay?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac's grip strengthens as he gets caught up in the mood,<br>holding [Player] tightly, confirming the feeling of them being in his arms."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "What's your next wish?"
+      },
+      {
+        "text": "Santa [Player] will fulfill it for you."
+      },
+      {
+        "text": "(Stare intently into Y'golonac's eyes)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Oh, noooo, one after another,<br>the wishes inside me are just bubbling up!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "You know, before coming to this Tokyo and getting to meet you,<br>Uncle has never understood how Uncle's believers felt."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Actually, Uncle's gonna be honest?<br>This time around, I was pretty jealous of Jagannath."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Going to the same school, experiencing youth...<br>Uncle wants to do the same things with you, [Player]!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "You'd probably know that Uncle's a host, and that Uncle's a member<br>of the Second Business Faculty of Suidocho Business Academy, right?"
+  },
+  {
+    "type": "narrator",
+    "text": "The school, in the old Suidocho area of Shinjuku<br>offers lifelong learning courses for working adults."
+  },
+  {
+    "type": "narrator",
+    "text": "Besides Y'golonac as a host, various students and<br>teachers of all ages are said to attend the same academy."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I want you to come to Suidocho, not the Police Academy...<br>Uncle wants to be [Player]'s classmate~!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "That's an unreasonable wish..."
+      },
+      {
+        "text": "I'll give it a thought, Y'golonac."
+      },
+      {
+        "text": "Maybe that future will come someday?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "And, and! Santa-san...<br>Can I make one more wish?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uncle has been alone, long been trapped behind these walls...<br>And now that Uncle's known this warmth, there's no turning back..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "So, Santa-san, Uncle wants you to be someone precious...<br>Won't you fulfill this Uncle's wish?"
+  },
+  {
+    "type": "choice",
+    "note": "woooooooooo nesting choices!!!!!!<br>in case it wasn't obvious, Option 2 and 3 are links",
+    "options": [
+      {
+        "text": "(Become like parent and child)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hihi, I'm happy.<br>That means you like you and Uncle's current relationship, right?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Thank you, [Player].<br>I'll spoil you to the max until Christmas is over."
+          },
+          {
+            "type": "narrator",
+            "text": "Y'golonac doesn't know what a real parent-and-child relationship is like, but for them, this must be the right answer—"
+          }
+        ]
+      },
+      {
+        "text": "<a href=\"reader.html?chapter=ygolonac_b\", style=\"color:var(--background-light);\">(Become lovers)"
+      },
+      {
+        "text": "<a href=\"reader.html?chapter=ygolonac_c\", style=\"color:var(--background-light);\">(Become Y'golonac's ■■■■)"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "The lantern gently floating on the water.<br>The wish entrusted to its light, was a pure and precious 'desire'."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac feels a premonition in the warmth in his chest,<br>that the wish might come true sooner than expected."
+  },
+  {
+    "type": "narrator",
+    "text": "No one knows what the future holds for the two of them.<br>Under the holy night, 'dreams' appear and vanish, just like champagne bubbles—"
+  }
+]

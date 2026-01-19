@@ -1,0 +1,4316 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/saidan_day.png"
+  },
+    {
+      "type": "narrator",
+      "text": "The idol of Baphomet, once worshipped long ago,<br>is world-renowned for its form pointing both up and down."
+    },
+    {
+      "type": "narrator",
+      "text": "It is said: 'As above, so below;<br>as without, so within'—"
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet reflects on herself. Why did she come to this<br>Tokyo and choose the path of a school counselor?"
+    },
+    {
+      "type": "narrator",
+      "text": "In her home world, she was called both god and devil.<br>This was due to her power to see the desires of others and the methods to fulfill them."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet's 'Sacred Artifact' is ultimately quite simple.<br>She is well-versed in the cognition of the world and grants 'Inspirations',<br>divine revelations, to the intellects of others."
+    },
+    {
+      "type": "narrator",
+      "text": "As the price for this, Baphomet received the limitless<br>'Faith' of the people, growing into a massive existence."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet can become anything if it is wished of her.<br>She becomes exactly what those around her believe her to be."
+    },
+    {
+      "type": "narrator",
+      "text": "And it is precisely 'because of this' that Baphomet<br>is hopelessly unsuitable to become a leader of an organization."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet does not point in one specific direction.<br>She merely 'points in the direction the other party desires'.<br>She is unfit for leadership."
+    },
+    {
+      "type": "narrator",
+      "text": "To a Baphomet who 'panders to others' in this way,<br>she herself does not know who she truly is."
+    },
+    {
+      "type": "narrator",
+      "text": "In truth, for those who 'do not know dissatisfaction', and those who lack thereof,<br>a boundary between themselves and others will never emerge."
+    },
+  {
+    "type": "bg",
+    "bg": "../bg/slum_evening.png"
+  },
+    {
+      "type": "narrator",
+      "text": "She has lived, wanting to know what she is.<br>Wanting to find that out— Perhaps that is what she became a counselor for."
+    },
+    {
+      "type": "narrator",
+      "text": "Interfering with the 'inner devil' and granting 'Inspirations'.<br>Baphomet performs her usual work using these two primary powers."
+    },
+    {
+      "type": "narrator",
+      "text": "Both are useful tools for a counselor.<br>However, there are cases where these powers are almost entirely ineffective."
+    },
+    {
+      "type": "narrator",
+      "text": "First— Cases where she must handle<br>a complex and delicate 'inner devil'."
+    },
+    {
+      "type": "narrator",
+      "text": "Adolescent desires sometimes manifest strongly as<br>self-destructive impulses that break oneself."
+    },
+    {
+      "type": "narrator",
+      "text": "Interfering with a devil deeply tied to 'soft mental wounds' is difficult.<br>If one tries to force it, the cracked heart will shatter into pieces."
+    },
+    {
+      "type": "narrator",
+      "text": "And second— Cases where the opponent is<br>someone with too little knowledge or experience."
+    },
+    {
+      "type": "narrator",
+      "text": "Revelations, flashes of inspiration, are by no means born from nothing.<br>They use the resources already inside the client as material."
+    },
+    {
+      "type": "narrator",
+      "text": "If there is a word to describe oneself,<br>but one does not know it, one cannot use it."
+    },
+    {
+      "type": "narrator",
+      "text": "Even if Baphomet gives them that word, what comes out of<br>their mouth is 'nothing more than Baphomet's own words'."
+    },
+    {
+      "type": "narrator",
+      "text": "In short, this 'Rule' is difficult to use on children.<br>To express one's self or one's wishes, one must know 'differences'."
+    },
+    {
+      "type": "narrator",
+      "text": "It was especially powerless against children who had once left school,<br>left 'knowing things' behind, and lost their opportunities.<br>To them, the stimulation was too strong."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And yet, I chose the path of a school counselor, followed the children who<br>left their schools, and ended up being worshipped there as well."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "This is what my nature— And my inner wishes, have led me to.<br>Everyone depends on me, and they become unable to live without me."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And then the group becomes radicalized and extreme.<br>I can only ever become such an object of shallow worship."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Yes, I was able to become a temporary place of belonging for them.<br>I could grant them consolation as they demanded it."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But shamefully, I find myself unable to do more than that.<br>However— If there were someone who 'rejected' me..."
+    },
+    {
+      "type": "title",
+      "text": "Chapter 3:<br>\"Lullaby\" for the Bad Boys"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night2.png"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "—I've already told you, that even if you put<br>me on it instead of Oniwaka-san, we wouldn't win."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "If you're going to carry someone, it should be someone big and stupid...<br>Oops, I mean, someone with an empty head so you can pack more into it."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Baphomet-san's size is plenty.<br>...Though, for me, I don't need a replacement for Oniwaka-san."
+    },
+    {
+      "type": "narrator",
+      "text": "On the first day of the festival, the Float Clash ultimately<br>ended in a victory for the Asakusa group, united under Sanat Kumara."
+    },
+    {
+      "type": "narrator",
+      "text": "As for the Ikebukuro float carrying Kirito,<br>it fell faster than any other team, and was eliminated early on."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Baphomet-san is one thing, but I myself am powerless.<br>If you really wanted to win, you should have brought in someone else."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "In a real fight, I'm weaker than anyone.<br>...Well, I also think it's pointless to get all worked up over a festival like this."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "But if Baphomet was a no-go,<br>we couldn't imagine anyone but you riding it, Kirito."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Losing was frustrating, but this is fine in its own way.<br>Though... Maybe we shouldn't have been picky about our methods?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Damn, I really wanted to go for the win!<br>Oh well, being able to participate with you was great, Kirito."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Seriously, why are you so fixated on me?<br>I was just the 'starting point' for you guys gathering."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "The reason you guys are like this now is because<br>Baphomet-san came to underground Ikebukuro—"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "But Kirito, you're like our family, right?<br>You're just like us hopeless people."
+    },
+    {
+      "type": "note",
+      "text": "damn he got clocked :skull:"
+    },
+    {
+      "type": "narrator",
+      "text": "At those words, he stops speaking and ponders on something.<br>After a moment, Kirito turns his face away from the boys."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...<br>Anyway, I'm not participating anymore."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Eh, what for!?<br>We're just about to get to the good part!"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Don't make me say it over and over.<br>I told you I'm done with 'this kind of thing'."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Besides... Any group I get deeply<br>involved with always meets a terrible end."
+    },
+    {
+      "type": "narrator",
+      "text": "Kirito leaves the area with those flat words—<br>However, there were those watching the whole scene from a distance."
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "Hmm... It seems they are indeed<br>'bad children' in the eyes of a Santa."
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "The investigation was delayed because they were children who had strayed<br>from their schools, but I've managed to add them to the list in time."
+    },
+    {
+      "type": "narrator",
+      "text": "The large young man standing beside him mumbles a question,<br>a conflicted expression crossing his face."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...Hey, Tomte.<br>Are those kids really 'bad children'?"
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "Yes, there's no doubt about it.<br>The judgment by my 'Sacred Artifact' is—"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "No, I know that much already.<br>You're reading the target's memories, after all."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "But, what should I call it?<br>In reality, there's a gradation between white and black, right?"
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "I see, I understand your question well, Jack.<br>In that sense, they are 'black close to gray'."
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "In other words, their apologies and atonement for their bad deeds are<br>not yet finished, or their confessions have not been completed.<br>Would that be a better explanation?"
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "Or perhaps... The children themselves<br>believe that 'they are bad children'."
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "To add to that, they have memories of accumulating small,<br>self-aware bad deeds even before that attack incident."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...Well, a line has to be drawn somewhere.<br>Drawing a line is, in itself, a dry thing."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Since Santa's the one that separates white and black,<br>I'm not going to start nitpicking that now."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...But, y'know, isn't it possible for the results to change before Christmas?<br>Children are flexible and they change, right?"
+    },
+    {
+      "type": "narrator",
+      "text": "Tomte directs a straight gaze at Jack.<br>Eyes harboring a light similar to untainted fresh snow reflected Tomte himself."
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "—Jack, you really are kind.<br>I think that sentiment is something a Santa needs."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "No, I mean.<br>I'm not particularly—"
+    },
+    {
+      "type": "narrator",
+      "text": "But Tomte shook his head somewhat sadly.<br>While it is easy to turn white to black, the reverse is—"
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "...Unfortunately, I know almost no cases where the<br>results wavered in the short period until Christmas."
+    },
+    {
+      "type": "character",
+      "name": "Tomte",
+      "avatar": "../char/housamo/tomte.png",
+      "text": "And perhaps that is why an existence like<br>a Black Santa is necessary for the children to reform."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "...I see, you're right.<br>Sorry for forcing my way along."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I wanted to see your work, and I was a little<br>curious about the culprits of the attack incident."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Because, y'know, what kind of psychology'd lead those brats<br>to do something as stupid as attacking a Black Santa..."
+    },
+    {
+      "type": "character",
+      "name": "Child",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Aaaah—!<br>Hey, hey, look, Frosty is over there!!"
+    },
+    {
+      "type": "character",
+      "name": "Child",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Eh, no way!<br>Waaaah, is that the real one—!?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "—!!"
+    },
+    {
+        "type": "character",
+        "name": "Jack Frost",
+        "avatar": "../char/housamo/jack_frost.png",
+        "text": "Oh, hi! I'm Frosty!<br>I've come to this winter brawl— Uh, festival, to see everyone!"
+    },
+    {
+      "type": "narrator",
+      "text": "Observing the Santas from the shadows was Kirito,<br>who had pretended to leave the area."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "... 'Bad children', huh. It's only natural since we're 'doing<br>this precisely because we want to be thought of that way'—"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "It's only natural for bad deeds to be accompanied<br>by retribution, but 'Holy Ones' are surprisingly simple."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Even so, they really are stupid.<br>If they hadn't caused that attack incident, maybe<br>they could have avoided becoming 'bad children'."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "But well, it doesn't matter to me anymore—<br>................"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...Sigh, good grief. Fine.<br>I'll let Baphomet-san know, just in case."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Though, not letting them know would<br>probably be the real kindness."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_day2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "And the next day— The second day of the Fighting Festival.<br>There, the 'Christmas Creative Food Stall Contest' was now underway."
+    },
+    {
+      "type": "narrator",
+      "text": "Victory would be decided based on the prosperity of each group's stall,<br>their contribution to the festival, and the tasting evaluations by special judges."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Kabukicho's entry is a special sinful meal from an evil Santa—<br>The 'Decadent Snow Mountain Carbonara Fondue Pot'!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "A trio of ham, bacon, and sausage!<br>Pile on the thick pasta and baguettes as you like!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "And to finish, we dump a mountain of snow made of powdered cheese and butter!<br>Look, it's unusually stylish! Hihihi, shall we get lost in the snow together?"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Profit be damned! The Christmas Creative Food Stall<br>Contest's winner will surely be the Kabukicho group~!!"
+    },
+    {
+      "type": "character",
+      "name": "Tetsuya",
+      "avatar": "../char/housamo/tetsuya.png",
+      "text": "If we end up in the red, you'd better clean up the mess?<br>But since food stalls are originally our business, we can't afford to lose."
+    },
+    {
+      "type": "narrator",
+      "text": "The temptation of violent calories sneaking into the mental<br>gaps of 'it's okay since it's the end of the year'—<br>What it brings is the pleasure of deviation."
+    },
+    {
+      "type": "narrator",
+      "text": "As customers gather with unsteady steps,<br>Y'golonac has already worn a triumphant smile."
+    },
+    {
+      "type": "character",
+      "name": "Motosumi",
+      "avatar": "../char/housamo/motosumi.png",
+      "text": "Hold your horses!! If you decide easily without even<br>seeing Asakusa's menu, don't say I didn't warn you!"
+    },
+    {
+      "type": "character",
+      "name": "Motosumi",
+      "avatar": "../char/housamo/motosumi.png",
+      "text": "Our entry is a commoner-style, homey, yet creative<br>dish conceived by an uncle at Nakamise Street—<br>The 'Roast Chicken-Style Fried Chicken Bowl'!!"
+    },
+    {
+      "type": "character",
+      "name": "Motosumi",
+      "avatar": "../char/housamo/motosumi.png",
+      "text": "On a fried chicken bowl seasoned with rosemary and garlic,<br>we pour plenty of gravy-like Japanese-style starch sauce!"
+    },
+    {
+      "type": "character",
+      "name": "Motosumi",
+      "avatar": "../char/housamo/motosumi.png",
+      "text": "Heheh, we've added broccoli and cherry tomatoes,<br>and even the kids at Godoji will be happy to eat them with this seasoning!"
+    },
+    {
+      "type": "narrator",
+      "text": "A gentle dish that warms both body and soul in the freezing cold—<br>Customers attracted by the warmth reminiscent of a family gathering are flowing in."
+    },
+    {
+      "type": "character",
+      "name": "Motosumi",
+      "avatar": "../char/housamo/motosumi.png",
+      "text": "Heh, won't this one be ours? Following the Float Clash,<br>we in the Asakusa group will dominate this second round too!"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Leave the cooking with fire to me!<br>I'll fry them all up crispy at super high heat!"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Umu, Asakusa will not lose in terms of heat!<br>I too shall sweat and face the cooking!"
+    },
+    {
+      "type": "narrator",
+      "text": "It seemed the two forces of Kabukicho and Asakusa had dominated the venue—<br>But just then, a cheer rose from the Shibamata stall."
+    },
+    {
+      "type": "character",
+      "name": "Thunderbird",
+      "avatar": "../char/housamo/thunderbird.png",
+      "text": "Rum-flambéed spare ribs, gin-scented roast duck,<br>beer-braised beef stew— Why don't you take whichever you like, baby?"
+    },
+    {
+      "type": "character",
+      "name": "Thunderbird",
+      "avatar": "../char/housamo/thunderbird.png",
+      "text": "I'll even add an original hot mocktail if you want.<br>How about a Holy Night Hot Choco, or a Fireside Spiced Milk?"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "Uwaah, so many stylish items on the menu...!<br>They all look so delicious I might accidentally snack on them... *munch munch*"
+    },
+    {
+      "type": "character",
+      "name": "Hei Long Yi Quan",
+      "avatar": "../char/housamo/heilongyiquan.png",
+      "text": "Kon-pra~! Today I'm visiting Thunderbird-kun's cool,<br>limited-time Christmas food stall~!"
+    },
+    {
+      "type": "character",
+      "name": "Hei Long Yi Quan",
+      "avatar": "../char/housamo/heilongyiquan.png",
+      "text": "Will yours truly be able to conquer all the items!?<br>Everyone in '#GikensOwner', please cheer us on~!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Ptooie! That Thunderbird, not only did he join up with Shibamata,<br>but he's showing off with a flashy menu that's the total opposite of mine!?"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "And besides, all the Suidocho group members except for the Outlaws<br>are siding with Shibamata, aren't they? Despite being their friend, Uncle's being left out...!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Man, things are really heating up today, huh?<br>All these dishes are perfect for this season, and they look delicious!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Especially Y'golonac's pot, using that much butter...!?<br>...*gulp* Do I make today a cheat day!?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Between you and me, I have a weakness for butter.<br>When I was a kid, I was always ste— I mean, tasting butter."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Did you almost say you were stealing it?"
+        },
+        {
+          "text": "Officer, this man right here!"
+        },
+        {
+          "text": "I'm arresting you on suspicion of theft."
+        }
+      ]
+    },
+    {
+        "type": "character",
+        "name": "Jagannath",
+        "avatar": "../char/housamo/jagannath.png",
+        "text": "Wait, wait! That was back when I was a kid and<br>long before I came to Tokyo! It's past the statute of limitations!"
+      },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Ah, whatever. Anyway, today is peaceful!<br>There's no way a brawl will break out over a cooking competition."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yesterday felt like an intense sports day."
+        },
+        {
+          "text": "Today's like a school festival."
+        },
+        {
+          "text": "So this is what Baphomet was talking about."
+        }
+      ]
+    },
+    {
+        "type": "character",
+        "name": "Jagannath",
+        "avatar": "../char/housamo/jagannath.png",
+        "text": "That balance is the key to this Fighting Festival.<br>It's a way to get the police to approve of the rough programs."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "I think tomorrow is the main event, the 'Tag Match',<br>and the final day is the 'Deco-Float Decoration Contest', right?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I heard a rather dangerous name just now."
+        },
+        {
+          "text": "D-Deco-Float...?"
+        },
+        {
+          "text": "Every day is packed!"
+        }
+      ]
+    },
+    {
+        "type": "character",
+        "name": "Jagannath",
+        "avatar": "../char/housamo/jagannath.png",
+        "text": "Heheh, I think you'll be able to see something pretty<br>intense tomorrow, fitting for the name 'Fighting Festival'?"
+    },
+    {
+        "type": "character",
+        "name": "Jagannath",
+        "avatar": "../char/housamo/jagannath.png",
+        "text": "And on the day after that, we take the floats used in the clash on<br>the first day, decorate them with lights, and parade down the approach."
+    },
+    {
+        "type": "character",
+        "name": "Jagannath",
+        "avatar": "../char/housamo/jagannath.png",
+        "text": "I think making decorations and having stalls<br>might indeed feel like a school festival.<br>...Now then, I wonder how those guys are doing?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "W-Welcome!!<br>Our menu is Christmas-style yakisoba!"
+    },
+    {
+      "type": "narrator",
+      "text": "Star-shaped seaweed, and a color scheme using parsley and red pickled ginger.<br>While the effort was visible, compared to the other three shops—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's cute, but lacking in creativity!"
+        },
+        {
+          "text": "It really does feel like a student's school festival."
+        },
+        {
+          "text": "Their opponents are restaurant owners, what bad luck."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Yoo, how's it going, brats?<br>Will you sell one yakisoba to your dear police officer?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Geh, Jagannath! You again...<br>Can't you tell just by looking!?"
+    },
+    {
+      "type": "narrator",
+      "text": "Customer traffic is sparse, and it's hard to say they're prospering.<br>But precisely because of that, they can't afford to treat a rare customer poorly."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "(...Kirito said these guys were the ones preventing<br>the police headquarters from intervening in the festival.)"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "(Maybe so. But we don't know what they're plotting,<br>so let's just avoid getting too involved...!)"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "What's with all the whispering?<br>Are you going to give me a mountain of star-shaped seaweed as a service?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Shut up! Like we'd ever do that for a cop!<br>Here, it's done, so just go away already!!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh, looks pretty good.<br>Well, I'm wishing you luck, brats. Do your best!"
+    },
+    {
+      "type": "narrator",
+      "text": "The delinquent officer, unfazed by the 'leave us alone' aura,<br>walked away with an aloof air. The children watched his back in stunned silence."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Hmm, the taste isn't bad either.<br>Why don't you try some too, [Player]?"
+    },
+    {
+      "type": "choice",
+      "note": "he wouldn't dare",
+      "options": [
+        {
+          "text": "Ehehe, really?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jagannath",
+              "avatar": "../char/housamo/jagannath.png",
+              "text": "I'm a senior who's incredibly kind to my juniors.<br>...Well, at least half the time.<br>Alright, open wide!"
+            },
+            {
+              "type": "narrator",
+              "text": "The yakisoba, offered in an 'aahh' manner was simple, but could be evaluated as delicious."
+            }
+          ]
+        },
+        {
+          "text": "(Consciously act a bit embarrassed)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jagannath",
+              "avatar": "../char/housamo/jagannath.png",
+              "text": "Heheh. Be careful—<br>If you give me that cute reaction, someone like me might want to give you a 'one-two' punch in the mouth?"
+            }
+          ]
+        },
+        {
+          "text": "...No, I'm fine.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jagannath",
+              "avatar": "../char/housamo/jagannath.png",
+              "text": "Man, you're no fun~<br>Are you worried about people looking?<br>With this many people around, no one's gonna bother looking at us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Still, if there was someone who could guide them,<br>it would have been more of a contest. What a waste."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "But well, even if we tried to help, they'd probably just reject us.<br>Those guys don't have the room to accept anyone but 'family' yet."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "So what do we do? We need to approach<br>their head. If it's not us, then surely—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "They would surely listen to the words of someone<br>who's like a 'representative of their own circumstances'."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're kind, Jagannath."
+        },
+        {
+          "text": "I'll go along with you, senior."
+        },
+        {
+          "text": "Why would you do that?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Unfortunately, it's not that far out of idealism.<br>I'm doing this for a 'much more pressing' and deeply selfish reason."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "So, work as my right-hand man, dontcha'?<br>You look tougher than you seem, [Player]."
+    },
+    {
+      "type": "narrator",
+      "text": "Jagannath snorts, squaring his hands. He has always conducted<br>unconventional investigations alone, but this time is different."
+    },
+    {
+      "type": "narrator",
+      "text": "He was uncharacteristically grateful for the upper management's decision<br>to buddy him up with [Player]. Just then, with somewhat impeccable timing—"
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "Oh, so this is where you were!<br>[Player], and you too, Jagannath!"
+    },
+    {
+      "type": "character",
+      "name": "Oguchi Magami",
+      "avatar": "../char/housamo/oguchi_magami.png",
+      "text": "The two of you seem to have blended into the festival perfectly!<br>Are you currently on an undercover investigation? That's so cool!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Tajikarao, you look so cold...!?"
+        },
+        {
+          "text": "Oguchi Magami, you're the same as usual."
+        },
+        {
+          "text": "The fact that we're police was exposed in seconds."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Seriously, the police are showing up<br>in force two days in a row. What's going on?"
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "We are off duty today!<br>We were notified to refrain from professional intervention!"
+    },
+    {
+      "type": "character",
+      "name": "Oguchi Magami",
+      "avatar": "../char/housamo/oguchi_magami.png",
+      "text": "The senior and I came half to enjoy<br>the festival, and half to cheer for [Player]!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "As expected of the rising star, people just won't leave you alone.<br>Anyway, you guys should have just rested properly on your day off."
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "Haha, at this time of year, we can't let our guard down anyway.<br>We're constantly on alert for the possibility of Hermes making a move!"
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "Magami and I are prepared to chase our<br>fated rival, Phantom Thief Hermes, forever!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's starting to feel like a year-end tradition."
+        },
+        {
+          "text": "It seems a bit romantic?"
+        },
+        {
+          "text": "I'm cheering for you two too!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tajikarao",
+              "avatar": "../char/housamo/tajikarao.png",
+              "text": "I won't let my junior down!<br>Though for today, we're fully intent on calling a truce and enjoying the festival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "By the way, it's the second day of the festival... The third day, if you count<br>the pre-festival. Is the investigation proceeding properly?"
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "As you know, headquarters is starting to get impatient. They're worried that<br>a festival lover like you might be neglecting the investigation to play around."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...Good god, they're so impatient. We're just about to<br>go into their base and give them a good shock?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "When did you find out where it was...!?"
+        },
+        {
+          "text": "Ah, maybe from Baphomet—"
+        },
+        {
+          "text": "So you 'were' working properly..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "So that's how it is. Tajikarao, Magami.<br>Keep an eye on the venue for a bit while we're gone!"
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "Eh!? We have to do it!?<br>That's different from what you just said—"
+    },
+    {
+      "type": "character",
+      "name": "Suzuka",
+      "avatar": "../char/housamo/suzuka.png",
+      "text": "Oh, if it isn't you, Tajikarao.<br>Why is a cop like you loitering around the Fighting Festival?"
+    },
+    {
+      "type": "character",
+      "name": "Suzuka",
+      "avatar": "../char/housamo/suzuka.png",
+      "text": "Well, for an festival-loving guy like you, it's not strange seeing you show up...<br>If you're free, come help us out! And bring that puppy along too!"
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "No, like I said,<br>we're off-duty— Hey!!?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Alright, it's settled!<br>You guys, I'm counting on you!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Having more or less forced the venue's security onto Tajikarao and the other,<br>the two drove the patrol car to a long-closed game center."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/arcade.png"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "—According to what I've heard,<br>they're hanging out in this abandoned building."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...It's not a trap, right?"
+        },
+        {
+          "text": "It's certainly a perfect place."
+        },
+        {
+          "text": "(Keep a lookout around the area)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Well, you don't have to be so guarded.<br>If anything happens, I'll step up and protect you."
+    },
+    {
+      "type": "narrator",
+      "text": "The inside of the building is in ruins. With every step on the way,<br>the debris and glass shards echoes with a dry sound. And then—"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "—!? Cops!?<br>W-What are you doing here!?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Damn, we let our guard down...<br>Are you here to catch us after all!?"
+    },
+    {
+      "type": "narrator",
+      "text": "The children couldn't hide their agitation at the sudden appearance of the police.<br>However, a dignified and beautiful voice immediately settled the room."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Oh, Jagannath-sama and [Player]-sama.<br>I thought it might be about time you arrived."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Please, have yourselves a seat on that sofa?<br>Would you like some warm rose black tea?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Yeah, I've come to play.<br>I figured you 'wanted me to'."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "The fact that you came alone together indicates that<br>our interests are aligned— That is correct, is it not?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Nod slightly)"
+        },
+        {
+          "text": "We didn't come to catch you."
+        },
+        {
+          "text": "It depends on your next moves."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufu... Now, you children go back to making the deco-float decorations.<br>I have some complicated adult talk with these people."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Don't worry, I will not betray you.<br>...You understand that, right?"
+    },
+    {
+      "type": "narrator",
+      "text": "A few seconds after sending the children to the back with a bewitching smile—<br>Baphomet finally relaxed her shoulders and let out a small sigh."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Your insight was splendid, Jagannath-sama.<br>Shamefully, I have been 'earnestly' waiting for the two of you—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh, I thought so?<br>Now, let's hear the story while we have some chai."
+    },
+    {
+      "type": "narrator",
+      "text": "White milk and sugar are poured into the black tea.<br>Stirred with a silver spoon, they soon melted into one."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "—I see. You were worried about these<br>stray children who dropped out of school."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Yes, and that was not for the sake of those children,<br>but shamefully, it was for my own personal motives."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I want to know 'what happens after something is stopped'.<br>Because, I am 'one who was called a god and then ceased being a god'."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I cannot define myself through the observation from within this world.<br>So I wanted to know 'how I would be seen by humans who have strayed from it'."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "To add to that, I also had a lingering attachment to<br>'people like that'— The heretics once called the Knights Templar."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "You got the info that they were gathering under Kirito,<br>visited the desolate streets of underground Ikebukuro,<br>and as a result, you were worshipped."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "But your 'Rule' is incompatible with kids.<br>Especially with immature, wounded kids like them."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "So you protected them, but you were unable<br>to do anything more for them— Is that it?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Yes, I cannot change those children with my power.<br>Not unless they themselves wish to 'become something else'."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Therefore, hoping for a change in those who had left school,<br>I decided to participate in this joint Fighting Festival."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So that plan isn't working out?"
+        },
+        {
+          "text": "Do you want them to return to school?"
+        },
+        {
+          "text": "So you really thought that you couldn't do anything else...?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Of course, a school just might not be everything.<br>Depending on the child, I would sometimes recommend the choice to leave school."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "However, most of those children are ones who need a 'school-like place'.<br>Children who originally had a chance to stay in school, but that didn't come true."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Since I was the same, I understand...<br>What those children need."
+    },
+    {
+      "type": "narrator",
+      "text": "While remembering her former place of belonging among the Templars,<br>Baphomet continues with a slightly distant look in her eyes."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "So, I wanted to at least give them a pseudo-experience of success at a school festival.<br>I thought it would also be a good opportunity to vent their pent-up energy."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—Though, since they caused 'that incident',<br>you can say that it was a little too late..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "That's just a 'hypothetical', right?"
+        },
+        {
+          "text": "I don't think it's too late yet."
+        },
+        {
+          "text": "My senior will handle it for you."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "What's done is done. That's a simple fact,<br>but everything I'm about to list is also a fact."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "One, as long as I've arrived in my patrol car,<br>I won't let anyone say it was 'too late'."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Two, I intend to deal<br>with this in stages."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Three, justice naturally needs to be carried out, but in<br>doing so, we need to make judgments with the big picture in mind."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Otherwise— It might lead to the 'worst<br>kind of tragedy' in this world."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet notices that Jagannath's unusually serious expression<br>and his golden eyes are looking back at a distant past."
+    },
+    {
+      "type": "narrator",
+      "text": "And— It was in that shadow that Baphomet saw a light.<br>Those moist eyes... were indeed as alluring as those called devils."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "[Player]-sama, Jagannath-sama...<br>I want them to leave this temporary shelter of their own will."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Due to my nature, shamefully, I am an object of awe.<br>It is very easy to make children obey me."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "If I tell them 'Go home' in a single word, they should obey.<br>But then— There is 'only the same future as mine once was'."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "I agree. 'Forcing' them into an<br>action isn't exactly a 'good' idea."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "They naturally have circumstances that forced them to leave their homes or schools.<br>Even if they return temporarily, they'll surely start wandering the streets again."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "They seem like they'd rebel against it."
+        },
+        {
+          "text": "The current situation is much better than that."
+        },
+        {
+          "text": "If it were me, I'd just jump out somewhere else."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And besides— If they feel they have been 'abandoned'<br>by me, their wounds will deepen even further."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "As a result, their 'devils' will run even further<br>away, leaving their futures behind."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "So, I can only simply be a place<br>for them to stay, just as they wish."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Baphomet..."
+        },
+        {
+          "text": "Don't be so hard on yourself."
+        },
+        {
+          "text": "No one can be perfect."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I was unable to do anything for Kirito-sama either.<br>He did not wish for anything from me... and that is scary."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Speaking of which, where is Kirito?"
+        },
+        {
+          "text": "He's tough, isn't he? (spoken proudly)"
+        },
+        {
+          "text": "I'll give him a hug next time I see him."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...He left after providing me with the information that those<br>children had been designated 'bad children' by the Santa."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "'I'm done with playing family'—<br>What is hidden in those words is an obsession that any<br>organization he gets deeply involved with will be destroyed."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet narrows her eyes, like she was looking at a distant memory.<br>Unlike before, this time, Jagannath does not miss that shadow."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...But honestly, I think Kirito-sama<br>is... an amazing child."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I cannot put it into words well, but his small body<br>has a strength that is completely different from mine...<br>And a weakness that is similar to mine."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Though if I were to say that to him,<br>I am sure he would hate it."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And in a way, what Kirito-sama<br>says is also the truth."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "After all, there may be those who view this<br>place as a heretical witches' gathering, right?"
+    },
+    {
+      "type": "narrator",
+      "text": "A silence as heavy as lead weighed on their shoulders.<br>Only the cheap electronic sound from a game machine rang out, comically out of place."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Alright, first, let's take things one by one.<br>Don't just say you can't do anything for them.<br>The first step is to just reach out."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "You said you were 'waiting' for us. It might be passive,<br>but I think you've already taken a step forward."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Just leave everything to this delinquent cop duo!<br>We're going to make this pseudo-school festival a success!!"
+    },
+    {
+      "type": "choice",
+      "note": "option 1 and 3 have both Jagannath and Baphomet smiling at each other<br>as opposed to option 2 where she ends up looking worried",
+      "options": [
+        {
+          "text": "Don't lump me in with you!?"
+        },
+        {
+          "text": "Leave it to us, YO!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "...Well then, I'm counting on you, I suppose?<br>(...I wonder if it'll really be okay?)"
+            }
+          ]
+        },
+        {
+          "text": "Alright, let's do this!!"
+        }
+      ]
+    },
+    {
+      "type": "title",
+      "text": "-------- Part 2 --------"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Yo, you little brats.<br>How's the Deco-Float decoration going?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "It's— exactly as it looks!<br>If you just came here to be sarcastic, then go home!"
+    },
+    {
+      "type": "narrator",
+      "text": "Jagannath and his partner show their faces at the workshop in the back of the game center.<br>Decorations in progress are scattered all around the area."
+    },
+    {
+      "type": "narrator",
+      "text": "The overall picture is still nowhere to be seen,<br>and a sense of impatience is visible on the children's faces.<br>In short— The situation is not going well, to put it mildly."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Should your dear officer help out?"
+        },
+        {
+          "text": "This looks pretty bad... doesn't it?"
+        },
+        {
+          "text": "You're doing great, hang in there!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "We know we're in trouble!<br>I told you we're concentrating, so don't get in our way!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Now, that is no way to speak to them. You have heard about<br>Jagannath-sama and his partner from Kirito-sama, have you not?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "The fact that he is protecting you from the police headquarters alone should<br>tell you that he is different from the tyrannical adults you know."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "I... I know that.<br>But we don't really need any help!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Dumbo, there's no way a bunch of kids can win on their own.<br>I admire your spirit for trying, though."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "The other teams have money and technology, and Asakusa<br>even has professional carpenters on their side.<br>Didn't Kirito say last night, 'If you want to win, don't be picky about your methods'?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "I kinda agree to that. As long as you don't<br>break the rules, you can do whatever it takes.<br>In your case, getting help is the only way to make it 'fair'."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Well, that might be true—<br>Wait, huh? How do you know what Kirito said?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Because I was watching nearby, obviously.<br>He looked pretty down after losing that Float Clash."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "I didn't say anything to him then, of course.<br>Heh, I've got something called 'delicacy', y'know?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "The fact that you're saying that means you have no delicacy at all!<br>Anyway, we don't need help from some high-and-mighty adult!"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Just get out! I can't concentrate...<br>And I'm sorry, but Baphomet, don't come here too often either!"
+    },
+    {
+      "type": "narrator",
+      "text": "Practically kicked out, Player and the others return<br>to the entrance area to discuss the situation further."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I knew it would end up like this..."
+        },
+        {
+          "text": "They really seem to hate the idea of asking for help."
+        },
+        {
+          "text": "It's exactly as Jinn-sensei said."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Those children even dislike accepting help<br>from me when it comes to making the decorations.<br>And when it comes to outsiders, that rejection is only stronger."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "They are that determined to win on their own.<br>I wish they would also learn how to accept help from others..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...I thought their unity through participating in the festival<br>would be enough, but perhaps I am the one who has become greedy."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "To be honest, I'm not sure why they don't want your help,<br>but it might not be that they 'don't want any help from adults' in general."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...?<br>What... do you mean by that?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Recall the statement earlier)"
+        },
+        {
+          "text": "They said they didn't want help from 'arrogant' adults, right?"
+        },
+        {
+          "text": "I see, so that's it."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Yeah, that's right. It's only natural for them to be annoyed<br>by high-and-mighty adults who talk down to them."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "In any case, their slip of the tongue about not wanting 'arrogant adults'<br>is a sign that they might accept help from 'someone who isn't like that'."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Then let's bring in the right assistants as they wish.<br>Someone who's an expert in the field, isn't arrogant,<br>and can see things from the same perspective as those kids."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm confident in my connections."
+        },
+        {
+          "text": "Senior, it's my turn to shine!"
+        },
+        {
+          "text": "Someone that convenient... might actually exist."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Oh? Aren't you the reliable one!? I also have an acquaintance who's<br>well-versed in electrical decorations and that kind of stuff."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "He helped me out with construction and various things back home.<br>He's like a kid who's obsessed with technology, so they shouldn't push him away."
+    },
+    {
+      "type": "narrator",
+      "text": "About an hour later, two people appear at the<br>entrance of the abandoned building. The first one is—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "So, this is my 'former' fellow countryman, Tvastar.<br>He's a bio-engineer, but he's also dependable when it comes to electricity and structures."
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "Well, if it's Jagannath-kun asking, I guess I have no choice.<br>Besides, we're 'modifying existing materials', right? I'm getting 'thrilled'!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Long time no see, Tvastar!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tvastar",
+              "avatar": "../char/housamo/tvastar.png",
+              "text": "Yahoo! I heard, [Player]-kun.<br>So you're buddies with Jagannath-kun now?"
+            },
+            {
+              "type": "character",
+              "name": "Tvastar",
+              "avatar": "../char/housamo/tvastar.png",
+              "text": "How nice, how nice!<br>I'm always looking for assistants, disciples, or 'buddies' for my workshop!"
+            }
+          ]
+        },
+        {
+          "text": "Keep the 'mad' modifications in check, okay!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tvastar",
+              "avatar": "../char/housamo/tvastar.png",
+              "text": "...I know! But super flashy lighting is okay, right?<br>I'm great at that kind of thing!"
+            }
+          ]
+        },
+        {
+          "text": "Is Jagan already modified too...!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Tvastar",
+              "avatar": "../char/housamo/tvastar.png",
+              "text": "No, no, of course not.<br>Jagannath-kun is very skilled, you see.<br>He already had a mode-switching function even before I added anything..."
+            },
+            {
+              "type": "character",
+              "name": "Tvastar",
+              "avatar": "../char/housamo/tvastar.png",
+              "text": "Oh, but the 'Sacred Artifacts' on his arms have different shapes, right?<br>I actually made various adjustments around there..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "As expected of your choice, Jagannath-sama.<br>Tvastar-sama, it is a pleasure to meet you."
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "The pleasure is mine! Those wings and horns seem like great modifications~<br>...Wait, they aren't modifications? Then I want you to tell me more about yourself!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I do not understand myself enough to teach others...<br>However— I am curious as to how I appear in your eyes."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet somehow manages to suppress her swelling desire<br>and consciously steers the conversation back on track."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And this person brought<br>by [Player]-sama is—?"
+    },
+    {
+      "type": "narrator",
+      "text": "Jagannath gives a rare wry smile at the question.<br>The person in his sights is 'for better or worse' too perfect."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Geez, what a choice you made. I don't know if you're<br>bold or what, but you come up with the craziest things."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "True, he's a good fit in terms of character and creative direction.<br>Except― For the fact that he's a 'student of the Santa School', that is."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Aah, I'm Jack Frost, student from Santa School.<br>I'm pretty confident when it comes to street-style designs."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet is speechless. It's only natural, as the person<br>standing here is essentially the same as 'the person the children attacked'."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "[Player]-sama. I do not mean to<br>doubt you, but why on earth did you—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's okay, Jack is a bad boy too.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jack Frost",
+              "avatar": "../char/housamo/jack_frost.png",
+              "text": "Hey.<br>I know that's why you called me, but what kind of introduction is that, [Player]?"
+            }
+          ]
+        },
+        {
+          "text": "I called him as a 'senior' bad boy.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jack Frost",
+              "avatar": "../char/housamo/jack_frost.png",
+              "text": "Hey.<br>I know that's why you called me, but what kind of introduction is that, [Player]?"
+            }
+          ]
+        },
+        {
+          "text": "He's actually an amazing artist!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jack Frost",
+              "avatar": "../char/housamo/jack_frost.png",
+              "text": "Hey, stop it! You're embarrassing me...<br>(I didn't know they thought about me like that...!?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Just so we're clear, I took this job because I thought it was<br>suited for me, regardless of my position as a Santa or whatever."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Haha, you're really something for accepting it.<br>Besides, aren't you at your busiest right now?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Yeah. So do keep it a secret from the other Santas<br>and those brats that a delinquent Santa is here."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "If they find out I'm slacking off to<br>do this, even I'll get punished, you know?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "And in return... It would be great if you kind police officers<br>could pull some strings to get permission for the graffiti."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "No problem. I personally like your graffiti.<br>It reminds me of the flashy festivals back home<br>where we throw colored powder at each other."
+    },
+    {
+      "type": "narrator",
+      "text": "The two of them, both having a 'hidden' side, likely share a connection.<br>The big 'bad boys' exchange glances and laugh as if they were sharing a secret crime."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I feel like you're two of a kind."
+        },
+        {
+          "text": "A collaboration between a delinquent cop and a delinquent Santa!"
+        },
+        {
+          "text": "A double-life duo!!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Jack Frost-sama.<br>May I, ask you one thing?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Hmm, what? Uh—<br>You were Baphomet-san, yes?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I heard those children were designated as 'bad children' by the Santas.<br>That means you have touched into their memories, have you not?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "In other words, you know for a fact that the incident<br>was not just 'suspicion'. ...And yet, you are cooperating?"
+    },
+    {
+      "type": "narrator",
+      "text": "Jack hesitates. He is being doubted right now.<br>'Are you not a spy for the Santa School?'"
+    },
+    {
+      "type": "narrator",
+      "text": "And because of that, Jack decides to reveal his true feelings.<br>After all— He is a 'delinquent' when it comes to being a Santa."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I... feel like I wanted to<br>challenge that 'bad boy judgment'."
+    },
+    {
+      "type": "narrator",
+      "text": "The words that follow that single sentence are, to put it simply,<br>a monologue from someone standing on the 'delinquent' side."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—Challenge the 'bad boy judgment'?<br>What could you mean by that?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Truth is, I was at the scene of that judgment.<br>I guess I felt like rebelling... It's a bit 'worth doing as art'."
+    },
+    {
+      "type": "narrator",
+      "text": "For Jack Frost, the 'fairy who draws frost graffiti on walls',<br>art has been an illegal act since birth."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "In reality, it's absolutely necessary to 'atone' for what they've done.<br>But for a Santa, shouldn't it be different?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "That's how I felt— Because, you know, kids make mistakes all the time<br>when it comes to the methods they use to express their heart's cry, right?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...<br>Jack-sama..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Jack was 'like that' too, after all."
+        },
+        {
+          "text": "I'm glad I called you, Jack."
+        },
+        {
+          "text": "Jack really is great..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I'm just someone who happened to be 'evaluated'.<br>Otherwise, my graffiti would've been erased from society too."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "That's why— It's my turn next.<br>It's art, isn't it, [Player]?"
+    },
+    {
+      "type": "narrator",
+      "text": "'I'm not very good at expressing things in words, but I hope it got through'—<br>He continues 'earnestly' while he examines Baphomet's expression."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Santas give blessings, and Black Santas give punishments.<br>They look like polar opposites, but they're both for the sake of the children."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "What I'm trying to do now isn't white or black work,<br>but I thought it might be okay to have a heretical Santa like that."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I mean, I have no objection to drawing the line between white and black.<br>But— I'm a 'bad boy', so I'm exploring my own way."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh, to be honest, this is the best choice we could have.<br>I've gotta give you some major credit, [Player]!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "But seriously, is it really okay to do such a solo performance?<br>From the Santa School's perspective, it's pretty close to an act of betrayal, isn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Actually, I already got permission from the Principal. In fact, it's the<br>Principal who's stopping the 'criminal evidence' from being passed to the police."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "The white Principal said new challenges are necessary for the<br>new generation of Santas, and he was happy about my initiative."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "The black Principal also felt like 'his' workload won't disappear anyway,<br>so he'd be grateful if it could be reduced."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "But well, to be honest, I think the fact that it's an<br>incident you and [Player] are handling is a big factor?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's not just that."
+        },
+        {
+          "text": "A lot of people are cooperating."
+        },
+        {
+          "text": "It feels like everyone is stepping slightly out of their 'line of work'."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...'those children can change'.<br>In other words, you believe in that too?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Well, yeah. People can change.<br>That's my current belief, especially when it comes to kids."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "For that to happen, the adults around them shouldn't give up.<br>No matter how 'unjust' they are, or if they've given up on themselves."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heh, I'm the living proof of that.<br>I used to be quite the brat back in the day, y'know?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "The fact that they were designated 'bad children' by a Santa's power<br>means that right now, they are 'bad children' as 'a temporary state'."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "But like Jagannath said, kids can change.<br>That's why Black Santas exist, after all."
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "Hmm, it sounds like quite a task... But I'm here too,<br>so it's okay! Because I'm great at 'modifying' things!"
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "—So! What kind of functions do you want?<br>My suggestion is, hmm, let's see..."
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "Oh!! How about incorporating a synapse conduction circuit and<br>controlling the lighting patterns with the rider's brainwaves?"
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "Like having the electrical decorations 'blink' intensely when the<br>adrenaline levels rise! I think a neural interface would be interesting~!"
+    },
+    {
+      "type": "character",
+      "name": "All Four",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "(W-What's with this guy~~~!!?)"
+    },
+    {
+      "type": "narrator",
+      "text": "Overwhelmed by Tvastar's personality and momentum,<br>the children are too intimidated to even reject him."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Seriously, what is he... a giant child?<br>Is he one of those 'mad scientist' types!?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Jagannath and [Player]'s acquaintance is freaking scary...<br>But, maybe they are a little interesting?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "And, this big, super cool polar bear<br>brother who looks like a 'bad boy'..."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I'm Jack Frost, nice to meet ya.<br>If you'd like, you can count on me for anything related to the design."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "I'm an artist who's doing pretty well for myself.<br>I think I can create a slightly 'badass' design that's to your liking?"
+    },
+    {
+      "type": "narrator",
+      "text": "Jack shakes his color spray can and runs a line without hesitation.<br>Voices of admiration rise at the impromptu graffiti that appears on the wall."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "(I-I've seen it so many times, I know!<br>This person is... That mysterious graffiti artist...!)"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Hmm? What's wrong? If you want,<br>could you tell me what kind of thing you'd like to create?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Ah. Uh. Well, that— I have an image in mind,<br>but it's hard to put into words..."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "It's okay, I started from there too,<br>so a vague image is perfectly fine."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Just try telling me about it.<br>It'll be my job to capture that properly."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "—I-I understand!!<br>Well then, um..."
+    },
+    {
+      "type": "narrator",
+      "text": "The boy glaces at Baphomet and whispers into<br>Jack's ear so the others can't hear."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Ah, yeah. I see... Could it be that—<br>It's actually something like this?"
+    },
+    {
+      "type": "narrator",
+      "text": "Jack whispers back.<br>The boy's expression instantly brightens with joy."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "—!!<br>H-How did you know!?"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Haha, I told you, didn't I?<br>I am an artist, after all."
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "Wait, what is it!?<br>I want to know too, I want to know—!!"
+    },
+    {
+      "type": "narrator",
+      "text": "The 'Transient' Jack Frost draws as<br>smoothly as frost spreading, sharing the image."
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "—I see, I see.<br>So that's how it is! Nice, I like it!"
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "In that case, instead of LEDs, how about using genetically modified<br>light-emitting organs for 'bioluminescence'~? ATP-driven is eco-friendly!"
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Whoa whoa, for real...?<br>Well, it's a bit out there, but I guess that's an option?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Jack, you're really acting like a big brother~"
+        },
+        {
+          "text": "As expected, Tva-bro is indeed reliable."
+        },
+        {
+          "text": "Ugh, I feel so left out...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As the two assistants interact with the children,<br>Baphomet watches as she is taken aback."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "My... For those children to<br>open their hearts so quickly..."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh, it might be their compatibility with Jack and Tvastar,<br>but it just shows how much they had inside that they couldn't put into words."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...I'm glad. This is something<br>that I cannot do, after all."
+    },
+    {
+      "type": "narrator",
+      "text": "A faint smile of relief and a gentle gaze are tinged with a slight envy.<br>Only the delinquent officer standing by her side notices this."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...Isn't that just<br>a 'belief' of yours?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—Eh?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "No, 'sorry'. I spoke as if I knew it all.<br>You are who you are because of your own experiences. But, y'know—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "It might be unavoidable for you to be 'worshipped',<br>but I feel like it's okay for you to 'descend' to the kids a bit more—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "It's also fun to crouch down and meet their gaze.<br>If your high-level attacks don't land, then fight them on a low level!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...<br>Descend to where the children are..."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet repeats the unexpected words.<br>Just then, the two who had left the circle of children approach."
+    },
+    {
+      "type": "character",
+      "name": "Jack Frost",
+      "avatar": "../char/housamo/jack_frost.png",
+      "text": "Say, Baphomet-san. Could you leave things<br>to us and the children from here on out?"
+    },
+    {
+      "type": "character",
+      "name": "Tvastar",
+      "avatar": "../char/housamo/tvastar.png",
+      "text": "Heheheh, it seems they don't want<br>to show it until it's finished!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...I understand. I leave them in your hands with my full trust.<br>Please— Take good care of these children."
+    },
+    {
+      "type": "narrator",
+      "text": "Jagannath watches her as she bows 'respectfully'<br> his expression thoughtful. And then—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...Alright! Then let's leave this to<br>them and head toward the festival venue."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Baphomet. [Player] has also called in some help for the food<br>stalls, but they probably need your strength over there."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "But— Before that, I do have<br>one other request for you."
+    },
+    {
+      "type": "narrator",
+      "text": "Like a brat who has just thought of the ultimate prank,<br>Jagannath breaks into a charming, full-faced smile."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Hmm? Don't be so guarded, it's not like it's anything difficult.<br>I just want you to call Kirito back for a bit, alright?"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_day2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The scene changes to the chaotic festival venue.<br>At the Ikebukuro food stall, where the color gangs are stationed—"
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "W-What should I do~!?<br>This is completely different from what I was told!"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Hah!? We wasn't told about any of these either.<br>Besides, we don't need help!!"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "B-But... You were called by [Player], right?<br>Everyone from Ikebukuro, please listen to what Choji has to say!"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Stay out of this, you Shibamata bunch!<br>We're the Ikebukuro gang, you got that!?"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "O-Of course I know that, but I'm asking you nicely...<br>夜路詩句!!"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Wait, shouldn't that be '夜露死苦'?<br>What's with those poetic kanji, you honor student!?"
+    },
+    {
+      "type": "note",
+      "text": "Ryota tried using yankee ateji kanji but that failed miserably<br>instead of the typical 夜露死苦 (yoroshiku / night-dew-death-suffer),<br>he used 夜路詩句 (also yoroshiku, but night-road-poetic-verse)"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "My grades aren't as good as the President's!<br>Waaaaah, [Player], come quickly—!!"
+    },
+    {
+      "type": "narrator",
+      "text": "As if hearing the call like a hero,<br>[Player] arrives on the scene at just the right time."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "S-Sorry for the wait~!"
+        },
+        {
+          "text": "Things don't look like they're going well over here."
+        },
+        {
+          "text": "I've come to help, everyone!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "[Player], you really came!? I'm sorry,<br>things didn't go well even though you left them to me..."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "We weren't waiting, and we didn't call for you—<br>...Wait, Baphomet's with you?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Yes, I have also come to help with the 'stall'.<br>It is all right for me to participate if it is not for the decorations, no?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Well... That's fine, or rather, we're happy that you're here to help.<br>But Kirito's gone now, and shouldn't someone be at the hideout?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Ufufu, there is no problem.<br>At our base, we have some very reliable help right now."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Introduced by [Player]-sama and their partner,<br>they are producing the decorations for our Deco-Float."
+    },
+    {
+      "type": "narrator",
+      "text": "The children are shaken by the shocking news.<br>They find it hard to believe that the decoration team would actually accept help."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I have decided to trust Jagannath-sama and his partner.<br>And you? ...You want to win this festival, do you not?"
+    },
+    {
+      "type": "narrator",
+      "text": "The children exchange glances with each other, flinching.<br>They had long known that they couldn't go on like this."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Alright. Baphomet, if you trust them, then we will too.<br>Or rather— We trust you, Baphomet, because you trusted them."
+    },
+    {
+      "type": "choice",
+      "note": "I hope that sentence wasn't confusing<br>it's basically 'we trust them because you do' to 'we trust in your judgment of them'",
+      "options": [
+        {
+          "text": "...It looks like we can manage!"
+        },
+        {
+          "text": "Choji, tell me the current situation."
+        },
+        {
+          "text": "Is there anything I can help with too?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "Sorry, [Player]. Actually, we haven't even decided what to<br>make yet. I tried asking them what they'd like..."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Hah!? Even if you say that, we don't<br>know what kind of menu could beat those guys!"
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "True, to catch up with the other teams now,<br>we'll need a menu that's really eye-catching..."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...Then, how about something like poda pitha?<br>Well, it's just a thought, or rather, it's a favorite of mine."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "We also have a big 'festival' in my hometown, and they serve that dish there.<br>I thought it might be something unusual for Tokyo."
+    },
+    {
+      "type": "note",
+      "text": "poda pitha: traditional slow-cooked rice cake from India, typically served during festivals,<br?and used to be served to Lord Jagannath of all people"
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "...That could work!!"
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "I believe, it's a rice-flour dish similar to pizza?<br>I can figure out the recipe even without using my 'Sacred Artifact',<br>and both 'salty' and 'sweet' versions should work."
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "But, in this short time, I wonder how much of a Christmas<br>arrangement... suitable for this season and festival we can make?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—! I see, so this is why Jagannath-sama<br>have asked for my strength!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Please allow me to assist you in drawing out the possibilities<br>dwelling within you, for that of which we call revelations!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Choji-sama, may I have your hand?<br>Let us begin our on-site counseling!<br>「Billowing Banquet」——Sabbatic Orgy!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Flames of 'wisdom' overflow from the necklace hanging at her chest,<br>eventually forming a small crown-like shape above her head."
+    },
+    {
+      "type": "narrator",
+      "text": "The flickering flames, which also look like a pink aura,<br>travel through her hands and envelop Choji's entire body."
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "T-This is—!?<br>Ideas are popping into my head one after another!"
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "For the 'sweet' ones, let's bake the dough thin like a crepe.<br>Regardless of the filling, it might look lovely if we sprinkle some powdered sugar."
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "For the 'savory' ones—<br>One idea is to make them pizza-style, decorated<br>in Christmas colors with tomato, basil, and mozzarella."
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "Yes. This should be perfect for an interesting 'midwinter festival' dish.<br>Not only that, the texture will be interesting too!"
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "Now, this is everyone's food stall, so you'll help me, right?<br>I'll teach you how to make it and plate it, so let's cook together!"
+    },
+    {
+      "type": "narrator",
+      "text": "Overpowered by Choji's sudden awakening, the children follow him like<br>'hatchlings' following a mother bird, and begin working by imitating his actions."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Incredible...<br>I thought he looked unreliable, but he's a real pro..."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Or rather... So this is Baphomet's 'true' power.<br>It didn't work like this when she tried it on us before."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "It's because we don't have the foundation of knowledge or experience...<br>But, if we do gain those things, then even we could—?"
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet affirms the shown possibility with a smile.<br>Hope instantly shines in the children's eyes."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Jagannath-sama, thank you. Fufu, I wonder just<br>how far those 'keen eyes' of yours could see."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "My 'Rule' indeed shows its maximum power when<br>used on a professional in their field. To think that you..."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "You're overestimating me. I didn't know the details of your 'Rule'.<br>This was just a coincidence. After all, the one I wanted to do something about was—"
+    },
+    {
+      "type": "narrator",
+      "text": "Like a detective pointing at a culprit, he thrusts out his finger.<br>The person at the end of it was none other than Baphomet herself."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "From what I've heard, you have a habit<br>of behaving as others want you to, right?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "And, you've convinced yourself that you're<br>helping those kids because they asked for your help."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Your own feelings are completely missing from that, aren't they?<br>If you hadn't been asked, would you have not even glanced at them?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The fact that you visited Ikebukuro is the ultimate proof."
+        },
+        {
+          "text": "The desire to help must have been there from the start."
+        },
+        {
+          "text": "Baphomet, it's alright for you to 'want to be helped' too."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Exactly, that's some good work you've got, [Player]!<br>In short, you haven't realized your own feelings."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Haha, it's like a doctor that can't heal himself.<br>That's what happens when you're always peeking at the 'devil' inside others."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "—Now, Baphomet, what is it that you want to do?<br>These kids have already trusted you, and they've taken a step forward."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "What...<br>I want to do..."
+    },
+    {
+      "type": "narrator",
+      "text": "Before her eyes, the children, spurred on<br>by Choji, are busily engrossed in their work."
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "Everyone, don't just stand around, help out!<br>You stir the dough, and you over there, prepare the sauce!"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Eh, ah, okay! Wait, his character changes<br>way too much when he flips the switch!?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Alright, this is exactly what we want.<br>It's our chance to show Baphomet our good side!"
+    },
+    {
+      "type": "narrator",
+      "text": "It was an incredibly dazzling sight. I have given up,<br>because I thought that I could never lead the children like he did."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "(I am a disgusting person, who would even use the situation where I am<br>worshipped and just responding to demands to satisfy my own desires...)"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "(I am a shameful existence who can do nothing but that.<br>But if there is even the slightest possibility that I am not, then I...)"
+    },
+    {
+      "type": "narrator",
+      "text": "She raises her head, and the sight of the children jumps into her view.<br>Immediately after, her mouth moves before she can think."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Do your best."
+    },
+    {
+      "type": "character",
+      "name": "All Three",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "—Eh?"
+    },
+    {
+      "type": "narrator",
+      "text": "A small single word whispered in a small voice.<br>It becomes the trigger, and the words flow out as if a 'dam' was broken."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Please, do your very best. Even if you do not see the<br>answer right away, or if you cannot find your next place to belong to."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "For now, please have as many wonderful experiences as you can with me,<br>and become people who can voice even one wish of your own."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "If you can do such a thing...<br>I am willing to do anything, as shallow as I am."
+    },
+    {
+      "type": "narrator",
+      "text": "The words spoken by Baphomet, who only fails to 'understand' herself,<br>seep into the children's hearts with a certain persuasiveness."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I might not be able to change you,<br>or find your next place of belonging at all."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And above all, you likely do not<br>wish for me to do such things."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But, you know, I find you all so very dear.<br>So... I desperately want to be of help to you."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "So, it is not for your own sake.<br>As shallow as it may be... It is for my own."
+    },
+    {
+      "type": "narrator",
+      "text": "The children had likely never seen<br>Baphomet reveal her 'emotions' to this extent—"
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet walks up to them while they are bewildered,<br>and immediately starts helping with the food stall dishes."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "W-What's wrong, Baphomet?<br>You're our symbol, after all..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I am doing this because I want to.<br>I want to be of help to you, but was I in the way?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "T-That's not it at all!<br>I mean, I've never once thought you were in the way!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Then let us do our very best— And with everyone else right now.<br>That will surely become an irreplaceable asset for you one day."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Yes! That's 'Karma Yoga'!<br>Do not be attached to the results, just take your own actions!"
+    },
+    {
+      "type": "note",
+      "text": "Karma Yoga: path of selfless action, doing duties without attachment to personal gain"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Forget about what you can or can't do for a moment.<br>Ask your heart what you yourself want to do— And concentrate!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Let's all do our best!"
+        },
+        {
+          "text": "'Let's cooking'!"
+        },
+        {
+          "text": "I'm not good at cooking, but I'll try my best."
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_evening2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Thus, the Ikebukuro stall makes a rapid comeback.<br>Its aroma drifts around, and the number of customers increases rapidly."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "What, what!? The customers are suddenly being<br>stolen away from Uncle's place... Jagan, what did you do!?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Why are you assuming I did something?<br>I just gave them a little nudge, the rest is their own hard work, y'know?"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "[Player], you did a good job. How do I know that?<br>Because it's only natural that I'd find myself glancing over out of concern!"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "That Jagannath guy is doing quite well too...<br>Could it be that he's more suited to be a teacher than me—<br>No, no, that can't be!"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "But, the wall of those brats that I thought would be difficult to connect with...<br>That guy broke it down so easily... *mumble mumble*."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Whoops, he's gone into his own world."
+        },
+        {
+          "text": "Jinn-sensei, you're a good teacher too!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "I-Is that so!?<br>If you say so...<br>But don't be too quick to decide, no matter how good a senior officer he is!"
+            }
+          ]
+        },
+        {
+          "text": "So do you accept my senior and the police now?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "N-Not yet! He should be able to do at least that—<br>Otherwise, I won't be able to send you off if you ever choose to leave Shinjuku!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Hahaha! You truly are my rival, Jagannath!<br>I was secretly worried about you, but you've handled things well."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "And you too, Baphomet.<br>Your face looks more full of life than before too, doesn't it?"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "To move not because you were asked, but because you desire it—<br>I've just recently experienced the joy of that,<br>and the happy coincidence of both parties' feelings!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Oh...? It seems there has indeed been a major change<br>in your inner world since the previous incident, Sanat Kumara-sama?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufufu, I am very interested.<br>Will you finally let me peek at your 'devils'?"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "—!?<br>No, I'd like to resolutely refuse that!"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "If it's a mutual spiritual communication, then perhaps...<br>No, that...! Ggh, you truly are my rival as well...!!"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh, so you've returned to your usual self?<br>I guess that's who you originally were, right?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I wonder... how that may be?<br>Shamefully, I do not understand myself."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But, I at least know what<br>it is that I wanted right now."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Now that it has come to this, I shall do whatever I can!!<br>Fufufu, everyone in the venue, could you please gather over here?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Ah, but I will be in trouble if I attract too much attention.<br>Then I will just keep getting bigger and bigger, aaaah—!"
+    },
+    {
+      "type": "note",
+      "text": "very interesting marketing campaign"
+    },
+    {
+      "type": "title",
+      "text": "-------- Part 3 --------"
+    },
+    {
+      "type": "narrator",
+      "text": "Whether for better or for worse, Baphomet and the children's stall, which had drawn<br>immense attention, was now recording an overwhelming turnout of customers."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Oh my. How embarrassing.<br>To think you would look at 'me' with such eyes smeared in desire—!"
+    },
+    {
+      "type": "character",
+      "name": "All Three",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "B-Baphomet...<br>She's h-huge—!?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But if it is for the sake of these children...<br>No matter how 'shameless' it may be, I want to be their strength—!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Now, everyone—! Anyone who wishes to satisfy<br>their hunger, please come to our stall!"
+    },
+    {
+      "type": "character",
+      "name": "Otherworldly Ruler?",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "What is that... A giant humanoid 'float'...<br>No, is it the real thing!? And it smells amazing...?"
+    },
+    {
+      "type": "narrator",
+      "text": "Between the unleashed, off-the-charts charm of Baphomet and the<br>synergistic effect of Choji's creative cooking, customers continued to swarm in."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "This is really bad—!<br>We were definitely the most popular just a moment ago!<br>I've gotta think of a way to turn this around...!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "I mean, that Baphomet is totally cheating!<br>Is she controlling the desire by giving it direction!?"
+    },
+    {
+      "type": "character",
+      "name": "Ryota",
+      "avatar": "../char/housamo/ryota.png",
+      "text": "Welcome! Welcome!<br>It's Patisserie Iimori's special poda pitha~!"
+    },
+    {
+      "type": "character",
+      "name": "Hei Long Yi Quan",
+      "avatar": "../char/housamo/heilongyiquan.png",
+      "text": "Look, everyone! I've never seen a dish like this before!<br>Is it pizza, or a cake...? But the ingredients are rice and beans!?"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Hey, Ryota! You're on the Shibamata team, aren't you!?<br>Yi Quan, even you are... Why are you 'sending salt to the enemy'!?"
+    },
+    {
+      "type": "note",
+      "text": "敵に塩を送る (tekinishio wo okuru / sending salt to the enemy): Japanese idiom, helping one's rival in a time of need,<br>originating from Uesugi Kenshin sending salt to his rival Takeda Shingen during a shortage"
+    },
+    {
+      "type": "character",
+      "name": "Taishakuten",
+      "avatar": "../char/housamo/taishakuten.png",
+      "text": "I don't mind. If it livens up the place, then it's a success for the business!<br>But we have no intention of losing, right, Thunderbird!?"
+    },
+    {
+      "type": "character",
+      "name": "Thunderbird",
+      "avatar": "../char/housamo/thunderbird.png",
+      "text": "Right back at you, Taishakuten!<br>Let us unveil a sensational 'Flair Bartending' that will leave the customers stunned!"
+    },
+    {
+      "type": "narrator",
+      "text": "Seven cocktail 'tins' rest on Thunderbird's muscular arms.<br>He manipulates them skillfully, as if they were his own primary feathers."
+    },
+    {
+      "type": "narrator",
+      "text": "When he signals with a wink, Taishakuten causes a small<br>lightning strike on the tins, igniting them with a crackle."
+    },
+    {
+      "type": "narrator",
+      "text": "As the flaming juice is transferred from tin to tin and<br>poured into the glasses— Seven-colored flames flare up inside."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Look at him acting all cool! What's with the 'baby' thing?<br>His character overlaps way too much with Uncle's, from being cool to everything else!!"
+    },
+    {
+      "type": "character",
+      "name": "Tajikarao",
+      "avatar": "../char/housamo/tajikarao.png",
+      "text": "Y'golonac-dono, concentrate and don't look away!<br>If we get overwhelmed here, they'll finally catch up to us."
+    },
+    {
+      "type": "character",
+      "name": "Oguchi Magami",
+      "avatar": "../char/housamo/oguchi_magami.png",
+      "text": "*sniff sniff*! It looks so delicious... *gulp*.<br>Please, customer, thank you for waiting... *drool*."
+    },
+    {
+      "type": "character",
+      "name": "Specter",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Ah, ahaha... I-If you'd like,<br>would you like to eat together...?"
+    },
+    {
+      "type": "character",
+      "name": "Oguchi Magami",
+      "avatar": "../char/housamo/oguchi_magami.png",
+      "text": "Really!?<br>I'm so happy...<br>Ah, ouch!?"
+    },
+    {
+      "type": "character",
+      "name": "Tetsuya",
+      "avatar": "../char/housamo/tetsuya.png",
+      "text": "Like it's a matter of course...<br>Honestly, trying to blend in with us so casually.<br>Well, it is a festive occasion, so I'll let it slide for today."
+    },
+    {
+      "type": "narrator",
+      "text": "The food stall booths are lively despite it being the final stretch.<br>And just then, appearing at the color gang stall—"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Oh, so you have come?<br>I am very happy that you have actually come to visit."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "—So, what do you want? I doubt it,<br>but if you're asking me to help with the stall..."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "—!? Kirito, is it really you!?<br>You came back for us—!?"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...It's not for your sake.<br>Just tell me what you need, Baphomet-san."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Actually— I do not know myself.<br>Could you explain it to us, Jagannath-sama?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "I'm the one who forced him back.<br>This guy was planning to disappear, after all."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...Hah???<br>What's that, it makes even less sense now?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "What, it's just what they call 'meddling where it's not needed'.<br>You wouldn't make a wish to Santa for yourself, would you?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "But you 'want to go back to your family' if possible.<br>Wouldn't it be okay to wish for that once in a while?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "You feel like 'you have no place in happiness'.<br>But, if Baphomet hadn't been in underground Ikebukuro—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "You would have stayed in underground Ikebukuro.<br>If that's not 'caring for your family', then what is?"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "—Huh?<br>...You're even more annoying than I imagined. Sorry, but I—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It'll be fun if we're together."
+        },
+        {
+          "text": "You've come all this way, so help out."
+        },
+        {
+          "text": "Are you admitting defeat?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Kirito",
+              "avatar": "../char/housamo/kirito.png",
+              "text": "...30 points.<br>Cheap provocation.<br>You've still got a long way to go."
+            },
+            {
+              "type": "character",
+              "name": "Kirito",
+              "avatar": "../char/housamo/kirito.png",
+              "text": "Well, you two together make a pass.<br>Shall I show you what it's like to be the hated one?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Please, for my sake.<br>...Even just a little bit will do."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...[Player]-san aside, you weren't that kind<br>of character. Just what has gotten into you?"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...Fine. But it's a trade-off.<br>I'll disappear whenever I want to. If you can accept that."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "We did it!<br>With Kirito with us, we're a hundred times stronger!!"
+    },
+    {
+      "type": "narrator",
+      "text": "As if to confirm that powerful declaration, Kirito's participation<br>acted as an igniter, and the Ikebukuro stall gained even more momentum."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Uguu... Even more help!?<br>If Baphomet is getting serious, then Uncle won't lose either!"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "And of course, I won't lose to that 'character-overlapping traitor'!<br>If it's come to this, I have no choice but to use my trump card, right?"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Hihihi, I'll secretly 'use' a forbidden ingredient from the Old Ones—<br>■■■■ to act as a secret flavor!!"
+    },
+    {
+      "type": "title",
+      "text": "Battle Start"
+    },
+    {
+      "type": "character",
+      "name": "Announcement",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "The sales results will now be tallied.<br>Please wait a moment until the contest results are announced——!"
+    },
+    {
+      "type": "narrator",
+      "text": "The members of each team wait for the results,<br>feeling like they've done everything they could."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Um... Choji, thanks.<br>Thanks to you, we were able to make a big comeback."
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "Great work, everyone. I've baked some poda pitha for<br>everyone to eat together at the end. Please, do help yourselves."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Oh, what a sweet and warm flavor...<br>It is no wonder this attracts people visiting the winter festival."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...It's true.<br>Good enough to be sold."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'm glad it went well."
+        },
+        {
+          "text": "Nice team!!"
+        },
+        {
+          "text": "I'm nervous about the results."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Just as everyone felt that everything had gone well,<br>there was only one person who looked like they haven't had their fill yet."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh, the prank I've set up isn't over yet?<br>In fact, the real show starts now. The real reason I brought Kirito back is..."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/whatbgisthis1.png"
+    },
+    {
+      "type": "character",
+      "name": "Hotei",
+      "avatar": "../char/housamo/hotei.png",
+      "text": "Now then, for the heated judging by the chefs has reached its midpoint,<br>we'll now move on to judging the top two teams in sales!"
+    },
+    {
+      "type": "character",
+      "name": "Hotei",
+      "avatar": "../char/housamo/hotei.png",
+      "text": "Alright, servers for the Ikebukuro team!<br>Please present your dishes to the three judges!"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "(...Shit. Jagannath, you better remember this.<br>Who could've guessed that Baphomet-san was so into it too?)"
+    },
+    {
+      "type": "narrator",
+      "text": "Now, Kirito perfectly understands.<br>Why he was brought back, and even forced into the role of a server."
+    },
+    {
+      "type": "narrator",
+      "text": "Among the judges is a familiar face— Well, a helmet, to be precise.<br>Kirito 'presents' the dishes in an unfamiliar manner, his face looking down."
+    },
+    {
+      "type": "character",
+      "name": "Ebisu",
+      "avatar": "../char/housamo/ebisu.png",
+      "text": "Hmm. Both utilize the texture of the dough, but the level<br>of completion in both directions of sweet and savory was impressive!"
+    },
+    {
+      "type": "character",
+      "name": "Nisroch",
+      "avatar": "../char/housamo/nisroch.png",
+      "text": "I see Iimori's 'boy' had a hand in this.<br>And, he's even modified the recipe so that anyone can mass-produce it."
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "Using the sugar to represent fallen snow, reproducing a fantastical winter landscape.<br>It is delicious whether it is hot or cold, a delicacy perfect for this season."
+    },
+    {
+      "type": "narrator",
+      "text": "The children sigh in relief at the high praise,<br>which is no less than that of the previous dishes... But—"
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "If you may pardon me.<br>Could I ask you just one question?"
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "No. Not to the chef, but to the server there.<br>I'd like to ask what kind of feelings were put into this dish."
+    },
+    {
+      "type": "narrator",
+      "text": "After saying that, Surtr waits in silence.<br>The attention of the host, the judges, and the teammates naturally focuses on Kirito."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...I'm just a server, so there's no way I'd know about the dish.<br>Why don't you go ask the chef?"
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "However, you also had a hand in its making too, yes?<br>If so, you should surely know the feelings put into this dish."
+    },
+    {
+      "type": "narrator",
+      "text": "He's good at disappearing, but it was proven to be<br>difficult in this situation. Kirito lets out a damp sigh."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...A collection of outcasts—<br>A dish made by an 'improvised pseudo-family'."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "Those who have no place to go— No 'place they want to go back to',<br>made it together while feeling like they were a real family."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "At first, it was a mess, but we slowly<br>deepened our unity and became one in our thoughts."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "I don't know about the cooking, so it's just a guess...<br>But for them, it was probably something like that."
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "—I see, indeed. The warmth I felt in this dish<br>was like a small flame lit by those huddling together."
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "But while I am at it, there is one more thing.<br>Was this— a dish like that 'for you as well'?"
+    },
+    {
+      "type": "narrator",
+      "text": "A long and awkward silence ensues.<br>The next words carry the hardness of a resolution."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...A fragment of it might be.<br>However, my position is different from theirs."
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "—And that is?<br>If I may 'inquire'."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...It's not that I don't have a place to go back to.<br>It's just that I want to destroy happiness...<br>So that's not where I belong to."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "But, that's all there is to it.<br>To be treated as part of their family, honestly feels—"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "—Well. I suppose, I do feel<br>a little bit bad for them."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...Despite having a 'place I can go back to if I want to',<br>I'm sure it looks like I'm just being spoiled."
+    },
+    {
+      "type": "narrator",
+      "text": "A silence for 'reflection' ensues. What Surtr felt about<br>those words cannot be read from the gap in his helmet."
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "...Thank you.<br>I'm glad I could hear your story."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...It was nothing. Just make sure you<br>judge based on the content of the dish."
+    },
+    {
+      "type": "narrator",
+      "text": "Kirito tries to leave, turning his stiff face<br>away out of embarrassment, but Surtr calls out to him."
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "I am deeply sorry, but just one more at the very end.<br>This is unrelated to the cooking, and is just my own hypothesis, but..."
+    },
+    {
+      "type": "character",
+      "name": "Surtr",
+      "avatar": "../char/housamo/surtr.png",
+      "text": "Your family— 'Your other family',<br>might also be wishing for you to return."
+    },
+    {
+      "type": "narrator",
+      "text": "Kirito stops and turns back slowly.<br>The tension from before had vanished from his expression."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "—Haha. Isn't there just too many people<br>making 'hypothetical cases' at this festival?"
+    },
+    {
+      "type": "narrator",
+      "text": "Kirito laughs brightly and steps down from the stage.<br>This time, Surtr did not stop him."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Jagannath, was this your plan?"
+        },
+        {
+          "text": "I admit, that was a good prank."
+        },
+        {
+          "text": "How long have you been envisioning this?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh, why don't you learn how to handle business while you're having fun?<br>I'll explain it from the top so even you can follow along."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "The first thing I caught was information that the contest judges had<br>been changed just before the event. Surprisingly, the new judge was Surtr."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Finding it strange, I dug a bit deeper and found that Surtr was<br>a member of the color gang—<br>In other words, he had some deep ties with Kirito."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "The rest you already know. I milked them for info,<br>read the room, and set the stage for everything to go down.<br>Not bad for a day's work, right?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Don't come crying to me if Kirito stabs you."
+        },
+        {
+          "text": "You're amazing, senior!"
+        },
+        {
+          "text": "When did you get that far...!?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Now, if those brats take first place,<br>it'll be perfect. Let's watch how it ends."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Hehehe, it's not that simple!<br>Watch, Uncle's finishing touch will blow you away~?"
+    },
+    {
+      "type": "narrator",
+      "text": "Where Y'golonac is looking—<br>On the stage, stands Tetsuya, serving for Kabukicho."
+    },
+    {
+      "type": "character",
+      "name": "Tetsuya",
+      "avatar": "../char/housamo/tetsuya.png",
+      "text": "(...Tch. The 'food stalls' are one thing,<br>but this is definitely not my job.)"
+    },
+    {
+      "type": "character",
+      "name": "Tetsuya",
+      "avatar": "../char/housamo/tetsuya.png",
+      "text": "(...But even that Kirito did the<br>serving against his nature.)"
+    },
+    {
+      "type": "character",
+      "name": "Tetsuya",
+      "avatar": "../char/housamo/tetsuya.png",
+      "text": "(Knowing his personality, he would have disappeared quickly<br>if he didn't want to. So he's found a 'place to return to'...<br>With this, we're finally completely 'strangers'.)"
+    },
+    {
+      "type": "narrator",
+      "text": "Tetsuya raises the right corner of his mouth at an angle where no one can see,<br>and solemnly carries the dishes while being a server."
+    },
+    {
+      "type": "character",
+      "name": "Nisroch",
+      "avatar": "../char/housamo/nisroch.png",
+      "text": "Oh, this is a very provocative and violent dish.<br>However, there's something profound hidden deep inside."
+    },
+    {
+      "type": "character",
+      "name": "Nisroch",
+      "avatar": "../char/housamo/nisroch.png",
+      "text": "—Mm!<br>Th... This is—!!?"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The venue after the cooking contest ended.<br>A few minutes after the results were announced—"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Haah, we lost by a hair.<br>The Kabukicho group captured the heart of the Chief Judge Nisroch."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufu, but you look like you have done everything you could, did you not?<br>I feel the same, for there was a lot to be gained regardless of victory or defeat."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Gwahahaha! Sorry, brats. Uncle's quite a bad guy,<br>so Uncle's crushed you without reading the room!"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "To be able to go all out and crush them in<br>that situation, I even feel a sense of respect, Y'golonac..."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "Uncle hasn't given up on [Player] yet!<br>If Uncle left it like that, it would've ended up being a good feeling!"
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "I didn't think you'd actually use ■■■■.<br>It's a phantom item also called 'Spice of the Abyss'."
+    },
+    {
+      "type": "character",
+      "name": "Choji",
+      "avatar": "../char/housamo/choji.png",
+      "text": "Y'golonac-san, if it's okay with you...<br>Could you 'supply' some of it to me next time?"
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "I don't mind, but I don't know what might just happen?<br>It's something beyond human control, and if handled incorrectly... Hihihi."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...What did you put in it!?"
+        },
+        {
+          "text": "Is that safe for consumption?"
+        },
+        {
+          "text": "It looked delicious~",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "Of course, [Player], I'll let you eat as much as you want, and I'll even feed you if need to!"
+            },
+            {
+              "type": "character",
+              "name": "Y'golonac",
+              "avatar": "../char/housamo/ygolonac.png",
+              "text": "That's it!<br>Uncle should have controlled your stomach from the beginning so you'd never leave Uncle!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Hmph. We lost, but it was a splendid fight.<br>Each group has undoubtedly climbed to the next stage!"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...Jagannath.<br>You've really done it."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Hehe, what are you talking about?<br>All I did was letting you get on stage as a representative of Ikebukuro?"
+    },
+    {
+      "type": "narrator",
+      "text": "Kirito is fed up with the unrepentant attitude.<br>In the subtle atmosphere, the children timidly interrupt."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Hey, Kirito. Um...<br>That judge just now, could it be—"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...Were you disappointed? Turns out, I actually have a place to belong.<br>Turns out, I'm different from you who lost your way and went into the streets."
+    },
+    {
+      "type": "narrator",
+      "text": "He can't meet the eyes of the color gang members.<br>Disappointment, contempt... What kind of eyes are they looking at him with?"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "No, it's... rather the opposite, right?<br>Because, you stayed with us despite having a place to belong to."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "And besides, if you say that, there are some among us who<br>just don't want to return regardless of the circumstances."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...It's not that.<br>I 'just don't want to be anywhere'."
+    },
+    {
+      "type": "narrator",
+      "text": "As the Ripper of the Fog City once was,<br>Tachihara Kirito 'cannot help but erase his own footprints'."
+    },
+    {
+      "type": "narrator",
+      "text": "It's not that he doesn't want to entrust his heart to someone.<br>It's just that the feeling of 'I shouldn't be here' was stronger than anything else."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Even if that is the truth, it is not the only thing.<br>You have always cared for these children."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "That's why you let yourself get put on the floats,<br>and you show up when I set you up.<br>In short, you can't push them away completely."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "...Kirito, if you have a place to go back to, go back.<br>We might do the same... If we ever find one."
+    },
+    {
+      "type": "narrator",
+      "text": "Kirito purses his lips tightly,<br>enduring the intense pain inside him."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "The nature you're born with isn't always good.<br>I always want to destroy the groups I get deeply involved with."
+    },
+    {
+      "type": "narrator",
+      "text": "There are people who hate their family more than anyone else.<br>I hate fools who can't even imagine that."
+    },
+    {
+      "type": "narrator",
+      "text": "But, more than that— I hate myself,<br>so I end up hating anyone who loves me."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—If you hate everyone in the world,<br>that is the same as loving everyone in the world, is it not?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "You say you hate yourself who is mysterious.<br>But, there is someone here that is just like you."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "In that way, we are like your family.<br>I will not deny that you hate yourself."
+    },
+    {
+      "type": "narrator",
+      "text": "As 'I' look up, at the 'gentle pair of eyes' gazing at me―<br>'It makes me sick'. I wanted to say something like<br>I always have, but no words would escape my mouth."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I think— I understand how you feel.<br>It is almost painful..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "There were those who were held accountable for carrying me.<br>I am only afraid to imagine the same thing happening again."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But— Regardless of whether we can or<br>cannot, let us give it a try together."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "That's Karma Yoga for you!<br>Don't be attached to the results, just take action!"
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "We'll do our best not to break things.<br>We'll all protect one of your places to belong to, Kirito."
+    },
+    {
+      "type": "character",
+      "name": "Color Gang",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Even if you decide to go back, or if everyone<br>gets separated one day, we'll always be a 'family'.<br>You can have as many in-law families as you want!"
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...How can you say that so casually?<br>It's so naive, even to the point of—"
+    },
+    {
+      "type": "narrator",
+      "text": "In his mind are the faces of those who could be called 'family'.<br>And— Before him is another who wants to call him family."
+    },
+    {
+      "type": "character",
+      "name": "Kirito",
+      "avatar": "../char/housamo/kirito.png",
+      "text": "...This feeling might disappear by tomorrow anyway.<br>So I guess I can give my true nature a rest for today."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Now, Baphomet. Surely you don't think you can 'only'<br>be a temporary place to belong anymore, do you?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "When you are great at what you 'can do',<br>and that someone else can fill in for what you 'can't do'—<br>You want to teach that those brats too, don't you?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Yes, I was arrogant.<br>Kirito-sama turned out to be much more than I thought—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Anyway, today you've moved without thinking.<br>Following your own wishes and 'belief'. That was really cool."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "You might not have been able to find their next home or goal just yet,<br>but you've certainly helped them, and it's a good experience on its own."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "By the time this festival is over,<br>they'll have changed even more, and so will you."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "You look like you would be a good counselor too.<br>I am sure you would be a very unconventional... but good counselor."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heh, wearing two hats is my limit!<br>But I might rely on you if I ever quit the police."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Please have my gratitude too, [Player]-sama.<br>It was a big help that you reached out to everyone."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's mostly Jagannath's achievement."
+        },
+        {
+          "text": "I'm glad I could help."
+        },
+        {
+          "text": "Baphomet, you moved the children yourself."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Your buddy relationship has turned out to be very interesting.<br>I myself have become very interested in you as well, [Player]-sama."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "How about we talk for a bit?<br>Things about yourself— If you could tell me about those."
+    },
+    {
+      "type": "narrator",
+      "text": "A 'bewitching' smile is directed at [Player].<br>Those words carried a mysterious magic that could never be refused."
+    },
+    {
+      "type": "character",
+      "name": "Y'golonac",
+      "avatar": "../char/housamo/ygolonac.png",
+      "text": "[Player]~, Uncle's got a sinful Christmas meal that'll<br>make you lose your sanity... Wait, where did they go?"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night.png"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...What a lovely evening. I feel like getting<br>on a float and feeling the cold night breeze."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Thank you again for today, [Player]-sama.<br>Despite of my hesitation, I am glad to have been a part of the festival."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But I would never expect―<br>That not only the children, but even I would be changed..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Ever since I met you...<br>I feel like... a rapid change is happening inside me."
+    },
+    {
+      "type": "choice",
+      "note": "I hate how they store their backgrounds<br>I can't find the variant with the cart",
+      "options": [
+        {
+          "text": "I think you've changed too, Baphomet."
+        },
+        {
+          "text": "You've become even more attractive than before.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Oh, I did not mean it that way...<br>But if you say so, then perhaps it is like that?"
+            }
+          ]
+        },
+        {
+          "text": "I'm sure it's a good change."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufu, but you are quite an eccentric person yourself, are you not?<br>To ask a Santa to help children— who has attacked a Santa."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "From what I have heard, Choji-sama also has a deep connection<br>with the Santas. To be blunt, I think it was quite a crazy situation."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's the 'suspicion of attack', right?"
+        },
+        {
+          "text": "N-No... I don't think so..."
+        },
+        {
+          "text": "That's the usual Tokyo for you."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The response makes Baphomet's heart feel lighter.<br>She felt like it had been a long time since she'd felt this happy."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "So, what do you think? If it is alright with you,<br>I would like to have a peek into your deep psychology."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I am personally interested myself.<br>Just what kind of 'devils' are sleeping inside you—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "With pleasure.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "I would be grateful.<br>In return... Please let me help you to the best of my abilities."
+            }
+          ]
+        },
+        {
+          "text": "Tell me what you see."
+        },
+        {
+          "text": "Will you do something for me in return?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Fufufu, anything you want?<br>You have already known that I am 'that kind of existence', do you not?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet activates her 'Sacred Artifact',<br>wears the Crown of Wisdom and reaches into the abyss."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "My... This is the first time I have touched such a complex 'devil'.<br>Is this... a dragon? No, that is not all there is."
+    },
+    {
+      "type": "narrator",
+      "text": "The crown floating above her head shattered like 'crystals'.<br>No, Baphomet deactivated it herself."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...No, let us stop for now.<br>There is no need to poke the 'bush' and let<br>the snake out, for the festival is still ongoing. "
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Your existence is truly mysterious. As a result of<br>such a complex 'blend', 'you' as a whole are established."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—Ah, the more I know you, the more wonderful you are.<br>May I try just one more time? This time, deeper into the depths..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "W-Wait, no more than that...!?"
+        },
+        {
+          "text": "Go ahead if you're prepared."
+        },
+        {
+          "text": "I want to know who I am too."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "In the sweet night of white breath, a wind to cool the heat strokes the skin.<br>There's still some time before their friends come looking—"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/policestation_open.png"
+    },
+    {
+      "type": "narrator",
+      "text": "And the next morning— At the Kiou Police Academy,<br>a man stood tall and straight before the Chief."
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "Chief Daikoku, I have just arrived.<br>The reason you have called me here would be..."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "Ah. I left the supervision to Hogen-kun,<br>but it seems Jagannath-kun's bad habits are showing."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "Therefore, I would like you to go and inspect the festival.<br>I might even delegate full authority to you depending on the situation."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "If necessary, terminate their useless investigation<br>and swiftly secure the suspects... Understood?"
+    },
+    {
+      "type": "character",
+      "name": "Toji",
+      "avatar": "../char/housamo/toji.png",
+      "text": "...Yes. I have certainly received your orders.<br>I will head to the scene immediately."
+    },
+    {
+      "type": "character",
+      "name": "Daikoku",
+      "avatar": "../char/housamo/daikoku.png",
+      "text": "Hmph, I'm expecting great things from you, Toji-kun.<br>Teach everyone what the justice of the police is."
+    },
+    {
+      "type": "narrator",
+      "text": "Watching Toji leave after a deep bow,<br>Daikoku deepens his wrinkles and wears a villain-like smile—"
+    }
+  ]

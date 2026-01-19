@@ -1,0 +1,1567 @@
+[
+    {
+      "type": "bg",
+      "bg": "../bg/saidan_day.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Her physical form is simply too massive to look up at.<br>—'Therefore', she has a secret dream that could never be fulfilled."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet.<br>A school counselor who cares for the mental well-being of the students."
+    },
+    {
+      "type": "narrator",
+      "text": "The name of this well-known black goat<br>was once worshipped as a heretical demon."
+    },
+    {
+      "type": "narrator",
+      "text": "'Heresy', the very act of deviating from the rules and 'Faith'<br>that a community has determined to be 'uncompromisable'."
+    },
+    {
+      "type": "narrator",
+      "text": "That is why, in this world, Baphomet's own definition is 'non-existent'.<br>Consequently, she can accept any kind of 'Faith'."
+    },
+    {
+      "type": "narrator",
+      "text": "Because she is not limited by the framework of this world,<br>her sense of self can expand itself endlessly, boundlessly."
+    },
+    {
+      "type": "narrator",
+      "text": "Thus, those who worshipped Baphomet would all<br>lose their sense of self, and eventually lose their sanity."
+    },
+    {
+      "type": "narrator",
+      "text": "While walking from 60th Street through South Ikebukuro Park,<br>Baphomet recalls the recent incident."
+    },
+    {
+      "type": "note",
+      "text": "I'm quite unsure of both 60階通り and 南池袋公園,<br>so maybe you can help me with it"
+    },
+    {
+      "type": "narrator",
+      "text": "The color gangs of underground Ikebukuro.<br>And, the different conclusion they reached this time."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "To be enshrined, to be carried...<br>'I' have lived only as others demanded."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "For the first time here in this Tokyo...<br>I might have finally been able to determine again,<br>what it is that I truly wanted to do."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I must properly thank the person...<br>Who has given me that opportunity."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "In the midst of the grand finale following the clash with the police,<br>Baphomet softly called out to [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Thank you for everything during the festival.<br>To a heretic like you, I offer my special thanks and my affection."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "This is not exactly meant to be my gratitude, but...<br>If you would like, would you join me in the hot springs at the end of the festival?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "To celebrate our victory, the owner has reserved the springs for us.<br>It will be after the children have finished, but you should be able to relax."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I shall leave it up to you on whether to come, but I will give you the key.<br>You can return it another day."
+    },
+    {
+      "type": "choice",
+      "note": "I'm speechless too don't look at me",
+      "options": [
+        {
+          "text": "Relaxing in a private hot spring sounds amazing."
+        },
+        {
+          "text": "B-Baphomet's leftover bathwater...!?"
+        },
+        {
+          "text": "Wait, she didn't say I had to go 'alone', right?"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Unlocking the sliding door of the bathhouse with the 'Reserved' sign,<br>[Player] enters the area of the otherworldly hot springs."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/onsen_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Soft lighting dimly illuminates the surroundings.<br>The owner is absent, and no voices can be heard, truly a private open-air bath."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Head toward the foot bath)"
+        },
+        {
+          "text": "(Head toward the open-air bath)"
+        },
+        {
+          "text": "(Proceed, checking if anyone is already there)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Oh, you arrived sooner than I expected?<br>Welcome, my little dear Summoner."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Ah—!! I knew you'd be here!!!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "My, how energetic you are.<br>But no matter how loud you shout, no one will hear you, no?"
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "There is no one here but us.<br>No one is watching, so there is no need to worry."
+            }
+          ]
+        },
+        {
+          "text": "Y-You're huge...!? No, that's not what I mean!!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "My, how energetic you are.<br>But no matter how loud you shout, no one will hear you, no?"
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "There is no one here but us.<br>No one is watching, so there is no need to worry."
+            }
+          ]
+        },
+        {
+          "text": "I-Is it okay for me to come in like this...?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Fufu... You are quite quick to catch on.<br>I thought you would be more flustered."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Yes, it is quite alright.<br>'I' intended for this from the start."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "The children have already finished their bath and are on their free time.<br>Fufu... They were considerate enough to let me rest in peace."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Now, would you come sit by my side?<br>You have worked very hard as well, so you need time to rest."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Are the kids alright now?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "I decided to reduce the time I spend watching over them slightly.<br>They must learn how to live on their own terms, after all."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Little by little—<br>They need to leave my hands and become able to live for themselves, don't you think?"
+            }
+          ]
+        },
+        {
+          "text": "You worked hard too, Baphomet.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "It is only because you have assisted me.<br>I would not have been able to rest this peacefully on my own."
+            }
+          ]
+        },
+        {
+          "text": "P-Please, excuse me...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Soaking their bodies in the water side-by-side,<br>Baphomet peered into [Player]'s face."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I was waiting because I believed you would come.<br>You have been such a great help to me,<br>so I wanted to express my gratitude."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "You protected and believed in the children,<br>and alongside him who stood up to the police, you have guided us."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "If it had been a strict officer, it would not have been<br>strange for them to be taken away from the very start."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "So, thank you very much.<br>For those who could have come― I am truly glad that it was you two."
+    },
+    {
+      "type": "narrator",
+      "text": "Eyes like red moons narrowed slightly.<br>Beneath that glossy black fur, she must surely be flushed from the heat."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Furthermore, through this incident, I have even been<br>able to find what I want to do and what I ought to do."
+    },
+    {
+      "type": "narrator",
+      "text": "Soaked in the hot spring, Baphomet's four-fingered hand,<br>with its joints visible, gently grasped [Player]'s hand."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And so, I would like to offer a reward. Something,<br>that might be considered 'improper' in front of the children—"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "It is a shameless and embarrassing reward, but...<br>Will you accept it?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I-I didn't do it for a reward..."
+        },
+        {
+          "text": "What kind of reward could it be...? *gulp*!"
+        },
+        {
+          "text": "(Swallows hard)"
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night2.png"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufu... ufufufu!<br>Festivals in this Tokyo are truly amazing!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "The only festivals I knew were 'Night Banquets'.<br>I was curious, but Tokyo festivals were quite unfamiliar to me."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You sure eat a lot, Baphomet?"
+        },
+        {
+          "text": "Why don't you try this, and this too?"
+        },
+        {
+          "text": "I'm not gonna lose to you!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Oh, how embarrassing...<br>It seems I am quite the glutton."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Since I may eat anything without limit...<br>Please, I beg you, do not stare too much."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But it is fun, once you have gotten yourself into it. Here, you too.<br>You did not have any time to play during the festival, did you?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Besides, I wanted to be an adult in front of the children.<br>I rarely had the chance to truly let loose."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Now then, [Player]-'kun'. What shall we do next?<br>Or would you like something to eat?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Please do not worry about the money.<br>I do have a job, so I have more economic power than you."
+    },
+    {
+      "type": "narrator",
+      "text": "Wandering around the various stalls, Baphomet would cry out<br>with pure delight at every single thing."
+    },
+    {
+      "type": "narrator",
+      "text": "Stuffing her cheeks with franks, being surprised by the stickiness of cotton candy,<br>laughing excitedly at the shooting gallery and goldfish scooping..."
+    },
+    {
+      "type": "narrator",
+      "text": "Perhaps as a reaction to acting as the calm adult for the children,<br>Baphomet was enjoying the winter festival with her entire being."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "So this is what the 'reward' was..."
+        },
+        {
+          "text": "She's more excited than I've ever seen her...!"
+        },
+        {
+          "text": "Baphomet-san, let's do that next, that one!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "[Player]-kun, let's go to that stall next.<br>Let's play until the festival is completely over!"
+    },
+    {
+      "type": "narrator",
+      "text": "The winter festival drew towards its end.<br>The crowds at the stalls thinned, allowing the two to enjoy everything without waiting."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/smallmountain_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "After visiting almost every stall,<br>they decided to take a break on the outskirts of the venue."
+    },
+    {
+      "type": "narrator",
+      "text": "A plaza where the floats stood still after their performance.<br>Brushing off the light dusting of snow, the two sat side-by-side on a bench."
+    },
+    {
+      "type": "narrator",
+      "text": "An open spot on the mountain, like a small hill.<br>Baphomet gazed up at the night sky stretching across the horizon."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I intended this as a reward, but... I was the one who got carried away.<br>How long has it been since I have enjoyed myself this much, free from all ties?"
+    },
+    {
+      "type": "narrator",
+      "text": "Holding the bag with the caught goldfish up to the moonlight,<br>Baphomet smiled with a flushed face."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I must take good care of this little one.<br>It is a life that can no longer survive without my care, after all."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "A fragile existence that cannot live without protection.<br>But that is exactly why... I feel a sense of empathy."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Unable to survive without the <ruby=food>meal provided.<br>I have found myself feeling quite fond of this little one."
+    },
+    {
+      "type": "narrator",
+      "text": "Red eyes turned toward the decorated floats.<br>There stood the statue that had been carried aloft just moments ago."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "You see... I had a dream.<br>A shameless, embarrassing dream."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Embarrassing... What kind of dream is it?"
+        },
+        {
+          "text": "It's wonderful to still have dreams even as an adult."
+        },
+        {
+          "text": "I feel like most dreams are a bit embarrassing..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I plead you, please do not laugh.<br>To putting one's own feelings into words is a bashful thing."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet said, and then paused.<br>She lowered the bag of goldfish and fell silent for a moment."
+    },
+    {
+      "type": "narrator",
+      "text": "Finding the words, and then speaking them.<br>To speak of one's own wishes is to bear those two types of shame."
+    },
+    {
+      "type": "narrator",
+      "text": "The words might not be correct.<br>They might not be conveyed well."
+    },
+    {
+      "type": "narrator",
+      "text": "As a school counselor, Baphomet knows<br>that embarrassment and shamelessness very well."
+    },
+    {
+      "type": "narrator",
+      "text": "And, she also knows the importance<br>of speaking out despite that fear—"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I wanted to be... carried by someone I liked.<br>I wanted to be carried aloft, to tour the festival."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Whenever I was carried, I was always the center of the festival.<br>I wanted to enjoy the festival from that perspective for once."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufu, even though I am this large and heavy.<br>It is shameless, is it not?"
+    },
+    {
+      "type": "choice",
+      "note": "no comment",
+      "options": [
+        {
+          "text": "S-Should we give it a try...!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Fufu, no matter how confident you are, you would surely be crushed by me.<br>If you were to carry me, it would have to be like this..."
+            }
+          ]
+        },
+        {
+          "text": "I'm quite confident in my strength, if you'll allow me.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Fufu, no matter how confident you are, you would surely be crushed by me.<br>If you were to carry me, it would have to be like this..."
+            }
+          ]
+        },
+        {
+          "text": "Becoming smaller than you are now... Would that be difficult?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "I do wonder.<br>I... was desired to be great and beautiful, and so I was carried aloft."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "That is something to be proud of in its own right.<br>But... What about you?<br>What would you wish for me?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet holds out her four-fingered hand,<br>ending in roundly polished black 'hooves', to [Player]."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Scoop up her hand, supporting it)"
+        },
+        {
+          "text": "(Take her hand for a handshake)"
+        },
+        {
+          "text": "(Let her take your hand as you hesitate)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "What a lovely palm.<br>No matter what shape it takes, to me it is fragile..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "It should be small and unreliable, yet it feels powerful somehow.<br>You have held a sword with this hand, have you not?"
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet entwines her fingers,<br>looking down with a somewhat ecstatic gaze."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "When winter ends, spring will come. You are a third-year...<br>Have you already thought about your career path?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Not at all yet..."
+        },
+        {
+          "text": "I'm thinking about it, but I can't quite imagine it."
+        },
+        {
+          "text": "I think attending the Police Academy would be good, but..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "It is difficult, is it not?<br>Supporting your own future with such small hands..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Furthermore, you seem to be free from various shackles.<br>As if you are living just as you flow..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What are you going to do, Baphomet-san?"
+        },
+        {
+          "text": "Will we meet again even after the festival ends?"
+        },
+        {
+          "text": "(Be silenced by your pounding heart)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "In truth, I have already decided.<br>I shall return to the academy and be a school counselor once more."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I will go to Shinjuku Academy if they so request a dispatch.<br>When that happens, I would love for you to tell me your story."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "But, I cannot go back to working at the academy exactly as before.<br>Because, you have changed me."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I will likely face the students with a<br>different approach, using unconventional methods."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Just like what you all showed me at this festival,<br>I have found myself wanting to try such things."
+    },
+    {
+      "type": "narrator",
+      "text": "Then, Baphomet's grip on [Player]'s hand tightens.<br>Her entwined fingers capture their palm."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "[Player]-kun, I wonder?<br>Are you interested in a university for psychology?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I truly believe you are suited to being a counselor.<br>If you would like, I could even help you with your studies starting now?"
+    },
+    {
+      "type": "narrator",
+      "text": "At her words, and before [Player] could open their mouth,<br>Baphomet smiled somewhat apologetically."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "—Oh, I am sorry.<br>You must have things you want to do."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I want to decide my own path."
+        },
+        {
+          "text": "I can't even think about a career path yet."
+        },
+        {
+          "text": "I-If it's with you, Baphomet-san...!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "You are being scouted by the Police Academy, aren't you?<br>And then, you are also troubled over whether to stay at Shinjuku Academy..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufu, you see, I am shamelessly tempting a<br>young person who is lost in their 'career' path."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Since I am a heretic, I want to give you a heretical 'option'<br>that isn't bound by the paths currently before you."
+    },
+    {
+      "type": "narrator",
+      "text": "Suddenly, Baphomet releases [Player]'s hand.<br>The soft, warm fur pulls away, and the cold wind strokes their skin."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I wonder if you are interested in me.<br>But— That might just be my 'ability'."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Your feelings, and what it is that you think of me.<br>What would you do if all of that were just a lie for the sake of temptation?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Baphomet, you're charming, but..."
+        },
+        {
+          "text": "You wouldn't tell a lie like that."
+        },
+        {
+          "text": "There's no way it was a lie after how much fun you were having."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Fufu... You truly believe me?<br>You really are... a strange and heretical person!"
+    },
+    {
+      "type": "narrator",
+      "text": "As if that sharp expression from before was just a passing breeze,<br>Baphomet bursts out with that brilliant smile."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I apologize for saying something so odd?<br>I just have a habit of doing that. Oh, how funny!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Because you are so strange, I found myself wanting to tell<br>you a story from long ago. It is not very long, so will you listen?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I like your stories, Baphomet-san."
+        },
+        {
+          "text": "Well, since you've always listened to mine...!"
+        },
+        {
+          "text": "(Nod repeatedly as her eyes fix to yours)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "A long time ago, before I came to Tokyo, I lived within the 'Night Banquet'.<br>Amidst the 'Witch Festivals', the music, and the frenzy... You see?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Everyone listened to what I said,<br>they worshipped me, and that was how we lived."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "There are happy memories too.<br>But... I also remember the bitter end of those who believed in me."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "My words were their 'faith'.<br>I am sure you must be free from even those kinds of shackles."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...That is why I wish to know you more deeply.<br>So, if it is alright, will you show me your 'inner self' once more?"
+    },
+    {
+      "type": "choice",
+      "note": "purely visual changes between Option 1/2 and Option 3",
+      "options": [
+        {
+          "text": "(Go to Baphomet's side)"
+        },
+        {
+          "text": "(Snuggle up to Baphomet)"
+        },
+        {
+          "text": "(Get lifted up onto Baphomet's lap)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Then, excuse me...<br>I shall take a peek."
+    },
+    {
+      "type": "narrator",
+      "text": "While still touching [Player],<br>Baphomet casts her eyes down."
+    },
+    {
+      "type": "narrator",
+      "text": "Light of an mysterious color overflows from her horns, forming a circle.<br>The light of the 'Rule' defined as 'Zero' by the 'App'."
+    },
+    {
+      "type": "narrator",
+      "text": "A mental specialist who sees through and interferes with the inner demon.<br>That is Baphomet's power—"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": ".......Intriguing, but.......<br>.......Ah, as expected, in my hands......."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet's eyes blink several times.<br>The light of 'Zero' surrounding her horns dissipates into the air."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "As I've mentioned before,<br>you... harbor a very complex demon."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "A small life harboring a complex and powerful demon<br>that you cannot fully hold on your own... That is yourself."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "How fragile, how cute...<br>Ah... no, this is improper..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I... I 'wish to protect you'.<br>Even if the sky splits, even if the earth cracks,<br>no matter what 'crisis' stands in your way...!"
+    },
+    {
+      "type": "narrator",
+      "text": "The ecstatic Baphomet rapidly increases in size.<br>Gently grasping [Player], her body ascends toward the sky."
+    },
+    {
+      "type": "narrator",
+      "text": "Tall and thick, aiming for a colossal form that truly pierces the heavens.<br>Recalling the greatness that was once worshipped and prayed for—"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/saidan_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Chronicler. Record this. —Interrogated person.<br>You stand accused of spreading heretical teachings."
+    },
+    {
+      "type": "narrator",
+      "text": "Heretic! Heretic! Heretic! Heretic! Heretic! Heretic!<br>Heretic! Heretic! Heretic! Heretic! Heretic! Heretic!"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet_b.png",
+      "text": "—Ah.<br>Everyone has been judged again."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet_b.png",
+      "text": "Believing the words of a 'heretic', carrying a 'heretic' aloft, and then breaking.<br>No one in this world can withstand the weight of heresy."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet_b.png",
+      "text": "But I loved you all who tried to carry the 'heretic',<br>and that is why I wanted to protect you."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/sky_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "High above, where the winter wind blows.<br>There, Baphomet's gigantification stops."
+    },
+    {
+      "type": "narrator",
+      "text": "Her palms formed into a bowl shape, so as not to drop [Player].<br>Baphomet peers down at them."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...I am very sorry.<br>I was reminiscing about the past for a moment."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Because you were so devoted... so small.<br>And yet you were carrying such a heavy 'demon'..."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I shall return you immediately. For a human body, this sky must be cold...<br>And the height is terrifying, is it not?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're wonderful even when you're gigantic.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Are you not afraid?<br>You really are... a 'heretical' person."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "...But, thank you very much.<br>I am truly happy to hear that."
+            },
+            {
+                "type": "narrator",
+                "text": "[Player] clung to Baphomet's finger.<br>She strokes their head with another finger, and pressed her lips to the small life in her hand."
+              },
+              {
+                "type": "narrator",
+                "text": "The soft, tendering texture on the tip of her hoofs tickled [Player]."
+              },
+              {
+                "type": "character",
+                "name": "Baphomet",
+                "avatar": "../char/housamo/baphomet.png",
+                "text": "Still, it must be cold...<br>I'll guide you to a 'warm place'."
+              },
+              {
+                "type": "narrator",
+                "text": "Baphomet's fingers tucked [Player] inside her 'sarashi'."
+              },
+              {
+                "type": "narrator",
+                "text": "Sandwiched between the meadow-like 'twin hills', held down by cloth.<br>Abundant fur, a dreamlike softness, and a sweet scent."
+              },
+              {
+                "type": "narrator",
+                "text": "Held within that warm elasticity, [Player] was perfectly protected from the harsh cold of the upper sky."
+              },
+              {
+                "type": "character",
+                "name": "Baphomet",
+                "avatar": "../char/housamo/baphomet.png",
+                "text": "Are you comfortable?<br>Please do let me know if it becomes too difficult for you."
+              }
+          ]
+        },
+        {
+          "text": "H-High places are a bit much...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "I am sorry.<br>I shall return to my original size immediately, so would you hold on to me?"
+            },
+            {
+              "type": "narrator",
+              "text": "In about ten seconds, Baphomet returns to her original height.<br>Sitting side-by-side on the bench, her red eyes smile."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "...You're safe now.<br>I might be a bit too overprotective."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "To me, you, who are in a period of accumulating strength to live, look so precarious... and lovely."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "It seems you have become more important to me than I thought.<br>Please, do not be crushed by my weight, no?"
+            }
+          ]
+        },
+        {
+          "text": "I love both versions of you, Baphomet!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Are you not afraid?<br>You really are... a 'heretical' person."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "...But, thank you very much.<br>I am truly happy to hear that."
+            },
+            {
+                "type": "narrator",
+                "text": "[Player] clung to Baphomet's finger.<br>She strokes their head with another finger, and pressed her lips to the small life in her hand."
+              },
+              {
+                "type": "narrator",
+                "text": "The soft, tendering texture on the tip of her hoofs tickled [Player]."
+              },
+              {
+                "type": "character",
+                "name": "Baphomet",
+                "avatar": "../char/housamo/baphomet.png",
+                "text": "Still, it must be cold...<br>I'll guide you to a 'warm place'."
+              },
+              {
+                "type": "narrator",
+                "text": "Baphomet's fingers tucked [Player] inside her 'sarashi'."
+              },
+              {
+                "type": "narrator",
+                "text": "Sandwiched between the meadow-like 'twin hills', held down by cloth.<br>Abundant fur, a dreamlike softness, and a sweet scent."
+              },
+              {
+                "type": "narrator",
+                "text": "Held within that warm elasticity, [Player] was perfectly protected from the harsh cold of the upper sky."
+              },
+              {
+                "type": "character",
+                "name": "Baphomet",
+                "avatar": "../char/housamo/baphomet.png",
+                "text": "Are you comfortable?<br>Please do let me know if it becomes too difficult for you."
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "In the distance, the bustle grows quiet.<br>The end of the festival is approaching."
+    },
+    {
+      "type": "narrator",
+      "text": "Having finished their play at the festival, people are heading home.<br>With the lively clamor, brilliant floats, and happy memories in their hearts."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Everyone is returning from the festival...<br>Having a place to return to is a wonderful thing."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I wonder if those people who returned from<br>the 'Night Banquet' also walked like this once."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I wonder if those children can also return<br>to where they should be, just like this?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You must have become the place those children return to.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "The place I made is nothing more than a 'temporary dwelling'.<br>A resting place, until they find the place where they truly live."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "But... Even if it is only for a moment, if I could be a place where they can sleep through the night, I am happy."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Everyone makes memories in a 'temporary dwelling' and lives their life ahead—<br>And you are likely no exception."
+            }
+          ]
+        },
+        {
+          "text": "You've become a 'found family', haven't you?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "The place I made is nothing more than a 'temporary dwelling'.<br>A resting place, until they find the place where they truly live."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "But... Even if it is only for a moment, if I could be a place where they can sleep through the night, I am happy."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Everyone makes memories in a 'temporary dwelling' and lives their life ahead—<br>And you are likely no exception."
+            }
+          ]
+        },
+        {
+          "text": "Where are you returning to, Baphomet-san?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Oh... Fufu, I wonder if you are concerned about me?"
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Or, do you intend to perversely tempt a heretic like me?"
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "If you are going to step into heresy, you must be more daring...<br>For example, like this."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Listen, [Player]-kun.<br>When you graduate from high school, won't you come to my place?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "You can live with me, as you attend an university.<br>And, how about we work as counselors together?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I can protect you from anything.<br>No matter what. No matter the cause."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Then who will protect you, Baphomet-san?"
+        },
+        {
+          "text": "I can protect myself."
+        },
+        {
+          "text": "If it's with you, Baphomet-san... That might be nice...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "What a lovely thing to say.<br>...It would be best if you refrain from saying that to anyone else, yes?"
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "I know, because I have seen your 'inner self'.<br>No matter who clings to you, you will go wherever you wish."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "That way of being is so dazzling to me...<br>Because I could only live by being carried aloft by someone else."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet casts her eyes down.<br>Her 'captivating' eyes are bleeding red."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Protection is not enough, is it?<br>You all would have thoughts on wanting to walk on your own two feet."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "It is all so touching, so sad, and... so dearing.<br>You all likely cannot live any other way."
+    },
+    {
+      "type": "narrator",
+      "text": "A hand with glossy, alluring black fur<br>slowly stroked [Player]'s head."
+    },
+    {
+      "type": "narrator",
+      "text": "The sounds of a somewhat nostalgic festival melody can be heard.<br>No one knows if it belongs to humans or the otherworld."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Entrust your body to Baphomet)"
+        },
+        {
+          "text": "(Listen to Baphomet's whispers)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Since we are here, shall we move elsewhere too?<br>We have played a lot at the festival, so let us go somewhere we can relax."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "There is no need to walk.<br>Just keep breathing slowly...<br>Yes, just close your eyes..."
+            }
+          ]
+        },
+        {
+          "text": "I want to go somewhere where we can be alone.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Fufu... I was thinking the exact same thing.<br>We might be quite compatible, you and I."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Then I shall take you where you desire.<br>Just keep breathing slowly...<br>Yes, just close your eyes..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "[Player]'s eyelids grow heavy from the familiar warmth and pleasant fatigue.<br>Before they know it, they begin falling asleep—"
+    },
+    {
+      "type": "narrator",
+      "text": "~~♪ La……Lu～……♪<br>La……♪"
+    },
+    {
+      "type": "narrator",
+      "text": "A melody can be heard through the slumber.<br>A soft sequence of notes, different from Tokyo's festival music."
+    },
+    {
+      "type": "narrator",
+      "text": "Guided by that leisurely melody,<br>[Player] slowly opens their eyes."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/hospital_night2.png"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...Oh, you have woken up.<br>Good morning. Though, it is only still night."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] is lying on a bed<br>provided in the room."
+    },
+    {
+      "type": "narrator",
+      "text": "Their head is resting not on a pillow, but on Baphomet's rich 'thighs'.<br>They are positioned on lap-pillow, peered down at from above."
+    },
+    {
+      "type": "narrator",
+      "text": "A 'fingertip' brushes the hair from their forehead.<br>The background looks like an infirmary they've never seen before—"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "This place...? A hospital... An infirmary?"
+        },
+        {
+          "text": "Is this what they call 'taking someone home'!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Do you desire a 'feast' for just the two of us?<br>I wonder 'which side' you would prefer."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "...Just kidding. Please come back for a 'feast' after you graduate.<br>Even if I am a heretic, I do work at a academy—<br>I am an educator, after all?"
+            }
+          ]
+        },
+        {
+          "text": "(Enjoy the Baphomet's lap pillow)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Do you desire a 'feast' for just the two of us?<br>I wonder 'which side' you would prefer."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "...Just kidding. Please come back for a 'feast' after you graduate.<br>Even if I am a heretic, I do work at a academy—<br>I am an educator, after all?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "This is my counseling room.<br>I have brought you here, as I could not bear to wake you."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Dozing off right in front of me. I am half happy and half worried.<br>You would not have been able to complain no matter what happened, no?"
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet lets her gaze wander around the<br>area to show [Player], who has opened their eyes."
+    },
+    {
+      "type": "narrator",
+      "text": "A clean, calm interior resembling an infirmary.<br>In one corner is an aquarium where the goldfish caught earlier is swimming."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I am currently on leave to focus on the children of underground Ikebukuro...<br>But I shall return in the spring, so I still have the key."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...I wanted you to see it.<br>The kind of place in Tokyo where I work."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "...I wonder what kind of adult<br>you will eventually become."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet said happily,<br>celebrating her own self."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "What kind of job will you have,<br>and what kind of person you will be with—<br>Or if you will be alone, what kind of life will you live?"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "If, within those countless choices, there was a future<br>with a counselor, that would surely be... wonderful."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet peers at [Player] and smiles.<br>The alluring black fur closes the distance."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Let her hand cup your cheeks)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "I could only wonder, what version of me is reflected in your eyes...<br>Fufu."
+            }
+          ]
+        },
+        {
+          "text": "(Lift Baphomet up)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "Oh, my... Are you alright, not crushed?<br>But... This makes me just as happy as a child."
+            },
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "I would like to do the same for you... Aah.<br>Surely that is what this world is all about."
+            }
+          ]
+        },
+        {
+          "text": "(Be kissed by her)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Baphomet",
+              "avatar": "../char/housamo/baphomet.png",
+              "text": "This is the temptation of one who tries to pull another into their own path.<br>Is it not improper for a Christmas present to be a heretical future?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "I want to be by your side, to see what kind of adult you become.<br>If I do... I feel like I shall find the answer I have been seeking."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "Starting from the spring, you are welcome to come here anytime.<br>And I would be happy if you could show me that 'inner self' again."
+    },
+    {
+      "type": "narrator",
+      "text": "Neither human, nor beast.<br>Neither man, nor woman."
+    },
+    {
+      "type": "narrator",
+      "text": "Therefore, Baphomet is torn on the boundary of binary oppositions,<br>and can only find herself through the 'inner self' of others."
+    },
+    {
+      "type": "narrator",
+      "text": "A shameless demon who belongs nowhere, wandering the gap of the boundaries.<br>That is Baphomet."
+    },
+    {
+      "type": "narrator",
+      "text": "And yet, or perhaps because of that...<br>With a captivating, bright, and mysterious smile, Baphomet says:"
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "No matter how embarrassing it is, I have finally decided<br>to truly try the thing I have found I want to do."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "You are the one who made me think that way...<br>Even if I do not know what I am, I now know what I want to do."
+    },
+    {
+      "type": "character",
+      "name": "Baphomet",
+      "avatar": "../char/housamo/baphomet.png",
+      "text": "And please consider a psychological profession if you feel like it.<br>If you do come, I shall hold an extraordinary 'study session' for you."
+    },
+    {
+      "type": "narrator",
+      "text": "A heretical goat once carried aloft by someone.<br>A beast of 'Zero' who has lived in solitude on the boundary of <a href=\"https://www.youtube.com/watch?v=PCPUyo-kON0\", style=\"color:var(background-light);\">antinomy</a>."
+    },
+    {
+      "type": "narrator",
+      "text": "Baphomet touched [Player] gently.<br>Her new place of belonging is already right here—"
+    }
+  ]

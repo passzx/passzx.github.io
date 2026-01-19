@@ -1,0 +1,86 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/arakawa_mainstreet_night2.png"
+  },
+    {
+        "type": "choice",
+        "note": "here's a redirect",
+        "options": [
+          {
+            "text": "<a href=\"reader.html?chapter=epilogue_b\", style=\"color:var(--background-light);\">I want to see Shinjuku Academy and other possibilities."
+          },
+          {
+            "text": "<a href=\"reader.html?chapter=epilogue_c\", style=\"color:var(--background-light);\">There are things I want to do in both the police and Shinjuku."
+          }
+        ]
+      },
+    {
+    "type": "narrator",
+    "text": "His sharp eyes widened the moment he heard the answer.<br>For an instant, his expression almost broke into a smile, but it immediately tightened."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...You really sure about this?<br>You seriously don't need to decide now."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "You probably already know, but the police are full of crazy trouble.<br>For someone like you, the danger will be even greater."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'm not a child anymore."
+      },
+      {
+        "text": "I still want to be a source of strength for you, Jagannath."
+      },
+      {
+        "text": "Make me your official 'buddy'."
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "He took a sharp breath at the answer.<br>After a few seconds of silence, he slowly nodded."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...I see. Then I've got to make up my mind too.<br>After all, this is the proposal of a lifetime I'm responding to."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Alright. I'll protect you with my life. In exchange—<br>you follow me with everything you've got for the rest of your life, okay?"
+  },
+  {
+    "type": "narrator",
+    "text": "Confirming from [Player]'s expression,<br>Jagannath thrust his fist forward."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh. Well then, I'll be counting on<br>you for a long time to come— my Buddy."
+  },
+  {
+    "type": "narrator",
+    "text": "Just as it seemed he would wrap his arm around [Player]'s shoulder,<br>he brought his face close and bared his teeth in a grin.<br>Their pure white breath melted together into the crisp, cold air."
+  },
+  {
+    "type": "narrator",
+    "text": "Behind them, their footprints stretched back through the snow—<br>And, ahead of them, the fresh, untouched white extended forever."
+  },
+  {
+    "type": "title",
+    "text": "Christmas Street Fight<br>～Ruthless Winter Festival Struggle!～<br>—END—"
+  }
+]

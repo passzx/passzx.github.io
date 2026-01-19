@@ -1,0 +1,2296 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/slum_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Mid-December, in a city swept by cold winds―<br>A dark, silent school route in the dead of night with no one around."
+  },
+  {
+    "type": "narrator",
+    "text": "Suspicious shadows with hoods pulled low over their eyes<br>were now softly creeping up behind a single student."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "...Hey, big brother.<br>You are a 'Black Santa', arentcha'?"
+  },
+  {
+    "type": "character",
+    "name": "Black Santa",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "―Eh?"
+  },
+  {
+    "type": "narrator",
+    "text": "The moment the man turned around, his vision was sealed in darkness.<br>A moment later, he realized a paper bag had been put over his head."
+  },
+  {
+    "type": "character",
+    "name": "Black Santa",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Uwaah, what are you doing!?<br>Hey, stop! Stop it!!"
+  },
+  {
+    "type": "character",
+    "name": "Black Santa",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Guh...! W-What is your goal!?<br>Please, don't hurt me―!!"
+  },
+  {
+    "type": "narrator",
+    "text": "The young man had his limbs bound and was pushed down to the roadside.<br>His muscles stiffened from the cold of the pavement along with his fear."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Haha, don't be so scared. We don't plan to<br>hurt you or anything. At least, 'this time around'."
+  },
+  {
+    "type": "narrator",
+    "text": "Someone crouched down and spoke in a menacing voice―<br>But it was the voice of a boy that still retained its youth."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Stay like this for a while,<br>and take your time rolling around."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Our demands for you are written on this card.<br>Read it when the cold has soaked into your body, then dispose of it properly."
+  },
+  {
+    "type": "narrator",
+    "text": "A stiff piece of paper is slipped between his wrist and the rope.<br>Then, another, different youthful voice added coldly from above."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Though― To put it simply,<br>the demand just means 'Don't touch us'."
+  },
+  {
+    "type": "character",
+    "name": "Black Santa",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "......'Us'?<br>You... Who on earth are you guys―!?"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/classroom_day.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Time goes back slightly, to the afternoon of the same day.<br>Shinjuku Academy, close to the closing ceremony, in a bright classroom after school―"
+  },
+  {
+    "type": "character",
+    "name": "Kengo",
+    "avatar": "../char/housamo/kengo.png",
+    "text": "Argh, the exams are finally over!<br>Now it's just meaningless attendance until the closing ceremony!"
+  },
+  {
+    "type": "character",
+    "name": "Kengo",
+    "avatar": "../char/housamo/kengo.png",
+    "text": "Exam periods really make your shoulders stiff,<br>or make your body dull― Anyway, it was the worst!"
+  },
+  {
+    "type": "character",
+    "name": "Shiro",
+    "avatar": "../char/housamo/shiro.png",
+    "text": "It is true the load is off our shoulders, but Kengo,<br>you barely even held a pen, so which part of you is stiff...?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I think I did well this time!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Shiro",
+            "avatar": "../char/housamo/shiro.png",
+            "text": "That's better than anything. Shall we compete on whose grades are higher?<br>The loser will be the 'next' one on Kengo-duty―"
+          },
+          {
+            "type": "character",
+            "name": "Kengo",
+            "avatar": "../char/housamo/kengo.png",
+            "text": "What 'Kengo-duty', you overbearing four-eyes!?<br>You want me to tell [Player] about your last Christmas!?"
+          },
+          {
+            "type": "character",
+            "name": "Shiro",
+            "avatar": "../char/housamo/shiro.png",
+            "text": "...! M-My apologies.<br>Sorry, I certainly got carried away."
+          },
+          {
+            "type": "character",
+            "name": "Shiro",
+            "avatar": "../char/housamo/shiro.png",
+            "text": "...However, the end of the year is right ahead of us before we even knew it.<br>We'll have to look back later on whether we achieved our aspirations and goals for the year."
+          }
+        ]
+      },
+      {
+        "text": "It's over, oh remedial classes...",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Shiro",
+            "avatar": "../char/housamo/shiro.png",
+            "text": "[Player]... That is why I warned you until I was blue in the face to do things you needed to do..."
+          },
+          {
+            "type": "character",
+            "name": "Shiro",
+            "avatar": "../char/housamo/shiro.png",
+            "text": "...However, the end of the year is right ahead of us before we even knew it.<br>We'll have to look back later on whether we achieved our aspirations and goals for the year."
+          }
+        ]
+      },
+      {
+        "text": "Another year coming to an end, that was fast~",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Shiro",
+            "avatar": "../char/housamo/shiro.png",
+            "text": "The end of the year is right ahead of us before we even knew it.<br>We'll have to look back later on whether we achieved our aspirations and goals for the year."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Shiro",
+    "avatar": "../char/housamo/shiro.png",
+    "text": "Right. Since it's this time of year, perhaps we<br>can hear Ryota's annual parody of 'that song'?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Fufu, President, I didn't know you actually liked it!<br>It's becoming a habit after all, isn't it?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Since it's a special occasion, I guess I can answer your request.<br>Alright then, here I go this year too? ...Ready, set!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "How many moooore nights to sleep~♪<br>Until Christmaaaaas~~~~♪"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "On Christmas, we eat pizza~♪<br>And then paella, and meat pie~♪"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "................"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Really, I can't sing it after all! Uwaaah!<br>I mean― It's a Christmas without [Player]!"
+  },
+  {
+    "type": "character",
+    "name": "Shiro",
+    "avatar": "../char/housamo/shiro.png",
+    "text": "―H-He went from a full smile to<br>completely bawling his eyes out...!?"
+  },
+  {
+    "type": "character",
+    "name": "Shiro",
+    "avatar": "../char/housamo/shiro.png",
+    "text": "W-Well... You are exaggerating it a bit.<br>[Player] will only be gone for the rest of the year, you know?"
+  },
+  {
+    "type": "character",
+    "name": "Shiro",
+    "avatar": "../char/housamo/shiro.png",
+    "text": "They plan to return right after Christmas,<br>so we can just have a party together then."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Agree with Shiro)"
+      },
+      {
+        "text": "(Comfort Ryota)"
+      },
+      {
+        "text": "It's only for a little while."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "But, there's a possibility they'll stay over there, right?<br>They are being scouted to go after all...<br>Ugh, it's scary to think about..."
+  },
+  {
+    "type": "character",
+    "name": "Shiro",
+    "avatar": "../char/housamo/shiro.png",
+    "text": "Your imagination is too strong... Anyway, if we don't send them off with a smile,<br>[Player] won't be able to depart feeling good either, right?"
+  },
+  {
+    "type": "character",
+    "name": "Shiro",
+    "avatar": "../char/housamo/shiro.png",
+    "text": "Well, I do think the timing is halfway done,<br>and I understand the feeling of loneliness well, but..."
+  },
+  {
+    "type": "character",
+    "name": "Kengo",
+    "avatar": "../char/housamo/kengo.png",
+    "text": "―Keh, but following that guy Toji,<br>I didn't expect you to go to Police Academy too, partner."
+  },
+  {
+    "type": "character",
+    "name": "Kengo",
+    "avatar": "../char/housamo/kengo.png",
+    "text": "It's not that I want to spend Christmas with you or anything,<br>but come back quickly, yeah? It's kinda boring without you."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Hey, don't be stubbornly weird, Kengo!<br>This isn't the time to hide that you're lonely!!"
+  },
+  {
+    "type": "character",
+    "name": "Kengo",
+    "avatar": "../char/housamo/kengo.png",
+    "text": "W-Weirdly stubborn...!?<br>Wait, Ryota's pressure is awfully strong―!?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Hey, you really know it, right [Player]?<br>Or rather― I want you to really know it."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Just how much all of us<br>love you, [Player]!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Of course I know it.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "But still, you decided to go, so that's just how it is.<br>...It's unfair, but I can't say anything to that."
+          }
+        ]
+      },
+      {
+        "text": "I love you too!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "Nah, I absolutely love you more!!<br>...But, I'll believe those words, [Player]."
+          }
+        ]
+      },
+      {
+        "text": "Honestly, I'll be lonely too.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "Really?<br>Then, why would you bother transferring―"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Sorry for saying things like that.<br>I didn't mean to trouble you."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "You know, when Toji came to Shinjuku, I thought we'd stick forever.<br>I didn't think he'd actually transfer to Police Academy."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Of course, Toji is still our friend.<br>That won't change no matter where he goes, but..."
+  },
+  {
+    "type": "narrator",
+    "text": "There, Ryota lowered his gaze.<br>After a long pause, he forces a smile."
+  },
+  {
+    "type": "narrator",
+    "text": "Then, as if managing to bundle<br>his many complex feelings into one―"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Anyway... Do come back, won't you!<br>Let's meet again soon! If anything, I'll come to see you!!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/school_gate_day.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Leaving the school building, the severe winter cold attacks.<br>The white of breaths, rising to the sky like smoldering smoke."
+  },
+  {
+    "type": "narrator",
+    "text": "Not stopping the pace, as [Player] tried to pass through the school gate,<br>someone called out to them from behind."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "When it gets to be this season, everyone breathes smoke like me.<br>Hey [Player], at least let me see your face before you go."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Thank you for everything, teach.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "What, it's not like this is our final farewell.<br>No matter what happens from here on out, you are my precious student, you know?"
+          }
+        ]
+      },
+      {
+        "text": "Did you come to see me off?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "That's exactly it, you are my precious student.<br>The least I could do as a teacher is to give you a heartful cheer, right?"
+          }
+        ]
+      },
+      {
+        "text": "It's not smoke, I'm sighing...",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jinn",
+            "avatar": "../char/housamo/jinn.png",
+            "text": "You're making this so depressing~<br>Before I send you off, I'll give you some of my passionate student guidance tips."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "...Though, when you were nominated by the Kiou Police Academy,<br>I didn't think such an unreasonable story would be decided."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "You definitely aren't living in the dorms, but in Kabukicho, right?<br>I did hear that the forces there don't exactly get along well with the police."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Ah, so basically, did your guardians―<br>Or rather, the group acting as 'substitute guardians', not oppose it?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Umm, well..."
+      },
+      {
+        "text": "Everyone is overprotective in their own way, but..."
+      },
+      {
+        "text": "(Remember what happened in Kabukicho)"
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/hostclub_tsukuyomi.png"
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "―Well, you're free do as you like.<br>Personal feelings aside, the police aren't particularly enemies."
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "Besides, it's proven that having an 'insider' in the police isn't bad.<br>...Just so you know, I'm not talking about that festival guy from Kabukicho, alright?"
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "No, 'that idiot' is a different breed of festival-loving people too, but...<br>If it's you, I'm sure you'll be useful to Kabukicho like he is."
+  },
+  {
+    "type": "character",
+    "name": "Gyobu",
+    "avatar": "../char/housamo/gyobu.png",
+    "text": "Haha, in youth, everything is experience.<br>It's good that your perspective can broaden, Miss Suzuka."
+  },
+  {
+    "type": "character",
+    "name": "Gyobu",
+    "avatar": "../char/housamo/gyobu.png",
+    "text": "Besides, the Lord's choice of study abroad destination<br>has to do with the school friend made in Shinjuku, but―"
+  },
+  {
+    "type": "character",
+    "name": "Gyobu",
+    "avatar": "../char/housamo/gyobu.png",
+    "text": "The fact that 'that mischievous boy' is there is a big reason too, right?<br>From what I see, he's not too bad of a big brother figure."
+  },
+  {
+    "type": "character",
+    "name": "Gyobu",
+    "avatar": "../char/housamo/gyobu.png",
+    "text": "If that's the 'circumstance', we can send you off with peace of mind.<br>Company in travel, compassion in life― Have a safe trip."
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "It's better than staying in the shade with us.<br>We don't have any reason to stop you, so go wherever you like."
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "However, if you settle down with the police...<br>Never set your foot into Kabukicho again―"
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "...That's what I'd like to say, but having a special 'precedent' makes it tricky.<br>Oi, just make sure to not get too influenced by that two-timing bastard."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―Nooo! Absolutely, absolutely not! Why...<br>W-Why is [Player] going to the police of all places!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "And then, if by any chance you join the cops on momentum―<br>Changing your 'nomination' to a senior police officer... Such a development is possible!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "And in the 'end', you'll leave Uncle!<br>Along with a note saying you got sick of Uncle's slovenliness!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uwaaah! Don't go, [Player]!<br>Uncle won't leave his socks off anymore!?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "That, I've heard many times...",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "[Player]'s voice no longer reached Y'golonac at all, who had entered his own world and was indulging in his 'nasty' delusions."
+          }
+        ]
+      },
+      {
+        "text": "Come on now, don't cry!",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "[Player]'s voice no longer reached Y'golonac at all, who had entered his own world and was indulging in his 'nasty' delusions."
+          }
+        ]
+      },
+      {
+        "text": "(Feel a thrilling sense of immorality)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Damn, things turning out like this<br>is definitely all 'his' fault...!!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/school_gate_day.png"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "―I see. So basically, it's not that there was no opposition,<br>but you were basically respected... Is that right?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "That's good then... Before I send you off,<br>just one thing― I wanted to tell you just this."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Listen, [Player]!<br>Make sure to come back to this school... to Shinjuku Academy!!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "If I'm being honest, I wanted Toji to<br>stay with us so badly if it was even possible!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I know that choosing a path, a future<br>is all up to you guys but... Guh..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "You're still my precious student!<br>Won't, won't you promise to your teacher you'll come back!?"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/policestation_open.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Thus the next day― At the Kiou Police Academy's morning assembly,<br>the gazes of police officers were poured onto [Player] on the stage."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "So, that concludes the introduction of [Player], the exchange student from<br>Shinjuku Academy who belongs to Kiou Police Academy as of today."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Hohoho, speaking of the year-end, it is a time when crime increases drastically.<br>I'll have you work hard right away here, okay?"
+  },
+  {
+    "type": "character",
+    "name": "Tajikarao",
+    "avatar": "../char/housamo/tajikarao.png",
+    "text": "I welcome you, [Player]-dono!<br>The crisp police uniform suits you veeeery well!"
+  },
+  {
+    "type": "character",
+    "name": "Tajikarao",
+    "avatar": "../char/housamo/tajikarao.png",
+    "text": "But my oh my, although short term, for the day to come where that<br>[Player]-dono becomes this officer's junior... I'm truly overwhelmed with emotions!"
+  },
+  {
+    "type": "character",
+    "name": "Tajikarao",
+    "avatar": "../char/housamo/tajikarao.png",
+    "text": "If you have any trouble, be sure rely on<br>your Senior Patrol Officer immediately, alright!?"
+  },
+  {
+    "type": "character",
+    "name": "Oguchi Magami",
+    "avatar": "../char/housamo/oguchi_magami.png",
+    "text": "The day might come where I investigate together with [Player]-dono―<br>Just from that fact, my tail is shaking with anticipation already!"
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "―Welcome, [Player].<br>To think the day would come where we stand shoulder to shoulder again like this."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "That figure, it looks good on you more than I imagined.<br>It was worth strongly recommending you as a candidate."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Tajikarao-senpai, please guide me!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Tajikarao",
+            "avatar": "../char/housamo/tajikarao.png",
+            "text": "Oooh... As I thought, 'senpai' has a nice ring to it...<br>To serve as a model, I will work harder than ever!"
+          }
+        ]
+      },
+      {
+        "text": "Magami-senpai, let's patrol together!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Oguchi Magami",
+            "avatar": "../char/housamo/oguchi_magami.png",
+            "text": "Of course!<br>But me being a senior...<br>I wonder if I can lead properly...?"
+          },
+          {
+            "type": "character",
+            "name": "Oguchi Magami",
+            "avatar": "../char/housamo/oguchi_magami.png",
+            "text": "And perhaps―<br>Since I've become a senior, [Player]-dono won't pat my head...!?"
+          }
+        ]
+      },
+      {
+        "text": "Let's do this here too, Toji.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Toji",
+            "avatar": "../char/housamo/toji.png",
+            "text": "Ah, but here I am the senior.<br>In front of others, please know your place and call me 'Toji-senpai'."
+          },
+          {
+            "type": "character",
+            "name": "Toji",
+            "avatar": "../char/housamo/toji.png",
+            "text": "...Heh, I'm just joking.<br>You don't have to worry about it that much.<br>Of course, if you do want to call me that, I won't stop you."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "At that moment, from outside, a sound echoed that could<br>only be thought of as that of a modified engine."
+  },
+  {
+    "type": "narrator",
+    "text": "Echoing the loud sound of brakes,<br>there was a car that arrived in front of the police station with a four-wheel drift."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Popular as always, ain't ya, [Player].<br>But, the one who recommended you was me, y'know?"
+  },
+  {
+    "type": "narrator",
+    "text": "A low, rough voice follows after.<br>The owner of the voice― The gazes of the place concentrate on the rear door."
+  },
+  {
+    "type": "narrator",
+    "text": "Wearing giant gauntlet gloves,<br>opening the door, a large tiger beastman appeared."
+  },
+  {
+    "type": "narrator",
+    "text": "Wrapped in a uniform over fur with contrasting black and white,<br>beneath the cap, his sharp eyes released a mischievous light."
+  },
+  {
+    "type": "character",
+    "name": "Black Delinquent Cop Tiger?",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yoo, it's been quite a while, [Player].<br>Was it since we met at Tsukuyomi's Club?"
+  },
+  {
+    "type": "character",
+    "name": "Black Delinquent Cop Tiger?",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Ah, or was it when we ate barbecue with Tetsuox's group?<br>Or when we rode in the car with Uncle Gyobu―"
+  },
+  {
+    "type": "choice",
+    "note": "we know his name but it's still undetermined :(",
+    "options": [
+      {
+        "text": "Jagannath, so you recommended me too.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Black Delinquent Cop Tiger?",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Yeah, that's right.<br>Thought it might be nice for me to have someone I can entrust my back to, y'know?"
+          }
+        ]
+      },
+      {
+        "text": "It's been a while since we beat up those brats together.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Black Delinquent Cop Tiger?",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh. Right, right.<br>You'll show me more of that action, won't you?"
+          }
+        ]
+      },
+      {
+        "text": "(Stare at him like you've never seen him before)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Black Delinquent Cop Tiger?",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Haha, I know that you think of me as a good big brother, but you don't have to give me a reaction like that."
+          },
+          {
+            "type": "character",
+            "name": "Black Delinquent Cop Tiger?",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Rather, with that look on your face, you aren't gonna say you forgot about me, are you?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Black Delinquent Cop Tiger?",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Whether you're a goodie-two-shoes or a bad companion,<br>I'll have you follow my lead here."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "That's right, to your big brother here,<br>Jagannath-sama, yoooo!"
+  },
+  {
+    "type": "character",
+    "name": "Daikoku",
+    "avatar": "../char/housamo/daikoku.png",
+    "text": "...Hmph. As usual,<br>how blatantly late, Jagannath-kun."
+  },
+  {
+    "type": "character",
+    "name": "Daikoku",
+    "avatar": "../char/housamo/daikoku.png",
+    "text": "How long has it been since you submitted a written apology for ramming the<br>modified patrol car into the school building and completely destroying it the other day?"
+  },
+  {
+    "type": "character",
+    "name": "Daikoku",
+    "avatar": "../char/housamo/daikoku.png",
+    "text": "Being you, you're going to say you were doing<br>a precautionary patrol of the back alleys again, aren't you?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Oooh, correct answer, dear Police Chief.<br>I am quite literally a local 'policeman', after all."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "The brats in the city are dangerous anyway.<br>Playing with them until they find it annoying is just right."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "Jagannath...<br>Even you recommended [Player]...?"
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "―! Hogen-sensei, don't tell me this time,<br>the one in charge of guiding [Player] is―"
+  },
+  {
+    "type": "narrator",
+    "text": "When the startled Toji turned his face to the teacher on the platform,<br>Hogen answered while stroking his rich white beard."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Ah, about that story...<br>Actually, a certain case occurred last night."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Due to its nature, I wanted to entrust the investigation to Jagannath,<br>but I judged that someone to perform assistance was necessary this time."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "We don't have much time in our hands, so I'll have them work hard right away―<br>That was what I meant when I stated it earlier."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―That's what he says.<br>Heheh, sorry 'bout that, honor student."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "...The police is a world of hierarchy.<br>I am fully aware of that point, unlike you."
+  },
+  {
+    "type": "narrator",
+    "text": "Laughing roughly with a short breath,<br>Jagannath sits calmly at his desk."
+  },
+  {
+    "type": "narrator",
+    "text": "Cold gazes gather at that appearance,<br>and whispers of backbiting spread from each seat."
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "...Goddamn, what is that attitude?<br>Far from a bad cop, he's practically a corrupt cop."
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Why is he allowed to do whatever he wants?<br>Well, with that strength of his, I guess he is a usable piece."
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Whether true or false, rumor has it he's a cop by day and MMA fighter by night,<br>and doing double schooling with Kudan Martial Arts Academy."
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Being attached to such a half-wit, I pity the rookie too...<br>But, since Jagannath recommended them himself,<br>they might be the same kind despite appearances."
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Or rather, what does it mean to receive a recommendation from Jagannath and<br>Toji at the same time? They are practically oil and water, right?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Could it be that Jagannath is hated?"
+      },
+      {
+        "text": "I'm bathed in attention from day one..."
+      },
+      {
+        "text": "(Glare at him to blame the rumors)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "...You guys, refrain from private talk unrelated to duty.<br>So, what is the case that occurred?"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Umu. Then, the welcoming ceremony for our new rookie ends here,<br>so shall we move to the regular information briefing, Chief Daikoku?"
+  },
+  {
+    "type": "character",
+    "name": "Daikoku",
+    "avatar": "../char/housamo/daikoku.png",
+    "text": "Ah, I don't mind. I also want to see<br>[Player]'s working manner promptly."
+  },
+  {
+    "type": "character",
+    "name": "Daikoku",
+    "avatar": "../char/housamo/daikoku.png",
+    "text": "Now, take a seat, [Player].<br>The desk― conveniently next to Jagannath-kun is open."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Well then, I will share<br>the handover info from the night duty."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "This is clearly a criminal case rather than just some usual matter...<br>Late last night, multiple Santa School students were attacked simultaneously."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Their vision was stolen by a bag over their head from behind,<br>limbs bound, and abandoned on the street― A vicious incident."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "The culprits claim they have no intention of causing injury,<br>but as a result, albeit minor, there are injured people."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "Restraining the body and abandoning them on a road in a midwinter night―<br>That would fall under confinement resulting in injury, not just assault."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "If it's a crime that systematically targets Santas,<br>normally it should be seen as a robbery case for money or goods, but..."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...This isn't a type of robbery.<br>And mostly, the ones targeted were the Black Santa bunch, right?"
+  },
+  {
+    "type": "narrator",
+    "text": "Reward and Compensation― Santas are broadly divided into two by 'Role'.<br>Attention gathered on Jagannath's statement limiting it to one side."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "That is correct. A card-like threat letter was left at the scene, and there was a<br>statement demanding the suspension of Black Santas' activities for this year."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "...I see.<br>In that case, the age group of the culprits is―"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "―Umu. I cannot say for certain,<br>but we can make some guesses."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "And, this is not certain information, but there is<br>only one new force that is highly likely to contain the culprits."
+  },
+  {
+    "type": "character",
+    "name": "Tajikarao",
+    "avatar": "../char/housamo/tajikarao.png",
+    "text": "Anti-social forces, is what you mean?<br>What kind of force would that be―"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Hoho, I thought you would know that yourself.<br>It's the color gang made of the delinquent boys from underground Ikebukuro."
+  },
+  {
+    "type": "note",
+    "text": "color gang: group of Japanese delinquent kids dressing up like America's street gangs<br>(idk about you, but being American is the least thing I'd like to imitate)"
+  },
+  {
+    "type": "character",
+    "name": "Tajikarao",
+    "avatar": "../char/housamo/tajikarao.png",
+    "text": "―Of the underground Ikebukuro!? But... that semi-gang force should have<br>disappeared with the rise of that Treasure Temple's Demon Child?"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "That Oniwaka started attending school, and promptly became absent.<br>And, of the person who fit perfectly into that empty hole―"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "No, it seems the organization reformed naturally in the<br>form of the delinquent boys gathering under 'those people'."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "The stray 'Transient' Oniwaka attended school!?"
+      },
+      {
+        "text": "Was it Bukuro Academy...?"
+      },
+      {
+        "text": "What on earth happened..."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Daikoku",
+    "avatar": "../char/housamo/daikoku.png",
+    "text": "Fufu, having personal interest is fine,<br>but that is unrelated to this case. Concentrate and listen, won't you?"
+  },
+  {
+    "type": "character",
+    "name": "Daikoku",
+    "avatar": "../char/housamo/daikoku.png",
+    "text": "I am expecting work utilizing 'that temperament' of yours,<br>but do not forget that you are strictly under my organization."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "―Ahem.<br>Ah, may I continue?"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "So, there is a high probability that this case falls under juvenile crime,<br>but needless to say, the charges are by no means minor."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Considering organization, planning, and past delinquency history,<br>I must say the possibility of it being equivalent to criminal punishment is extremely high."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Depending on the investigation results, we will move to secure custody,<br>but either way, this will be a delicate matter."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―Ha, I see.<br>So the white feathered arrow was directed at me."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "A completely correct choice, old man.<br>If you pass delicate matters to me, there won't be any problem."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "Who are you to say that? There is no way we can expect a<br>grounded investigation from a bad cop who only disturbs the norms."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "The fact that you have many points of contact with the brats―<br>You being chosen for the mission is for that one reason alone."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hmm, awfully aggressive, aren't you?<br>Are you that displeased that I am taking charge of guiding [Player]?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "But, heheh. Sorry, this one is mine to take.<br>After all, having hanged out in Kabukicho for quite some time, there's an inseparable bond."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Besides― No matter how you think about it, they are on my side, don't you say?<br>Mistakenly or not, not on the side of a square like you."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "What? We may not have spent much time together,<br>but both [Player] and I have been through a lot together in Shinjuku."
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "Certainly, they do sometimes show aspects un-police-like, and<br>sometimes I want to bash my head at a wall at their inexplicable behavior, but―"
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "Despite this, [Player]'s essence is straight,<br>I believe somewhere in my heart... No, I want to believe in that!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'm being praised... Right?"
+      },
+      {
+        "text": "Don't fight for my sake!"
+      },
+      {
+        "text": "Being too popular is also a sin... I suppose."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Hohoho,<br>both of you should leave it at that."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "To repeat, wasn't it you who warned the surroundings<br>to refrain from private talk unrelated to duty, Toji?"
+  },
+  {
+    "type": "character",
+    "name": "Toji",
+    "avatar": "../char/housamo/toji.png",
+    "text": "Hah, that is― I apologize.<br>It is immature of me to take the bait of such obvious provocation, but I just..."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Umu, everything is fine. Anyway, this case was made<br>shortly after receiving a simple report from the school."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Therefore, Jagannath, [Player], I'll<br>leave the investigation plan to you― Hm?"
+  },
+  {
+    "type": "narrator",
+    "text": "Hogen's words stopped midway,<br>because there was someone who stood up abruptly on the spot."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Well then, first I'll go listen to the story at the Santa School.<br>―Come on, don't space out, you stand up too, [Player]!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Eh, we're going already?"
+      },
+      {
+        "text": "Roger that!"
+      },
+      {
+        "text": "(Slowly stand up)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "―Good grief, what a free-spirited fellow.<br>Just when I thought he arrived spectacularly late,<br>to think he would spectacularly leave in half-way."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Being able to move on instant decision is your strong point,<br>but make sure you don't get too eager and make a blunder, okay?"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath, who responded by raising his right eyebrow with a vertical scar,<br>next looked at [Player] and smiled provocatively."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Now. Whether you understand or not, I'll say it in advance,<br>because I'm the type to show it with actions more than words."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Watch my way well and learn it weeeell, alright?<br>Especially, the 'speed of switching gears'―!!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "So with that said... [Player],<br>shut up and follow meeee―!!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/santaschool_principal_day.png"
+  },
+  {
+    "type": "title",
+    "text": "-------- Part 2 --------"
+  },
+  {
+    "type": "narrator",
+    "text": "The two visited the Santa School for investigation as Christmas approached.<br>Perhaps due to the season, the school is overflowing with considerable liveliness."
+  },
+  {
+    "type": "narrator",
+    "text": "Perhaps everyone here is concerned about 'that incident', but<br>for the sake of the children, they must concentrate on what is in front of them."
+  },
+  {
+    "type": "narrator",
+    "text": "Thus the two police officers, while gathering some interest from the students,<br>were guided to the principal's office warmed by the fireplace."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "Ah, thank you for coming. It must be a busy time for both of us at year-end,<br>so I'd like to apologize for making you come all this way."
+  },
+  {
+    "type": "character",
+    "name": "Tanngrisnir",
+    "avatar": "../char/housamo/tanngrisnir.png",
+    "text": "What's more, you've arrived in this bitterly cold weather.<br>Please, have some of my special stew.<br>It will warm you from the core of your body."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Thanks. Even if you say we're busy,<br>it's probably not as much as you guys.<br>Thank you for making time for us."
+  },
+  {
+    "type": "narrator",
+    "text": "Responding with a gentle smile, Ded in the principal's seat<br>softly shifted his gaze to [Player] next to him."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "Well now, I am indeed surprised though.<br>[Player], when did you decide to become a police officer?"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "If you were thinking of transferring, I would have been happy<br>if you added our Santa School to the list of your candidates too."
+  },
+  {
+    "type": "choice",
+    "note": "yes yes yes yes yes I need a story on Santa School",
+    "options": [
+      {
+        "text": "The police uniform suits me, right?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ded",
+            "avatar": "../char/housamo/ded_white.png",
+            "text": "Fufu, from any angle you look like a fine police officer.<br>I never dreamed that you would come."
+          }
+        ]
+      },
+      {
+        "text": "Is this a scouting attempt?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ded",
+            "avatar": "../char/housamo/ded_white.png",
+            "text": "I see, so the Police Academy scouted you.<br>Hmm... By next year, maybe I should prepare some excuse for solicitation too?"
+          }
+        ]
+      },
+      {
+        "text": "But I don't really have the aptitude to be a Santa...",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ded",
+            "avatar": "../char/housamo/ded_white.png",
+            "text": "In the sense of aptitude, that is true.<br>But, if you still want to do it, the current me would have supported you with all my might."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "―Now. As much as I'd like to slowly rejoice in our reunion after a long time,<br>the circumstances are what they are, so here I must switch with the involved other side."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "Actually, he's been noisy about switching since a while ago.<br>He is impatient by nature originally, but when it comes to you, he―"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "Hey, don't go blabbering unnecessary things!<br>And while you're at it, refrain from thoughtless Santa solicitation!"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "Well, I understand the feeling of wanting to keep [Player] close,<br>and that one over there looks like he could become quite an excellent Black Santa."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "Jagannath, was it? Not a bad look on your face.<br>I see you possess most of the elements necessary for a Black Santa."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh! Words of praise directly from the Black Santa,<br>I'll gratefully accept them."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "But, for today, I'm here to investigate as the police.<br>If it's okay, I'd be happy to hear about that story on your side."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "Ah... that's right.<br>Today is, of course, the story of that damn incident."
+  },
+  {
+    "type": "narrator",
+    "text": "With a look of regret, he begins to speak the outline of the incident.<br>There is no particular contradiction with the information just shared at the station."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "...That is the summary of the incident. For further details,<br>do go ask Krampus. That guy's in charge of everything, anyways."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Eh, ask Krampus?"
+      },
+      {
+        "text": "Don't tell me he was also in that incident..."
+      },
+      {
+        "text": "(Expression becomes grim unintentionally)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "―Hm? No, naturally, he wasn't attacked.<br>There aren't that many guys with the guts to attack him."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "I had him do the hearing with the victim students in advance.<br>Which means―"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "Toughness is required of the Black Santas.<br>But, on the other hand, a certain level of delicacy is also necessary."
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "It would be unbearable to make such children<br>look back on the incident many times, right?"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_white.png",
+    "text": "So, we narrowed down the window.<br>Also, it's because he hoped to be able to concentrate on work right now."
+  },
+  {
+    "type": "character",
+    "name": "Tanngrisnir",
+    "avatar": "../char/housamo/tanngrisnir.png",
+    "text": "The coexistence of toughness and delicacy―<br>Exactly one of the groundings required of a Black Santa."
+  },
+  {
+    "type": "character",
+    "name": "Tanngrisnir",
+    "avatar": "../char/housamo/tanngrisnir.png",
+    "text": "That is why Krampus, an excellent Black Santa,<br>was entrusted with the 'delicate' hearing!"
+  },
+  {
+    "type": "character",
+    "name": "Tanngrisnir",
+    "avatar": "../char/housamo/tanngrisnir.png",
+    "text": "Yes, even I of the reindeer family would come to understand.<br>Of course, even the Black Principal who is the leader, despite his looks―"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "―Daaah, you bastards!!<br>Don't just chat away on your own!"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "Or rather, Tanngrisnir, aren't you the one lacking<br>that thing called delicacy, you muscle-brain teacher!?"
+  },
+  {
+    "type": "character",
+    "name": "Ded",
+    "avatar": "../char/housamo/ded_black.png",
+    "text": "Before I make you eat a lead bullet,<br>guide the both of them to the dorms!!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/santaschool_room_day.png"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...Ah, are you the police group that I heard about?<br>I was waiting for you. It's cramped, but do come inside―"
+  },
+  {
+    "type": "narrator",
+    "text": "Krampus, who opened the door in his own room in the dorm,<br>widened his eyes mid-sentence."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "―Jagannath!?<br>And... even you, [Player]!!?"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "Oh, it's true.<br>Though, why is [Player] in the police...?"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "Or rather― Is this dignified tiger here<br>also an acquaintance of yours, Krampus-senpai?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "We came for questioning, Krampus.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Krampus",
+            "avatar": "../char/housamo/krampus.png",
+            "text": "Jagannath alone is surprising, but to think even you would come...<br>I really didn't expect it."
+          }
+        ]
+      },
+      {
+        "text": "You're under arrest, Yule.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Yule",
+            "avatar": "../char/housamo/yule.png",
+            "text": "Ahaha, I don't recall doing anything to get arrested though...<br>By the way, what kind of things am I being charged?"
+          }
+        ]
+      },
+      {
+        "text": "You two know each other??"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yoo, 'Schwarzraptor'.<br>No, wait, is it Krampus right now?"
+  },
+  {
+    "type": "note",
+    "text": "Officially translated, his nickname would be Obsidian Raptor, but for the<br>sake of integrity, I'm keeping it as Schwarzraptor for the duration of this story."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...I see, so your 'main job' was a police officer.<br>Damn, since you're usually like that, I completely forgot."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...It can't be helped, so come inside.<br>As a police officer, I'll believe in your good sense... about half of it, though."
+  },
+  {
+    "type": "narrator",
+    "text": "The two guided inside sat down on the leather sofa<br>by the fireplace as recommended by Yule."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Ah, umm. So,<br>what should I talk about from where..."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...Hey, what's with that interest making you<br>flick your eyes between me and Jagannath, [Player]!?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I mean, I'm a bit curious.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Yule",
+            "avatar": "../char/housamo/yule.png",
+            "text": "Umm, I'm curious too.<br>I understood the story that [Player] did a short-term transfer to the Police Academy."
+          },
+          {
+            "type": "character",
+            "name": "Yule",
+            "avatar": "../char/housamo/yule.png",
+            "text": "From what I can gather, Jagannath-san is your friend related to martial arts―<br>Something like that?"
+          }
+        ]
+      },
+      {
+        "text": "First, I will interrogate about the relationship you have.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Yule",
+            "avatar": "../char/housamo/yule.png",
+            "text": "Wow, you look like a real detective, [Player].<br>Even though you just entered the Police Academy, that's amazing!"
+          },
+          {
+            "type": "character",
+            "name": "Yule",
+            "avatar": "../char/housamo/yule.png",
+            "text": "But, honestly I'm curious too.<br>I guess the two of you are friends related to martial arts―<br>Something like that?"
+          }
+        ]
+      },
+      {
+        "text": "It's alright, I have the obligation to remain confidential.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Yule",
+            "avatar": "../char/housamo/yule.png",
+            "text": "Wow, you look like a real detective, [Player].<br>Even though you just entered the Police Academy, that's amazing!"
+          },
+          {
+            "type": "character",
+            "name": "Yule",
+            "avatar": "../char/housamo/yule.png",
+            "text": "But, honestly I'm curious too.<br>I guess the two of you are friends related to martial arts―<br>Something like that?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Oi, tell him, Schwarzraptor.<br>Don't tell me, you haven't even told your own roommate?"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "You... If you can guess that, then at least hide it a little.<br>I separated the names on purpose, you un-delicate bastard."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "It's not like it's something I proactively say myself.<br>Besides, you hide it from your police colleagues too, right?"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "I'm not actively hiding it, so it's fine, but...<br>Yule, do you know MMA Fight Club (Surface)?"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "Sorry, I'm not really into that sort of thing...<br>But, I feel like I've heard the name somewhere?"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "It's the talked-about MMA organization sung as up-and-coming in the world.<br>Flashy battles where striking and grappling are anything goes are a given, but―"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Doing it without using any 'Sacred Artifacts' is the biggest selling point.<br>Since they can do shows for the general public and streaming, it's becoming extra popular."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Hombre Tigre of Lucha, Fist Saint Jacob, Avarga of Bökh,<br>Arsalan of Oil Wrestling, Bodybuilder Gargoyle―"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Famous players from many fields belong to it,<br>and Jagannath and I too are tentatively members..."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...Or rather, I was forcibly dragged in by this guy,<br>and forcibly made into a super flashy player...!!"
+  },
+  {
+    "type": "narrator",
+    "text": "Diagonally across from Krampus holding his head,<br>Jagannath continued the supplement aloofly."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Generally there are no tag matches in MMA,<br>but at our Fight Club (Surface) that is also allowed."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Me and this guy appeared as the Dark Fur Tag Team<br>with an upbeat entrance BGM, and rampaged in high spirits!"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "T-The high spirits parts were only you!<br>I'm... not that kind of character deep down!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'll go cheer for you next time!"
+      },
+      {
+        "text": "That is pitiful..."
+      },
+      {
+        "text": "But in reality, you did have fun, right?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "I can't help but wonder, what is it with the 'Surface'?<br>Does that mean there is one 'Underground' too?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Of course there is one 'Underground' too?<br>That one's just underground content that can't be broadcast<br>on the 'Surface', and this guy hardly shows his face there."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...However, I didn't know at all<br>that you hated it that much, Schwarzraptor."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I invited you thinking you'd like it, but―<br>If you hate it that much, you can always quit, y'know?"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "―!!<br>No, it's not exactly to that extent..."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "You know― If it's a serious battle without 'Sacred Artifacts',<br>it won't heal if I accidentally get injured, right?"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "It comes as quite some trouble as a Black Santa,<br>but if we avoid the busy season, it's not entirely out of the question..."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Interacting with the affiliated members is surprisingly interesting,<br>and external matches with teams like Ikebukuro are kinda stimulating too!?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "As I thought, you are into it."
+      },
+      {
+        "text": "You like performing too, right?"
+      },
+      {
+        "text": "You gave yourself away, huh?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "―Damn it,<br>didn't you guys come for investigation!?"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Don't abuse your authority to pry into people's privacy!<br>And Yule, don't give them a hand either!!"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Anyway, let me talk about the incident!<br>I've been preparing for it all this time."
+  },
+  {
+    "type": "narrator",
+    "text": "Then, having finished the general briefing, Jagannath<br>ruminates on the content while leaning on the back of the sofa."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I see. None of the attacked Black Santas<br>saw the culprits' faces, huh."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Yeah. There is the fact that the pattern of<br>having a paper bag put over from behind was the majority, but―"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Even the bunch who could catch a glimpse,<br>testify that the culprits were wearing hats and hoods low over their eyes."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "A method the bad brats tend to use when doing bad things.<br>God, every single one of them just had to do the same criminal modus operandi."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...The fact that they are brats is probably true.<br>Everyone uniformly testifies so from their build and tone of voice."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "This is the judgment of our trained Black Santas,<br>so I'm certain there'd be no mistakes―"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "To begin with, there aren't many guys other than<br>those bad brats who have a motive to attack us Black Santas."
+  },
+  {
+    "type": "narrator",
+    "text": "Holding one of the left-behind articles― A 'threat letter' card to his nose,<br>Jagannath stared at the childish characters written there."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "'Stop Black Santa activities this year'―<br>Well, it's natural to see it as self-defense of those brats fearing punishment."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Now then. What can we deduce<br>from the current information, [Player]?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "We barely got any new information!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Don't assume the perp to always leave sufficient evidence.<br>If you are going to continue working as a police officer, you mustn't overlook even the slightest traces."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "For example...<br>Right, don't you think this crime is too short-sighted?<br>If they do this kind of action, 'punishment' would be waiting for them, don't you say?"
+          }
+        ]
+      },
+      {
+        "text": "It doesn't seem like they've thought this through.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Not a bad point of view.<br>This is mostly an impulsive crime due to shallow thinking―<br>Because if they do this kind of action, only 'punishment' would be waiting for them."
+          }
+        ]
+      },
+      {
+        "text": "I don't understand anything, senior!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Oh wow, what an energetic reply?<br>Think carefully, the perp doesn't always leave sufficient evidence, y'know?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "For example...<br>Right, don't you think this crime is too short-sighted?<br>If they do this kind of action, 'punishment' would be waiting for them, don't you say?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "That they moved without even being able to think about that means―<br>One, that they are that scared out of their wits."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Two, that they are well aware that they are doing bad things<br>to the extent that they can't avoid Black Santa's punishment."
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath continues profiling.<br>Perhaps, what makes that possible was because<br>he can also stand on the side of the 'bad brats'―"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...It's just a hunch, but maybe those guys<br>have never tasted Santa's punishment in the past."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "If they had, they would be either reflecting or trembling in fear by now,<br>and there is no way they could pull this kind of 'bluff'."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Meaning― They are still just some 'rookie' bad brats.<br>Well, there is a possibility they've done something considerable besides that."
+  },
+  {
+    "type": "narrator",
+    "text": "Hearing Jagannath's analysis, Yule<br>muttered quietly, like something has caught his attention."
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "Having a firm awareness of doing bad things,<br>yet moving in fear of punishment, huh..."
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "...I may be asking unnecessary things, but those<br>kids right now are practically 'bad children', right?"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "I mean, in the sense that we don't know<br>how they were before committing the crime."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...Naturally, we don't know their past conduct, so this is just still speculation.<br>At this point, Tomte will probably move to begin his 'investigation', but―"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "Since they went as far as this evil deed,<br>it's almost certain that they will be deemed 'bad children'..."
+  },
+  {
+    "type": "narrator",
+    "text": "The room is filled with a short but heavy silence―<br>However, Jagannath stood up on the spot, breaking it."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―Alright, is that about it for starters? Sorry for intruding.<br>Just leave the rest to us and concentrate on your important work."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Regarding the status of the investigation, as soon as there is<br>any progress on our side, our headquarters will share it with Santa School."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh, when the busy season is over, shall we go out for a 'show' together again?<br>I'm very much looking forward to it, Schwarzraptor."
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "I-It's not like I'm looking<br>forward to it or anything―!"
+  },
+  {
+    "type": "character",
+    "name": "Krampus",
+    "avatar": "../char/housamo/krampus.png",
+    "text": "...Well, umm.<br>Maybe I'll be waiting for it."
+  },
+  {
+    "type": "narrator",
+    "text": "When Jagannath and the other left the room,<br>Yule absently lowered his eyes to his hands."
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "................<br>Investigating the Black Santas' attack incident, huh."
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "[Player]-san tends to encounter trouble,<br>so I hope they won't get involved in anything dangerous―"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "―Wait, huh.<br>Incoming call from Ryota. I wonder what's up?"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/shinjukusta_w_evening.png"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―Now then, I mostly expected beforehand,<br>but there wasn't any big harvest in particular."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Well, it can be said that just gaining confirmation is enough,<br>and getting to hang out with Krampus was a bonus too. Heheh."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "So... What do we do next?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Huh? That's already decided.<br>After all, I am the reliable local policeman, y'know?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Next, we march dashingly into the color gang's base, the underground Ikebukuro―!"
+          }
+        ]
+      },
+      {
+        "text": "You really like Krampus, don't you?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Well, yeah. He doesn't seem to be aware of it himself, but he is a good player.<br>He knows how to put on a good show, and he still got his charisma whether he wins or loses."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Ah~ I'm really looking forward to our next time together!<br>Kuku, though, if you come to cheer, it looks like he might actually spin his wheels?"
+          }
+        ]
+      },
+      {
+        "text": "Shall we go for lunch, senior!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Right, there is a set meal restaurant I'd go to nearby.<br>Let's fill our stomachs to investigate with spirit in the afternoon too!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Just when Jagannath shrugged his shoulders happily...<br>His phone in his back pocket rang its ringtone loudly."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―Oh, old man, what is it?<br>We just finished the questioning here, but<br>if it's a report you're asking, I'll do it later, alright?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Even so, we hadn't got much more information―<br>Wait, hmm. Did you figure out something at the headquarters?"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Umu, it is some quite interesting<br>information regarding that color gang."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "There was a punk informant that contacted several members of our department, and<br>according to him, there is a possibility they will participate in a 'certain festival'."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―A certain festival...?<br>Speaking of festivals this season... Ah, that one in Asakusa."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Hoho, might just be that one.<br>It can be said to be supremely natural as a gathering place for those bad brats, but―"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "To participate at a time like this,<br>it seems like there is something to it, no?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "......I see.<br>Alright, [Player] and I will head straight to the scene now."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I'm sure you'd understand, but do restrain yourself from raiding the venue.<br>Because, suspicion is still just suspicion after all."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Besides― The bunch at that festival hate the police, right?<br>Heheh, it's becoming exactly the perfect case for me."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Well, I'm a cop too, but half of me is like a friend to them!<br>So, just leave this case to case to these hands of mine!"
+  },
+  {
+    "type": "narrator",
+    "text": "Finishing the call, Jagannath looks at [Player].<br>Baring sharp fangs, he grins exactly like a bad brat."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―From the looks of it, it seems like you and I<br>can go play at a fun, pleasant winter festival?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "What's what in Asakusa?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "What? You don't know about 'that festival' despite growing up in Kabukicho?<br>You must be kidding, right?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Gah, you're so helpless!<br>Then, I'll teach you about it myself."
+          }
+        ]
+      },
+      {
+        "text": "That one in Asakusa I hear in rumors...?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "What, don't tell me it's your first time participating?<br>'That festival' should be perfect for me...<br>And of course, it would be for you too!"
+          }
+        ]
+      },
+      {
+        "text": "Festivals! I love them!!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, don't get too excited!<br>Though I said that, I'm also pretty much looking forward to it!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Right, it is no wonder that Jagannath is excited.<br>After all, at that festival, the bad brats from all over Tokyo meet in one hall."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Asakusa, Shibamata, Kabukicho―<br>A joint event for the hot-blooded, festival-loving bunch!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "A year-end special― The 'Fighting Festival',<br>famous for those 'red-hot' floats bashing themselves mid-winter.<br>Let's go knock-em-dead with a one-two punch!"
+  },
+  {
+    "type": "title",
+    "text": "Prologue:<br>The Roaring Dragnet!"
+  }
+]

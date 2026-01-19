@@ -1,0 +1,82 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/arakawa_mainstreet_night2.png"
+  },
+  {
+    "type": "choice",
+    "note": "here's a redirect",
+    "options": [
+      {
+        "text": "<a href=\"reader.html?chapter=epilogue_a\", style=\"color:var(--background-light);\">I'll choose the path of the police."
+      },
+      {
+        "text": "<a href=\"reader.html?chapter=epilogue_b\", style=\"color:var(--background-light);\">I want to see Shinjuku Academy and other possibilities."
+      }
+    ]
+  },
+    {
+      "type": "narrator",
+      "text": "At this unexpected answer, his sharp eyes flew wide open.<br>The joy came late, and a huge grin slowly filled his face."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "—Whoa, double schooling?<br>That's the most grueling path of all!?"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Just who the hell did you learn from to<br>come to such an amazingly stupid conclusion?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I wonder who that could be?"
+        },
+        {
+          "text": "Someone who's obsessed with keeping two positions, perhaps?"
+        },
+        {
+          "text": "Jagannath, if you can do it, so can I."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Haha, playing dumb now, are you?<br>That's the attitude of someone truly greedy, selfish, and independent."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "God, I did say I wanted someone who could stand by me,<br>but what kind of idiot copies me that much?"
+    },
+    {
+      "type": "narrator",
+      "text": "He laughed with a rough breath and looked up at the night sky.<br>After a short but heat-filled silence, he said with a mischievous grin—"
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Heheh. Well then, I'll be counting on<br>you for a long time to come— my Buddy."
+    },
+    {
+        "type": "narrator",
+        "text": "Just as it seemed he would wrap his arm around [Player]'s shoulder,<br>he brought his face close and bared his teeth in a grin.<br>Their pure white breath melted together into the crisp, cold air."
+      },
+      {
+        "type": "narrator",
+        "text": "Behind them, their footprints stretched back through the snow—<br>And, ahead of them, the fresh, untouched white extended forever."
+      },
+    {
+      "type": "title",
+      "text": "Christmas Street Fight<br>～Ruthless Winter Festival Struggle!～<br>—END—"
+    }
+  ]

@@ -3,6 +3,10 @@
 - better chapter navigation
 
 -------------------------------------------
+20/1/2026
+- added [xmas2025]
+- slightly extended [message]
+
 2/1/2026
 - changed structure
     + one "reader" page and one "index" page each story (working on mashing all the json into one)
@@ -10,7 +14,6 @@
 - fixed mobile.js (how didn't I notice that was broken)
 - added [message] for a limited time
 - updated [tropical2025]
-- added [xmas2025]
 - happy new year!!
 
 3/12/2025

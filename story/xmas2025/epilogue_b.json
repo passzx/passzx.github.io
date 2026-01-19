@@ -1,0 +1,82 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/arakawa_mainstreet_night2.png"
+  },
+    {
+        "type": "choice",
+        "note": "here's a redirect",
+        "options": [
+          {
+            "text": "<a href=\"reader.html?chapter=epilogue_a\", style=\"color:var(--background-light);\">I'll choose the path of the police."
+          },
+          {
+            "text": "<a href=\"reader.html?chapter=epilogue_c\", style=\"color:var(--background-light);\">There are things I want to do in both the police and Shinjuku."
+          }
+        ]
+    },
+    {
+      "type": "narrator",
+      "text": "It took him a moment to process the answer.<br>He slowly relaxed his shoulders and offered a faint smile."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "...I see. That's not a bad choice at all.<br>The bonds you found at Shinjuku are the real deal, no doubt about it."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Whatever path you take, I'll support you with everything I've got.<br>Even if we stand in different places, you're still my precious junior."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Can't we still be buddies even if we're apart?"
+        },
+        {
+          "text": "Maybe our paths will cross again someday."
+        },
+        {
+          "text": "To be honest, I'm still a little hesitant."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Hey now, don't go saying things that'll give me hope.<br>But— I do believe that life is full of surprises."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Whatever form it takes, there will be a special 'continuation' for us.<br>That much I'm sure of, heheh. Isn't it worth looking forward to?"
+    },
+    {
+      "type": "narrator",
+      "text": "This wasn't just him acting tough, because he truly believed it—<br>A steady conviction and a light of hope shone in his 'eyes'."
+    },
+    {
+      "type": "character",
+      "name": "Jagannath",
+      "avatar": "../char/housamo/jagannath.png",
+      "text": "Well then, let's keep this exciting relationship going.<br>We'll both sprint down our own paths— and reach an amazing future."
+    },
+    {
+        "type": "narrator",
+        "text": "Just as it seemed he would wrap his arm around [Player]'s shoulder,<br>he brought his face close and bared his teeth in a grin.<br>Their pure white breath melted together into the crisp, cold air."
+      },
+      {
+        "type": "narrator",
+        "text": "Behind them, their footprints stretched back through the snow—<br>And, ahead of them, the fresh, untouched white extended forever."
+      },
+    {
+      "type": "title",
+      "text": "Christmas Street Fight<br>～Ruthless Winter Festival Struggle!～<br>—END—"
+    }
+  ]

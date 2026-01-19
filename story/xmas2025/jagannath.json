@@ -1,0 +1,1394 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/ruralscene_day.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath is most widely worshipped in his famous 'handless' form,<br>crafted by the 'divine sculptor of his homeland'."
+  },
+  {
+    "type": "narrator",
+    "text": "There are many speculations and legends regarding the reason for this.<br>Some say it represents everything that he has lost."
+  },
+  {
+    "type": "narrator",
+    "text": "At the words of others, they claim the following.<br>Jagannath, is actually 'complete in this very form'."
+  },
+  {
+    "type": "narrator",
+    "text": "In other words, the true meaning is as followed. The hands Jagannath meant to hold,<br>are those 'provided by someone other than himself'."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I think I've already told you once before, haven't I, [Player]?<br>About the Battle of Kurukshetra, and what I lost in its aftermath."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I failed to save a single man. For the sake of the 'law' called Dharma,<br>I chose to lead my dear ally, Arjuna, into battle."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I don't think my judgment at the time was wrong.<br>But that doesn't make the sacrifices we made any more right."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I was the one who made the call that resulted in the greatest loss.<br>The 'Brahman Arrows' fired by both sides clashed in the sky, and then—"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "My ally, and my immortal enemy, Ashwatthama...<br>Both of them, and the very earth itself, suffered wounds that will never heal."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Failing to save him from his 'Adharma', letting him fall<br>to the 'dark side', all of it was all my fault to blame."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "These half-baked hands of mine.<br>They couldn't reach my enemies, nor my friends. They reached no one."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Since then, I've been struggling and squirming,<br>becoming the kind of switch-puncher you see today."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "But even so, with just these two arms of mine...<br>There are some things that are simply beyond my reach."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "That's why I'm grateful to you, [Player].<br>...I wanted to make sure I told you that today."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Nnn..."
+      },
+      {
+        "text": "(Lift your heavy eyelids)"
+      },
+      {
+        "text": "(Wake up after sensing a presence)"
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/schoolzone_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "When [Player] opened their eyes, Jagannath's face<br>was right there in front of them."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hm? What, you're awake?<br>We're not there yet, so you can keep sleeping."
+  },
+  {
+    "type": "narrator",
+    "text": "After the Christmas festival, the two were being driven home in a police car.<br>Beside them, Jagannath was smiling gently."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Did you just say something?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hm...? No, nothing at all?<br>Hehe, I did get to hear plenty of your cute sleep-talking though?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Stuff like 'I love Jagannath-senpai' or<br>'I want Jagannath-senpai to pet me'..."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Haha, 'I definitely didn't say that'?<br>It sure sounded like it to my ears though?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...Since you're awake now, mind if I take a turn?<br>Even someone like me gets tired."
+          },
+          {
+            "type": "narrator",
+            "text": "He rested his head softly on [Player]'s shoulder, closed his eyes, and soon began to breathe steadily as he slept."
+          },
+          {
+            "type": "narrator",
+            "text": "Between double-schooling and his fight club, it was always a mystery when Jagannath actually slept.<br>His expression was unusually defenseless."
+          },
+          {
+            "type": "narrator",
+            "text": "But perhaps sensing a gaze, Jagannath snapped his eyes open and flashed a mischievous grin."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "[Player]... If you ever feel, even just a little bit, that being a cop isn't so bad, then I—"
+          },
+          {
+            "type": "narrator",
+            "text": "With those words left hanging like he was running away, he closed his eyes again and let out a quiet snore."
+          }
+        ]
+      },
+      {
+        "text": "Sorry, I was leaning on you.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hm? Oh, don't worry about it.<br>Your sleeping face was pretty cute, actually."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "But you know, showing such a defenseless face next to a guy like me...<br>I might have to teach you exactly what kind of danger you're in?"
+          },
+          {
+            "type": "narrator",
+            "text": "Jagannath leaned his face in close.<br>Their shadows overlapped, and for a moment—"
+          },
+          {
+            "type": "narrator",
+            "text": "—Nothing happened.<br>Jagannath simply rested his head on [Player]'s shoulder and closed his eyes."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "I'm wiped out.<br>I'm gonna crash for a bit until we arrive."
+          },
+          {
+            "type": "narrator",
+            "text": "Between double-schooling and his fight club, it was always a mystery when Jagannath actually slept.<br>The defenseless  expression on his face was unusually rare."
+          },
+          {
+            "type": "narrator",
+            "text": "But perhaps sensing a gaze, Jagannath snapped his eyes open and flashed a mischievous grin."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "[Player]... If you ever feel, even just a little bit, that being a cop isn't so bad, then I—"
+          },
+          {
+            "type": "narrator",
+            "text": "With those words left hanging like he was running away, he closed his eyes again and let out a quiet snore."
+          }
+        ]
+      },
+      {
+        "text": "(Doze off again from sleepiness)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, what a cutie.<br>I'll wake you when we get there, so just sleep."
+          },
+          {
+            "type": "narrator",
+            "text": "Jagannath pulled [Player] close in a firm embrace, gently patting their head while humming a soft lullaby."
+          },
+          {
+            "type": "narrator",
+            "text": "Surrounded by a gentleness one would never expect from him, [Player] drifted back into a comfortable slumber."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "[Player]... If you ever feel, even just a little bit, that being a cop isn't so bad, then I—"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/policestation_open.png"
+  },
+  {
+    "type": "narrator",
+    "text": "One month after coming to Kiou Police Academy, [Player]<br>was buried in paperwork in their role as a student."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Focus on working silently)"
+      },
+      {
+        "text": "Will he praise me if I finish this by myself?"
+      },
+      {
+        "text": "Where the hell did that tiger go...!?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "[Player], has your senior already headed home?<br>I had a few questions regarding the previous incident."
+  },
+  {
+    "type": "narrator",
+    "text": "The other senior officer spoke with an apologetic tone.<br>[Player] was already well-known as the 'Jagannath Handler' at the station."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Sorry, even I don't know where he went..."
+      },
+      {
+        "text": "I have a good idea where he is."
+      },
+      {
+        "text": "Maybe I should plant a GPS in his neck next time."
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_guild2.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Yes, Jagannath had been leaving early quite often lately.<br>The place he headed to was—"
+  },
+  {
+    "type": "character",
+    "name": "Ring Announcer",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "\"In the Blue Corner! Will he tear through the house again tonight?<br>The Lightning Switch-Puncher, Jagannath!!\""
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "............. (smirks)."
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath responded to the call with a fearless smile.<br>The crowd erupted as he performed a quick shadow-boxing display."
+  },
+  {
+    "type": "choice",
+    "note": "one of the rare times a mob's name goes untranslated",
+    "options": [
+      {
+        "text": "...I knew you'd be here!"
+      },
+      {
+        "text": "Do your best, Jagannath!!"
+      },
+      {
+        "text": "I'm reporting this delinquent cop right now...!"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Hmph, I'll make you howl today. The fans have been waiting<br>to see your pathetic defeat for quite a while now."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Don't talk about things you can't do, old man.<br>Besides, it looks like someone important came to watch today."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Sorry, but I can't look like a loser in front of my Buddy.<br>I'm ending this in a heartbeat."
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Ho...? I won't go easy on you! Give up and<br>get ready to crawl and whimper at my feet!"
+  },
+  {
+    "type": "narrator",
+    "text": "Both were already charged with fighting spirit.<br>The moment of truth finally arrived—"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/valentinecoliseum2021_guild.png"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yo, Buddy. You actually came all the way to see me?<br>Well? Did you fall for my heroic figure all over again?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Yeah, you were really cool.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, I know, right?<br>I'm a Buddy worth bragging about, huh?<br>Give me some more praise."
+          }
+        ]
+      },
+      {
+        "text": "I slacked off too.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...God, you're hopeless.<br>I'll take the scolding for the both of us."
+          }
+        ]
+      },
+      {
+        "text": "You've been slacking off for matches a lot lately.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, don't be like that. I was cool, wasn't I?<br>Admit it, you love it when I'm fighting like this."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath smiled mischievously. He looked nothing like the<br>fierce, bloodthirsty beast he was during the match."
+  },
+  {
+    "type": "narrator",
+    "text": "Inside the cage, Jagannath is known as the 'Black Tiger',<br>cornering opponents with precision punches—"
+  },
+  {
+    "type": "narrator",
+    "text": "The gap between his 'on' and 'off' personas was<br>one of the reasons for his immense popularity."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I saw you cheering for me from the stands.<br>That made me a bit more fired up than usual, y'know?"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_guild2.png"
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Urgh... Gagh...! Dammit, this guy...<br>He's just messing with me...!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "What's wrong, old man? You're getting sluggish.<br>At this rate, you're never even gonna graze me."
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "You damn cop...!<br>Don't get cocky with me!!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "<p2 style=\"font-size: 135%\">Too slow!!"
+  },
+  {
+    "type": "narrator",
+    "text": "He swayed to dodge the desperate strike and instantly<br>unleashed a lightning-fast one-two combination."
+  },
+  {
+    "type": "character",
+    "name": "Ring Announcer",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "\"It's Jagannath's signature 'One-Two Jagan'!<br>Fast! Too fast! It's as if a shadow itself has leapt on its prey!\""
+  },
+  {
+    "type": "character",
+    "name": "Ring Announcer",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "\"He's cornered him against the cage! Like a rabbit before a tiger!<br>Is this where it all ends—?!\""
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I've got a reason to head home early today.<br>I'm finishing this right now."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "<p2 style=\"font-size: 135%\">One... Two... Jagan!!!!"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath's heavy fist slammed the opponent into the cage―<br>The violent impact echoed throughout the arena."
+  },
+  {
+    "type": "character",
+    "name": "Ring Announcer",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "\"Jagannath roars!! The 'Roar of the Black Tiger' shakes the cage<br>and makes our very hearts tremble!\""
+  },
+  {
+    "type": "character",
+    "name": "Ring Announcer",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "\"And the match is set―! The winner once again<br>is our very own Black Tiger, Jagannath―!\""
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/valentinecoliseum2021_guild.png"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Your engine was really revved up."
+      },
+      {
+        "text": "You were rougher than usual, it was cool."
+      },
+      {
+        "text": "Did you have a grudge against that guy...?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hm...?<br>Oh... about that."
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Hey, was that kid from the stands your famous junior?<br>Nice, nice! Introduce me to them later!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...Hah?<br>I told you already, that's my Buddy."
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "But that's only at the station, right...?<br>C'mon, if I win next time, you have to introduce us... Alright?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "(...Well, I don't need to tell them that. It'd be too childish to admit<br>I was 'revved up' just because of that.)"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I told you, I was just fired up because you were here?<br>I'm gonna go change, so wait for me. Let's go grab something to eat."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I made a killing on the fight money, so I'm treating you.<br>Think about what you want to eat, alright?"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath waved his hand,<br>and disappeared into the showers."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "...Was he dodging the question?"
+      },
+      {
+        "text": "I wonder where we should go eat~"
+      },
+      {
+        "text": "(Reach for the towel he left behind)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Ah, right.<br>[Player], if you're free—"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Haha...?<br>You must be quite the bad brat to be trying to steal a police officer's property?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Maybe I need to give you a bit of 'punishment' before we head out for food?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/policestation_open.png"
+  },
+  {
+    "type": "narrator",
+    "text": "...The next day.<br>Also at Kiou Police Academy."
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "[Player], have you seen Jagannath-kun?<br>I haven't seen him since a little while ago..."
+  },
+  {
+    "type": "character",
+    "name": "Police Academy Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "I needed to consult him about tonight's 'festival'.<br>Did he already leave to prepare...?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "That guy, again...!?"
+      },
+      {
+        "text": "I'm sorry, I'll go look for him..."
+      },
+      {
+        "text": "I'm going to deck him!"
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_guild2.png"
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Hm... Jagannath? He's not here today,<br>and he doesn't have a match scheduled."
+  },
+  {
+    "type": "character",
+    "name": "Wrestler Hell Father",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "More importantly, hey... Could you give me your contact...?<br>I'd love to have you as my— I mean, 'second'."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Thank you very much!"
+      },
+      {
+        "text": "Sorry, I'm in a hurry!!"
+      },
+      {
+        "text": "(Just exchange contacts)"
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2021_guild.png"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "H-He's... nowhere to be found?"
+      },
+      {
+        "text": "I looked almost everywhere he usually goes..."
+      },
+      {
+        "text": "Where the hell did you goooooo!?"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] checked his regular spots, underpasses where<br>punks hang out, but he was nowhere to be found."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Oh? [Player], I was looking for you?<br>Did you finally learn how to take a breather?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hahaha, for a second, I thought<br>I was being stood up for our festival date."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'm the one who was looking for you.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hm? Oh, did we just miss each other?<br>There was a place I just had to stop by."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Just so you know, I wasn't doing a solo investigation.<br>I told you I'd take you with me if I do."
+          }
+        ]
+      },
+      {
+        "text": "Why is your phone always off!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hm... ah, sorry, I didn't notice.<br>Fine, fine, I'll make sure to carry my radio next time."
+          }
+        ]
+      },
+      {
+        "text": "I was being hit on by Hell Father.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hey, did he do anything to you?!<br>Dammit, I knew that guy was eyeing you!"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...I'm definitely gonna crush him in our next match.<br>I'll make him regret ever thinking of touching you."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...What was I doing? That's a secret. Even buddies<br>can have a secret or two from each other, right?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "You'll find out once the festival starts.<br>Hehe, do look forward to it?"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_snow_night2.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath and [Player] arrived at the otherworldly temple,<br>where the winter festival had taken place during Christmas."
+  },
+  {
+    "type": "narrator",
+    "text": "Though this area would only normally be open at the very end of the year,<br>but after a recent incident, a special festival was being held."
+  },
+  {
+    "type": "narrator",
+    "text": "One reason was the public outcry that a festival so exciting<br>only happened once a year. But, there was a second reason—"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Oraaa! Wasshoi! Wasshoi!<br>You guys aren't loud enough! Show 'em the spirit of the police!"
+  },
+  {
+    "type": "narrator",
+    "text": "Lining the path to the temple were members of the police force,<br>hauling floats and shouting at the top of their lungs. That was the second reason."
+  },
+  {
+    "type": "narrator",
+    "text": "It seems they decided to form teams to train in earnest, preparing themselves<br>for the next time they have to clash head-on with the city's hot-headed factions."
+  },
+  {
+    "type": "narrator",
+    "text": "Since they were all hot-blooded to begin with,<br>they were full of energy and spirit."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Cheer for Jagannath from the sidelines)",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Perhaps hearing the voice, Jagannath glanced over for a second and flashed a mischievous grin."
+          },
+          {
+            "type": "narrator",
+            "text": "It was a habit Jagannath always showed when he was cheered for from the crowd at the fight club."
+          },
+          {
+            "type": "character",
+            "name": "Police Academy Student",
+            "avatar": "../char/housamo/placeholder.png",
+            "text": "Hey, I'm quite jealous of you, Jagannath-kun.<br>Having someone cheer so wholeheartedly for you."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "A great Buddy, right?<br>Honestly, having someone to support you makes all the difference."
+          }
+        ]
+      },
+      {
+        "text": "(Pull the float together)",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "The heat from Jagannath pulling the float reached [Player] from right behind them."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "It's a good feeling, having allies to support you.<br>I feel like I can put out ten times the power."
+          }
+        ]
+      },
+      {
+        "text": "Jagannath is so cool...",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Lifting the heavy float and shouting out, Jagannath's body was completely pumped up."
+          },
+          {
+            "type": "narrator",
+            "text": "His sweat made his fur glisten and his muscles shine.<br>Noticing the gaze, he gave a sharp grin."
+          },
+          {
+            "type": "character",
+            "name": "Police Academy Student",
+            "avatar": "../char/housamo/placeholder.png",
+            "text": "Fufu, what an intense gaze, Jagannath-kun.<br>I'm jealous of how well you get along with your Buddy."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "A cute kid, aren't they?<br>Just having them here gets me pumped and lets me put out way more power."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Alright, let's keep this momentum! We're gonna take<br>the lead in this float race at this rate!!"
+  },
+  {
+    "type": "narrator",
+    "text": "With Jagannath leading them, the police officers<br>successfully crossed the finish line in first place."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_night2.png"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Well, with a festival lover like me at the helm,<br>that's about to be expected. So, [Player], was I cool or what?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "You were very cool.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Right, right?<br>As your senior and as your Buddy, I've gotta at least do that much?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Since you're such a cute junior, I'll treat you today.<br>What do you want to eat?<br>Or should we try the shooting gallery?"
+          }
+        ]
+      },
+      {
+        "text": "You were alright.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...God, can't you be more honest?<br>And here your senior was planning to treat you to everything today?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "You're pretty easy to read, you know?<br>Your face and gestures were screaming 'Senpai is so cool, I can't take it!!'."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, well, let's fill our stomachs first.<br>Lifting that thing and shouting made me starving."
+          }
+        ]
+      },
+      {
+        "text": "Don't get cocky.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...God, can't you be more honest?<br>And here your senior was planning to treat you to everything today?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "You're pretty easy to read, you know?<br>Your face and gestures were screaming 'Senpai is so cool, I can't take it!!'."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, well, let's fill our stomachs first.<br>Lifting that thing and shouting made me starving."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] walked around the stalls with Jagannath.<br>Before they knew it, his hands were soon filled with all sorts of food packs."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Haffu, haffu, 'his okon-omiyak-hee's uite ood...<br>...*gulp* Here, you try some too."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Maybe it's because my homeland had a lot of flour-based dishes,<br>but I love this stuff. The guy who invented this sauce is a genius."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Say 'ah' in front of him)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Right? Good, isn't it?<br>Eat up and get strong, alright?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "I've still gotta train you a lot more before I can trust you with my back."
+          }
+        ]
+      },
+      {
+        "text": "You've got sauce on your mouth.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hm...? Heheh, thanks.<br>Since you're my Buddy, you can just lick it off if you want?"
+          },
+          {
+            "type": "narrator",
+            "text": "He laughed like a child as [Player] wiped his mouth, while he stuffed himself with yakisoba."
+          }
+        ]
+      },
+      {
+        "text": "You're eating that much!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "A body is an investment.<br>You've gotta eat well if you want to get strong, alright?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "I've still gotta train you a lot more before I can trust you with my back."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Now then, while we're filling our stomachs,<br>there's actually one place I want to go."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "It actually won't take that long.<br>Won't you come with me for a bit...<br>Hey, look at that!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "That warabimochi looks amazing!<br>Here, hold this! I'm gonna go buy some!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "...So, where's the place you want to go?"
+      },
+      {
+        "text": "What a restless cat."
+      },
+      {
+        "text": "You really eat a lot... Honestly."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Look, we're here.<br>It's this stall right here—"
+  },
+  {
+    "type": "narrator",
+    "text": "It was a stall without a shopkeeper.<br>Just then, Jagannath made his way inside."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hey, welcome~!<br>Glad you could make it to Jagannath's Colorful Stall!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Surprised? I actually applied for a stall permit.<br>And, this is my product!"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath lined up bags of colored<br>powder and spray cans on the counter."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "These kinds of stalls were common in my homeland.<br>You use the powder to decorate the customers."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Normally, you just hurl the powder at people, but I figured<br>that’d be a bit much for Tokyo, so I tweaked the style a bit."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Here, take a seat. You're my first customer.<br>It's fine, it washes off easily, and I won't make it too flashy."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Let him apply makeup to your face)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Here, close your eyes.<br>This won't take too long."
+          },
+          {
+            "type": "narrator",
+            "text": "A gentle, caressing sensation touched [Player]'s face.<br>True to Jagannath's word, it was over in an instant."
+          }
+        ]
+      },
+      {
+        "text": "(Let him add color to your hair)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, wait right there, my dear customer.<br>I'm gonna make you the most stylish person at the festival."
+          }
+        ]
+      },
+      {
+        "text": "(Leave it up to Jagannath)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Here, close your eyes.<br>This won't take too long."
+          },
+          {
+            "type": "narrator",
+            "text": "A gentle, caressing sensation touched [Player]'s face.<br>True to Jagannath's word, it was over in an instant."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "See, now you have my colors.<br>Happy to match me, aren't you?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "It's your turn now. Fix up my makeup for me.<br>I won't complain about the quality."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "You can make it look like a wrestler's paint,<br>or even just a small point on my body."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Alright, leave it to me."
+      },
+      {
+        "text": "(Think about what would look good)"
+      },
+      {
+        "text": "Aww, what a heavy responsibility~",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Well, just give it a shot.<br>Try whatever you want, alright?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Use your favorite color)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Not bad, that's your favorite color, right?<br>Being dyed in your colors doesn't feel half-bad."
+          }
+        ]
+      },
+      {
+        "text": "(Make him close his eyes and touch his face freely)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Whu' er yu doin...<br>You're just playing around now, aren't you?<br>Remember this, I'm gonna get you back later."
+          }
+        ]
+      },
+      {
+        "text": "(Make him close his eyes and press your lips to his)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...Oops, I can see right through your schemes.<br>That's a treat for after the festival, you little delinquent."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Also... This is for you. I couldn't give you a present<br>back then because so much was going on."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Consider it a late Christmas<br>present from your Jagannath-Santa."
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath handed over a small,<br>palm-sized gift box."
+  },
+  {
+    "type": "narrator",
+    "text": "Upon being asked to open it,<br>[Player] found a silver dog tag inside."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Thank you, I'm so happy.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Don't mention it.<br>You― chose me as your Buddy, so this is my thanks for that."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "It matches the one I've got.<br>Keep it with you as a lucky charm."
+          }
+        ]
+      },
+      {
+        "text": "Wait, this must be really expensive.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...God, a rookie like you doesn't have to worry about that.<br>This is to celebrate us being buddies."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "It matches the one I've got.<br>Keep it with you as a lucky charm."
+          }
+        ]
+      },
+      {
+        "text": "There's something written on the back...",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Engraved there were the words: 'I love you, Buddy'."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...Well? Say something.<br>It's a message of love from your Buddy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "note": "[This choice will only be available if you picked Option 3]<br>all options differ visually",
+    "options": [
+      {
+        "text": "(Hug Jagannath)"
+      },
+      {
+        "text": "(Clasp your hands behind your back and kiss him)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...If you'll be my other half, then I'll be your hands."
+          }
+        ]
+      },
+      {
+        "text": "(Ask him to hold you in both arms)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "...Dummy, how am I supposed to fight if my hands are full, [Player]?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh, I'm really grateful to you. No one else<br>ever wanted to be my Buddy."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "I've always had a thought. What if I had more hands<br>like that legendary Asura King?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "If I'm reaching out to one person, I could reach out<br>to someone else with another hand, right?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "So, I'm counting on you from now on, 'Buddy'.<br>I'm gonna be strict with you, got it?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'm counting on you too."
+      },
+      {
+        "text": "That's exactly what I want."
+      },
+      {
+        "text": "Let's aim to be the best buddies."
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath raised his fists,<br>and [Player] raised theirs back in return."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Alright! Then let's head out with our matching makeup<br>and show everyone what a close pair of buddies we are!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "There are plenty of cops who want to steal you away,<br>so I've gotta make sure they know you're mine!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/sky_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Saying so, Jagannath pulled [Player]<br>close and flashed a wicked grin."
+  },
+  {
+    "type": "narrator",
+    "text": "To any onlooker, they look like a pair of inseparable troublemakers.<br>The Switch-Puncher of Light and Shadow carried his new partner on his shoulders."
+  },
+  {
+    "type": "narrator",
+    "text": "With his Buddy's help, Jagannath would surely be<br>able to switch stances more freely than ever before."
+  },
+  {
+    "type": "narrator",
+    "text": "And thus, the legend of<br>these two buddies began—"
+  }
+]

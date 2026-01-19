@@ -1,0 +1,66 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/tetsuyaroom_day.png"
+  },
+  {
+    "type": "choice",
+    "note": "here's a redirect",
+    "options": [
+      {
+        "text": "<a href=\"reader.html?chapter=ygolonac_c\", style=\"color:var(--background-light);\">(Become Y'golonac's ■■■■)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hihi, I knew you'd<br>say such a thing, [Player]."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac carries [Player], opens the<br>sliding door, and proceeds further in."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/black.png"
+  },
+  {
+    "type": "narrator",
+    "text": "A bedroom that is quite dark, with no lights on.<br>It is as if they fell into an inescapable swamp of the abyss—"
+  },
+  {
+    "type": "choice",
+    "note": "I never found the lights off version for this background, so...<br>visually differing between Option 1/2 and Option 3",
+    "options": [
+      {
+        "text": "(Get a hickey from Y'golonac)"
+      },
+      {
+        "text": "(Get pinned down by Y'golonac)"
+      },
+      {
+        "text": "(Pin Y'golonac down)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hihi, let's love each other a lot, [Player].<br>Not just today, but forever and ever, okay?"
+  },
+  {
+    "type": "narrator",
+    "text": "The lantern gently floating on the water.<br>The wish entrusted to its light, was a pure and precious 'desire'."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac feels a premonition in the warmth in his chest,<br>that the wish might come true sooner than expected."
+  },
+  {
+    "type": "narrator",
+    "text": "No one knows what the future holds for the two of them.<br>Under the holy night, 'dreams' appear and vanish, just like champagne bubbles—"
+  }
+]

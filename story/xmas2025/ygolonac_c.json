@@ -1,0 +1,97 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/tetsuyaroom_day.png"
+  },
+  {
+    "type": "choice",
+    "note": "here's a ■■■■",
+    "options": [
+      {
+        "text": "<a href=\"reader.html?chapter=ygolonac_c\", style=\"color:var(--background-light);\">(Become Y'golonac's ■■■■)"
+      },
+      {
+        "text": "<a href=\"reader.html?chapter=ygolonac_c\", style=\"color:var(--background-light);\">(Become Y'golonac's ■■■■)"
+      },
+      {
+        "text": "<a href=\"reader.html?chapter=ygolonac_c\", style=\"color:var(--background-light);\">(Become Y'golonac's ■■■■)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...So, you wish to see the 'me' of old?<br>What a handful you are."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "You say such things only because you have no idea...<br>Just how much 'I' have struggled to suppress the<br>cravings surging within me while 'I' was by your side."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "'I' have always wished to leave my mark on your feet, your thighs,<br>your hands, your upper arms, and the nape of your neck."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "So run, while you still can. Because, once your desire for 'me' swell up,<br>'I' would be dying to know just how much you'd fall apart."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac places the mouth on his palm against [Player]'s cheek,<br>and then lets it crawl down their neck, tracing it."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Get a mark from Y'golonac)"
+      },
+      {
+        "text": "(Get a mark from Y'golonac)"
+      },
+      {
+        "text": "(Get a mark from Y'golonac)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...What, you really thought you'd had a choice?<br>Now, go mad for 'me', and show me your bottomless desire!"
+  },
+  {
+    "type": "narrator",
+    "text": "It felt as if a cracking sound have occured somewhere.<br>[Player]'s body begins to take on an uncontrollable heat."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...I see, [Player].<br>So you can make a face like that."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Fret not, there is a way for you to return to normal for all I know.<br>But for now, on this night, let us love each other to the limit of desire—"
+  },
+  {
+    "type": "narrator",
+    "text": "The lantern gently floating on the water.<br>The wish entrusted to its light, was a pure and precious 'desire'."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac feels a premonition in the warmth in his chest,<br>that the wish might come true sooner than expected."
+  },
+  {
+    "type": "narrator",
+    "text": "No one knows what the future holds for the two of them.<br>Under the holy night, 'dreams' appear and vanish, just like champagne bubbles—"
+  }
+]

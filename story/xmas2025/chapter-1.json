@@ -1,0 +1,4276 @@
+[
+  {
+    "type": "title",
+    "text": "Chapter 1:<br>The Man, Possessed by Desire"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_snow_day2.png"
+  },
+  {
+    "type": "narrator",
+    "text": "By the Sumida River in Asakusa, a temple that<br>turned into an 'Otherworld' long ago remains standing.<br>The Shoryuonji of Penglai― A fake temple created by youkai."
+  },
+  {
+    "type": "narrator",
+    "text": "Normally, it is strictly sealed and inaccessible to anyone, but for a few<br>days at the end of the year, only 'App' users are permitted entry."
+  },
+  {
+    "type": "narrator",
+    "text": "During these limited dates, a winter event is held jointly on the pilgrimage path<br>by three regions that love festivals: Asakusa, Shibamata, and Kabukicho. That is―"
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "Yes, it is the tradition of the 'Fighting Festival' and<br>its raging floats, the pride of us fierce members of Asakusa!!"
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "A passionate winter festival where we clash our youth through<br>multiple heated programs and compete for the overall victory..."
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "This year's victory will surely be seized<br>by us of the Asakusa Team― the Asokenkai!!"
+  },
+  {
+    "type": "character",
+    "name": "Taishakuten",
+    "avatar": "../char/housamo/taishakuten.png",
+    "text": "Hah, look at you acting like the festival host.<br>The only reason it's being held in Asakusa is<br>simply because of the location, you know?"
+  },
+  {
+    "type": "character",
+    "name": "Taishakuten",
+    "avatar": "../char/housamo/taishakuten.png",
+    "text": "I don't like the fact that the place is a knock-off temple either...<br>Anyway, this year we're taking the win!"
+  },
+  {
+    "type": "character",
+    "name": "Taishakuten",
+    "avatar": "../char/housamo/taishakuten.png",
+    "text": "Burning with the profiting spirit essential for any festival―<br>Are us, members of the Shibamata Team, the Teijashu!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hihihi, that's not gonna happen~?<br>Whether it's the yankees from Asakusa or the teamers<br>from Shibamata, it's all just playing house in the end!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uncle and his crew, a group of real outlaws, will<br>teach you what real terror― What true 'menace' really is!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "So, winning is only certain for Uncle and these badass<br>members of the Kabukicho Team― the Kichorabu!!"
+  },
+  {
+    "type": "note",
+    "text": "鬼蝶羅舞 (kichorabu): phonetic pun on 'Kicho Love' using 'yankee' ateji kanji styles"
+  },
+  {
+    "type": "narrator",
+    "text": "The heads of each region participating in the festival spark against each other.<br>That heat immediately spread to the vice-heads and members."
+  },
+  {
+    "type": "character",
+    "name": "Gorozaemon",
+    "avatar": "../char/housamo/gorozaemon.png",
+    "text": "Fufu. 'Playing house', you say, Y'golonac. This is a temple of youkai,<br>so there are no blind spots for the Asakusa Team where I serve as vice-head, you know?"
+  },
+  {
+    "type": "character",
+    "name": "Gorozaemon",
+    "avatar": "../char/housamo/gorozaemon.png",
+    "text": "Besides, our roster is full of idiots who give their all to<br>trouble every single day. There's no reason for us to lose, right, Licho?"
+  },
+  {
+    "type": "character",
+    "name": "Licho",
+    "avatar": "../char/housamo/licho.png",
+    "text": "Of course, General― No, Vice-Head!! After all, Umamichi is a group<br>of real yankees who's always ready for a scrap!"
+  },
+  {
+    "type": "character",
+    "name": "Licho",
+    "avatar": "../char/housamo/licho.png",
+    "text": "Plus, a ton of my buddies are gonna rush here later as reinforcements, you know?<br>It's plain as day that we'll take the win by a mile, so get ready, you punks!"
+  },
+  {
+    "type": "character",
+    "name": "Nobuharu",
+    "avatar": "../char/housamo/nobuharu.png",
+    "text": "I'm fully aware that everyone else is tough...<br>But Shibamata won't lose when it comes to fighting spirit!"
+  },
+  {
+    "type": "character",
+    "name": "Nobuharu",
+    "avatar": "../char/housamo/nobuharu.png",
+    "text": "I'm still inexperienced, but I plan to give<br>it my all both as vice-head and as a cheerleader!"
+  },
+  {
+    "type": "character",
+    "name": "Nobuharu",
+    "avatar": "../char/housamo/nobuharu.png",
+    "text": "Besides, this year we have a steady stream of helpers joining us<br>from Shinjuku, including the students from Suidocho Business Academy!"
+  },
+  {
+    "type": "character",
+    "name": "Thunderbird",
+    "avatar": "../char/housamo/thunderbird.png",
+    "text": "When you're asked for help, you have no choice but to answer.<br>If it's a request from a junior who always takes care of me, even more so."
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "Wait, shouldn't you be on Kabukicho's side, Thunderbird!?<br>...I'd like to say that, but I guess it can't be helped if it's Nobuharu's request."
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "But still, you've really grown to be acting as vice-head, Nobuharu.<br>That just means you're on equal footing with me, so don't expect me to go easy on you!"
+  },
+  {
+    "type": "character",
+    "name": "Gyobu",
+    "avatar": "../char/housamo/gyobu.png",
+    "text": "Haha, these folks are deeply indebted to the young master's family.<br>It's only natural that they can't say no."
+  },
+  {
+    "type": "character",
+    "name": "Gyobu",
+    "avatar": "../char/housamo/gyobu.png",
+    "text": "Though while we are at it, as a humble faculty member of Suidocho,<br>I'm looking forward to seeing my cute student in action."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Uncle won't forgive you, Thunderbird! Now that you've<br>become an enemy, I'll ruthlessly bring you down from your high horse, hihihi!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Don't think I'll go easy on you just because we sit together in the<br>night division for working adults in Suidocho's business department!?"
+  },
+  {
+    "type": "character",
+    "name": "Taishakuten",
+    "avatar": "../char/housamo/taishakuten.png",
+    "text": "C'mon, quit whining about your private grudges!<br>This Fighting Festival is all about having a refreshing battle!"
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "Indeed, let us clash our heated youth to our hearts' content!<br>And― I shall push you all to even further heights!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Ugh... So stuffy in this dead of winter.<br>People are supposed to be depraved,<br>so what is the Asakusa Head even talking about?"
+  },
+  {
+    "type": "narrator",
+    "text": "Each camp, unable to suppress its overflowing fighting spirit, was already raising its<br>voltage in anticipation and excitement for the upcoming Yoimiya eve-festival."
+  },
+  {
+    "type": "narrator",
+    "text": "At the same time, combined with a dangerous tension that a brawl might<br>break out at any moment... They were all keeping each other in check."
+  },
+  {
+    "type": "narrator",
+    "text": "In order to blend into this anything-but-peaceful festival mood,<br>two police officers are here, dressed lightly in festival attire―"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "A festival for the delinquent groups (?)."
+      },
+      {
+        "text": "It already looks fun with all this tension!"
+      },
+      {
+        "text": "I-It's so cold...!!"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hehehe, nice! Things are already heating<br>up even before the eve-festival even starts!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Should we give ourselves a team name too?<br>A slightly bad police duo― How does Sogikanzoku sound?"
+  },
+  {
+    "type": "note",
+    "text": "双義官賊 (sogikanzoku): roughly translated into 'justice official bandits'"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "As expected, festivals really get your spirits up!<br>Hey, since it's a winter festival, there are plenty of hot food stalls being prepared too!?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "We're not here to play, you know!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "I know that, we're strictly here for investigation.<br>...Wait, look at that fried food stall, it looks delicious!"
+          }
+        ]
+      },
+      {
+        "text": "Let's calm down a bit, Jagannath.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "You say that, but you're actually quite into it yourself.<br>Just cut loose, your senior officer gives you permission!"
+          }
+        ]
+      },
+      {
+        "text": "Should we just enjoy ourselves for a bit!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "That's the spirit I'd expect from my partner candidate!<br>Switching gears is essential for these things...<br>Alright, let's go!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "―As the excited [Player] duo made a fuss,<br>the gazes of the people gathered there finally turned toward the two."
+  },
+  {
+    "type": "character",
+    "name": "Tetsuox",
+    "avatar": "../char/housamo/tetsuox.png",
+    "text": "Hmm? Well, if it isn't you, Jagannath. And even you too, Boss!<br>Did you come to the festival to play?"
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "Hey, have you already forgotten, Tetsuox?<br>[Player] is currently part of the police."
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "There's no way they'd just come to play for no reason...<br>...No, it might be possible with these two?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yo, the Tetsu-Tetsu combo.<br>You two really haven't changed a bit, heheh."
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "Don't go grouping us together with a nickname!<br>Tsk... And which of us 'hasn't changed', you two-timer?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "K-Kwaaaaaaah!<br>The main culprit behind this whole transfer incident has appeared!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "A henchman of the 'Evil Organization' trying to<br>forcibly separate Uncle and [Player], whose destiny is bound!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Your scheme is transparent, but I won't let it happen...<br>Uncle'll never hand [Player] over to you!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "That makes me a little bit happy.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Did you see that!? [Player] does love Uncle!<br>There's no room for someone like you to squeeze in, stupid idiot!"
+          }
+        ]
+      },
+      {
+        "text": "Fuffuffu, feel free to be as lonely as you want!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Are you still mad that Uncle left his smelly socks out?<br>I'll apologize properly, so please come back!"
+          }
+        ]
+      },
+      {
+        "text": "...Please stop that, it's embarrassing.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Just wait, I'll chase this guy away now! Shoo-shoo.<br>Go away if you don't want Uncle to throw his smelly socks at you!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "For the record, I never intended on forcing them into the police.<br>I'm fine with wherever [Player] decides to go."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Though, whichever they choose,<br>I'll be able to handle it, wahahaha!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "They might fall for my 'One-Two' charm and refuse to leave me,<br>but when that happens, make sure to accept it, dear Papa?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―D-Do not call me Papa!!<br>I won't let you arbitrarily narrow down our infinite possibilities!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "And besides, why is the police at the Fighting Festival!?<br>It's a tradition to not intervene unless there's a serious problem."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "R-Really...!?"
+      },
+      {
+        "text": "No, I'm not falling for anyone."
+      },
+      {
+        "text": "No, there are no infinite possibilities."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Ha! Don't tell me you're trying to<br>teach [Player] bad habits...? That's Uncle's job!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "As long as Uncle's eyes are open, I won't allow you to take<br>them away from the festival and into a thicket somewhere!"
+  },
+  {
+    "type": "narrator",
+    "text": "As Y'golonac sputtered and ran wild with jealousy,<br>a person who had been restless within the Shibamata Team rushed over."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "[Player]!! It's been so long since yesterday!<br>Ahh, I'm so glad you're looking well!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Well, sorry for interrupting your conversation.<br>But, I just couldn't wait any longer!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "―Oh, is this my chance to join in!?<br>Hahaha, I've come along as well, [Player]!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "You must be freezing in those clothes, right?<br>Come on, you can warm yourself with me right now!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I'm usually avoided during summer festivals much to my chagrin,<br>but at this winter festival, there's no problem no matter how hot I burn!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Ryota, Jinn-sensei, it is you two after all."
+      },
+      {
+        "text": "I was wondering when I could talk to you too."
+      },
+      {
+        "text": "Why are you two at the Fighting Festival?"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "The two looked at each other,<br>and Ryota began to explain a bit sheepishly."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/santaschool_room_day.png"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "Long time no see, Ryota! What's up?<br>―Eh, you're worried about [Player]?"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "[Player] was just here until...<br>Ah, no. Sorry! It's nothing!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Did... [Player] come to you?<br>That means there was an incident at the Santa School!?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "That reaction― I knew it.<br>[Player], you're already involved in some incident..."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Hey, by any chance, does info on the<br>investigation reach the Santa School too?"
+  },
+  {
+    "type": "character",
+    "name": "Yule",
+    "avatar": "../char/housamo/yule.png",
+    "text": "―! Wait, Ryota. I'm the one who let it slip,<br>but I can't just talk about that on my own..."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Please, Yule!<br>I'd never want to trouble you, but―"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "But this is more important than anything to me right now.<br>I'm so worried about [Player]!"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_snow_day2.png"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "So I couldn't hold back and rushed here with Jinn-sensei.<br>Sorry, we don't intend to interfere with the investigation at all."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Well, basically... That's how it is!<br>And so, we asked to join the festival at the last minute."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I asked Motosumi-sensei to join the Asakusa Team,<br>and Ryota asked Taishakuten to join the Shibamata Team."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Of course, I have no intention of getting<br>in your way, but... We were just worried about you."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Give the two of them a hug)"
+      },
+      {
+        "text": "I have a good friend, and a good teacher."
+      },
+      {
+        "text": "I'm not that fragile."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Y-You idiot! It's only natural for a<br>teacher to care about his student's safety!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Besides, that wasn't the only reason we came.<br>Of course we were worried about the police investigation being dangerous, but―"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Whether you'll actually return to Shinjuku Academy―<br>That's what we're particularly concerned about."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Toji being gone is<br>honestly a huge deal for me."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "To be honest, I took it for granted that we'd<br>be together forever. Or at least until we graduate."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "I want to respect Toji's choice, and I'm rooting for him.<br>But, if you were to leave me too..."
+  },
+  {
+    "type": "choice",
+    "note": "this is the type of shit you'd hear at main story, not at a random Christmas event...?",
+    "options": [
+      {
+        "text": "I won't leave you be.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "...Thank you.<br>I knew you'd say that because you're kind."
+          },
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "But... Things won't stay this way forever.<br>I actually know that too."
+          }
+        ]
+      },
+      {
+        "text": "We can't be together forever.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "...Yeah. Things won't stay this way forever.<br>I thought I understood that, but now that I finally realize it..."
+          },
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "But... That's why I want to prolong this time as much as possible.<br>I want to cherish it."
+          }
+        ]
+      },
+      {
+        "text": "(Make a troubled face)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "Sorry, I'm troubling you as well as Yule.<br>But I'm just... lonely without you."
+          },
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "Things won't stay this way forever.<br>I know that, but..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(...Oh no. My chest suddenly felt tight.<br>Hey, is it the same for me and [Player]?)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Even though we're together like this, and it's normal<br>right now, will this 'normal' disappear someday...?)"
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac almost drifted off into sentimentality,<br>but he quickly shook his head and pulled himself together."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(...Now's not the time to get all emotional!!<br>What's important is that those kids and Uncle are 'comrades'!)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(In that case, the three of us should secretly conspire<br>to not let Jagannath take [Player] away... Hihihi!)"
+  },
+  {
+    "type": "character",
+    "name": "Motosumi",
+    "avatar": "../char/housamo/motosumi.png",
+    "text": "...Uh, sorry for interrupting.<br>You are [Player] and― Jagannath, was it?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yeah, I'm Jagannath, the reliable local policeman.<br>Nice to meet you, yankee-dad of Godoji."
+  },
+  {
+    "type": "character",
+    "name": "Motosumi",
+    "avatar": "../char/housamo/motosumi.png",
+    "text": "Guh, just how did you know about that!?<br>Well, we've heard your name too, Mister Delinquent Cop."
+  },
+  {
+    "type": "character",
+    "name": "Motosumi",
+    "avatar": "../char/housamo/motosumi.png",
+    "text": "Setting that aside. From what Ryota said,<br>are you two here to investigate some incident?"
+  },
+  {
+    "type": "character",
+    "name": "Motosumi",
+    "avatar": "../char/housamo/motosumi.png",
+    "text": "Sure, rough crowds gather at the Fighting Festival,<br>but so far it's been perfectly peaceful despite the tension."
+  },
+  {
+    "type": "character",
+    "name": "Motosumi",
+    "avatar": "../char/housamo/motosumi.png",
+    "text": "―Or could it be something else?<br>Is the culprit of some incident hiding in this festival?"
+  },
+  {
+    "type": "narrator",
+    "text": "And, just after the sharp gazes of the festival<br>factions concentrated on the two police officers..."
+  },
+  {
+    "type": "character",
+    "name": "???",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "―Forgive me for interrupting while you are busy.<br>Might I have a moment?"
+  },
+  {
+    "type": "narrator",
+    "text": "Everyone turned at the sound of the unexpectedly alluring voice.<br>The person who appeared there was―"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Wow, a wonderful person with everything 'big'."
+      },
+      {
+        "text": "What― Tachihara Kirito!?"
+      },
+      {
+        "text": "Mysterious kids!?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Oh, how embarrassing.<br>To have such words and gazes directed at me simultaneously..."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "But, well. I suppose it cannot be helped.<br>After all, that is just the 'kind of being' I am―"
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "...Haah. If I knew you'd be here,<br>I wouldn't have come."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "You still have that same peaceful look on your face...<br>I envy you, [Player]-san."
+  },
+  {
+    "type": "narrator",
+    "text": "Kirito glanced at his old acquaintance and<br>immediately fixed his eyes on Jagannath."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "...Isn't that person a somewhat famous police officer?<br>Does that mean [Player]-san's a 'cop' too?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Only for a limited time."
+      },
+      {
+        "text": "I wanted to show you my uniform."
+      },
+      {
+        "text": "Would that be a problem?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Color Gang",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "―Wait, what? Kirito has an acquaintance who's a cop?<br>I mean, they don't really look like one..."
+  },
+  {
+    "type": "character",
+    "name": "Color Gang",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "But, doesn't that black tiger cop next to them look kinda dangerous?<br>Hey, don't get scared and wimp out...!!"
+  },
+  {
+    "type": "narrator",
+    "text": "Behind Kirito, a group of deliquent boys whispered to each other.<br>Watching them, Jagannath's face broke into a big grin."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Haha, so some typical bad brats have appeared?<br>Fine by me, this looks like it'll be fun."
+  },
+  {
+    "type": "character",
+    "name": "Color Gang",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "D-Don't talk to us like you know us, cop! We hate the police,<br>especially ones like you who just act all high and mighty!"
+  },
+  {
+    "type": "character",
+    "name": "Color Gang",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "And besides, why is there a cop at the Fighting Festival?<br>We heard we could let loose here. This isn't what we were told."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh! Come on, don't say that.<br>It's a festival, so let's enjoy it together, okay?"
+  },
+  {
+    "type": "character",
+    "name": "Color Gang",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Hah? What's with this guy...?<br>Just go home already, cop!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Yeah, tell him, tell him~!<br>Cops who don't belong here should go home~!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Ah―<br>[Player], except for you, of course!?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Hmph, so that's how it is.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Just kidding! Did you think I meant it?<br>That's the kind of joke only Uncle and Jagan can share!"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hey, look who's talking?<br>Well, we do share some 'bad' memories. Hehe!"
+          }
+        ]
+      },
+      {
+        "text": "Jagannath, you can punch him.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uwahh, no violence! Not the face!<br>Uncle's face's fans won't stay silent if you do!"
+          }
+        ]
+      },
+      {
+        "text": "Don't bully Jagan-oniichan!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uncle'll never accept this guy to be a son!<br>Wait, wouldn't that automatically make me your Papa?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hehe, I wouldn't mind being your son.<br>I'll make sure to be very 'filial', so do look forward to it!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "Hmm... It's getting noisy one after another.<br>Though, I suppose that's what a festival is like."
+  },
+  {
+    "type": "character",
+    "name": "Taishakuten",
+    "avatar": "../char/housamo/taishakuten.png",
+    "text": "No, even so, this is too much of a mess!<br>The festival is just beginning, but this is way past a full house."
+  },
+  {
+    "type": "narrator",
+    "text": "The place became rowdy with the delinquents' boos,<br>but the voice of a Transient with large goat horns silenced them."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "―Children, could you please be quiet?<br>You have not forgotten why we came here, have you?"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "You are in a position to 'ask for a favor',<br>so you can behave yourselves for a little while, can you not?"
+  },
+  {
+    "type": "narrator",
+    "text": "Seeing the delinquents fall silent,<br>the Transient flashed a beautiful smile."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Everyone, my apologies.<br>I am Baphomet, a school counselor."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Due to circumstances, I have left the academy and am now serving as a guardian―<br>Or rather, 'something like' a guardian for these children."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "―!<br>Are you Baphomet-sensei!?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I've heard the rumors about you.<br>You're famous as an excellent therapist traveling around the academies in Tokyo."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "If I recall... You can interfere with the 'devil in the heart'<br>and make it smaller or something like that...?"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...Strictly speaking, I am not a 'teacher'?<br>But, yes. That is how I work― 'Basically'."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "But, you mentioned being a 'guardian'?<br>That means those students there..."
+  },
+  {
+    "type": "narrator",
+    "text": "Seeing Jinn's worried expression,<br>Baphomet showed a genuine smile for just an instant."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Yes, they are not currently affiliated with any academy.<br>And― that is precisely why we have visited this place."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "You see, this festival has a well-balanced mix of<br>culture-festival-like and sports-festival-like events, does it not?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "So that's the kind of event this is."
+      },
+      {
+        "text": "A 'Fighting Festival' has culture festival elements...?"
+      },
+      {
+        "text": "It suddenly sounds like a wholesome festival!"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "A 'pseudo-school-festival' for these children with<br>too much energy. That is my wish as a school counselor."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "They are not the type of children who like these kinds of events, but fortunately,<br>they showed interest only in the 'Fighting Festival' known for its rough nature, fufu."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "So if you would not mind, I would like to have them<br>participate as a fourth faction― Would that be allowed?"
+  },
+  {
+    "type": "narrator",
+    "text": "Receiving Baphomet's proposal, the heads of<br>each team quickly exchanged glances."
+  },
+  {
+    "type": "character",
+    "name": "Taishakuten",
+    "avatar": "../char/housamo/taishakuten.png",
+    "text": "―Well, that should be fine, right?<br>Honestly, I thought it was a touching story. I welcome them!"
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "Indeed, if they have the motivation, there's no reason to refuse.<br>Their spirit to aim for the top in this Fighting Festival is commendable!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I agree, this is also a way to help people, right?<br>Kabukicho is a city of duty and humanity, so of course you're welcome!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Hihihi, that's not a lie,<br>but these hot-blooded delinquents...)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Look like they could be useful for chasing away Jagan!?<br>Uncle is so sharp today~~!?)"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Eh, that easy!?"
+      },
+      {
+        "text": "Yankees are so generous..."
+      },
+      {
+        "text": "Y'golonac is being a bit suspicious, though."
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Haha! This is it.<br>This is why I can't get enough of yankees!"
+  },
+  {
+    "type": "character",
+    "name": "Gorozaemon",
+    "avatar": "../char/housamo/gorozaemon.png",
+    "text": "Kaka! I do agree to that.<br>Because, we've got plenty of refreshingly pleasant idiots!"
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "...Good grief, I guess it can't be helped.<br>Should we even think about adjusting the programs?"
+  },
+  {
+    "type": "character",
+    "name": "Nobuharu",
+    "avatar": "../char/housamo/nobuharu.png",
+    "text": "It's true that the more the merrier!<br>But... which region will you be representing?"
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "Where... If you ask that, I guess we'd be Ikebukuro?<br>These are the stray dogs of underground Ikebukuro who<br>gathered around me because they had nothing better to do―"
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "Baphomet-san, who visited there, unified them...<br>Rather, her being 'put on a pedestal' was the catalyst for this group."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―'Put on a pedestal'?<br>Wait, does that mean you're a small-scale religious group?"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...<br>No, we are..."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "By the way..."
+      },
+      {
+        "text": "If it's underground Ikebukuro..."
+      },
+      {
+        "text": "Is this the color gang from the rumors!?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hey, did you only realize just now?<br>I can't tell if you're slow or sharp."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "Well, that is what we are called.<br>The revival, second coming or something of the color gang?"
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "When Oniwaka-san disappeared, it was just a matter of someone taking the empty spot.<br>We're completely different from the previous color gang, though."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "...But, haha. To think that Oniwaka-san of all<br>people would actually start attending an academy."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Right― Which academy is Oniwaka attending?"
+      },
+      {
+        "text": "Is it Bukuro Academy after all?"
+      },
+      {
+        "text": "No one ever told me anything!?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "...Ah, am I allowed to say? Well, whatever.<br>It'll be more interesting if I tell you."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/rojiura_day.png"
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "...Heh, it almost sounds like a joke.<br>Oniwaka-san, a stray Transient, at an academy."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "Say― Where are you going?<br>Not that I'm particularly interested."
+  },
+  {
+    "type": "character",
+    "name": "Oniwaka",
+    "avatar": "../char/housamo/oniwaka.png",
+    "text": "............<br>Ameyoko Fashion Academy."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "...Ah, um. Sorry. If I didn't mishear―<br>Did you just say Ameyoko?"
+  },
+  {
+    "type": "character",
+    "name": "Oniwaka",
+    "avatar": "../char/housamo/oniwaka.png",
+    "text": "...There was something I've<br>wanted to make for a long time."
+  },
+  {
+    "type": "character",
+    "name": "Oniwaka",
+    "avatar": "../char/housamo/oniwaka.png",
+    "text": "Something with a softness that returns my hard fists to the hands of a baby,<br>a mass of warmth that could heal any old wound― That's what."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "...I see. I don't really get it,<br>but basically you found a place like that?"
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "Congratulations―<br>I suppose I should say that much."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_templepath_snow_day2.png"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "In any case, I would like to offer my heartfelt thanks<br>for accepting us so readily, our dear hosts."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Well then, we shall be participating from tomorrow.<br>For today, we shall take our leave―"
+  },
+  {
+    "type": "narrator",
+    "text": "Just as Baphomet was about to turn back,<br>Jagannath suddenly shouted in an out-of-place loud voice."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―Alright then, I guess it's about<br>time for us to start our job too!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "What do you think, should we start with a light jab?<br>What's your take, [Player]?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "What are you shouting so suddenly for!<br>We just settled things, didn't we?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Can't you read the room?<br>It's all over for you if you're being pointed out by Uncle!"
+  },
+  {
+    "type": "narrator",
+    "text": "Ignoring those words and without even waiting for [Player]'s reply,<br>Jagannath intentionally spoke without reading the room."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Actually. The reason we came here is because we got info that a group<br>who might be the culprits of a certain incident would be participating."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Well, it's just our suspicion,<br>but we need to look into that group."
+  },
+  {
+    "type": "character",
+    "name": "Motosumi",
+    "avatar": "../char/housamo/motosumi.png",
+    "text": "So that was it after all.<br>―And, what is this incident you're talking about?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Ah, right. If this is the<br>incident Yule was talking about―"
+  },
+  {
+    "type": "narrator",
+    "text": "The delinquent cop of the black tiger directed<br>his gaze at the color gang and paused for effect."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―The Black Santa Attack Incident."
+  },
+  {
+    "type": "character",
+    "name": "Color Gang Members",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "―!!"
+  },
+  {
+    "type": "narrator",
+    "text": "The delinquents' shoulders jumped.<br>Their agitation was obvious to anyone present."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "T-That's not a light jab at all...!"
+      },
+      {
+        "text": "What do we do with this atmosphere?"
+      },
+      {
+        "text": "(Watch the situation silently)"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "A short silence. Showing a hint of surprise,<br>Baphomet slowly looked back at the children."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...Could it be."
+  },
+  {
+    "type": "narrator",
+    "text": "The color gang won't meet her eyes.<br>Kirito laughed with a mix of exasperation and amusement."
+  },
+  {
+    "type": "character",
+    "name": "Kirito",
+    "avatar": "../char/housamo/kirito.png",
+    "text": "Haha... I don't know who they are,<br>but there are idiots who'd pull something like that?"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...Children?<br>―Explain yourselves."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "I remember having told you beforehand.<br>That, by focusing on participating in the festival right now―"
+  },
+  {
+    "type": "narrator",
+    "text": "Her expression changed. From one like<br>a mother scolding her child, to hesitation.<br>And then― To a look of resolution."
+  },
+  {
+    "type": "narrator",
+    "text": "Baphomet swallowed her words and<br>regained her originally composed attitude."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...'Just a suspicion.'<br>That is what you said, dear police officer?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yeah, that's what I said?<br>We intend to look into it 'thoroughly'."
+  },
+  {
+    "type": "narrator",
+    "text": "Under the clear winter sky, they lock eyes.<br>A few strange seconds pass, as if a silent conversation is taking place."
+  },
+  {
+    "type": "character",
+    "name": "Color Gang Members",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "...Baphomet.<br>Umm, we..."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "I withdraw my request for an explanation.<br>You children should keep your mouths closed."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Fufu... It's alright.<br>'There is no problem whatsoever.'"
+  },
+  {
+    "type": "narrator",
+    "text": "Directing an all-encompassing smile at the children,<br>she straightened up and faced Jagannath."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...'If by any chance' these children are the culprits, it would<br>be due to my lack of supervision, would it not, dear police officer?"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "In that case― I shall carry a feeling of apology in my heart.<br>Strictly as a hypothetical, of course."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "There's no need for apologies for a hypothetical.<br>And also, I'm Jagannath."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "And by the way, this is my<br>partner candidate, [Player]. Nice to meet you."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Jagannath-sama, [Player]-sama...<br>Yes, it is my pleasure to meet you as well."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "―Now then. Children, leave this to me and<br>return to your 'base' with Kirito-sama for today."
+  },
+  {
+    "type": "character",
+    "name": "Color Gang Members",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "But..."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "―'Return.'<br>And, leave everything to me, alright?"
+  },
+  {
+    "type": "narrator",
+    "text": "Nodding, the delinquents left.<br>After watching them go, Baphomet muttered quietly."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...You are a very unusual<br>police officer, Jagannath-sama."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "But... I do wonder why?<br>I am curious, for what could possibly be in your heart―"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "―No, that is impolite in this situation.<br>This is a wretched habit of mine... Please do pardon me."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Haha, you're quite<br>interesting yourself too?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "A person like you, who unifies these brats who look like<br>they'd be bad news if left alone, and provides a place for them."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...I was 'put on a pedestal'.<br>As Kirito-sama mentioned earlier. And―"
+  },
+  {
+    "type": "narrator",
+    "text": "A cold wind blew, and the light in her eyes wavered slightly.<br>Quickly erasing that wavering, Baphomet raised the corners of her mouth."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "And besides, 'other than providing a place',<br>I have not been able to do 'anything at all', much to my shame?"
+  },
+  {
+    "type": "narrator",
+    "text": "Something was seeping through her words. Before its true nature could be grasped,<br>Baphomet took over the conversation with a dignified attitude."
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Everyone, sorry for the trouble.<br>Well then, I shall truly take my leave now―"
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "Please, wait a moment.<br>You're the head of the Ikebukuro Team, right?"
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "The heads and vice-heads are about to have their final meeting.<br>Sorry, but at the very least you need to participate."
+  },
+  {
+    "type": "character",
+    "name": "Gorozaemon",
+    "avatar": "../char/housamo/gorozaemon.png",
+    "text": "And there's also a program to perform a simple rehearsal.<br>We'll need you to show your face there, too."
+  },
+  {
+    "type": "character",
+    "name": "Nobuharu",
+    "avatar": "../char/housamo/nobuharu.png",
+    "text": "We might ask you to help with some duties around the programs...<br>I'm sorry to burden you..."
+  },
+  {
+    "type": "character",
+    "name": "Gorozaemon",
+    "avatar": "../char/housamo/gorozaemon.png",
+    "text": "Ah, and can we ask that Kirito boy to be the vice-head?<br>If that's possible, that would be much helpful!"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "...Yes, of course.<br>I have understood everything."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "U-Uncle isn't going!!<br>Suzuka, I entrust everything to you!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "You can even be the head of Kabukicho!<br>I don't care one bit about positions right now!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Because― Leaving [Player] and Jagannath<br>like this is way too dangerous?!?"
+  },
+  {
+    "type": "character",
+    "name": "Suzuka",
+    "avatar": "../char/housamo/suzuka.png",
+    "text": "...Honestly, do whatever you want!<br>Can't you do something about that overprotectiveness instead?"
+  },
+  {
+    "type": "narrator",
+    "text": "As the heads, including Baphomet, left the spot,<br>the slightly stiffened atmosphere finally loosened."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Phew, that was tense!<br>Police investigations might actually be scary after all!?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "But― This is quite different from<br>the police investigations I know."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Those students... They seem to have left the academy,<br>but there's no doubt in anyone's eyes that they're the culprits."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Yet that Jagannath fellow just let<br>them go as if he were missing his chance."
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath stretched with a hum.<br>Whether this was action with intent, or just thoughtlessness―"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Was it really okay to let them go?"
+      },
+      {
+        "text": "What about the questioning for the incident?"
+      },
+      {
+        "text": "Senior, are you neglecting your duty?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heh, I just said it,<br>I intend to look into it 'thoroughly'."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...Wait, what's with that probing look?<br>Look, I have my own experience and a method derived from that experience."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "To repeat myself, I won't explain everything in words.<br>I'll have you learn that 'method' on the job!"
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "...Tsk, good grief.<br>That bad habit of his is on full display."
+  },
+  {
+    "type": "character",
+    "name": "Tetsuya",
+    "avatar": "../char/housamo/tetsuya.png",
+    "text": "―Well, that's exactly why he's<br>allowed to come and go in Kabukicho."
+  },
+  {
+    "type": "character",
+    "name": "Tetsuox",
+    "avatar": "../char/housamo/tetsuox.png",
+    "text": "Umm... So what exactly was that<br>fuss with the kids just now?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Ughhh, that bastard Jagannath...<br>Acting all cool with that aloof attitude. So cool!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "This is bad! At this rate, [Player] will be taken<br>in by the police or something! Uncle is in a huge pinch!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Gununu... If that's the case, I'll make you realize<br>firsthand how dangerous an organization the police really is!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Involving that stuffy vice-homeroom-teacher and the chubby classmate,<br>I'll protect my cute [Player] from the evil clutches of the police―!!"
+  },
+  {
+    "type": "title",
+    "text": "-------- Part 2 --------"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yo. Pops, two jumbo franks!<br>It's so damn cold, so give me some piping hot ones, heheh?"
+  },
+  {
+    "type": "character",
+    "name": "Ogre",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Oh? If it isn't the former brat Jagannath.<br>Even though you became a cop, you're as cool as ever."
+  },
+  {
+    "type": "character",
+    "name": "Ogre",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "The one next to you... Is that your junior?<br>Haha, you ended up with a tough senior, didn't you?"
+  },
+  {
+    "type": "character",
+    "name": "Ogre",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "―Here you go.<br>It's really hot, so don't burn yourself!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Thank you very much."
+      },
+      {
+        "text": "Really, it's been a lot of work since day one...",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Jagannath puts [Player] in a headlock, delighted by his junior's light banter.<br>The shopkeeper laughs at the sight."
+          }
+        ]
+      },
+      {
+        "text": "He's a very reliable senior, you know?",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Jagannath puts [Player] in a headlock, delighted by his junior's light banter.<br>The shopkeeper laughs at the sight."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Ogre",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Just for the record, don't go causing any strange scenes, okay?<br>Though it's funny saying that to you police guys, gahaha!"
+  },
+  {
+    "type": "narrator",
+    "text": "It's been about an hour since the color gang left.<br>Jagannath has been walking around the venue under the guise of patrolling."
+  },
+  {
+    "type": "narrator",
+    "text": "It's not yet time for the eve-festival, but the venue is already overflowing with people<br>and filled with a heat that blows away the December cold."
+  },
+  {
+    "type": "narrator",
+    "text": "While eating, Jagannath enjoyed chatting with the shopkeepers and talking<br>to the delinquent boys, who were clearly annoyed by him."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Is this really a patrol?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Well, yeah, of course it is.<br>A patrolman is someone who earns their keep by 'patrolling' on foot, y'know?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "You talk to people here and there.<br>That's how live information is gathered."
+          }
+        ]
+      },
+      {
+        "text": "You're just completely playing around.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hmph, looks like playing to you, right?<br>That's what's important.<br>Otherwise, the people here wouldn't even talk to you."
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Standing on the same level and talking as equals―<br>That's essential for gathering info, and for other things too."
+          }
+        ]
+      },
+      {
+        "text": "(Take the lead and frolic around)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Hey, just how helpless can you be!?<br>Don't make me give you actual junior guidance!"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Well, it'd be boring otherwise, and as a way of behaving in a festival investigation, it's actually the correct answer."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Having said all that with a sharp look, Jagannath took a<br>bite of his large frank and turned around suddenly."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...So, what's with you guys?<br>You've been sneaking around and following us from a distance."
+  },
+  {
+    "type": "character",
+    "name": "Jinn, Y'golonac & Ryota",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "<p2 style=\"font-size: 150%\">―G-Guh!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "W-What! You found us!?<br>I thought we were blending into the underground darkness level of stealth."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "You three have quite the presence after all."
+      },
+      {
+        "text": "Don't underestimate my senior!"
+      },
+      {
+        "text": "Maybe you should learn to Sneak from the Santas?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hmph, you're up to no good again, aren't you?<br>You're always like that, Uncle Y'golonac."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "W-W-What are you saying~? Uncle and his crew were<br>just enjoying the festival, you know? Beep-beep♪"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "The family, the vice-homeroom teacher, and [Player]'s classmate―<br>The three of us are just deepening our friendship."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Right? We're just doing that, we aren't planning<br>anything at all, are we? Jinn-cha― Jinn, Ryota~?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Eh, ah, yeah. O-Of course!<br>This is, um― A sort of Shinjuku Academy social gathering!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "R-Right. We're just deepening our friendship,<br>we haven't joined in on any of Y'golonac-san's evil schemes!"
+  },
+  {
+    "type": "narrator",
+    "text": "And while Y'golonac and the others were<br>feigning innocence, about 30 minutes earlier―"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "<p2 style=\"font-size: 130%\">―What?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "<p2 style=\"font-size: 130%\">―Eh?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn & Ryota",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "<p2 style=\"font-size: 130%\">Make [Player] face something scary!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Exactly! I'll make them realize how dangerous the police<br>really is so they won't even think about joining them!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Now, I don't mean to put them in that much danger.<br>I'm a very kind Old One, after all..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I'll just make them imagine a little bit.<br>Like, every day is super dangerous if you join the police... Sort of?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Then, Uncle'll hold the shivering<br>[Player] in his plump chest... Fufu."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "H-However, as a teacher, I absolutely<br>cannot put my beloved student in danger...!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Just look at it from a long-term perspective.<br>Imagine what will happen if they join the police!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "They're already prone to getting caught up in things,<br>and they'll stick their nose into anything!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Think of it as making them realize the police is enough for them now,<br>which will lead to keeping them away from future dangers!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Ugh, that's true!? No!!<br>But as a teacher, as a lamp genie..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Jinn-chan! Be honest with yourself!<br>Think about what you really want, hand on heart?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "It's fine, if their determination is real, nothing will change,<br>and if it's wavering, it's a chance to reconsider."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Then, couldn't this action be seen<br>as fulfilling [Player]'s real wish!?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Hand on, heart...<br>(What's this? My chest feels weird when I listen to this man...)"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Hmm... I understand what Y'golonac-san is saying, but...<br>Selecting the path is up to [Player] after all..."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Anyway, I don't think I can pull off<br>acting like I have a secret motive!! "
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "You have to steel your heart, Ryota!<br>This is for the sake of [Player]'s safety~!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Actually, with that big belly of yours, you can<br>handle two or three secret motives, Uncle's pretty sure!"
+  },
+  {
+    "type": "note",
+    "text": "this line made me cry"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "For the sake of [Player]'s safety...<br>(Huh, my feelings are getting a bit floaty...?)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Anyway, our interests perfectly align!<br>Are you okay with letting [Player] go like this!?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "―U-Um, okay. I'll try having a<br>secret motive at this Fighting Festival!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "So, I just have to be like Licho, right?<br>Umm... I'll give it my all, so 'Nice to meet ya'!"
+  },
+  {
+    "type": "note",
+    "text": "he's using よろしく (yoroshiku) written in yankee ateji kanji (夜路詩句),<br>in an attempt to sound like a delinquent"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "...U-Umu, I understand, Father.<br>If it is to prioritize [Player]'s will."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Alrightー!<br>Then it's settled!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "While that's fine and all...<br>Did you just call me 'Father' in the confusion?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Eh? No, but for a<br>student's parent―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I'm not exactly a parent, and no honorifics needed!<br>Anyway― Let's follow them!!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Umm... Anyway, we just happened to hit it off.<br>But, can we look around together?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Patrolling a festival is one of a teacher's jobs.<br>And, my presence makes it warm here, so it's perfect!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Sure, let's patrol together.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Just as I expected from you, [Player]!<br>Uncle will buy you anything you ask for!"
+          }
+        ]
+      },
+      {
+        "text": "Sure, let's play together.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Just as I expected from you, [Player]!<br>Uncle will buy you anything you ask for!"
+          }
+        ]
+      },
+      {
+        "text": "(Wait for Jagannath's decision)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...Tsk, can't be helped.<br>But well, maybe it's better if we look like we're just a group playing around?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Then let's switch gears and<br>continue the patrol in high spirits!"
+  },
+  {
+    "type": "narrator",
+    "text": "As Jagannath walks off whistling lightly,<br>Y'golonac chuckles behind him."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hihihi, we got found out, but isn't the result fine?<br>If I just look for a chance to cause a bit of trouble―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Though, what should I actually do?<br>Using my 'mark' here would cause too much of a mess."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hmm, if only there was a chance to cause just<br>the right amount of trouble, and a good way to do it―"
+  },
+  {
+    "type": "narrator",
+    "text": "As Y'golonac began to rack his brains at the back of the group,<br>a woman passing by caught sight of him."
+  },
+  {
+    "type": "character",
+    "name": "Yaksha",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Oh? A handsome old guy with a dangerous charm...<br>Hey, hey, would you like to play with me?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hmm? Are you talking to Uncle?<br>You don't look like one of my babies, but..."
+  },
+  {
+    "type": "character",
+    "name": "Yaksha",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Ahaha, you called me your baby?<br>What a playful, stylish old guy you are!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Umm... Thanks for inviting me!<br>But, I'm with my companions right now, so I can't come along~"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "If you come to Kabukicho, I'll be your partner anytime.<br>Here's my business card~ Flick! Well, nice to meet you!"
+  },
+  {
+    "type": "narrator",
+    "text": "Waving his hand charmingly, Y'golonac quickly<br>caught up with [Player] and the others."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Whoa, that was a surprise.<br>Even without my hosting clothes, I'm still popular as ever."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Well... It's natural given my true charm.<br>Has the era finally caught up with me? Hihihi."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Wait―<br>Hmm??"
+  },
+  {
+    "type": "narrator",
+    "text": "There, his thick legs stopped suddenly.<br>Sensing some abnormality, he swept his gaze around."
+  },
+  {
+    "type": "character",
+    "name": "Mafioso",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Oh, isn't that person over there super cute?<br>Heheh, should I try hitting on them!?"
+  },
+  {
+    "type": "character",
+    "name": "Specter",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "No, that's not why we're here!<br>...But for some reason, I really want to talk to them."
+  },
+  {
+    "type": "character",
+    "name": "Agent",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Argh, I love the atmosphere of this Fighting Festival!<br>My blood is boiling... I just want to go wild!!"
+  },
+  {
+    "type": "character",
+    "name": "Yatagarasu",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Hey, it's too early to let loose.<br>But this year there's the 'Tag Match', so the tension is up!"
+  },
+  {
+    "type": "character",
+    "name": "Yatagarasu",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Anyway―<br>Why did it suddenly get so hot...??"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "This... Could it be, that my influence<br>to stir up desires is increasing...?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Aha―!!<br>That's it!!"
+  },
+  {
+    "type": "narrator",
+    "text": "Suddenly, Y'golonac realized. A festival―<br>It's a place where desires easily go out of control.<br>Even more so in a place turned into an 'Otherworld'."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "So, the reason Uncle could easily talk Jinn and Ryota<br>into it wasn't just my brilliant talking technique―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "No, Uncle's talking technique is of course top-notch,<br>but maybe Uncle's power has a perfect affinity with this space...?"
+  },
+  {
+    "type": "narrator",
+    "text": "Having completely grasped the situation,<br>the evil Old One's mouth slowly and sloppily loosened."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Basically, it's just 'atmosphere-induced intoxication', right?<br>As long as I'm not making them go berserk with my 'mark',<br>and be careful not to cause a catastrophe like before..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hihihi. I'll make you realize how<br>dangerous the police is in no time, [Player]!!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Ah, Y'golonac-san, you caught up.<br>Was that an acquaintance you were talking to?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "They're probably customers of Tsukuyomi's shop, right?<br>Your retainers or priests, or whatever they are."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "No, no, sorry, sorry. It's just that<br>Uncle's charm started leaking out a little, you know?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Reach out your hand so he doesn't get lost)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Sorry~<br>Hihihi, I just want to lick your hand when you're holding mine so tightly, [Player]."
+          }
+        ]
+      },
+      {
+        "text": "It's fine, let's just leave him behind.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Eh, you've been a bit cold to me lately.<br>It's like you're in your perpetual rebellious phase."
+          }
+        ]
+      },
+      {
+        "text": "...Are you making a more evil face than usual?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "What, [Player], even you're looking at me so passionately...<br>*blush*. How embarrassing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Now, now, we aren't here for play.<br>Now, which stall should I pull info from next... Heheh!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Ah, I'd like some roasted sweet potato~<br>Having lots of stalls unique to winter is fun, isn't it!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Wait, this is totally playing around!<br>Well, even a teacher can't help but... No, ahem."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Hihihi, the cozy atmosphere ends here.<br>Uncle'll become the ruler of this festival right now!)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Or should I be the 'Evil Santa in a Hurry'?<br>A Santa who fulfills all the desires swirling in the Fighting Festival, sort of?)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Well then, let's start with the ones looking for a match.<br>Tune into their wicked desires and― Ta-da!!)"
+  },
+  {
+    "type": "character",
+    "name": "Pedestrians",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "─────!!"
+  },
+  {
+    "type": "character",
+    "name": "Luchador",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "W-What...?<br>My feelings suddenly expanded..."
+  },
+  {
+    "type": "character",
+    "name": "Luchador",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "―Umm! Would you like to have a (dating) match with me?<br>I fell in love with those selfishly cool eyebrows...!!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "―!? No, I'm a teacher on patrol!<br>It's true that these eyebrows are my charm point, but...!"
+  },
+  {
+    "type": "character",
+    "name": "Female Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Hey, hey, want to look at the stalls with me?<br>You look like you eat a lot, so I'll treat you!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Eh, me!? But I'm with my friends...<br>Wait, don't push so hard―!?"
+  },
+  {
+    "type": "character",
+    "name": "Therian Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "M-Mister Wild Black Tiger!<br>Umm... I love you!!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hmm? You've got quite the<br>guts to suddenly hit on me."
+  },
+  {
+    "type": "character",
+    "name": "Therian Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "I love guys with an aura of bravado!<br>Like delinquents, or martial artists!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "It suddenly turned into a hitting-on contest!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Oh my, what's going on!?<br>The Fighting Festival suddenly turned into an indecent festival!?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Of course I'll guard you, [Player], but I might not be able to handle the rest!?"
+          }
+        ]
+      },
+      {
+        "text": "I know, right? Wild and bossy guys are great.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Oh? You feel that way too, [Player].<br>Then I'll work harder―<br>Wait, this isn't the time for that."
+          }
+        ]
+      },
+      {
+        "text": "Why... is no one coming to me!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Oh my, what's going on!<br>The Fighting Festival suddenly turned into an indecent festival!?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Of course I'll guard you, [Player], but I might not be able to handle the rest!?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hmm, exactly! This is clearly a job for the police!<br>We have to do something about this moral decay!!"
+  },
+  {
+    "type": "narrator",
+    "text": "All around, hitting-on matches were breaking out regardless of location.<br>Given the type of crowd, no one was strongly refusing, but it was total chaos."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Hihihi, it'll be a real pain to calm this down,<br>and they'll get fed up soon! ―Wait, hmm?)"
+  },
+  {
+    "type": "character",
+    "name": "Ganglie",
+    "avatar": "../char/housamo/ganglie.png",
+    "text": "Oh, if it isn't you, [Player].<br>Don't tell me you're hitting on people at the Fighting Festival too?"
+  },
+  {
+    "type": "character",
+    "name": "Ganglie",
+    "avatar": "../char/housamo/ganglie.png",
+    "text": "I understand, it's a stimulating festival.<br>Buhehe, how about we spend time together until the eve-festival?"
+  },
+  {
+    "type": "character",
+    "name": "Sanzo",
+    "avatar": "../char/housamo/sanzo.png",
+    "text": "Whoa, just having 'fighting' in the name is<br>enough for me, so I usually stay away, but..."
+  },
+  {
+    "type": "character",
+    "name": "Sanzo",
+    "avatar": "../char/housamo/sanzo.png",
+    "text": "Maybe it was good I came to see the eve-festival this year!?<br>Hey, you can hit on us too, you know?"
+  },
+  {
+    "type": "choice",
+    "note": "in case you didn't get the reference, Power Rangers",
+    "options": [
+      {
+        "text": "Here come Flirter Red and Flirter Pink!"
+      },
+      {
+        "text": "You guys aren't that different from usual!?"
+      },
+      {
+        "text": "Save me! 'Anti-Flirt Squad'!"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Ganglie",
+    "avatar": "../char/housamo/ganglie.png",
+    "text": "No... Should the two of us just escape this commotion?<br>This festival makes people serious, you can't just be joking around."
+  },
+  {
+    "type": "character",
+    "name": "Sanzo",
+    "avatar": "../char/housamo/sanzo.png",
+    "text": "Why don't you come to dinner with my kid?<br>I've thought you were the one for a long time...!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Ah, maybe they are different from usual..."
+      },
+      {
+        "text": "Ganglie's eyes and tone are serious!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ganglie",
+            "avatar": "../char/housamo/ganglie.png",
+            "text": "What are you talking about?<br>I'm always serious when it comes to you."
+          },
+          {
+            "type": "character",
+            "name": "Ganglie",
+            "avatar": "../char/housamo/ganglie.png",
+            "text": "I was just embarrassed and covering it up, but...<br>Hey, be with me right now...!"
+          }
+        ]
+      },
+      {
+        "text": "Sanzo, is that a proposal...!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Sanzo",
+            "avatar": "../char/housamo/sanzo.png",
+            "text": "You can take it that way!<br>Think of becoming a step-parent of a single father as a teaching of the Buddha!?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Daaaaaaaah! W-What are you<br>doing hitting on my [Player]!?"
+  },
+  {
+    "type": "character",
+    "name": "Ganglie",
+    "avatar": "../char/housamo/ganglie.png",
+    "text": "Whoa, what are you doing, old man!?<br>Wait, hmm? Was I just in serious mode...?"
+  },
+  {
+    "type": "character",
+    "name": "Sanzo",
+    "avatar": "../char/housamo/sanzo.png",
+    "text": "Ouch, First Precept: No Killing!<br>Even a single father deserves happiness...<br>Wait, what was I just saying!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hey you! Uncle's still basically your Papa,<br>so Uncle won't forgive you if you touch them in front of me~!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Huh... Did everyone calm down?<br>Whew, that was scary. But what was that just now?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "That was strange. Students making fun of teachers is common,<br>but being approached so seriously... A-Am I going to be in trouble!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Haa, haa, I have to think about who I'm stirring up.<br>I could change the route... But what should I do?)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(―That's it! If they're betrayed by their respected senior,<br>they'll be traumatized and won't want to be a cop at all!)"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "(Jagannath isn't a pure and honest hero cop.<br>Let's stimulate his dark side and make him fall into darkness...!)"
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac, who was muttering to himself,<br>slowly turned his face to Jagannath and grinned."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Ah, seeing how things are, as I thought,<br>this is your doing, old man?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Mostly, you're trying to cause trouble to discourage<br>[Player] from becoming a cop, or something like that."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'm being underestimated quite a bit.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "No, I wasn't thinking anything like that!<br>Believe me, [Player]! (teary eyes)"
+          }
+        ]
+      },
+      {
+        "text": "He's cute when he's desperate.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Damn, like parent, like child?<br>You spoiling him like that is also something to consider."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Why not, it's fine!<br>We have a so-called sweet relationship!"
+          }
+        ]
+      },
+      {
+        "text": "Papa, were you thinking that...?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "No, I wasn't thinking anything like that!<br>Believe me, [Player]! (teary eyes)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Yeah, right. And I can guess what you're planning next too.<br>You're trying to use me, right?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Gasp! I-It's nothing like that?<br>Uncle's not thinking about any of that?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Huuuuuh, is that so?<br>I thought it'd be something like this, though?"
+  },
+  {
+    "type": "narrator",
+    "text": "Immediately, Jagannath's 'bad brat' switch was turned on.<br>His glittering smile and gaze caught [Player]―"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Hey you, what the hell are you staring at!?<br>Trying to pick a fight, huh!?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Fine, if that's how you want it,<br>let's go one-on-one... Wait, oh?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "What, now that I've got a good look at you, you've got a cute face.<br>I've taken a liking to you. If I win, you'll become mine!!"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Picking a fight and hitting on me at the same time!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Wait, wait, wait!!<br>Stop making eyes at [Player]!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uncle was trying to egg you on, but this is a different direction!?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, it's fine.<br>For some reason, I feel like I've returned to my delinquent days!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Whoa!? Don't tell me my presence has already stimulated his mischievous desires...!?"
+          }
+        ]
+      },
+      {
+        "text": "You don't have to do that...",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Wait, wait, wait!!<br>Stop making eyes at [Player]!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uncle was trying to egg you on, but this is a different direction!?"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, it's fine.<br>For some reason, I feel like I've returned to my delinquent days!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Whoa!? Don't tell me my presence has already stimulated his mischievous desires...!?"
+          }
+        ]
+      },
+      {
+        "text": "(Join in the play in high spirits)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "Heheh, your mischievousness is also quite something.<br>As I thought, you're my partner―<br>Wait, is this not acting anymore?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Wait, wait, wait!!<br>Uncle won't allow that dangerous distance!?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uncle was trying to egg you on, but this is a different direction!?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "On top of that, you're inviting them into the police in the confusion!?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "While Y'golonac panicked in frustration,<br>Jagannath's mischief only continued to intensify."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Alright, I've decided, [Player].<br>I'll land a one-two-Jagan on your heart!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Be my right hand, my right lung, my other half.<br>Life is all about what happens inside the fighting ring."
+  },
+  {
+    "type": "narrator",
+    "text": "He pulled [Player] close, their faces nearly touching.<br>His bright eyes were burning with intensity."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "That's definitely too close!"
+      },
+      {
+        "text": "Wait, it's just acting... Right!?"
+      },
+      {
+        "text": "(Leave it to the flow)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Y-You!!!!<br>That's not allowed, that's the most forbidden development ever!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I have to stop it even by force― But it's impossible for me alone<br>to stop a mixed martial artist like Jagan!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "But a guy in bad-boy mode won't stop himself...<br>Ahh, what should I do? What now...!?"
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac's panic swelled at the sight.<br>And― it was an intense panic, even more than he himself realized."
+  },
+  {
+    "type": "narrator",
+    "text": "To the extent that he momentarily forgot the casual 'old man' persona<br>he had been asked to adopt since coming to Tokyo―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...I will never forgive you.<br>If you think you can steal a priest from this Y'golonac..."
+  },
+  {
+    "type": "narrator",
+    "text": "Next moment, a scene that would shave away<br>one's sanity unfolded before [Player] and the others."
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath had unintentionally<br>pressed another switch."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...?<br>Y'golonac... san??"
+  },
+  {
+    "type": "narrator",
+    "text": "Huge mouths that normally appear on his palms when using his 'Sacred Artifact'<br>began to manifest one after another around Y'golonac."
+  },
+  {
+    "type": "narrator",
+    "text": "If one were to describe it, it was the manifestation of a ruler―<br>The return of ■■■■■■, the Master of Vice and Desire who rules over all."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...Hey, is the old man in acting mode too?<br>Wait, there's no way..."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac remained silent.<br>He didn't even seem to notice the ominous giant hands floating around him."
+  },
+  {
+    "type": "narrator",
+    "text": "And, as if reflecting their master's will,<br>they began to move on their own like living creatures―"
+  },
+  {
+    "type": "character",
+    "name": "Yatagarasu",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Ouch! A sharp pain in my back...<br>Wait, what is this feeling...!?"
+  },
+  {
+    "type": "character",
+    "name": "Agent",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "My blood is boiling more and more... It's burning!<br>Damn, I really want to go wild now!!"
+  },
+  {
+    "type": "character",
+    "name": "Yatagarasu",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Me too! Hey― Want to pick a fight with me right now?<br>I have to release this feeling!"
+  },
+  {
+    "type": "narrator",
+    "text": "The surroundings instantly turned into a literal 'Fighting Festival',<br>and a hellish scene of delinquents happily clashing fists spread out."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "W-What's happening?<br>Isn't real fighting forbidden in this festival!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Mine.<br>The reason why I came to this Tokyo."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Is Y'golonac going berserk...?"
+      },
+      {
+        "text": "His 'Sacred Artifact' is activating unconsciously...!?"
+      },
+      {
+        "text": "Banishment spell, go!!",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Those abyss-like eyes that didn't reflect any light sent a cold gaze toward [Player]."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Oh crap...<br>Did I egg Y'golonac on too much with my bad-boy act!?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "This is bad...<br>Hey, get a hold of yourself―!!!"
+  },
+  {
+    "type": "narrator",
+    "text": "Weaving through the many palms with a shadow step,<br>Jagannath's right fist plowed into Y'golonac's stomach."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Guh-ack!!? *wheeze*...<br>W-What are you doing all of a sudden, Jagan―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―Wait, huh!? What, what's going on?<br>U-Uncle definitely wasn't using his 'Sacred Artifact', okay!?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "As expected of physical force, it solves everything."
+      },
+      {
+        "text": "...You're getting a punishment later."
+      },
+      {
+        "text": "The people around us haven't come back to their senses!?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "The old man is back to his senses, but the influence isn't fading...<br>Gah, I reap what I sow, huh? Can't be helped!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Maintaining public order and fighting are both my specialty.<br>I'll settle this quickly before the fuss gets any bigger!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh, I can't exactly say I'm enjoying this, but―<br>It might be a good chance to see your growth, [Player]?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "No, it's obvious you're enjoying this."
+      },
+      {
+        "text": "Will they come back if I punch them all?"
+      },
+      {
+        "text": "(Stand back-to-back and take a stance)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Wait, I don't know why but this has turned into a hot-blooded development?<br>The kind where the bond between buddies definitely deepens! Why!?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Alright! Anyone who wants to rampage, come at us all at once!<br>Your nemesis, the police duo, will take you on!"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "A battle with the lovable delinquents of our beloved Fighting Festival...<br>Now, let's give them a spectacular scene, my partner!!"
+  },
+  {
+    "type": "title",
+    "text": "-------- Part 3 --------"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "What's wrong, what's wrong!? Punches that light won't do a damn<br>thing against this active-duty police fighter, y'know!?"
+  },
+  {
+    "type": "narrator",
+    "text": "The police duo continues to land precise counters on the<br>swarm of yankee customers attacking from all directions."
+  },
+  {
+    "type": "narrator",
+    "text": "However, the berserk yankees still won't stop, and there is<br>no sign of the brawls breaking out everywhere subsiding at all."
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Hey, Y'golonac-san, you're the one who caused this, right?<br>If you don't return everyone to normal, this won't ever end...!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Or rather, I think this counts as a real 'dangerous situation' already!?<br>Come on, hurry up and wake those guys up―!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Eeeh, even if you say that, it was unconscious just now.<br>And besides, the 'Rule' of this 'Sacred Artifact' on Uncle's palms is―"
+  },
+  {
+    "type": "narrator",
+    "text": "Almost at the same time as Y'golonac showed both hands to explain,<br>a rampaging yankee collided with his back."
+  },
+  {
+    "type": "narrator",
+    "text": "As a result, his huge body lost its<br>balance significantly, he staggered, and then―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―Wait,<br>nooo!!?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn & Ryota",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Uwaaaaaaah!?"
+  },
+  {
+    "type": "narrator",
+    "text": "Jinn and Ryota fell down as they were pushed over.<br>In short― They came into contact with Y'golonac's hands."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...You're kidding, right?<br>Don't tell me I just gave 'em a bite...?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Ow ow, my right shoulder... Wait, what's this!?<br>My desire to serve as a smoke genie is swelling up...!"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "................"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "I want to lend my strength to students― To students in trouble!! Uoooh!<br>Is there anyone among you who wants to borrow my strength!?"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "I-I'm so sorry, [Player]~~~!!<br>It's all because I wanted to hold you back!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "But, I still can't do bad things after all,<br>and I can't bind your freedom either~~~!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "That's not it, I didn't mean for this to happen!<br>Uuuh, Jinn-chan, Ryota. I'm really sorry..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "But, even though they're ruled by Uncle's power, instead of falling<br>into darkness, they're becoming super good kids!? What's going on!?"
+  },
+  {
+    "type": "narrator",
+    "text": "The hot-blooded teacher rushes toward the wild yankees raising a cloud of dust,<br>and Ryota clings to [Player] in the middle of the battle."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "What happened so suddenly!?"
+      },
+      {
+        "text": "What you're saying and doing are different!?"
+      },
+      {
+        "text": "(Pat his head)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Ryota",
+            "avatar": "../char/housamo/ryota.png",
+            "text": "I'm really sorry, but for me, meeting you, Toji and the others was the greatest treasure of my life..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "[Player] is unable to move as they are hugged by Ryota.<br>In that opening, one of the yankees launched a surprise attack from behind."
+  },
+  {
+    "type": "character",
+    "name": "Therian Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Super Chaaaaance!<br>Your back is wide open~!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―!! No way!<br>I won't let youuuu!!"
+  },
+  {
+    "type": "narrator",
+    "text": "Faster than the unleashed fist, Y'golonac cut in between.<br>He used his body as a shield to wrap around and protect [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hey you! What do you think<br>you're doing to Uncle's cute [Player]!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Though, if you trace it back,<br>it's aaaaall Uncle's own fault..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Even so, what I can't forgive, I won't forgive!<br>Match-Pump Puuuuunch!!"
+  },
+  {
+    "type": "note",
+    "text": "match-pump: person who starts a fire (match)<br>and then puts it out (pump) to look like a hero"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "My heart might have skipped a beat just now.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Eh!? Really!? Gwahahaha...<br>That's exactly how I planned it!"
+          },
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "You got a loose screw or something!?<br>Hurry up and do something, I can't punch these normally good citizens for real!"
+          }
+        ]
+      },
+      {
+        "text": "There's no way a special move's name is that terrible!!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Jagannath",
+            "avatar": "../char/housamo/jagannath.png",
+            "text": "You got a loose screw or something!?<br>Hurry up and do something, I can't punch these normally good citizens for real!"
+          }
+        ]
+      },
+      {
+        "text": "Anyway, let's get through this!"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Even if you say that, Uncle's 'Rule' can't be canceled freely,<br>and Uncle's power is boosted by the energy of this place..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Aaaah―! Please, someone come―!<br>Wash away Uncle's sinful blunder―!!"
+  },
+  {
+    "type": "narrator",
+    "text": "And, almost at the same time as Y'golonac gave a soul-felt cry,<br>the most suitable person happened to pass by with almost miraculous timing."
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Oh no~! My part-time job ran long.<br>At this rate, I'll be late for my meeting with Motosumi and the others―"
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Wait, whoaaa!?<br>W-What's going on around here...!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―!!!!<br>S-Sarutahiko-chwaaaaan!!"
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Y-Y'golonac! Why are you here?<br>Are you doing host solicitation again?"
+  },
+  {
+    "type": "narrator",
+    "text": "Sarutahiko remembers the time when<br>they worked together as bubbly hosts."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "For you to come to a place like this is a godsend...<br>No, it's like a luxury cruiser appearing in the middle of the sea...!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "You know, Sarutahiko.<br>*sniff* Uncle... Uncle...!!"
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Wait, this nasty feeling spreading through the venue...<br>Did you mess up agaaaain!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "That's how it is, but this time Uncle really,<br>truly doesn't know what happened...!"
+  },
+  {
+    "type": "narrator",
+    "text": "Sarutahiko scratches the back of his head, grasping the general situation from<br>the unique mood of the place and Y'golonac's genuinely teary eyes."
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Ah, so you got hit by the 'Power of the Place', huh?<br>It looks like it would fit perfectly with your style, after all..."
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Well, it can't be helped since<br>it turned out like this. Alright then―"
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "I'll rinse away your swollen 'desires'!<br>「Restless Mind Monkey」! Sarutabiko no Aramitama!!"
+  },
+  {
+    "type": "narrator",
+    "text": "The massive amount of bubbles gushing from his shell 'Sacred Artifact'<br>covered the entire area in no time, and then―"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "...Ah, [Player]?<br>I felt so lonely all of a sudden for some reason..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "―Huh? Was I...<br>Swallowed by my desires completely?"
+  },
+  {
+    "type": "character",
+    "name": "Male Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Hey, you, teacher over there― No, Master.<br>Your passionate words and fists of love resonated with our souls..."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "No, that was... My desire to serve as a genie just<br>went out of control because of Y'golonac's 'Rule'..."
+  },
+  {
+    "type": "narrator",
+    "text": "He unconsciously put his hand on his washed right shoulder.<br>A slight throbbing sensation and a strange feeling remained."
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "...?? Is it just my imagination?<br>There's still something like a slight fever..."
+  },
+  {
+    "type": "character",
+    "name": "Therian Student",
+    "avatar": "../char/housamo/placeholder.png",
+    "text": "Phew, you're quite something yourself―<br>That battle with you guys was super refreshing too, thanks."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh, I felt like I went back to my delinquent days too, so it wasn't too bad?<br>I don't mind helping you hot-headed people blow off a little steam."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "But if you cause a fuss here, the important<br>festival might get ruined, so do keep it moderate..."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―Though, you guys aren't responsible this time.<br>As for the start of the incident―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―Yikes!!"
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Yeah, there might be room for extenuating circumstances,<br>but as for the point that you, with a 'criminal record',<br>messed up again―"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―Yikes!!<br>Yiiiiiiikes!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Ah, that's... not it.<br>What's not it is, umm..."
+  },
+  {
+    "type": "narrator",
+    "text": "His eyes, which were swimming around pathetically, suddenly became fixed.<br>Thinking he had no choice, Y'golonac performed a vigorous 'dogeza' grovel."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "No, nothing is different!<br>This was brought about by Uncle's immaturity, sorry!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Sarutahiko, I'll pay back this debt many times over.<br>Uncle will do anything he can do."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Jagannath, I'm truly sorry for trying to play a trick on you.<br>I panicked from pathetic jealousy and did something stupid~!"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath and the others unconsciously looked at<br>each other at the sight of the spectacular prostration."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...My bad-boy act got you acting wild,<br>so half the responsibility is on my side too.<br>Raise your head, old man."
+  },
+  {
+    "type": "narrator",
+    "text": "He didn't move immediately, but slowly raised his forehead.<br>His eyebrows, which are usually powerful, were drooped in a sad shape."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Jinn, Ryota, I have to apologize to you guys too.<br>It's not like I did it on purpose, but that's no excuse either..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "And after that, of course... Wait, that's it!!<br>You aren't injured from that just now, right [Player]!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "What, nothing in particular? But, just in case,<br>wouldn't it be better to have you checked at the medical tent or something?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Alright, then Uncle will run and<br>become a taxi for you. Alright, here goes!!"
+  },
+  {
+    "type": "narrator",
+    "text": "As soon as he finished speaking,<br>Y'golonac picked up [Player] and ran off like a rabbit."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Hold on!?"
+      },
+      {
+        "text": "Heyyyyyyyyyyyy!?"
+      },
+      {
+        "text": "(Hold on to Y'golonac)"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Heheh, as I thought, he's never short on attention when it comes to [Player]!<br>Well, I'll forgive him for today though!"
+  },
+  {
+    "type": "narrator",
+    "text": "Jagannath, waving as he laughs heartily, sends a side-glance<br>to the young man next to him once the two are out of sight."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...So, let's leave the job of squeezing the old man dry to [Player],<br>shall we, Sarutahiko of Macaque's Pond?"
+  },
+  {
+    "type": "character",
+    "name": "Sarutahiko",
+    "avatar": "../char/housamo/sarutahiko.png",
+    "text": "Huh? Why does another region's yankee know about me...<br>No, I get it. The 'Umamichi' bunch were talking about a yankee-like cop...!"
+  },
+  {
+    "type": "character",
+    "name": "Ryota",
+    "avatar": "../char/housamo/ryota.png",
+    "text": "Could it be, Jagannath-san is studious?<br>Or rather, does he just simply like yankees?"
+  },
+  {
+    "type": "character",
+    "name": "Jinn",
+    "avatar": "../char/housamo/jinn.png",
+    "text": "Still, if the guardian is like that, [Player] has it hard too.<br>I fully understand what they meant by 'overprotective' now..."
+  },
+  {
+    "type": "narrator",
+    "text": "The suddenly spread atmosphere of relaxation was broken a<br>moment later by the notification sound of Jagannath's device."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―Hm? It's Hogen the geezer again.<br>'Contact headquarters immediately'?"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Tch, someone must have reported this fuss. I guess I've<br>got no choice. I'll have to find a way to smooth things over..."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/smallshrine_evening.png"
+  },
+  {
+    "type": "narrator",
+    "text": "After softly putting [Player] down in a place with no people around,<br>Y'golonac turned around and crouched down."
+  },
+  {
+    "type": "narrator",
+    "text": "He hugged his knees, shrunk his<br>bull neck and stopped like a sulking toddler."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "(Gently pat his head)"
+      },
+      {
+        "text": "(Crouch down next to him and look at his face)"
+      },
+      {
+        "text": "Our parent-child relationship is gonna reverse, you know?"
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...[Player], I'm sorry for before.<br>I didn't mean to put you in a truly dangerous situation."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "But, you know. If you join the police, something big will happen someday,<br>and Uncle won't always be able to protect you by your side!!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "―I just wanted to convey that so badly that I became desperate.<br>It was a complete failure, though."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "You're powerful, so you have to be careful.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Uuuuh... You're right.<br>Even though Uncle has troubled you many times, he is still such a bad boy!"
+          }
+        ]
+      },
+      {
+        "text": "I'm sure everyone doesn't mind.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "You are...?<br>[Player], are you not angry anymore...?"
+          },
+          {
+            "type": "narrator",
+            "text": "When he peeked at [Player]'s face fearfully like a child afraid of being scolded, he showed a look of relief."
+          }
+        ]
+      },
+      {
+        "text": "I don't want to arrest you, Y'golonac.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "U-Uncle doesn't want to be caught either!<br>...Wait, that tone means...!"
+          },
+          {
+            "type": "narrator",
+            "text": "The panicked Y'golonac immediately understood he had been teased by [Player], he pouted."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...To tell the truth, I wasn't just hit by<br>the police transfer, but by Ryota's words too―<br>'When things won't stay this way forever'."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Both the school and the house you grow up<br>in are places you'll eventually leave, right?<br>If so, either way, you'll leave Uncle."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I absolutely hate that, I really hate it.<br>...But if that's the case, what can I even do?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "[Player], Uncle just simply wants<br>to be with you forever, you know..."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "What should I do now?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Uncle has no idea at all.<br>I just want this 'now' to continue forever."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I'm scared that our relationship will change, and even more scared of leaving without being able to change it.<br>So I'm stuck, maybe even worse than when I was trapped in bricks."
+          }
+        ]
+      },
+      {
+        "text": "Well then, shall we be hosts together?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "That... you'd get all kinds of weird bugs on you!!<br>If Uncle had to let you do that, Uncle would support you for the rest of your life―"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Wait, that's ignoring your will again.<br>No, instead of that...<br>I want us to think about it together, if possible."
+          }
+        ]
+      },
+      {
+        "text": "I guess it's about time for you to leave the nest.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I know that so well I could cry.<br>But, there seem to be all kinds of routes for leaving the nest, right?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "The route Uncle wants to choose is the one where we can stay together, I don't know which route it is, or even if such a thing exists..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Something has to change― I know that much myself.<br>But, I don't know how to change, nor can I face the fear that something can change."
+  },
+  {
+    "type": "narrator",
+    "text": "This was the conclusion Y'golonac reached after speaking<br>haltingly like a child. Meaning, he had no idea what to do."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Anyway, is it time to leave the nest already?<br>No matter what form we choose, is that the only absolute thing?"
+  },
+  {
+    "type": "narrator",
+    "text": "He stands up, sniffs with a tearful voice, and looks at the evening sky.<br>After rubbing the inner corners of his eyes vigorously, he turns back to [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hey, [Player]. Umm...<br>Could you let me spoil you just for a little while?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I understand if you'd like to tell me<br>that it's a bit rich to ask after that mess!"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "But... If it's the time for Uncle to work hard on leaving the nest,<br>then isn't it also the time for you to start practicing filial piety, [Player]!?"
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Alright, I'll spoil you rotten!",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "R-Really? Then, I'll take up some of your time, okay?<br>I feel guilty, but... I'm so happy!"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Guhihi, actually Uncle has a place I've wanted to go with you, [Player]!!"
+          }
+        ]
+      },
+      {
+        "text": "In the end, you're fine with staying as foster parent and child?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "―Ugh! Well...<br>We don't have to reach a conclusion right now, right?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Besides, it's a fact that right now we're half parent-child and half 'something more'.<br>Anyway... there's a place I reaaaally want you to go with me!!"
+          }
+        ]
+      },
+      {
+        "text": "(Look like you're troubled)",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "It breaks my heart when you make that face.<br>Yet, I also feel like I want to see that face forever..."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Haaah, Uncle doesn't understand himself.<br>But, I do know my wish for this moment!!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "Following him in response to his request,<br>the place Y'golonac led to was an unexpected one. It was―"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/onsen_night.png"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Phew!! Winter hot springs really bring you back to life!<br>Hihihi, can you believe there are even 'hot spring stalls' at the Fighting Festival!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Apparently, we're being graciously allowed to<br>use the 'Youkai Hot Springs at the Youkai Temple'."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Since it's a festival hot spring, I guess it's meant for 'purification' too.<br>Wait, if Uncle is purified, won't Uncle dissolve and disappear!?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "It's almost time for the eve-festival, so no one will come,<br>but just in case, your generous Uncle made this a private reservation~!!"
+  },
+  {
+    "type": "narrator",
+    "text": "The feeling of overcompensating from the guilt of making Player follow his selfishness.<br>Having realized that, Y'golonac immediately became discouraged."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Today, from the moment I met you,<br>I wanted to be alone with you even for a second."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "There was the anxiety about the police transfer, but it was too crowded<br>to talk properly, and then Jagannath, *sniff*, teased Uncle..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "I don't want to admit it, but I know Jagannath's charm really well.<br>Uncle only has 'Bad', but as for him..."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "What is it with him, having a character like <br>'Both Side A and Side B are the best', that's just way too unfair..."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "You are charming too, Y'golonac.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Did you really mean that?<br>I'm used to being told that by my babies, and I kind of think so myself, but―"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "For some reason, I get anxious in front of you.<br>So... It makes me feel a bit relieved to hear that."
+          },
+          {
+            "type": "narrator",
+            "text": "With a simple voice, Y'golonac pours out his honest feelings. Seeing his defenseless state, [Player]―"
+          }
+        ]
+      },
+      {
+        "text": "The festival attire suited you the best.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "R-Right!?<br>After all, festival attire belongs to stylish old men!<br>It has a certain class that youngsters can't bring out, hihihi."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "I was praised for my headband and hairstyle by my babies, but being praised by you makes me the happiest~"
+          },
+          {
+            "type": "narrator",
+            "text": "With an innocent voice, Y'golonac pours out his honest feelings. Seeing his defenseless state, [Player]―"
+          }
+        ]
+      },
+      {
+        "text": "Don't sulk so easily!?",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Well, Uncle doesn't want to get sulky either!<br>But... when you're involved, I just can't help it."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "All my composure as a popular old man just blows away.<br>If you disappear... Uncle will be lonely."
+          },
+          {
+            "type": "narrator",
+            "text": "With a simple voice, Y'golonac pours out his honest feelings. Seeing his defenseless state, [Player]―"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "I'll wash your back."
+      },
+      {
+        "text": "Come over here, customer!"
+      },
+      {
+        "text": "(Silently pull Y'golonac's hand)"
+      }
+    ]
+  },
+  {
+    "type": "narrator",
+    "text": "As they washed his large back, Y'golonac was momentarily<br>surprised, but showed a look of joy shortly after."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Eh, what's wrong? You're being super kind all of a sudden...<br>Did you perhaps fall for Uncle's unexpected fragility?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "Hihihi. Talk about not having any water between us, even though we are surrounded by it.<br>Phew, I'm glad I got the courage to ask for being spoiled."
+  },
+  {
+    "type": "narrator",
+    "text": "Y'golonac was dancing with joy, but soon a hint<br>of melancholy seeped into his shoulders."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "...Uncle sometimes has a thought.<br>Would it have been simpler if we had met in a different way?"
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "But, I immediately get horrified of that thought.<br>Because then, my current relationship and memories with you wouldn't exist, [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "We might drift apart because of this 'too-close relationship',<br>but that's why Uncle doesn't want to imagine a relationship that isn't like this."
+  },
+  {
+    "type": "character",
+    "name": "Y'golonac",
+    "avatar": "../char/housamo/ygolonac.png",
+    "text": "You might not understand what I'm talking about,<br>and I don't know what kind of relationship would be satisfying, but..."
+  },
+  {
+    "type": "choice",
+    "options": [
+      {
+        "text": "Do we graduate from being pseudo-parent and child?",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Y'golonac jumped, and then slowly looked up at the midwinter night sky."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...I wonder if such a thing is possible?<br>Can we become a new relationship that is neither parent-child nor strangers from now on?"
+          },
+          {
+            "type": "narrator",
+            "text": "The question he asked himself contained an elusive anxiety.<br>However, the warm hand touching his back softly melted it away."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "―But, as you've known.<br>Our relationship was already super irregular from the very beginning."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Then― Maybe we can become anything?<br>Maybe we can value the future just as much as the past..."
+          },
+          {
+            "type": "narrator",
+            "text": "A long, long silence passed by.<br>And then, Y'golonac added softly, with a look that said 'I have to at least say this'."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Hey, no matter what kind of relationship it becomes, Uncle will always cherish you, [Player]."
+          }
+        ]
+      },
+      {
+        "text": "Let's slowly find a new relationship together.",
+        "dialogue_after_selection": [
+          {
+            "type": "narrator",
+            "text": "Hearing those words, Y'golonac turned his entire body around.<br>He widened his eyes and stared intently at [Player]."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Does that mean...<br>You'll think about it with Uncle?<br>So, a different future with your Uncle from now...?"
+          },
+          {
+            "type": "narrator",
+            "text": "Y'golonac understood immediately from [Player]'s expression.<br>The thrill that soaked into his body was just about to turn into action, but he firmly restrained himself."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "―Noo!<br>I almost gave you a huge hug while covered in bubbles."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "But... There's no night as happy as this one.<br>If we can worry about our futures together, then I'm not alone."
+          },
+          {
+            "type": "narrator",
+            "text": "Y'golonac fell silent, pondering on something on his own.<br>Then― he added in his most defenseless tone of the day."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Hey, this much is plenty obvious, but can I tell you something?<br>Uncle cherishes you more than anyone, more than anything, [Player]..."
+          }
+        ]
+      },
+      {
+        "text": "Even with our current relationship, our hearts won't drift apart.",
+        "dialogue_after_selection": [
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...You're right.<br>Even if something changes as we move into a new environment, our relationship itself won't just disappear."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Even if we end up living apart, the distance between our hearts won't drift apart―<br>I guess that's how it is."
+          },
+          {
+            "type": "narrator",
+            "text": "He softly looked up at the winter night sky, pondering on [Player]'s words, and his own."
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "Things that change, and things that will absolutely never change. It's lonely, but we have to value all of it together, right?"
+          },
+          {
+            "type": "character",
+            "name": "Y'golonac",
+            "avatar": "../char/housamo/ygolonac.png",
+            "text": "...Uncle is truly sorry for being such a troublesome geezer.<br>But, Uncle cherishes you more than anything, [Player]..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/sensoji_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Meanwhile, Jagannath left the bustle of the<br>venue and reported back to his superior, Hogen."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "―So, it's true that there was a bit of trouble, but with the cooperation<br>of the citizens, the situation was immediately brought under control."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "Please continue to hold off our headquarters from intervening<br>and leave the scene to me. Old man, I'm only saying this because it's you―"
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "It seems this festival is going to be quite<br>important for those delinquent brats and their leader."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Well, I mostly intended for<br>that when I paired you with [Player]."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "However, since there were reports of a brawl,<br>we cannot afford not to strengthen security on our side."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Shall we send a few police officers to save face?<br>Well, sending the few Tenjin of 'your faction'<br>would make for a good harmony of Yin and Yang."
+  },
+  {
+    "type": "character",
+    "name": "Jagannath",
+    "avatar": "../char/housamo/jagannath.png",
+    "text": "...I guess I can deal with that much.<br>Seriously, thanks, old man."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Hoho, can't you at least be respectful when you're saying thanks?<br>Well, fine. I'll continue to leave it to you, Jagannath."
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/buildingrouka_night.png"
+  },
+  {
+    "type": "narrator",
+    "text": "After finishing the conversation, Hogen looks out the<br>window alone at the cold Tokyo night view and narrows his eyes."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "Now, what shall we do?<br>As for that incident, I'll entrust it to Jagannath as is―"
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "A police matter occurred at a festival where the police shouldn't<br>intervene, and a rift appeared. In a festival where that man―<br>The general leader of 'Umamichi' is participating."
+  },
+  {
+    "type": "character",
+    "name": "Hogen",
+    "avatar": "../char/housamo/hogen.png",
+    "text": "It was a cycle of the stars that we wouldn't face each other directly, but...<br>Hmmm, maybe it's 'finally' time this time around?"
+  },
+  {
+    "type": "bg",
+    "bg": "../bg/xmas2025_guild2.png"
+  },
+  {
+    "type": "narrator",
+    "text": "Furthermore, at the same time, at a rehearsal for a certain show.<br>An extremely unexpected sight was unfolding on that ring."
+  },
+  {
+    "type": "narrator",
+    "text": "Sanat Kumara collapsed, drenched in sweat.<br>From above, looking down on him is―"
+  },
+  {
+    "type": "character",
+    "name": "Baphomet",
+    "avatar": "../char/housamo/baphomet.png",
+    "text": "Oh, what seems to be the matter?<br>I still have not done 'almost anything' yet, though..."
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "―Ugh!<br>This serious match..."
+  },
+  {
+    "type": "character",
+    "name": "Sanat Kumara",
+    "avatar": "../char/housamo/sanat_kumara.png",
+    "text": "<p2 style=\"font-size: 150%\">I admit... my defeat............!!"
+  }
+]

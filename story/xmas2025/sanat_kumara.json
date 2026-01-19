@@ -1,0 +1,1524 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/sky_meteor.png"
+  },
+    {
+      "type": "narrator",
+      "text": "—It was 6.5 million years ago.<br>It is said that we descended from 'Venus', which nestles close to the 'Sun'."
+    },
+    {
+      "type": "narrator",
+      "text": "Transformed from 'Great Souls', into 'Spiritual Leaders'.<br>We are the ones leading people repeating the cycle of reincarnation toward liberation—<br>Towards the next state of existence."
+    },
+    {
+      "type": "narrator",
+      "text": "Unbound by the vessel that is the physical body.<br>Therefore, we are eternal youths who never age."
+    },
+    {
+      "type": "narrator",
+      "text": "That was the natural 'conclusion' one would reach by pushing<br>the ideology of 'Reincarnation is Supreme' to its limit."
+    },
+    {
+      "type": "narrator",
+      "text": "Far from dying of old age, we don't even become adults.<br>We continue to repeat the 'present' eternally."
+    },
+    {
+      "type": "narrator",
+      "text": "But, it seems there was an inherent strain, after all.<br>Naturally so, for there is no such thing as a perfect 'world' anywhere."
+    },
+    {
+      "type": "narrator",
+      "text": "Of the 104 of us who were there at first, our numbers dwindled,<br>one by one, two by two, until I realized we could be counted on one hand."
+    },
+    {
+      "type": "narrator",
+      "text": "I believe they likely chose to vanish of their own accord.<br>...For the concepts of aging, sickness, injury, and death do not exist for us."
+    },
+    {
+      "type": "narrator",
+      "text": "Having been involved in the establishment of the otherworldly Shangri-La,<br>the counterpart to the otherworldly Devaloka, I am aware myself."
+    },
+    {
+      "type": "narrator",
+      "text": "In the 'App', I am identified as a 'Demon'.<br>That is, because I am 'an existence that has entered the demonic realm'."
+    },
+    {
+      "type": "narrator",
+      "text": "And, while entering the demonic realm = achieving enlightenment, that is not difficult.<br>The difficult thing would be to 'return after having achieved enlightenment'."
+    },
+    {
+      "type": "narrator",
+      "text": "To vanish from this world is not difficult.<br>What is difficult is 'returning after having vanished'."
+    },
+    {
+      "type": "narrator",
+      "text": "Do you understand, my juniors? Until you understand that,<br>you all... will never surpass the place where I stand."
+    },
+    {
+      "type": "narrator",
+      "text": "Indeed, as one of those who remained—<br>I wanted to show the way to the people."
+    },
+    {
+      "type": "narrator",
+      "text": "As a form of 'the end of the world', as an illusion of youth,<br>I thought I would become an ally to humanity living<br>in the present, and an enemy to their future."
+    },
+    {
+      "type": "narrator",
+      "text": "I acknowledged that this was the role of my existence."
+    },
+    {
+      "type": "narrator",
+      "text": "Staying in this city as a student all this time,<br>alongside a collaborator who provides 'spiritual guidance'."
+    },
+    {
+      "type": "narrator",
+      "text": "And so, I am here in this 'Tokyo'.<br>To witness the evolution of humanity, across vast stretches of time and worlds."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "On the stage, players in happi coats are beating drums rhythmically.<br>Small drums are lined up in the back row, and in the center is a player of the great drum."
+    },
+    {
+      "type": "narrator",
+      "text": "The great drum player is a large man, his red loincloth standing out against his black happi.<br>He is the well-known General Manager of Umamichi Academy."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "—Hah!<br>Haaah—, hai! Yah!"
+    },
+    {
+      "type": "character",
+      "name": "Ogre",
+      "avatar": "../char/housamo/placeholder.png",
+      "text": "Hah! Hai!<br>Yoisho!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Energetic low tones resonate.<br>Following behind, the small drum players release their shouts."
+    },
+    {
+      "type": "narrator",
+      "text": "The stage is filled with the pulse of festival music and drums,<br>and the performance increases in heat along with the intensifying beat."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "The General Manager is so cool..."
+        },
+        {
+          "text": "I knew he'd be good at something like this."
+        },
+        {
+          "text": "(Get lost in the performance)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The float parade had ended, and the next performance had begun.<br>A Taiko drum dance by the members of Umamichi Academy."
+    },
+    {
+      "type": "narrator",
+      "text": "Sweat scatters with every strike, and white breath dissipates into the air.<br>Steam rises from his skin like an aura."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "So—re!<br>Yoisho!"
+    },
+    {
+      "type": "narrator",
+      "text": "The dance raises the voltage,<br>and Sanat Kumara's movements become larger and more forceful."
+    },
+    {
+      "type": "narrator",
+      "text": "Every time those muscular arms are swung upward, both the happi and the sash loosen,<br>and his sweat-slicked skin glows vulnerably under the lights."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...I'm starting to get a little worried."
+        },
+        {
+          "text": "This is way too bad for my heart!!"
+        },
+        {
+          "text": "My expectation, and worry are...!"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Then, a particularly strong wind blew.<br>And then—"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Haah! Hah...?<br>Uoh...!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "T-They're too 'bountiful'...!?"
+        },
+        {
+          "text": "I-I have to go cover him up...!"
+        },
+        {
+          "text": "(Hurriedly look away)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The loosened sash unravels, exposing his muscular body.<br>Several trails of sweat flow down his firm yet abundant chest."
+    },
+    {
+      "type": "narrator",
+      "text": "What on earth will he do—<br>Concerned, slightly excited gazes are directed from the audience."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Eei, get out of the way—! There!<br>Haah—! Hah!"
+    },
+    {
+      "type": "narrator",
+      "text": "Voices of awe rise from the audience.<br>Sanat Kumara threw off the happi that was caught on his shoulder."
+    },
+    {
+      "type": "narrator",
+      "text": "And so, clad only in a loincloth and tabi socks,<br>he finished the dance while steam rose from his shoulders."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/yagura_night2.png"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Be careful, don't push each other as you receive them!<br>There's plenty for everyone, so don't forget to share."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] watches the top of the tower from a slight distance<br>from the crowd gathered for the mochi-throwing event."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "It's a good thing nothing happened earlier... maybe?"
+        },
+        {
+          "text": "Maybe I'll go when it clears up a bit more..."
+        },
+        {
+          "text": "There are a lot of little kids, I'll stay quiet."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Sanat Kumara was atop the tower with several organizers,<br>scattering individually wrapped mochi to the gathered people."
+    },
+    {
+      "type": "narrator",
+      "text": "Red and white sets of mochi are scattered,<br>and children scramble to pick them up."
+    },
+    {
+      "type": "narrator",
+      "text": "Sanat Kumara had changed from his festival outfit into a Santa outfit.<br>A school uniform-style jacket and a long scarf flutter in the wind."
+    },
+    {
+      "type": "narrator",
+      "text": "From atop the tower, through his distressed hat,<br>his sharp eyes are directed toward [Player], and his mouth moves wildly."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "(Hey, you sure you aren't coming?<br>We'll run out of mochi soon?)"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Wave back vigorously)",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Sanat Kumara waves back sheepishly to [Player], who is standing a little apart from the circle."
+            }
+          ]
+        },
+        {
+          "text": "(Stick out your tongue)"
+        },
+        {
+          "text": "(Blow a kiss)",
+          "dialogue_after_selection": [
+            {
+              "type": "narrator",
+              "text": "Sanat Kumara dropped the mochi he was holding.<br>The bag of mochi falls to the base of the tower."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Sanat Kumara picks up a new mochi and<br>points at [Player] with a thick finger."
+    },
+    {
+      "type": "narrator",
+      "text": "Then he winds up—<br>And the mochi is thrown with the speed of a fastball."
+    },
+    {
+      "type": "narrator",
+      "text": "[Player] hurriedly held out both hands and<br>managed to catch it just in time."
+    },
+    {
+      "type": "narrator",
+      "text": "When [Player] looked back toward Sanat Kumara,<br>he had raised a fist in approval of the impressive catch."
+    },
+    {
+      "type": "narrator",
+      "text": "With a satisfied smile, Sanat Kumara<br>began distributing mochi to the children again."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The mochi-throwing ended, and with this, the winter festival truly came to an end—<br>Such a mood filled the approach to the shrine."
+    },
+    {
+      "type": "narrator",
+      "text": "A short distance from the approach crowded with people heading home.<br>Sanat Kumara emerged from the dressing room provided by the organizers."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Sorry to keep you waiting, [Player].<br>Sorry, it took more time than expected."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "No, you've worked hard with the mochi-throwing."
+        },
+        {
+          "text": "Oh, did you take a liking to the Santa outfit?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Because I made you wait while I helped with various things, I thought I should at least get into the Christmas spirit."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Don't tease me too much.<br>Dressing up so festively on the street is rather unsettling."
+            }
+          ]
+        },
+        {
+          "text": "It was cold, so please warm me up.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "War...!?<br>You, what are you saying out in public!?"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "...Er, well, if you're cold...<br>I'll buy you some sweet sake.<br>The stalls should still be open."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "The festival is just about over, but let's walk around together.<br>...Mmm, here."
+    },
+    {
+      "type": "narrator",
+      "text": "While clearing his throat, Sanat Kumara clumsily<br>proffered his rugged palm."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Hold his hand obediently)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Hmm! Let's go!<br>Tell me if my grip is too strong.<br>...I have no experience with this, you see."
+            },
+            {
+              "type": "narrator",
+              "text": "Sanat Kumara's hand, as hard and heavy as a rock, envelopes [Player]'s hand with the delicacy of touching something fragile."
+            }
+          ]
+        },
+        {
+          "text": "(Interlock arms and snuggle up)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Uooh!? N-No, it's nothing!<br>L-Let's go...!"
+            },
+            {
+              "type": "narrator",
+              "text": "With his back stiff and looking visibly nervous, Sanat Kumara begins to walk."
+            }
+          ]
+        },
+        {
+          "text": "Please tell me what you want to do properly~",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Ugh... You have a point...<br>But to say something so cheesy...!"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "...Fine, I'll say it!<br>Er, um, well, won't you... hold my hand?"
+            },
+            {
+              "type": "narrator",
+              "text": "In a faltering, embarrassed tone, Sanat Kumara grasped [Player]'s hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "After walking a few steps, Sanat Kumara suddenly<br>stops at the side of the road."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "General Manager, what's wrong?"
+        },
+        {
+          "text": "(Look forward to his next outburst)"
+        },
+        {
+          "text": "(Bump into his back and look up)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "[Player]!!<br>Listen well!!"
+    },
+    {
+      "type": "narrator",
+      "text": "Beside the crowd, Sanat Kumara bellows in a 'loud voice'.<br>It's not a tone of anger, but something more like a solemn vow."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I am a traditional 'man', and I am completely useless at 'affairs of the heart'.<br>But— For now, I shall face you with all my might!!"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I, the General Manager of Umamichi, shall escort you with everything I have!<br>You too— Come at me with everything you've got!!"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You're way too loud!!"
+        },
+        {
+          "text": "I-I'll follow you, General Manager...!!"
+        },
+        {
+          "text": "Make sure to flirt with me if you do, okay?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Ugh, a 'Great Devil'-like provocation, rather than a little devilish one...!<br>When it comes to romance, you are indeed ahead of me...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/festivalstall_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Threading through the flow of people heading home, the two hurry around the stalls.<br>There's only so much time before the festival ends."
+    },
+    {
+      "type": "narrator",
+      "text": "Standard menu items like takoyaki and yakisoba, along with<br>winter festival staples like sweet sake and non-alcoholic mulled wine."
+    },
+    {
+      "type": "narrator",
+      "text": "Menu items from the worlds of Devaloka and Shangri-La,<br>such as Jalebi or Gulab Jamun."
+    },
+    {
+      "type": "note",
+      "text": "Jalebi: common Indian sweet snack, made by frying flour batter in pretzel/circular shapes<br>may or may not be related to churros<br>Gulab Jamun: also a common Indian sweet snack, made by frying milk solids to the shape of balls"
+    },
+    {
+      "type": "narrator",
+      "text": "But no matter how hard they tried, it didn't take long<br>until the stalls began to close."
+    },
+    {
+      "type": "narrator",
+      "text": "Just as they were about to join the flow of people heading home,<br>Sanat Kumara, the General Manager, pulled [Player]'s hand."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "It's yet too early to return home.<br>It's a festival, so isn't there 'something else to do'?"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "At the festival grounds, where the stalls have closed and most guests have left.<br>In a corner of the plaza, where the decorating floats are to be collected later."
+    },
+    {
+      "type": "narrator",
+      "text": "Under the lonely illumination of the lights,<br>the two remained in that deserted area."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'll fix this side down."
+        },
+        {
+          "text": "So the 'thing to do' was cleaning up."
+        },
+        {
+          "text": "(I was hoping for something more...)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...That should be the last of them.<br>Even if it's just covering them with sheets and securing them, they are still delicate work."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "After all, such magnificent craftsmanship went into these.<br>If they were to break here, the participants would be saddened."
+    },
+    {
+      "type": "narrator",
+      "text": "Sitting side-by-side on a nearby bench,<br>Sanat Kumara looks up at the floats."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "There were festivals like this in Devaloka too.<br>Though, the construction of the floats, and the festivals' meaning were different."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "They had festivals like this over there too."
+        },
+        {
+          "text": "It's rare for you to talk about memories."
+        },
+        {
+          "text": "I want to hear your old stories, General Manager!"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "What, it's not that big of a deal. Only that...<br>I thought it might be an ironic festival for those young rascals."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "What do you mean by 'ironic'?"
+        },
+        {
+          "text": "It doesn't sound like you mean it in a bad way."
+        },
+        {
+          "text": "Oh, so the float-pulling festival over there is..."
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Mmm. The float parade in Devaloka, one of my homeworlds,<br>was a celebration for the return of the 'Black Incarnation' to home."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "He had a home that welcomed him back with blessings.<br>But that is not necessarily the case for them."
+    },
+    {
+      "type": "narrator",
+      "text": "While still looking up at the floats, Sanat Kumara speaks quietly.<br>White breath escapes his lips, and mixes with the mountain air."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Will those who pulled the floats today be able to leave<br>their temporary dwelling and find a place that accepts them?"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Will they be able to extend their hands once more, after having been rejected?<br>Will they be able to... connect with someone again?"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "This incident is not the end of a grand finale, but the start of a long and difficult training.<br>And most will stay there, 'mistaking the demonic realm for enlightenment'."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "That... makes me worried beyond belief."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "They did it today, so they can do it next time too.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": ".......<br>'The power to gain connections with others', I see."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "That is indeed something I have no need for.<br>Not for me, who holds this 'Sacred Artifact' of ethereal light."
+            },
+            {
+              "type": "narrator",
+              "text": "At his words, Sanat Kumara's hand emanates a black ethereal glow."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "This is the same as Jagannath's 'Krishna'.<br>The power used to become one with another."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "With this power in his hands, he gained the status of 'Ambidextrous', just like his ally."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Most people would mistake the cause for the effect...<br>But the 'demon' is the 'power to become one', after all."
+            },
+            {
+              "type": "narrator",
+              "text": "At his words, Sanat Kumara recalls his other self, Kiichi Hogen."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Hogen...<br>I don’t intend to follow that old man's lead, but choosing to watch over people like him is a path you might take."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "But it wouldn't be so bad to infiltrate the Police Academy and gain that kind of experience.<br>After all, I do have the power to infiltrate at my command."
+            }
+          ]
+        },
+        {
+          "text": "You're looking down on those kids too much."
+        },
+        {
+          "text": "Don't think of them as children forever."
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "Sanat Kumara then gives a big stretch, laughs self-deprecatingly, and...<br>For some reason, breaks into a bright smile."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...You're right. Those children will grow in their own ways.<br>Having a third party worried about them is probably what they'd hate most."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I tend to view things from above, as a protector.<br>That's why your way of life, sometimes looks incredibly dazzling."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...What I'm saying is that I find talking to you pleasant.<br>Though sometimes, your freedom tends to go a bit too far?"
+    },
+    {
+      "type": "narrator",
+      "text": "Sanat Kumara stands up straight.<br>Perhaps due to the heavy lifting, sweat flows down his neck and chest."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "You've worked up a sweat."
+        },
+        {
+          "text": "Just the cleaning was quite exhausting..."
+        },
+        {
+          "text": "(Shiver as your body cools down)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Actually, the owner of the hot springs has kept it<br>open as a token of gratitude for our help."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "If you'd like, why don't we wash off the sweat together?<br>While we warm up... I'd like to talk to you a bit more."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "I'll wash your back! And anything else besides your back!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "T-That's exactly what I meant!<br>I'm saying your freedom goes way too far!!!"
+            }
+          ]
+        },
+        {
+          "text": "If you're going to invite, please be more passionate!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "T-That's exactly what I meant!<br>I'm saying your freedom goes way too far!!!"
+            }
+          ]
+        },
+        {
+          "text": "We still have time before curfew."
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/onsen_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The hot spring, which the owner graciously kept open,<br>was deserted and in a private state."
+    },
+    {
+      "type": "narrator",
+      "text": "A few seconds after [Player] entered the bathhouse,<br>Sanat Kumara followed."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Hmph, it's quite authentic...<br>Though an Otherworld with a human touch is quite a strange thing."
+    },
+    {
+      "type": "choice",
+      "note": "?????", 
+      "options": [
+        {
+          "text": "(Look away)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Hm? Was it a bit too stimulating?<br>But forgive me, this is a hot spring, after all...!"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Besides, I have no shame in this body!<br>Though I may have no shame...<br>Modesty is also a necessary thing."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "I shall try not to show off too much.<br>Exposing ourselves to each other should always be fair."
+            }
+          ]
+        },
+        {
+          "text": "(Emphasize your own body in return)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "So you're challenging me, my junior!?<br>Your burning physical body, your youth... Bring it all at me!"
+            },
+            {
+              "type": "narrator",
+              "text": "Taking advantage of being alone, the two strike several poses, pitting their physical bodies against each other."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "...Phew! What a heated moment that was!<br>Your discipline... was magnificent! You've worked hard!"
+            }
+          ]
+        },
+        {
+          "text": "Yaaaay! A feast for the eyes!!",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Settle down, my junior!<br>Just because no one is here, it doesn't mean you can say whatever you want!"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "...Well, I don't exactly... dislike it.<br>But, please choose your time and place!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Now, let's head for the tub. ...Or so I'd like to say,<br>but it seems there's a foot bath corner over there as well."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Choose the foot bath)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Phew... Putting even just your legs in the water feels soothing.<br>After walking around so much, I suppose I may be tired."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "[Player], you should rest properly as well.<br>This festival was quite a major undertaking."
+            }
+          ]
+        },
+        {
+          "text": "(Sit next to him in the tub)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Phew... The hot water is indeed soothing.<br>After walking around so much, I suppose I may be tired."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "[Player], you should rest properly as well.<br>This festival was quite a major undertaking."
+            }
+          ]
+        },
+        {
+          "text": "(Get close to him in the tub)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Uooh!?<br>W-Wait, I-I'm not mentally prepared...!"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Fuu... haah...<br>Fuu... haah..."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "...Fine, come here, [Player]!<br>I shall accept your 'impulse'...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "As the water warms their bodies, a sudden silence fills the area,<br>almost as a reaction to the previous excitement."
+    },
+    {
+      "type": "narrator",
+      "text": "Neither of them said anything.<br>Within the silence, only the sound of the wind and water echoed."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "(...T-This is awkward...!<br>What on earth should I talk about?)"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "(When we're touring stalls or working, there are things to talk about,<br>but when things settle down like this, I can't think of anything...!)"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "(...I have always watched over, and guided humanity from the heights of heaven.<br>Therefore, I have rarely been side-by-side with anyone.)"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "(From this close, you are looking right into my eyes.<br>You are touching my inner self. I find it utterly humiliating!)"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "(Why is exposing my heart so much more shameful than exposing my body?<br>Yet, right now, I refuse to spend this moment simply running away from your gaze...!)"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "[Player]!!<br>I-I have a favor to ask of you!"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "This may sound like a strange favor, but...<br>With those eyes of yours...<br>Could you look at me from as close as possible...!?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Peer into his eyes)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Guh, the eyes of my junior...!<br>I must endure this trial to the very end...!!"
+            }
+          ]
+        },
+        {
+          "text": "Y-You're asking so suddenly...!?",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Guh, the eyes of my junior...!<br>I must endure this trial to the very end...!!"
+            }
+          ]
+        },
+        {
+          "text": "(Try to kiss his lips)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "A-As I thought, I really can't do this!!!<br>I'm getting out, I'm starting to get dizzy...!!"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/xmas2025_templepath_snow_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Wiping off and getting dressed before leaving the bathhouse,<br>they find Sanat Kumara standing, looking awkwardly."
+    },
+    {
+      "type": "narrator",
+      "text": "The area feels completely like the aftermath of a festival.<br>Not a soul in sight, leaving a faint darkness to spread."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Earlier... I'm sorry for showing you such a pathetic side.<br>It seems that I... still have more training as a Mahatma to do."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Your 'fleeing from the enemy' character's quite cute as well.",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Guh...! You just had to always do such a thing...!<br>Yet... I am in no position to say anything...!"
+            }
+          ]
+        },
+        {
+          "text": "No, I got a bit carried away too."
+        },
+        {
+          "text": "I'd accompany you for any kind of 'night training'...",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Guh...! You just had to always do such a thing...!<br>Yet... I am in no position to say anything...!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "As an apology... I'll escort you back to the Kiou dorms.<br>The Police Academy seems strict about curfews."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "My conscience would ache if you were scolded for playing with me.<br>Here, hold on tight."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Get on his back)"
+        },
+        {
+          "text": "(Get held in his arms)"
+        },
+        {
+          "text": "(Get carried like a princess)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The sound of wings beating fills the air, as weight presses down on [Player]'s body.<br>It wasn't the feeling that gravity has vanished, but the force of flight that defies it."
+    },
+    {
+      "type": "narrator",
+      "text": "A few seconds of intense upward acceleration follow,<br>before coming to a sudden, smooth halt."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/sky_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "Opening their eyes, they find themselves high above.<br>Carried by Sanat Kumara's wings, they are at a height unattainable in daily life."
+    },
+    {
+      "type": "narrator",
+      "text": "Looking down, mountains and clusters of lights are visible.<br>And, the night sky stretches out, much closer to them than usual."
+    },
+    {
+      "type": "narrator",
+      "text": "Ethereal wings, looking as if they're sprinkled<br>with starlight, spread out and flapped gently."
+    },
+    {
+      "type": "choice",
+      "note": "????? (2)",
+      "options": [
+        {
+          "text": "(Be excited by the height)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Huh...<br>You have qualities befitting a junior.<br>Well then, let's play around a bit."
+            },
+            {
+              "type": "narrator",
+              "text": "The wings flap, and Sanat Kumara leaps lightly.<br>He then flies along the outline of the mountains."
+            },
+            {
+              "type": "narrator",
+              "text": "Sanat Kumara soars, swimming over the mountain ridges, passing them by at high speed."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Invigorating, isn't it, [Player]!?<br>Ah, I have also longed to reach this state with someone."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "I was alone in these heights of heaven, so just having you here makes this night so much more vivid!"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Once you're satisfied, let's take a short break.<br>No matter how fearless you are, flying would still be a burden."
+            }
+          ]
+        },
+        {
+          "text": "(Hold on so as not to fall)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Fufu...<br>No, sorry, I didn't mean to mock you.<br>I was just happy to know that you also have things you're afraid of, you see."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "My body won't be hurt by someone with your level of strength.<br>Don't be shy, just hold on tight."
+            },
+            {
+              "type": "narrator",
+              "text": "The wings flap slowly.<br>At a calm pace like walking, the two cross the night sky."
+            },
+            {
+              "type": "narrator",
+              "text": "A time so calm that the winter cold and chilly wind feel like gentle things, if only for just a moment."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "We'll descend once we're at a suitable place.<br>One who is unaccustomed cannot adapt to the height of the sky so easily."
+            }
+          ]
+        },
+        {
+          "text": "(Secretly touch his body)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Uoohhhhhhh!?<br>Hey!! At any time other than this...!?"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "You fool!!<br>Flying is different from being on the ground!!<br>What do you intend to do if we lose our balance!?<br>And it's not that we will!?"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "Gaaahhhh!!<br>There's a limit to how free you can be!!<br>Don't rub my chest! Don't stroke my belly! Don't lick my neck—!!"
+            },
+            {
+              "type": "narrator",
+              "text": "Swaying here and there with unsteady flapping, the two zigzag through the sky."
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "'Impulse' is also a part of youth...!<br>But you, pick your timing better!!"
+            },
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "No, there isn't supposed to be a moment for this!?<br>We are still in the position of students!!<br>...Alright, we're descending now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/smallmountain_night.png"
+    },
+    {
+      "type": "narrator",
+      "text": "A corner of the mountain that has become part of the Otherworld.<br>Tucking his wings away, he lands at a point like a slightly open plateau."
+    },
+    {
+      "type": "narrator",
+      "text": "Sanat Kumara kneels down with<br>concern and strokes [Player]'s ear."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Phew... I got a bit too carried away.<br>Are you nauseous, or hurt anywhere?"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I've heard the deep insides of the ear can hurt due to air pressure.<br>That's not happening, right? ...Then all is well."
+    },
+    {
+      "type": "narrator",
+      "text": "In a complete turnaround from the time at<br>the hot springs, their gazes meet directly."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "You're a strange one, and yet your presence is comforting.<br>You reached into my inner self without hesitation,<br>and yet your touch felt incredibly gentle."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Perhaps that's why I'm feeling very strange right now.<br>I wanted to reach out to your heart... and you to mine."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...Hey, [Player]—<br>What did you gain from this festival?<br>Did you achieve what people call 'growth'?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "...Maybe, a little."
+        },
+        {
+          "text": "I'm not really sure."
+        },
+        {
+          "text": "What about you?"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "What you have gained and how you have grown.<br>That's something you can only know by looking back after your youth has ended."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Even if you did know, it would be difficult to put into precise words.<br>I... also cannot yet put into precise words what I gained from this festival."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Only once you leave here and look back from the outside,<br>only then... can you truly see its outline."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "And someday, you gain the ability to 'return'.<br>When you'd be able to 'choose where to be'."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Are my feelings reaching you?<br>...Still, I don't feel like I've gotten them to you just yet."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...I want to understand you more.<br>Far deeper than exchanging words, or touching each other..."
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/darkweb.png"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "6.5 million years ago, when I descended to 'that land'...<br>I haven't taken a single step forward since then."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Eternal youth. Life forever in bloom.<br>It's true nature is stagnation... 'rather than freedom'."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "In the end, I am 'imprisoned by agelessness'.<br>Do know that to surpass me, is to find an answer beyond that."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I am a wall that watches over humanity, to eventually be surpassed.<br>And those who have finished their rite of passage surpass me and move forward."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "And so, I— continue to 'stagnate' there.<br>A wall meant to be climbed is destined to stand alone,<br>once everyone has reached the other side."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I have never once cursed that solitude, though I am proud of it.<br>For I am a 'Spiritual Leader', and I have a duty and a perspective to uphold."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...Ah, but still.<br>At some point along the way, I had a wish for my own—"
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/pink_space.png"
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "—So this is the power to 'gain connection with others', I suppose.<br>It irritates me to admit that 'that man' was right, but here we are."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "General Manager, your heart's flowing straight into me...!"
+        },
+        {
+          "text": "It's sparkling, warm, and beautiful."
+        },
+        {
+          "text": "(Be mesmerized by Sanat Kumara's body)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Sanat Kumara",
+              "avatar": "../char/housamo/sanat_kumara.png",
+              "text": "I didn't think you can even think of that right now.<br>You'll definitely become someone formidable..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Our 'lives' are now blending to an infinite degree.<br>Secrets, deceptions, they have no power here."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...Therefore, my mission, my wish, and my pride.<br>You must have been able to feel them all."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "The same goes for the Umamichi rascals, and for you.<br>My feelings that I cannot put into words— You should have felt them."
+    },
+    {
+      "type": "narrator",
+      "text": "Sanat Kumara grasped [Player]'s hand<br>with his ethereal hand."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "To gain a connection means that<br>a future of rupture will someday appear."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Still, I want to connect with you more deeply than I do now.<br>I want to descend from the heights of heaven and walk the earth with you."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "At this festival... For my own sake and no one else's,<br>I was able to wish for that."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "What about you? Did you gain anything from this festival?<br>Can you share what you have gained— with me?"
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "(Close your eyes and wait for a kiss)"
+        },
+        {
+          "text": "(Steal Sanat Kumara's lips)"
+        },
+        {
+          "text": "(Overlap your 'lives' even more deeply)"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "...! Ah... No, I was just surprised.<br>I never considered that I'd feel this way."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "You've always been so honest, someone so pleasant to be around.<br>From now onwards, I can watch you from even closer."
+    },
+    {
+      "type": "narrator",
+      "text": "Wings like the night sky spread,<br>and [Player] is enclosed within them."
+    },
+    {
+      "type": "narrator",
+      "text": "Within the sweet cage of feathers,<br>Sanat Kumara's abundant chest envelopes [Player]."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "Having received gifts from both Santa and you...<br>I am a very lucky person."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "And now, though I'm not Santa,<br>I have a present that I wish to give you."
+    },
+    {
+      "type": "character",
+      "name": "Sanat Kumara",
+      "avatar": "../char/housamo/sanat_kumara.png",
+      "text": "I, who was supposed to show the way, was shown the way by you.<br>That is what I wanted to tell you."
+    },
+    {
+      "type": "narrator",
+      "text": "Overlapped hearts. A mental landscape where no one else could reach.<br>There, the two overlap their 'lives', melting their breaths into one another."
+    },
+    {
+      "type": "narrator",
+      "text": "Just a little longer until 'curfew' comes.<br>So that they do not forget this warmth— They step forward, into the beyond."
+    }
+  ]

@@ -1,0 +1,189 @@
+[
+  {
+    "type": "bg",
+    "bg": "../bg/tetsuyaroom_day.png"
+  },
+    {
+      "type": "choice",
+      "note": "here's a redirect",
+      "options": [
+        {
+          "text": "<a href=\"reader.html?chapter=jinn_a\", style=\"color:var(--background-light);\">(Make a third wish)"
+        },
+        {
+          "text": "<a href=\"reader.html?chapter=jinn_c\", style=\"color:var(--background-light);\">(Ask Jinn for his wish)"
+        }
+      ]
+    },
+    {
+      "type": "narrator",
+      "text": "The final 'wish' released from [Player]'s lips<br>was full of the resonance Jinn had been seeking."
+    },
+    {
+      "type": "narrator",
+      "text": "In a home somewhere, sometime.<br>He is kneeling before a master who leads countless 'spirits'."
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "'This time', the wish is hereby established.<br>If you require anything else, please command this lamp genie..."
+    },
+    {
+      "type": "choice",
+      "options": [
+        {
+          "text": "Yes. Your work this time was also magnificent."
+        },
+        {
+          "text": "Thank you, you have been a great help."
+        },
+        {
+          "text": "I wonder what I should give you as a reward~"
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "Fufu, ever since 'my' days of being a teacher...<br>You have grown so much, my Master."
+    },
+    {
+      "type": "narrator",
+      "text": "Jinn bows deeply, as befits a genie serving his master.<br>[Player]'s foot is extended before him."
+    },
+    {
+      "type": "narrator",
+      "text": "Compared to his own as a genie, his master's legs look delicate.<br>He feels them stroking through his beard."
+    },
+    {
+      "type": "narrator",
+      "text": "Unable to bear the sweetness, Jinn remains kneeling,<br>supporting the feet with both hands as he brings his lips close—"
+    },
+    {
+      "type": "character",
+      "name": "Jinn",
+      "avatar": "../char/housamo/jinn.png",
+      "text": "(Uwooooah!? What the hell am I fantasizing about!?<br>They're still a student, so wait until they're older...!?)"
+    },
+    {
+      "type": "choice",
+      "note": "I really didn't want to translate the bit above...",
+      "options": [
+        {
+          "text": "(Cup Jinn's cheeks in your hands)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Ugh, n-no, [Player], this...<br>The roles are reversed here—!"
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "I mean, it's not like one is above the other, but...<br>We... still have to be teacher and student..."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "(Dammit, I can't just pull away...!<br>I've been searching for this the whole time.)"
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "(A master for my power, a master I might one day kneel before.<br>So this is what it feels like... to have a wish granted.)"
+            }
+          ]
+        },
+        {
+          "text": "(Get kissed by Jinn)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "...Hey. What's with that unsatisfactory look on your face?<br>Be satisfied with that for now, you're still a student!"
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "I'm the teacher, and you're the student.<br>No matter what academy you go to, I'm not giving that up until you graduate!"
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "So... until you graduate, I'll be your teacher.<br>And even after that, you'll always be my student."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "But if you want to jump over that wall, then wait for that time.<br>And then, show me you've become a master worthy of handling me."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "I'm looking forward to it, you hear?<br>My future... Master."
+            }
+          ]
+        },
+        {
+          "text": "(Push Jinn down)",
+          "dialogue_after_selection": [
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "Ugh, n-no, [Player], this...<br>The roles are reversed here—!"
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "I mean, it's not like one is above the other, but...<br>We... still have to be teacher and student..."
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "(Dammit, I can't just pull away...!<br>I've been searching for this the whole time.)"
+            },
+            {
+              "type": "character",
+              "name": "Jinn",
+              "avatar": "../char/housamo/jinn.png",
+              "text": "(A master for my power, a master I might one day kneel before.<br>So this is what it feels like... to have a wish granted.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bg",
+      "bg": "../bg/sky_night2.png"
+    },
+    {
+      "type": "narrator",
+      "text": "The festival ends, and the clamor fades away.<br>The white snow quietly deepens the night as it mixes with the darkness."
+    },
+    {
+      "type": "narrator",
+      "text": "But the fire lit in that room shows no sign of fading.<br>Like a sauna, a quiet heat begins to fill the space."
+    },
+    {
+      "type": "narrator",
+      "text": "Perhaps, that hot wind racing across the desert will one day find its master.<br>Or perhaps, it will head toward a future where it becomes an Evil God."
+    },
+    {
+      "type": "narrator",
+      "text": "The crossroads are yet still unclear. But, all that is known,<br>is that on this cold night, that room is warmer than anywhere else—"
+    }
+  ]
